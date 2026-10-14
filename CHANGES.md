@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-14T09:34:26Z
+
+- Updated 53 formulae: `agent-browser` 0.39.0 → 0.39.1, `archi-steam-farm` 6.3.10.4 → 6.3.10.5, `aws-iam-authenticator` 0.7.20 → 0.7.21, `awscli` 2.37.13 → 2.38.0, `bear` 4.2.2 → 4.2.3, `ccusage` 20.0.30 → 20.0.31, `cdk8s` 2.207.66 → 2.207.67, `chainloop-cli` 1.122.0 → 1.122.2, `cloudfoundry-cli` 8.19.0 → 8.19.1, `cloudlist` 1.4.0 → 1.5.0, `code-cli` 1.141.0 → 1.141.1, `containerd` 2.4.1 → 2.4.2, `cpp-httplib` 0.60.1 → 0.61.0, `depot` 2.102.19 → 2.102.21, `evnx` 0.10.1 → 0.10.2, `ffms2` 5.0_5 → 5.0_6, `idnits` 3.1.0 → 3.2.0, `jackett` 0.24.2830 → 0.24.2850, `jcode` 0.95.0 → 0.96.0, `keploy` 3.6.122 → 3.6.123, `letta-code` 0.34.12 → 0.34.13, `lfk` 0.19.3 → 0.19.4, `livekit` 1.13.9 → 1.13.10, `mago` 1.56.3 → 1.57.0, `meta-package-manager` 8.1.1 → 8.1.2 …
+- Updated 53 casks: `amiberry` 8.4.0 → 8.4.1, `amp-app` 1.0,730 → 1.0,740, `antigravity-cli` 1.3.4,5524158944247808 → 1.3.5,6164039479459840, `ausweisapp` 2.6.0 → 2.6.1, `bettertouchtool@alpha` 6.926,2026101302 → 6.930,2026101401, `blitz-gg` 3.0.7 → 3.0.9, `brave-origin@nightly` 1.99.33.0 → 1.99.40.0, `claude-code@latest` 2.1.296 → 2.1.299, `copilot-cli@prerelease` 1.0.98-1 → 1.0.98-2, `copilot-language-server` 1.553.0 → 1.554.0, `crest` 6.5.1 → 6.5.2, `cursor-cli` 2026.10.12-d47ca18 → 2026.10.14-0f9edde, `dbx` 0.6.42 → 0.6.43, `discord@canary` 0.0.1376 → 0.0.1377, `doubao` 2.31.4 → 2.32.4, `factory` 0.198.0 → 0.198.1, `filo` 2.4.0 → 2.4.1, `ghostex` 10.22.0 → 10.23.0, `google-gemini` 1.128.7.1072 → 1.128.14.1166, `grayjay` 19 → 20, `iconset` 2.5.0 → 2.5.2, `juxtacode` 1.4.1 → 1.5, `librewolf` 157.0.1,1 → 158.0,1, `luxury-yacht` 2.6.0 → 2.7.0, `mac-sai` 1.24.1 → 1.25.3 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-14T03:14:44Z
 
 - Updated 4 formulae: `adios2` 2.12.1_1 → 2.12.1_2, `dskditto` 0.7.0 → 0.7.1, `mpi4py` 4.1.2 → 4.1.2_1, `nanobind` 3.1.0 → 3.1.0_1

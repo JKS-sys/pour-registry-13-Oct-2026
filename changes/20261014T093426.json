@@ -1,0 +1,545 @@
+{
+ "synced_at": "2026-10-14T09:34:26Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "8.4.0",
+    "name": "amiberry",
+    "to": "8.4.1"
+   },
+   {
+    "from": "1.0,730",
+    "name": "amp-app",
+    "to": "1.0,740"
+   },
+   {
+    "from": "1.3.4,5524158944247808",
+    "name": "antigravity-cli",
+    "to": "1.3.5,6164039479459840"
+   },
+   {
+    "from": "2.6.0",
+    "name": "ausweisapp",
+    "to": "2.6.1"
+   },
+   {
+    "from": "6.926,2026101302",
+    "name": "bettertouchtool@alpha",
+    "to": "6.930,2026101401"
+   },
+   {
+    "from": "3.0.7",
+    "name": "blitz-gg",
+    "to": "3.0.9"
+   },
+   {
+    "from": "1.99.33.0",
+    "name": "brave-origin@nightly",
+    "to": "1.99.40.0"
+   },
+   {
+    "from": "2.1.296",
+    "name": "claude-code@latest",
+    "to": "2.1.299"
+   },
+   {
+    "from": "1.0.98-1",
+    "name": "copilot-cli@prerelease",
+    "to": "1.0.98-2"
+   },
+   {
+    "from": "1.553.0",
+    "name": "copilot-language-server",
+    "to": "1.554.0"
+   },
+   {
+    "from": "6.5.1",
+    "name": "crest",
+    "to": "6.5.2"
+   },
+   {
+    "from": "2026.10.12-d47ca18",
+    "name": "cursor-cli",
+    "to": "2026.10.14-0f9edde"
+   },
+   {
+    "from": "0.6.42",
+    "name": "dbx",
+    "to": "0.6.43"
+   },
+   {
+    "from": "0.0.1376",
+    "name": "discord@canary",
+    "to": "0.0.1377"
+   },
+   {
+    "from": "2.31.4",
+    "name": "doubao",
+    "to": "2.32.4"
+   },
+   {
+    "from": "0.198.0",
+    "name": "factory",
+    "to": "0.198.1"
+   },
+   {
+    "from": "2.4.0",
+    "name": "filo",
+    "to": "2.4.1"
+   },
+   {
+    "from": "10.22.0",
+    "name": "ghostex",
+    "to": "10.23.0"
+   },
+   {
+    "from": "1.128.7.1072",
+    "name": "google-gemini",
+    "to": "1.128.14.1166"
+   },
+   {
+    "from": "19",
+    "name": "grayjay",
+    "to": "20"
+   },
+   {
+    "from": "2.5.0",
+    "name": "iconset",
+    "to": "2.5.2"
+   },
+   {
+    "from": "1.4.1",
+    "name": "juxtacode",
+    "to": "1.5"
+   },
+   {
+    "from": "157.0.1,1",
+    "name": "librewolf",
+    "to": "158.0,1"
+   },
+   {
+    "from": "2.6.0",
+    "name": "luxury-yacht",
+    "to": "2.7.0"
+   },
+   {
+    "from": "1.24.1",
+    "name": "mac-sai",
+    "to": "1.25.3"
+   },
+   {
+    "from": "0.8.9",
+    "name": "macparakeet",
+    "to": "0.8.10"
+   },
+   {
+    "from": "6.0.2",
+    "name": "mubu",
+    "to": "6.1.0"
+   },
+   {
+    "from": "0.23.19",
+    "name": "notion-cli",
+    "to": "0.23.20"
+   },
+   {
+    "from": "0.1.1",
+    "name": "nvidia-pair",
+    "to": "1.0.0"
+   },
+   {
+    "from": "1.10.1,vEVLA004QVnN07XfC2A52WMWwz22,8",
+    "name": "nx-studio",
+    "to": "1.11.0,apyHf00Vevg307PGU4m68PYjKb11,8"
+   },
+   {
+    "from": "0.40.3",
+    "name": "ollama-app",
+    "to": "0.40.4"
+   },
+   {
+    "from": "0.40.3",
+    "name": "ollama-binary",
+    "to": "0.40.4"
+   },
+   {
+    "from": "5.1.0",
+    "name": "onyx",
+    "to": "5.1.1"
+   },
+   {
+    "from": "138.0.6038.0",
+    "name": "opera@developer",
+    "to": "139.0.6051.0"
+   },
+   {
+    "from": "3.6.0",
+    "name": "piclist",
+    "to": "3.6.1"
+   },
+   {
+    "from": "12.32.1",
+    "name": "postman",
+    "to": "12.32.2"
+   },
+   {
+    "from": "1.73.0",
+    "name": "postman-cli",
+    "to": "1.74.0"
+   },
+   {
+    "from": "3.1.0",
+    "name": "rambox",
+    "to": "3.1.1"
+   },
+   {
+    "from": "4.0.0-alpha,20260729100310",
+    "name": "recaf",
+    "to": "4.0.0-alpha,20261014042048"
+   },
+   {
+    "from": "234.0.0-beta001",
+    "name": "roam",
+    "to": "235.0.0-beta001"
+   },
+   {
+    "from": "3.4.1,2601",
+    "name": "sandisk",
+    "to": "3.4.2,2717"
+   },
+   {
+    "from": "9.0.21",
+    "name": "seafile-client",
+    "to": "9.0.22"
+   },
+   {
+    "from": "3.8.6",
+    "name": "siyuan",
+    "to": "3.8.7"
+   },
+   {
+    "from": "4.4.0,563",
+    "name": "stash",
+    "to": "4.4.0,565"
+   },
+   {
+    "from": "5.2.0",
+    "name": "subtitle-edit",
+    "to": "5.3.0"
+   },
+   {
+    "from": "0.0.46-nightly.20261013.3080",
+    "name": "t3-code@nightly",
+    "to": "0.0.46-nightly.20261014.3093"
+   },
+   {
+    "from": "6.14.1",
+    "name": "tagspaces",
+    "to": "6.14.3"
+   },
+   {
+    "from": "2026.11",
+    "name": "tyme",
+    "to": "2026.12"
+   },
+   {
+    "from": "4.7.1",
+    "name": "vrew",
+    "to": "4.7.2"
+   },
+   {
+    "from": "3.9.1",
+    "name": "wealthfolio",
+    "to": "3.10.0"
+   },
+   {
+    "from": "1.6.1144",
+    "name": "wispr-flow",
+    "to": "1.6.1147"
+   },
+   {
+    "from": "5.7.7.40774747-2e8619da",
+    "name": "workbuddy-cn",
+    "to": "5.8.2.41111488-b8f6c953"
+   },
+   {
+    "from": "1.24t,20261011110537",
+    "name": "zen@twilight",
+    "to": "1.24t,20261013110448"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.39.0",
+    "name": "agent-browser",
+    "to": "0.39.1"
+   },
+   {
+    "from": "6.3.10.4",
+    "name": "archi-steam-farm",
+    "to": "6.3.10.5"
+   },
+   {
+    "from": "0.7.20",
+    "name": "aws-iam-authenticator",
+    "to": "0.7.21"
+   },
+   {
+    "from": "2.37.13",
+    "name": "awscli",
+    "to": "2.38.0"
+   },
+   {
+    "from": "4.2.2",
+    "name": "bear",
+    "to": "4.2.3"
+   },
+   {
+    "from": "20.0.30",
+    "name": "ccusage",
+    "to": "20.0.31"
+   },
+   {
+    "from": "2.207.66",
+    "name": "cdk8s",
+    "to": "2.207.67"
+   },
+   {
+    "from": "1.122.0",
+    "name": "chainloop-cli",
+    "to": "1.122.2"
+   },
+   {
+    "from": "8.19.0",
+    "name": "cloudfoundry-cli",
+    "to": "8.19.1"
+   },
+   {
+    "from": "1.4.0",
+    "name": "cloudlist",
+    "to": "1.5.0"
+   },
+   {
+    "from": "1.141.0",
+    "name": "code-cli",
+    "to": "1.141.1"
+   },
+   {
+    "from": "2.4.1",
+    "name": "containerd",
+    "to": "2.4.2"
+   },
+   {
+    "from": "0.60.1",
+    "name": "cpp-httplib",
+    "to": "0.61.0"
+   },
+   {
+    "from": "2.102.19",
+    "name": "depot",
+    "to": "2.102.21"
+   },
+   {
+    "from": "0.10.1",
+    "name": "evnx",
+    "to": "0.10.2"
+   },
+   {
+    "from": "5.0_5",
+    "name": "ffms2",
+    "to": "5.0_6"
+   },
+   {
+    "from": "3.1.0",
+    "name": "idnits",
+    "to": "3.2.0"
+   },
+   {
+    "from": "0.24.2830",
+    "name": "jackett",
+    "to": "0.24.2850"
+   },
+   {
+    "from": "0.95.0",
+    "name": "jcode",
+    "to": "0.96.0"
+   },
+   {
+    "from": "3.6.122",
+    "name": "keploy",
+    "to": "3.6.123"
+   },
+   {
+    "from": "0.34.12",
+    "name": "letta-code",
+    "to": "0.34.13"
+   },
+   {
+    "from": "0.19.3",
+    "name": "lfk",
+    "to": "0.19.4"
+   },
+   {
+    "from": "1.13.9",
+    "name": "livekit",
+    "to": "1.13.10"
+   },
+   {
+    "from": "1.56.3",
+    "name": "mago",
+    "to": "1.57.0"
+   },
+   {
+    "from": "8.1.1",
+    "name": "meta-package-manager",
+    "to": "8.1.2"
+   },
+   {
+    "from": "2.6.14_4",
+    "name": "oath-toolkit",
+    "to": "2.6.15"
+   },
+   {
+    "from": "3.94.2",
+    "name": "oci-cli",
+    "to": "3.95.0"
+   },
+   {
+    "from": "2026.09.23",
+    "name": "openrtsp",
+    "to": "2026.10.13"
+   },
+   {
+    "from": "0.1.3",
+    "name": "openshell",
+    "to": "0.1.4"
+   },
+   {
+    "from": "1.26.0_1",
+    "name": "pgbouncer",
+    "to": "1.26.1"
+   },
+   {
+    "from": "0.6.11",
+    "name": "pivy",
+    "to": "0.6.11_1"
+   },
+   {
+    "from": "0.28.1",
+    "name": "postgres-language-server",
+    "to": "0.28.2"
+   },
+   {
+    "from": "2.4.1",
+    "name": "protoc-gen-grpc-swift",
+    "to": "2.5.0"
+   },
+   {
+    "from": "6.12.0",
+    "name": "pyside",
+    "to": "6.12.0_1"
+   },
+   {
+    "from": "5.67.1",
+    "name": "railway",
+    "to": "5.68.0"
+   },
+   {
+    "from": "2.62.1",
+    "name": "redocly-cli",
+    "to": "2.62.2"
+   },
+   {
+    "from": "3.18.0",
+    "name": "reorder-python-imports",
+    "to": "3.19.0"
+   },
+   {
+    "from": "3.2.0",
+    "name": "rootlesskit",
+    "to": "3.3.0"
+   },
+   {
+    "from": "1.9.13",
+    "name": "skip",
+    "to": "1.9.16"
+   },
+   {
+    "from": "5.22.0",
+    "name": "symfony-cli",
+    "to": "5.22.1"
+   },
+   {
+    "from": "3.13.5",
+    "name": "trealla-prolog",
+    "to": "3.13.10"
+   },
+   {
+    "from": "0.13.0",
+    "name": "uv",
+    "to": "0.13.1"
+   },
+   {
+    "from": "81",
+    "name": "vapoursynth",
+    "to": "81_1"
+   },
+   {
+    "from": "22",
+    "name": "vapoursynth-bestsource",
+    "to": "22_1"
+   },
+   {
+    "from": "11.0",
+    "name": "vapoursynth-bm3d",
+    "to": "11.0_1"
+   },
+   {
+    "from": "8_1",
+    "name": "vapoursynth-descale",
+    "to": "8_2"
+   },
+   {
+    "from": "29",
+    "name": "vapoursynth-mvtools",
+    "to": "29_1"
+   },
+   {
+    "from": "3_1",
+    "name": "vapoursynth-ocr",
+    "to": "3_2"
+   },
+   {
+    "from": "7",
+    "name": "vapoursynth-subtext",
+    "to": "7_1"
+   },
+   {
+    "from": "22.1.0",
+    "name": "vapoursynth-vszip",
+    "to": "22.1.0_1"
+   },
+   {
+    "from": "0.12.1",
+    "name": "vsview",
+    "to": "0.12.1_1"
+   },
+   {
+    "from": "0.176.0",
+    "name": "vtcode",
+    "to": "0.177.0"
+   },
+   {
+    "from": "0.1.275",
+    "name": "workmux",
+    "to": "0.1.276"
+   }
+  ]
+ }
+}
