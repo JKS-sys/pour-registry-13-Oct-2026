@@ -1,0 +1,50 @@
+{
+ "synced_at": "2026-10-14T03:14:44Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2.3.1",
+    "name": "openchamber",
+    "to": "2.3.2"
+   },
+   {
+    "from": "0.12.12",
+    "name": "readest",
+    "to": "0.12.16"
+   },
+   {
+    "from": "1788292693",
+    "name": "steamcmd",
+    "to": "1791918946"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2.12.1_1",
+    "name": "adios2",
+    "to": "2.12.1_2"
+   },
+   {
+    "from": "0.7.0",
+    "name": "dskditto",
+    "to": "0.7.1"
+   },
+   {
+    "from": "4.1.2",
+    "name": "mpi4py",
+    "to": "4.1.2_1"
+   },
+   {
+    "from": "3.1.0",
+    "name": "nanobind",
+    "to": "3.1.0_1"
+   }
+  ]
+ }
+}

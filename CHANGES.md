@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-14T03:14:44Z
+
+- Updated 4 formulae: `adios2` 2.12.1_1 → 2.12.1_2, `dskditto` 0.7.0 → 0.7.1, `mpi4py` 4.1.2 → 4.1.2_1, `nanobind` 3.1.0 → 3.1.0_1
+- Updated 3 casks: `openchamber` 2.3.1 → 2.3.2, `readest` 0.12.12 → 0.12.16, `steamcmd` 1788292693 → 1791918946
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-13T15:37:12Z
 
 - Updated 8 casks: `thunderbird@daily` 160.0a1,2026-10-12-10-06-49 → 160.0a1,2026-10-13-10-39-53, `typeless` 2.8.1 → 2.8.2, `vallum` 6.0 → 6.0.1, `visual-studio-code@insiders` 1.142.0-insider,1791853664153,e9eaf94e8bb01badde47d2518e16d3e1cdab1dd9 → 1.142.0-insider,1791879736120,d5dfbe9aa2c84cc3cbc3d4926a5155983aceeef1, `wasabi-wallet` 2.8.3 → 2.8.4, `waterfox` 6.7.5 → 6.7.6, `whatcable` 1.4.0 → 1.5.0, `workflowy` 4.3.2610082012 → 4.3.2610131105
