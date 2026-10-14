@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-14T17:17:56Z
+
+- **Registered 1 formulae**: `portop`
+- Updated 67 formulae: `amy` 1.18.0 → 1.19.0, `arcane-cli` 2.15.1 → 2.16.0, `archi-steam-farm` 6.3.10.5 → 6.3.10.6, `aws-vault` 7.16.2 → 7.16.3, `bubblewrap` 0.13.0 → 0.13.1, `ccusage` 20.0.31 → 20.0.32, `cloudflare-wrangler` 4.149.0 → 4.150.0, `coder` 2.36.7 → 2.37.4, `context7-mcp` 4.3.0 → 4.4.0, `cryptominisat` 5.17.0 → 5.17.0_1, `ctx7` 0.6.0 → 0.6.1, `cubejs-cli` 1.8.4 → 1.8.5, `doctl` 1.185.0 → 1.186.0, `eccodes` 2.49.0 → 2.50.0, `erlang-language-platform` 2026-10-05 → 2026-10-14, `falcosecurity-libs` 0.26.0 → 0.26.1, `fastfetch` 2.69.0 → 2.70.0, `flux` 0.200.0 → 0.201.0, `fontforge` 20251009_1 → 20251009_2, `freetype` 2.14.3 → 2.15.0, `frps` 0.71.0 → 0.71.1, `gitea-runner` 5.0.0 → 5.1.0, `gnupg` 2.5.24 → 2.5.24_1, `google-benchmark` 1.9.5 → 1.10.0, `graphql-inspector` 7.0.0 → 7.0.1 …
+- **Registered 1 casks**: `cyd`
+- Updated 86 casks: `adlock` 2.1.9.8 → 2.2.0.3, `adobe-acrobat-pro` 26.002.22008 → 26.002.22031, `almighty` 2.13.0 → 2.13.1, `amethyst-nostr` 1.18.0 → 1.19.0, `aptakube` 1.21.2 → 1.21.3, `banking-4` 9.3.5,9777 → 9.3.6,9783, `bettertouchtool` 6.931,2026101403 → 6.934,2026101407, `bettertouchtool@alpha` 6.930,2026101401 → 6.934,2026101407, `brave-origin@beta` 1.98.52.0 → 1.98.56.0, `cables` 0.11.3 → 0.12.0, `cadcraft` 0.6.2 → 0.7.0, `canva` 1.126.0 → 1.126.1, `captains-deck` 1.5.5 → 1.5.5.1, `cc-switch` 4.0.11 → 4.0.12, `craft-agents` 0.15.0 → 0.15.1, `crest` 6.5.2 → 6.5.3, `cuadriver` 0.35.2 → 0.35.4, `datadog-agent` 7.84.2-1 → 7.84.3-1, `deckcraft` 0.6.1 → 0.7.0, `decrediton` 2.1.6 → 2.1.7, `designcraft` 0.7.1 → 0.8.0, `djstudio@next` 5.0.5-beta.0 → 5.0.5-beta.1, `feishu` 8.1.17,697cd1b3 → 8.2.14,e47a0484, `firefox@nightly` 160.0a1,2026-10-13-21-09-59 → 160.0a1,2026-10-14-08-01-35, `fluxer` 2026.1013.200953 → 2026.1014.143444 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-14T11:11:07Z
 
 - Updated 10 formulae: `jdtls` 1.61.0 → 1.62.0, `mac` 13.27 → 13.28, `ollama` 0.40.3 → 0.40.4, `pypy` 8.0.0 → 8.0.1, `pypy3.11` 8.0.0_1 → 8.0.1, `pypy3.12` 8.0.0 → 8.0.1, `renovate` 44.154.0 → 44.155.0, `umple` 1.37.1 → 1.38.0, `volcano-cli` 1.15.3 → 1.16.0, `zot` 0.4.31 → 0.4.32
