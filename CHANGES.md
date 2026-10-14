@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-14T23:17:11Z
+
+- Updated 81 formulae: `ada-url` 4.0.0 → 4.0.0_1, `ansible-lint` 26.10.0 → 26.10.1, `aptos` 9.6.0 → 9.6.0_1, `avfs` 1.3.0 → 1.4.0, `aws-elasticbeanstalk` 3.27.3_2 → 3.27.4, `awscli` 2.38.0 → 2.38.1, `bazel-diff` 50.1.0 → 50.2.0, `buf` 1.73.0 → 1.74.0, `chainloop-cli` 1.122.2 → 1.123.0, `chainsaw` 2.16.5 → 2.17.1, `code-cli` 1.141.1 → 1.142.0, `context7-mcp` 4.4.0 → 4.4.1, `convox` 3.25.10 → 3.25.11, `copier` 9.19.0 → 9.19.1, `curl` 8.22.0_1 → 8.23.0, `dagu` 2.19.2 → 2.20.1, `dbx-cli` 0.4.118 → 0.4.119, `depot` 2.102.21 → 2.102.22, `docker` 29.9.0 → 29.9.1, `docker-completion` 29.9.0 → 29.9.1, `docker-engine` 29.9.0 → 29.9.1, `doctl` 1.186.0 → 2.0.0, `e2b` 2.21.2 → 2.22.0, `enex2notion` 0.3.1_24 → 0.3.1_25, `erlang` 29.1.1_2 → 29.1.2 …
+- Updated 87 casks: `antigravity` 2.23.0,5238607586394112 → 2.23.1,6348059836284928, `asana` 2.9.1 → 2.10.2, `baidunetdisk` 8.8.8 → 8.9.2, `bettertouchtool` 6.934,2026101407 → 6.937,2026101410, `brave-browser` 1.97.56.0 → 1.97.57.0, `brave-browser@nightly` 1.99.33.0 → 1.99.41.0, `brave-origin` 1.97.56.0 → 1.97.57.0, `brave-origin@nightly` 1.99.40.0 → 1.99.41.0, `calyx` 0.47.0 → 0.48.0, `chia` 2.7.4 → 2.7.5, `cirrus` 1.16,2025.06 → 1.17,2026.10, `claude-code` 2.1.287 → 2.1.292, `copilot-cli` 1.0.97 → 1.0.98, `cursor-cli` 2026.10.14-0f9edde → 2026.10.14-941492e, `dbx` 0.6.43 → 0.6.44, `discord@canary` 0.0.1377 → 0.0.1378, `discord@development` 1.0.1024 → 1.0.1025, `effectcraft` 0.9.2 → 0.10.0, `figma@beta` 126.10.3 → 126.11.2, `filmcraft` 0.7.2 → 0.8.0, `firefox@beta` 159.0b1 → 159.0b2, `firefox@developer-edition` 159.0b1 → 159.0b2, `fluxer` 2026.1014.143444 → 2026.1014.161544, `font-devicons` 2.3.0 → 2.4.0, `gitfox` 5.3.0,12489 → 5.3.1,12510 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-14T17:17:56Z
 
 - **Registered 1 formulae**: `portop`
