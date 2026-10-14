@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-14T11:11:07Z
+
+- Updated 10 formulae: `jdtls` 1.61.0 → 1.62.0, `mac` 13.27 → 13.28, `ollama` 0.40.3 → 0.40.4, `pypy` 8.0.0 → 8.0.1, `pypy3.11` 8.0.0_1 → 8.0.1, `pypy3.12` 8.0.0 → 8.0.1, `renovate` 44.154.0 → 44.155.0, `umple` 1.37.1 → 1.38.0, `volcano-cli` 1.15.3 → 1.16.0, `zot` 0.4.31 → 0.4.32
+- Updated 10 casks: `almighty` 2.12.0 → 2.13.0, `bettertouchtool` 6.928,2026101305 → 6.931,2026101403, `chronoid` 1.0.103 → 1.0.104, `codebuddy-cn` 4.12.1.39217423,757a5b2f → 4.12.2.41207131,425ab70e, `diversion` 1.6.510 → 1.6.514, `djstudio@next` 5.0.4-beta.1 → 5.0.5-beta.0, `element@nightly` 2026101301 → 2026101401, `emclient` 11.0.1054 → 11.0.1201, `f-bar` 6.2.0 → 6.3.0, `socialstream` 0.4.18 → 0.4.35
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-14T09:34:26Z
 
 - Updated 53 formulae: `agent-browser` 0.39.0 → 0.39.1, `archi-steam-farm` 6.3.10.4 → 6.3.10.5, `aws-iam-authenticator` 0.7.20 → 0.7.21, `awscli` 2.37.13 → 2.38.0, `bear` 4.2.2 → 4.2.3, `ccusage` 20.0.30 → 20.0.31, `cdk8s` 2.207.66 → 2.207.67, `chainloop-cli` 1.122.0 → 1.122.2, `cloudfoundry-cli` 8.19.0 → 8.19.1, `cloudlist` 1.4.0 → 1.5.0, `code-cli` 1.141.0 → 1.141.1, `containerd` 2.4.1 → 2.4.2, `cpp-httplib` 0.60.1 → 0.61.0, `depot` 2.102.19 → 2.102.21, `evnx` 0.10.1 → 0.10.2, `ffms2` 5.0_5 → 5.0_6, `idnits` 3.1.0 → 3.2.0, `jackett` 0.24.2830 → 0.24.2850, `jcode` 0.95.0 → 0.96.0, `keploy` 3.6.122 → 3.6.123, `letta-code` 0.34.12 → 0.34.13, `lfk` 0.19.3 → 0.19.4, `livekit` 1.13.9 → 1.13.10, `mago` 1.56.3 → 1.57.0, `meta-package-manager` 8.1.1 → 8.1.2 …

@@ -1,0 +1,115 @@
+{
+ "synced_at": "2026-10-14T11:11:07Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2.12.0",
+    "name": "almighty",
+    "to": "2.13.0"
+   },
+   {
+    "from": "6.928,2026101305",
+    "name": "bettertouchtool",
+    "to": "6.931,2026101403"
+   },
+   {
+    "from": "1.0.103",
+    "name": "chronoid",
+    "to": "1.0.104"
+   },
+   {
+    "from": "4.12.1.39217423,757a5b2f",
+    "name": "codebuddy-cn",
+    "to": "4.12.2.41207131,425ab70e"
+   },
+   {
+    "from": "1.6.510",
+    "name": "diversion",
+    "to": "1.6.514"
+   },
+   {
+    "from": "5.0.4-beta.1",
+    "name": "djstudio@next",
+    "to": "5.0.5-beta.0"
+   },
+   {
+    "from": "2026101301",
+    "name": "element@nightly",
+    "to": "2026101401"
+   },
+   {
+    "from": "11.0.1054",
+    "name": "emclient",
+    "to": "11.0.1201"
+   },
+   {
+    "from": "6.2.0",
+    "name": "f-bar",
+    "to": "6.3.0"
+   },
+   {
+    "from": "0.4.18",
+    "name": "socialstream",
+    "to": "0.4.35"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.61.0",
+    "name": "jdtls",
+    "to": "1.62.0"
+   },
+   {
+    "from": "13.27",
+    "name": "mac",
+    "to": "13.28"
+   },
+   {
+    "from": "0.40.3",
+    "name": "ollama",
+    "to": "0.40.4"
+   },
+   {
+    "from": "8.0.0",
+    "name": "pypy",
+    "to": "8.0.1"
+   },
+   {
+    "from": "8.0.0_1",
+    "name": "pypy3.11",
+    "to": "8.0.1"
+   },
+   {
+    "from": "8.0.0",
+    "name": "pypy3.12",
+    "to": "8.0.1"
+   },
+   {
+    "from": "44.154.0",
+    "name": "renovate",
+    "to": "44.155.0"
+   },
+   {
+    "from": "1.37.1",
+    "name": "umple",
+    "to": "1.38.0"
+   },
+   {
+    "from": "1.15.3",
+    "name": "volcano-cli",
+    "to": "1.16.0"
+   },
+   {
+    "from": "0.4.31",
+    "name": "zot",
+    "to": "0.4.32"
+   }
+  ]
+ }
+}
