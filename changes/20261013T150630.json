@@ -1,0 +1,160 @@
+{
+ "synced_at": "2026-10-13T15:06:30Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2.9.2,138",
+    "name": "backdrop",
+    "to": "2.9.3,139"
+   },
+   {
+    "from": "2.0.4",
+    "name": "buildin",
+    "to": "2.1.4"
+   },
+   {
+    "from": "1.71.24",
+    "name": "capacities",
+    "to": "1.71.27"
+   },
+   {
+    "from": "1.12.30",
+    "name": "element",
+    "to": "1.12.31"
+   },
+   {
+    "from": "1.17.1",
+    "name": "eve-online",
+    "to": "1.17.2"
+   },
+   {
+    "from": "157.0.1",
+    "name": "firefox",
+    "to": "158.0"
+   },
+   {
+    "from": "160.0a1,2026-10-12-18-57-52",
+    "name": "firefox@nightly",
+    "to": "160.0a1,2026-10-13-09-42-44"
+   },
+   {
+    "from": "588.0.0",
+    "name": "gcloud-cli",
+    "to": "589.0.0"
+   },
+   {
+    "from": "3.6.7-beta3-809b4ec0",
+    "name": "github@beta",
+    "to": "3.6.8-beta1-2aa70787"
+   },
+   {
+    "from": "0.16.6",
+    "name": "gloomberb",
+    "to": "0.17.0"
+   },
+   {
+    "from": "157.0.8102.0",
+    "name": "google-chrome@canary",
+    "to": "157.0.8103.0"
+   },
+   {
+    "from": "4.5.2",
+    "name": "happ",
+    "to": "4.5.3"
+   },
+   {
+    "from": "1.112.4",
+    "name": "heptabase",
+    "to": "1.112.5"
+   },
+   {
+    "from": "0.5.0",
+    "name": "homebrew-app",
+    "to": "0.6.0"
+   },
+   {
+    "from": "4.0.0.96,100926",
+    "name": "idrive",
+    "to": "4.0.0.97,101326"
+   },
+   {
+    "from": "6.5.9",
+    "name": "imgotv",
+    "to": "6.6.0"
+   },
+   {
+    "from": "26.09.18.182029,df3b690717a1ab9113e6d74b72e04cb24f23e683faf7eada76a7edd966a5004b",
+    "name": "jottacloud",
+    "to": "26.10.08.184488,2cedeb5b238297d47807e40e416855f538adff5a3ccacce624ce14bc46bd464d"
+   },
+   {
+    "from": "3.4.0",
+    "name": "languagetool-desktop",
+    "to": "3.4.1"
+   },
+   {
+    "from": "1.1.7",
+    "name": "mangodisk",
+    "to": "1.1.8"
+   },
+   {
+    "from": "1.21.0,1",
+    "name": "outline-manager",
+    "to": "1.22.0,1"
+   },
+   {
+    "from": "0.1.56,312.1",
+    "name": "pallycompanion",
+    "to": "0.1.57,314.1"
+   },
+   {
+    "from": "13.0.5",
+    "name": "pdfelement",
+    "to": "13.0.6"
+   },
+   {
+    "from": "6.5.1",
+    "name": "protonvpn",
+    "to": "6.5.2"
+   },
+   {
+    "from": "1.0.1765",
+    "name": "server-box",
+    "to": "1.0.1773"
+   },
+   {
+    "from": "12.9.3",
+    "name": "songkong",
+    "to": "12.10"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2026.03.26",
+    "name": "anyzig",
+    "to": "2026.10.13"
+   },
+   {
+    "from": "2.1.1788856981",
+    "name": "luajit",
+    "to": "2.1.1791890110"
+   },
+   {
+    "from": "2.18.1_32",
+    "name": "luvit",
+    "to": "2.18.1_33"
+   },
+   {
+    "from": "44.149.0",
+    "name": "renovate",
+    "to": "44.154.0"
+   }
+  ]
+ }
+}

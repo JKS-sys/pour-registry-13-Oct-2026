@@ -1,0 +1,19 @@
+{
+ "synced_at": "2026-10-13T15:25:42Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": []
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2024.3.1_9",
+    "name": "sickchill",
+    "to": "2026.10.8"
+   }
+  ]
+ }
+}

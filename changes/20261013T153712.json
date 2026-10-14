@@ -1,0 +1,54 @@
+{
+ "synced_at": "2026-10-13T15:37:12Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "160.0a1,2026-10-12-10-06-49",
+    "name": "thunderbird@daily",
+    "to": "160.0a1,2026-10-13-10-39-53"
+   },
+   {
+    "from": "2.8.1",
+    "name": "typeless",
+    "to": "2.8.2"
+   },
+   {
+    "from": "6.0",
+    "name": "vallum",
+    "to": "6.0.1"
+   },
+   {
+    "from": "1.142.0-insider,1791853664153,e9eaf94e8bb01badde47d2518e16d3e1cdab1dd9",
+    "name": "visual-studio-code@insiders",
+    "to": "1.142.0-insider,1791879736120,d5dfbe9aa2c84cc3cbc3d4926a5155983aceeef1"
+   },
+   {
+    "from": "2.8.3",
+    "name": "wasabi-wallet",
+    "to": "2.8.4"
+   },
+   {
+    "from": "6.7.5",
+    "name": "waterfox",
+    "to": "6.7.6"
+   },
+   {
+    "from": "1.4.0",
+    "name": "whatcable",
+    "to": "1.5.0"
+   },
+   {
+    "from": "4.3.2610082012",
+    "name": "workflowy",
+    "to": "4.3.2610131105"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": []
+ }
+}

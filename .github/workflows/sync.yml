@@ -1,0 +1,42 @@
+name: Sync with Homebrew
+
+on:
+  schedule:
+    - cron: "17 */4 * * *"   # every four hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [update.sh, scripts/**, .github/workflows/sync.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Newest pour
+        run: |
+          mkdir -p .cache
+          if curl -fsSL -o .cache/pour https://github.com/JKS-sys/pour-13-Oct-2026/releases/latest/download/pour-linux-x86_64; then
+            chmod +x .cache/pour
+          else
+            echo "no pour release yet — building from source"
+            git clone --depth 1 https://github.com/JKS-sys/pour-13-Oct-2026 .cache/pour-src
+            (cd .cache/pour-src && cargo build --release -p pour) && cp .cache/pour-src/target/release/pour .cache/pour
+          fi
+          echo "POUR_BIN=$PWD/.cache/pour" >> "$GITHUB_ENV"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Sync
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: bash update.sh
