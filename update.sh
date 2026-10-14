@@ -15,7 +15,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 API=https://formulae.brew.sh/api
-BUCKET=${POUR_R2_BUCKET:-pour-registry}
+BUCKET=${POUR_R2_BUCKET:-pour-registry-13-oct-2026}
 PUBLISH=1
 for a in "$@"; do case "$a" in --no-publish) PUBLISH=0;; esac; done
 mkdir -p .cache dist changes
