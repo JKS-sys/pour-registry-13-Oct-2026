@@ -14,11 +14,14 @@ Re-indexed every four hours · additions and removals logged · one 4.7 MB file<
 | | |
 |---|---|
 | Formulae registered | **8,658** |
-| Casks registered | **7,782** |
-| Last sync | `2026-10-14T02:48:14Z` |
+| Casks registered | **7,784** |
+| Last sync | `2026-10-13T15:44:53Z` |
 | Index size | 4.7 MB (gzip) |
-| SHA-256 | `af44417934c41ee7…` |
+| SHA-256 | `cb8d006dccddf10c…` |
 <!-- stats:end -->
+
+
+> ⭐ **If Pour saves you time, star this repository** — stars are how other people find it.
 
 ## What this is
 
@@ -67,12 +70,8 @@ Steps, in order:
 
 `index.json` (metadata), `search.json` (name, kind, description, version, homepage — for the website's search) and `changes.json` (the last diff) sit beside it.
 
-## Data and credit
-
-All package metadata and every bottle come from [Homebrew](https://brew.sh) (BSD-2-Clause). This repository only reshapes the metadata for Pour; it does not build software.
-
 <!-- licence -->
 ## Licence
 
-Copyright © 2026 **Jagadeesh Kumar S**. All rights reserved. The scripts and the index format are source-available under the [Pour licence](https://github.com/JKS-sys/pour-13-Oct-2026/blob/main/LICENSE); Homebrew's data keeps its own licence.
+Copyright © 2026 **Jagadeesh Kumar S**. All rights reserved. The scripts and the index format are source-available under the [Pour licence](https://github.com/JKS-sys/pour-13-Oct-2026/blob/main/LICENSE). Third-party notices live in the main repository's `THIRD-PARTY-NOTICES.txt`.
 <!-- /licence -->
