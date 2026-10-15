@@ -1,0 +1,505 @@
+{
+ "synced_at": "2026-10-15T04:48:42Z",
+ "casks": {
+  "added": [
+   "capso",
+   "font-ioskeley-mono-term-nerd-font",
+   "pulse",
+   "vercel"
+  ],
+  "removed": [
+   "cmdtap",
+   "ealeksandrov-cd-to",
+   "eme",
+   "functionflip",
+   "ghosttile",
+   "gutenprint",
+   "memory-map",
+   "messenger-native",
+   "popmaker",
+   "sparkleshare",
+   "spillo",
+   "time-tracker"
+  ],
+  "updated": [
+   {
+    "from": "1.0,740",
+    "name": "amp-app",
+    "to": "1.0,750"
+   },
+   {
+    "from": "36.2",
+    "name": "atok",
+    "to": "36.3"
+   },
+   {
+    "from": "1.0.0-beta.104",
+    "name": "brilliant",
+    "to": "1.0.0-beta.106"
+   },
+   {
+    "from": "2.1.299",
+    "name": "claude-code@latest",
+    "to": "2.1.300"
+   },
+   {
+    "from": "26.9.18.11-stable",
+    "name": "clickhouse",
+    "to": "26.9.19.9-stable"
+   },
+   {
+    "from": "1.0.98-2",
+    "name": "copilot-cli@prerelease",
+    "to": "1.0.99-0"
+   },
+   {
+    "from": "1.9.76",
+    "name": "deviceshelf",
+    "to": "1.9.77"
+   },
+   {
+    "from": "3000.11.3",
+    "name": "devin-cli",
+    "to": "3000.11.92"
+   },
+   {
+    "from": "3.10.48,fcf7ba39e6150055fad817f8716385b4d320d46d",
+    "name": "devin-desktop",
+    "to": "3.10.67,0b186d6e13a1a48a46430c51fe414dd0747d46f6"
+   },
+   {
+    "from": "0.0.1378",
+    "name": "discord@canary",
+    "to": "0.0.1379"
+   },
+   {
+    "from": "7.2.7",
+    "name": "flutterflow",
+    "to": "7.2.8"
+   },
+   {
+    "from": "2026.3,26589",
+    "name": "fme",
+    "to": "2026.3.1,26656"
+   },
+   {
+    "from": "0.70.2",
+    "name": "grok-bot",
+    "to": "0.71.2"
+   },
+   {
+    "from": "4.1.21,780",
+    "name": "hype",
+    "to": "4.1.22,786"
+   },
+   {
+    "from": "2.3.7",
+    "name": "iloader",
+    "to": "2.3.8"
+   },
+   {
+    "from": "0.379.4",
+    "name": "loom",
+    "to": "0.380.6"
+   },
+   {
+    "from": "0.52.1",
+    "name": "maestri",
+    "to": "0.53.1"
+   },
+   {
+    "from": "5.0.1553,722818D5-0AE7-49F7-9F1A-55CA7CE07E09",
+    "name": "melodics",
+    "to": "5.0.1613,91479C53-6701-4378-8AC7-1F03CD1227E0"
+   },
+   {
+    "from": "157.0.4335.0,043c947f-3ca6-4734-bb24-c138af53a64d",
+    "name": "microsoft-edge@canary",
+    "to": "157.0.4339.0,92a86c29-278f-43d3-a788-493d0b690cfe"
+   },
+   {
+    "from": "157.0.4322.0,7b852f8e-decb-4bfc-9737-d720c531f8fe",
+    "name": "microsoft-edge@dev",
+    "to": "157.0.4334.0,3a6c483c-a7f4-456e-92aa-928ec781f996"
+   },
+   {
+    "from": "7.37.1",
+    "name": "notion",
+    "to": "7.38.1"
+   },
+   {
+    "from": "6.2.0",
+    "name": "novabench",
+    "to": "6.2.1"
+   },
+   {
+    "from": "2.3.2",
+    "name": "openchamber",
+    "to": "2.3.3"
+   },
+   {
+    "from": "4.0.1,17384-983c847c-b4b8cc77",
+    "name": "openshot-video-editor@daily",
+    "to": "4.0.1,17511-983c847c-b4b8cc77"
+   },
+   {
+    "from": "0.5.15,261001iufvgru00",
+    "name": "paper-design",
+    "to": "0.5.16,261015tx3mukqib"
+   },
+   {
+    "from": "1.29.3",
+    "name": "podman-desktop",
+    "to": "1.30.5"
+   },
+   {
+    "from": "21.4,352583705",
+    "name": "propresenter@beta",
+    "to": "22,369098875"
+   },
+   {
+    "from": "0.6.7,140",
+    "name": "protokol",
+    "to": "0.6.8,141"
+   },
+   {
+    "from": "1.28.46",
+    "name": "remnote",
+    "to": "1.28.48"
+   },
+   {
+    "from": "1.5.2",
+    "name": "robbietilton-compositor",
+    "to": "1.5.3"
+   },
+   {
+    "from": "0.742.0.7421053,6b80d5eacfba48e5",
+    "name": "robloxstudio",
+    "to": "0.743.0.7431133,7666a6879aaf4130"
+   },
+   {
+    "from": "2026.09.0,174",
+    "name": "rstudio",
+    "to": "2026.10.0,233"
+   },
+   {
+    "from": "2026.10.0-233",
+    "name": "rstudio@daily",
+    "to": "2026.11.0-daily-40"
+   },
+   {
+    "from": "3.5.0",
+    "name": "snapline",
+    "to": "3.6.0"
+   },
+   {
+    "from": "0.0.46-nightly.20261014.3118",
+    "name": "t3-code@nightly",
+    "to": "0.0.46-nightly.20261014.3132"
+   },
+   {
+    "from": "2.0.1",
+    "name": "thaw",
+    "to": "2.1.0"
+   },
+   {
+    "from": "2.4.2",
+    "name": "updatest",
+    "to": "3.0.0"
+   },
+   {
+    "from": "1.8.333",
+    "name": "vibeproxy",
+    "to": "1.8.334"
+   },
+   {
+    "from": "2026.8.1",
+    "name": "yaak",
+    "to": "2026.9.0"
+   },
+   {
+    "from": "0.20.0",
+    "name": "zed-delta",
+    "to": "0.20.1"
+   },
+   {
+    "from": "1.24t,20261013110448",
+    "name": "zen@twilight",
+    "to": "1.24t,20261014104154"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [
+   "titus"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.7.21",
+    "name": "aws-iam-authenticator",
+    "to": "0.7.22"
+   },
+   {
+    "from": "1.168.0",
+    "name": "aws-sam-cli",
+    "to": "1.169.0"
+   },
+   {
+    "from": "40.04",
+    "name": "bbtools",
+    "to": "40.05"
+   },
+   {
+    "from": "20.0.32",
+    "name": "ccusage",
+    "to": "20.0.33"
+   },
+   {
+    "from": "6.0.3",
+    "name": "checkdmarc",
+    "to": "6.0.4"
+   },
+   {
+    "from": "4.0.5",
+    "name": "cimg",
+    "to": "4.0.6"
+   },
+   {
+    "from": "2.26.0",
+    "name": "cloud-sql-proxy",
+    "to": "2.26.2"
+   },
+   {
+    "from": "5.2.3",
+    "name": "croaring",
+    "to": "5.2.4"
+   },
+   {
+    "from": "1.8.5",
+    "name": "cubejs-cli",
+    "to": "1.8.6"
+   },
+   {
+    "from": "2.102.22",
+    "name": "depot",
+    "to": "2.102.23"
+   },
+   {
+    "from": "0.50.18",
+    "name": "doltlite",
+    "to": "0.51.0"
+   },
+   {
+    "from": "1.4.518",
+    "name": "fabric-ai",
+    "to": "1.4.519"
+   },
+   {
+    "from": "5.156.0",
+    "name": "fern-api",
+    "to": "5.158.0"
+   },
+   {
+    "from": "2.2.1",
+    "name": "garnet",
+    "to": "2.2.2"
+   },
+   {
+    "from": "1.28.2",
+    "name": "getparty",
+    "to": "1.28.3"
+   },
+   {
+    "from": "0.4.0",
+    "name": "ghcitty",
+    "to": "0.5.0"
+   },
+   {
+    "from": "19.4.1",
+    "name": "gitlab-runner",
+    "to": "19.5.0"
+   },
+   {
+    "from": "4.0.5_1",
+    "name": "gmic",
+    "to": "4.0.6"
+   },
+   {
+    "from": "4.3.0",
+    "name": "helm",
+    "to": "4.3.1"
+   },
+   {
+    "from": "11.11.0",
+    "name": "heroku",
+    "to": "11.12.0"
+   },
+   {
+    "from": "1.6.0",
+    "name": "icp-cli",
+    "to": "1.7.0"
+   },
+   {
+    "from": "7.1.2-33",
+    "name": "imagemagick",
+    "to": "7.1.2-34"
+   },
+   {
+    "from": "7.1.2-33",
+    "name": "imagemagick-full",
+    "to": "7.1.2-34"
+   },
+   {
+    "from": "6.9.13-58",
+    "name": "imagemagick@6",
+    "to": "6.9.13-59"
+   },
+   {
+    "from": "3.12.0",
+    "name": "influxdb",
+    "to": "3.12.1"
+   },
+   {
+    "from": "0.98.0",
+    "name": "jcode",
+    "to": "0.98.1"
+   },
+   {
+    "from": "6.3.4",
+    "name": "keydb",
+    "to": "6.3.4_1"
+   },
+   {
+    "from": "6.5.0",
+    "name": "knot-resolver",
+    "to": "6.5.0_1"
+   },
+   {
+    "from": "2.16.0",
+    "name": "komac",
+    "to": "2.17.1"
+   },
+   {
+    "from": "0.37.0",
+    "name": "kubecfg",
+    "to": "0.38.0"
+   },
+   {
+    "from": "0.4.33",
+    "name": "langgraph-cli",
+    "to": "0.4.34"
+   },
+   {
+    "from": "1.29.0",
+    "name": "leaf-markdown-viewer",
+    "to": "1.29.1"
+   },
+   {
+    "from": "0.9.6",
+    "name": "libcap-ng",
+    "to": "0.9.6_1"
+   },
+   {
+    "from": "0.40.0",
+    "name": "mk-configure",
+    "to": "0.40.1"
+   },
+   {
+    "from": "2.6.1",
+    "name": "moon",
+    "to": "2.6.2"
+   },
+   {
+    "from": "8.4.3",
+    "name": "neonctl",
+    "to": "8.4.4"
+   },
+   {
+    "from": "1.31.6",
+    "name": "nginx",
+    "to": "1.31.7"
+   },
+   {
+    "from": "24.21.0_2",
+    "name": "node@24",
+    "to": "24.22.0"
+   },
+   {
+    "from": "6.2.0_4",
+    "name": "passenger",
+    "to": "6.2.0_5"
+   },
+   {
+    "from": "24.0.0",
+    "name": "qsv",
+    "to": "25.0.0"
+   },
+   {
+    "from": "1.1.3",
+    "name": "rammap",
+    "to": "1.2.0"
+   },
+   {
+    "from": "1.32.0",
+    "name": "sandvault",
+    "to": "1.33.0"
+   },
+   {
+    "from": "0.25.11",
+    "name": "skillshare",
+    "to": "0.25.12"
+   },
+   {
+    "from": "5.3.0_1",
+    "name": "slumber",
+    "to": "5.4.0"
+   },
+   {
+    "from": "6.0.0_1",
+    "name": "ssh-mitm",
+    "to": "6.0.1"
+   },
+   {
+    "from": "2.7.1_1",
+    "name": "subliminal",
+    "to": "2.8.0"
+   },
+   {
+    "from": "0.3a-20261014-git-4f5d686",
+    "name": "supermodel",
+    "to": "0.3a-20261014-git-12390db"
+   },
+   {
+    "from": "4.65.4",
+    "name": "tox",
+    "to": "4.65.5"
+   },
+   {
+    "from": "0.0.86",
+    "name": "ty",
+    "to": "0.0.87"
+   },
+   {
+    "from": "2026.07",
+    "name": "u-boot-tools",
+    "to": "2026.10"
+   },
+   {
+    "from": "15.6.75.8",
+    "name": "v8",
+    "to": "15.6.75.16"
+   },
+   {
+    "from": "1.22.0",
+    "name": "varlock",
+    "to": "1.23.0"
+   },
+   {
+    "from": "64.0.1",
+    "name": "vercel",
+    "to": "64.0.2"
+   }
+  ]
+ }
+}
