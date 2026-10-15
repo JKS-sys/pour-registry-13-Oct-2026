@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-15T23:05:44Z
+
+- Updated 39 formulae: `agent-manager` 0.41.0 → 0.42.0, `anycable-go` 1.6.18 → 1.6.19, `aoe` 1.19.0 → 1.20.0, `appwrite` 28.4.0 → 28.5.0, `arcadedb` 26.10.1 → 26.10.2, `aws-c-mqtt` 1.1.1 → 1.1.2, `ccusage` 20.0.33 → 20.0.34, `clarinet` 3.24.1 → 3.25.0, `cliproxyapi` 8.0.25 → 8.0.30, `clojure-lsp` 2026.07.06-14.34.19 → 2026.10.15-11.42.38, `closure-compiler` 20261005 → 20261015, `cloudflared` 2026.10.0 → 2026.10.1, `conduit` 0.20.1 → 0.20.2, `dblab` 0.52.1 → 0.53.0, `dependabot` 1.94.0 → 1.95.0, `dnscontrol` 5.4.0 → 5.5.0, `dtop` 0.10.1 → 0.10.2, `dua-cli` 2.45.1 → 2.46.0, `fabric-ai` 1.4.519 → 1.4.520, `fastapi` 0.143.0 → 0.143.1, `fastlane` 2.241.0 → 2.241.1, `fern-api` 5.158.0 → 5.159.0, `findent` 4.4.1 → 4.4.2, `fonttools` 4.66.1 → 4.67.0, `fvm` 4.3.1 → 4.3.2 …
+- Updated 20 casks: `ghostty@tip` 18224,291fd050b9e9c293c8adb6a140742649b7e42d3a → 18245,a2e440396403385680008e456a741a7776091412, `kaleidoscope` 7.0.1,10509 → 7.0.2,11016, `kiro` 1.3.0 → 1.3.11, `lexicon-dj` 1.11.14 → 1.11.15, `mindroom` 2026.10.290 → 2026.10.300, `nuclino` 1.6.8 → 1.7.0, `ollama-app` 0.40.4 → 0.40.5, `ollama-binary` 0.40.4 → 0.40.5, `paseo` 0.11.2 → 0.11.4, `propresenter@beta` 22,369098875 → 22,369098885, `pulse` 0.1.15 → 0.1.16, `redot` 26.2 → 26.3, `soundsource@test` 6.1.5,3,20261001,1704,6157003 → 6.1.6,1,20261015,1414,6167001, `strawberry` 0.1.71 → 0.1.72, `supacode` 0.11.3 → 0.11.4, `tcp-viewer` 1.21.0,90 → 1.22.0,100, `token-monitor` 0.71.0 → 0.72.0, `vellum` 4.1.6,41600 → 4.1.7,41700, `vitalsource-bookshelf` 11.4.2.4175 → 11.4.3.4204, `zentty` 0.3.7 → 0.4.0
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-15T19:54:45Z
 
 - **Registered 1 formulae**: `tinyframe`
