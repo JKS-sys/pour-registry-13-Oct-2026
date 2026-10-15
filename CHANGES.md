@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-15T19:54:45Z
+
+- **Registered 1 formulae**: `tinyframe`
+- Updated 34 formulae: `ast-grep` 0.50.0 → 0.51.0, `benthos` 4.82.0 → 4.83.0, `bitwarden-cli` 2026.9.1 → 2026.10.0, `circleci` 1.5.0 → 1.6.0, `concord` 2.6.1 → 2.6.2, `dbx-cli` 0.4.119 → 0.4.120, `docker-machine` 0.16.2-gitlab.60 → 0.16.2-gitlab.61, `draw-things-cli` 26.1011.0 → 26.1014.0, `fastly` 16.1.0 → 16.2.0, `flyway` 13.10.0 → 13.10.3, `forgejo` 16.0.6 → 17.0.0, `git-pkgs-brief` 0.14.1 → 0.14.2, `gopls` 0.23.0 → 0.24.0, `helm@3` 3.22.0 → 3.22.1, `immich-cli` 3.3.1 → 3.3.3, `kimi-code` 2.1.1 → 2.2.0, `langgraph-cli` 0.4.34 → 0.4.35, `macmon` 0.9.0 → 0.10.0, `minify` 2.24.20 → 2.24.21, `minijinja-cli` 3.0.0 → 3.0.1, `mise` 2026.10.10 → 2026.10.11, `n8n-mcp` 2.92.1 → 2.93.0, `node` 26.11.1_1 → 26.12.0, `openapi` 1.25.5 → 1.25.6, `openlist` 4.2.6 → 4.2.7 …
+- Updated 92 casks: `agentide` 0.9.10 → 0.9.11, `android-studio-preview@canary` 2026.2.2.4,rabbit2-canary4 → 2026.2.2.5,rabbit2-canary5, `antigravity-cli` 1.3.5,6164039479459840 → 1.3.6,5068262057312256, `aptakube` 1.21.3 → 1.21.4, `arc` 1.168.0,88413 → 1.169.0,88758, `athas` 0.16.3 → 0.17.0, `badgeify` 1.14.6 → 1.15.0, `bb` 0.46.0 → 0.46.1, `beeper` 4.3.176 → 4.3.209, `bezel` 5.3.0 → 5.4.0, `bing-wallpaper` 2.0.14.273,2cf6074a-7b4c-4976-8073-7e07815ea3f6 → 2.0.15.307,86c43650-4912-4b9c-8ade-354b8013ea09, `brave-origin@beta` 1.98.56.0 → 1.99.44.0, `brilliant` 1.0.0-beta.106 → 1.0.0-beta.107, `cc-switch` 4.0.12 → 4.0.13, `clarify` 1.7.14 → 1.7.15, `cleanmymac` 5.7.1,50701.0.2609301754 → 5.7.2,50702.0.2610141002, `clion@eap` 2026.3,263.6800.10 → 2026.3,263.7031.19, `codexbar` 0.75.0 → 0.76.0, `conductor` 0.90.2,01M4RK5VSP556DHARN864XV3WA → 0.91.0,01M50CW3XF38FSVRGSC15D5M6C, `copilot-cli@prerelease` 1.0.99-0 → 1.0.99-1, `dbx` 0.6.44 → 0.6.45, `dda` 0.39.1 → 0.40.0, `discord@canary` 0.0.1383 → 0.0.1385, `diversion` 1.6.546 → 1.6.567, `djv` 3.7.4 → 3.7.5 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-15T13:29:55Z
 
 - **Registered 1 formulae**: `planetiler`
