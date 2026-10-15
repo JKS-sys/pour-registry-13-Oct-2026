@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-15T13:29:55Z
+
+- **Registered 1 formulae**: `planetiler`
+- **De-registered 1 formulae**: `vercel`
+- Updated 62 formulae: `ansible-builder` 3.1.1_1 → 3.2.0, `arcane-cli` 2.16.0 → 2.16.1, `azure-dev` 1.35.1 → 1.36.0, `baguette` 0.2.6 → 0.2.7, `bazel-diff` 50.2.0 → 60.0.0, `bitbucket-cli` 0.33.1 → 0.34.0, `calm-cli` 1.62.0 → 1.63.0, `cargo-clone` 1.2.4 → 1.2.4_1, `ccmux` 1.4.3 → 1.4.4, `cdxgen` 12.8.5 → 12.8.6, `chromaprint` 1.6.1_1 → 1.6.2, `chronograf` 1.11.5 → 1.11.6, `cloudflare-wrangler` 4.150.0 → 4.151.0, `conduit` 0.20.0 → 0.20.1, `cspell` 10.3.6 → 10.4.0, `easyengine` 4.13.1 → 4.13.2, `enter-tex` 3.49.0_1 → 3.51.0, `flow` 0.335.0 → 0.336.0, `gedit` 50.0_2 → 51.0, `giza` 2.0.1 → 2.0.2, `ipsw` 3.1.737 → 3.1.738, `jackett` 0.24.2850 → 0.24.2856, `just` 1.58.0 → 1.59.0, `keploy` 3.6.126 → 3.6.127, `kosli-cli` 2.47.2 → 2.48.0 …
+- **Registered 4 casks**: `biscotti`, `figcraft`, `receipts-space`, `tine`
+- Updated 84 casks: `bettertouchtool@alpha` 6.934,2026101407 → 6.938,2026101501, `brave-browser@beta` 1.98.52.0 → 1.98.56.0, `chatglm` 2.0.5 → 2.0.7, `claude` 2.37337.1,ba51ab579cc4029765083ec9f9f0bd23d37a32ee → 2.42304.0,e7f60e658f15cfece9efa384a78a39aec3c12845, `codexia` 0.54.2 → 0.55.0, `curseforge` 1.323.0-40840 → 1.324.0-41180, `daedalus-mainnet` 11.4.0,87230,9be560111 → 11.5.0,87825,22440487d, `dayflow` 2.7.0 → 2.7.1, `devonthink` 4.4.1 → 4.4.2, `discord@canary` 0.0.1379 → 0.0.1383, `diversion` 1.6.514 → 1.6.546, `downie` 4.13.2,5265 → 4.13.3,5273, `draw-things` 26.1008.0-28cb682b → 26.1013.0-9bb6696f, `droid` 0.241.1 → 0.242.0, `electerm` 5.6.0 → 5.6.10, `element@nightly` 2026101401 → 2026101501, `firefox@nightly` 160.0a1,2026-10-14-08-01-35 → 160.0a1,2026-10-14-21-55-50, `firezone` 1.5.21 → 1.5.22, `fluent-reader` 1.2.2 → 1.3.0, `fluxer` 2026.1014.161544 → 2026.1015.24528, `gcc-aarch64-embedded` 15.2.rel1 → 15.3.rel2, `gloomberb` 0.17.3 → 0.17.4, `google-chrome@canary` 158.0.8105.0 → 158.0.8106.0, `heroic` 2.22.3 → 2.22.4, `iterm2` 3.7.4 → 3.7.5 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-15T04:48:42Z
 
 - **Registered 1 formulae**: `titus`
