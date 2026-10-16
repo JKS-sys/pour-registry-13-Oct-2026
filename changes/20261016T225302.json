@@ -1,0 +1,295 @@
+{
+ "synced_at": "2026-10-16T22:53:02Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.97.57.0",
+    "name": "brave-origin",
+    "to": "1.97.59.0"
+   },
+   {
+    "from": "1.7.15",
+    "name": "clarify",
+    "to": "1.7.16"
+   },
+   {
+    "from": "26.9.19.9-stable",
+    "name": "clickhouse",
+    "to": "26.9.20.23-stable"
+   },
+   {
+    "from": "2.3.3",
+    "name": "clipbook",
+    "to": "2.4.0"
+   },
+   {
+    "from": "0.76.0",
+    "name": "codexbar",
+    "to": "0.77.0"
+   },
+   {
+    "from": "2026.10.14-941492e",
+    "name": "cursor-cli",
+    "to": "2026.10.16-e3cb207"
+   },
+   {
+    "from": "0.0.1393",
+    "name": "discord@canary",
+    "to": "0.0.1394"
+   },
+   {
+    "from": "276.3.5209",
+    "name": "dropbox@beta",
+    "to": "276.3.5225"
+   },
+   {
+    "from": "159.0b2",
+    "name": "firefox@beta",
+    "to": "159.0b3"
+   },
+   {
+    "from": "159.0b2",
+    "name": "firefox@developer-edition",
+    "to": "159.0b3"
+   },
+   {
+    "from": "3.3.12",
+    "name": "free42-binary",
+    "to": "3.4"
+   },
+   {
+    "from": "3.3.12",
+    "name": "free42-decimal",
+    "to": "3.4"
+   },
+   {
+    "from": "14.12",
+    "name": "freefilesync",
+    "to": "14.13"
+   },
+   {
+    "from": "18245,a2e440396403385680008e456a741a7776091412",
+    "name": "ghostty@tip",
+    "to": "18251,e3ebb1d1bf772cf5d1bc70b5ae19e6943e33a110"
+   },
+   {
+    "from": "1.0.60",
+    "name": "grok-build",
+    "to": "1.0.62"
+   },
+   {
+    "from": "8.13.4",
+    "name": "hackolade",
+    "to": "8.13.5"
+   },
+   {
+    "from": "2.31.1",
+    "name": "kiro-cli",
+    "to": "2.32.0"
+   },
+   {
+    "from": "1.1.8",
+    "name": "mangodisk",
+    "to": "1.1.9"
+   },
+   {
+    "from": "1.0.11",
+    "name": "manus-cue",
+    "to": "1.0.12"
+   },
+   {
+    "from": "3.2.20,1238",
+    "name": "marked-app",
+    "to": "3.2.21,1239"
+   },
+   {
+    "from": "155.0.4283.60,72ba2a27-3ce4-4f96-8da9-1a754b3a158a",
+    "name": "microsoft-edge",
+    "to": "155.0.4283.62,709306ae-6f10-4efb-8abb-f6899182f264"
+   },
+   {
+    "from": "156.0.4314.23,2bb9357a-4253-47d3-acd7-d4d9046a5ebf",
+    "name": "microsoft-edge@beta",
+    "to": "156.0.4314.30,470c0838-4f09-4d63-9d88-99c68b0f6bce"
+   },
+   {
+    "from": "2026.10.300",
+    "name": "mindroom",
+    "to": "2026.10.310"
+   },
+   {
+    "from": "0.6.8",
+    "name": "mirai",
+    "to": "0.6.9"
+   },
+   {
+    "from": "2.7-alpha-427-g0fffd3d0d0",
+    "name": "mixxx@snapshot",
+    "to": "2.7-alpha-428-g44dc9ed7e8"
+   },
+   {
+    "from": "7.7.0",
+    "name": "monotype",
+    "to": "7.8.0"
+   },
+   {
+    "from": "1.4.9-R6297.1",
+    "name": "muse-code",
+    "to": "1.4.10-R6427.1"
+   },
+   {
+    "from": "9.3.1",
+    "name": "netron",
+    "to": "9.3.2"
+   },
+   {
+    "from": "2.8.2",
+    "name": "only-switch",
+    "to": "3.0.0"
+   },
+   {
+    "from": "4.0.1,17511-983c847c-b4b8cc77",
+    "name": "openshot-video-editor@daily",
+    "to": "4.0.1,17582-983c847c-b4b8cc77"
+   },
+   {
+    "from": "1.3.15",
+    "name": "plus42-binary",
+    "to": "1.4"
+   },
+   {
+    "from": "1.3.15",
+    "name": "plus42-decimal",
+    "to": "1.4"
+   },
+   {
+    "from": "0.1.18",
+    "name": "pulse",
+    "to": "0.1.20"
+   },
+   {
+    "from": "1041.0.72",
+    "name": "superhuman",
+    "to": "1041.0.75"
+   },
+   {
+    "from": "13.0,283326",
+    "name": "telegram@beta",
+    "to": "13.0,283327"
+   },
+   {
+    "from": "0.72.0",
+    "name": "token-monitor",
+    "to": "0.73.0"
+   },
+   {
+    "from": "1.143.0-insider,1792129210436,e9f10b90b50805aa31d65f3d35cf53c264d7235f",
+    "name": "visual-studio-code@insiders",
+    "to": "1.143.0-insider,1792170417653,0b37947e9c38b74bfb12901f0fecfa18afea0766"
+   },
+   {
+    "from": "2.6.4",
+    "name": "willow-voice",
+    "to": "2.6.5"
+   },
+   {
+    "from": "0.8.136",
+    "name": "xemu",
+    "to": "0.8.137"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.17.1",
+    "name": "algolia",
+    "to": "1.18.0"
+   },
+   {
+    "from": "0.4.4_1",
+    "name": "chawan",
+    "to": "0.5.0"
+   },
+   {
+    "from": "0.22.0",
+    "name": "crit",
+    "to": "0.23.0"
+   },
+   {
+    "from": "0.10.2",
+    "name": "evnx",
+    "to": "0.10.3"
+   },
+   {
+    "from": "1.8.3",
+    "name": "libxi",
+    "to": "1.8.4"
+   },
+   {
+    "from": "2026.10.11",
+    "name": "mise",
+    "to": "2026.10.12"
+   },
+   {
+    "from": "2.11.5",
+    "name": "monolith",
+    "to": "2.11.6"
+   },
+   {
+    "from": "2.29.5",
+    "name": "mycli",
+    "to": "2.29.6"
+   },
+   {
+    "from": "3.269.0",
+    "name": "pulumi",
+    "to": "3.270.0"
+   },
+   {
+    "from": "5.69.0",
+    "name": "railway",
+    "to": "5.70.0"
+   },
+   {
+    "from": "1.14.1",
+    "name": "resterm",
+    "to": "1.15.0"
+   },
+   {
+    "from": "3.0.0",
+    "name": "roadrunner",
+    "to": "3.1.0"
+   },
+   {
+    "from": "1.7.11_1",
+    "name": "s2n",
+    "to": "1.7.12"
+   },
+   {
+    "from": "0.31.10",
+    "name": "sofka",
+    "to": "0.31.11"
+   },
+   {
+    "from": "1.53.1",
+    "name": "stripe-cli",
+    "to": "1.54.0"
+   },
+   {
+    "from": "17.13.0",
+    "name": "topgrade",
+    "to": "17.13.1"
+   },
+   {
+    "from": "0.23.0",
+    "name": "ttl",
+    "to": "0.24.0"
+   }
+  ]
+ }
+}

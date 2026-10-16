@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-16T22:53:02Z
+
+- Updated 17 formulae: `algolia` 1.17.1 → 1.18.0, `chawan` 0.4.4_1 → 0.5.0, `crit` 0.22.0 → 0.23.0, `evnx` 0.10.2 → 0.10.3, `libxi` 1.8.3 → 1.8.4, `mise` 2026.10.11 → 2026.10.12, `monolith` 2.11.5 → 2.11.6, `mycli` 2.29.5 → 2.29.6, `pulumi` 3.269.0 → 3.270.0, `railway` 5.69.0 → 5.70.0, `resterm` 1.14.1 → 1.15.0, `roadrunner` 3.0.0 → 3.1.0, `s2n` 1.7.11_1 → 1.7.12, `sofka` 0.31.10 → 0.31.11, `stripe-cli` 1.53.1 → 1.54.0, `topgrade` 17.13.0 → 17.13.1, `ttl` 0.23.0 → 0.24.0
+- Updated 39 casks: `brave-origin` 1.97.57.0 → 1.97.59.0, `clarify` 1.7.15 → 1.7.16, `clickhouse` 26.9.19.9-stable → 26.9.20.23-stable, `clipbook` 2.3.3 → 2.4.0, `codexbar` 0.76.0 → 0.77.0, `cursor-cli` 2026.10.14-941492e → 2026.10.16-e3cb207, `discord@canary` 0.0.1393 → 0.0.1394, `dropbox@beta` 276.3.5209 → 276.3.5225, `firefox@beta` 159.0b2 → 159.0b3, `firefox@developer-edition` 159.0b2 → 159.0b3, `free42-binary` 3.3.12 → 3.4, `free42-decimal` 3.3.12 → 3.4, `freefilesync` 14.12 → 14.13, `ghostty@tip` 18245,a2e440396403385680008e456a741a7776091412 → 18251,e3ebb1d1bf772cf5d1bc70b5ae19e6943e33a110, `grok-build` 1.0.60 → 1.0.62, `hackolade` 8.13.4 → 8.13.5, `kiro-cli` 2.31.1 → 2.32.0, `mangodisk` 1.1.8 → 1.1.9, `manus-cue` 1.0.11 → 1.0.12, `marked-app` 3.2.20,1238 → 3.2.21,1239, `microsoft-edge` 155.0.4283.60,72ba2a27-3ce4-4f96-8da9-1a754b3a158a → 155.0.4283.62,709306ae-6f10-4efb-8abb-f6899182f264, `microsoft-edge@beta` 156.0.4314.23,2bb9357a-4253-47d3-acd7-d4d9046a5ebf → 156.0.4314.30,470c0838-4f09-4d63-9d88-99c68b0f6bce, `mindroom` 2026.10.300 → 2026.10.310, `mirai` 0.6.8 → 0.6.9, `mixxx@snapshot` 2.7-alpha-427-g0fffd3d0d0 → 2.7-alpha-428-g44dc9ed7e8 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-16T19:34:45Z
 
 - Updated 68 formulae: `aicommit2` 2.13.0 → 2.14.0, `backlog-md` 1.53.0 → 1.54.0, `block-goose-cli` 1.54.0 → 1.55.0, `cc-switch-cli` 5.11.1 → 5.11.2, `chrome-devtools-mcp` 1.10.1 → 1.11.0, `circleci` 1.6.0 → 1.7.0, `context7-mcp` 4.4.1 → 4.4.2, `dbx-cli` 0.4.120 → 0.4.122, `der-ascii` 0.10.0 → 0.11.0, `dnswire` 0.5.0 → 0.5.1, `dotdrop` 1.17.0_1 → 1.18.0, `dstack` 0.22.3 → 0.22.4, `dtop` 0.10.2 → 0.10.3, `dumbpipe` 0.39.0 → 0.40.0, `epinio` 1.14.2 → 1.14.3, `esptool` 5.5.0 → 5.6.0, `fabric-ai` 1.4.523 → 1.4.524, `fastapi` 0.143.1 → 0.143.2, `flamebearer` 2.1.0 → 2.2.0, `fluent-bit` 5.1.3 → 5.1.4, `fn` 0.6.72 → 0.6.73, `fnox` 1.39.0_1 → 1.40.0, `ggshield` 1.55.0_1 → 1.56.0, `harper` 2.12.0 → 2.13.0, `hdrhistogram_c` 0.12.0 → 0.12.1 …
