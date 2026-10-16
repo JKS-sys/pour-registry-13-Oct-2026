@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-16T04:38:59Z
+
+- Updated 18 formulae: `atuin` 18.23.0 → 18.24.0, `atuin-server` 18.23.0 → 18.24.0, `aws-c-http` 1.1.0 → 1.1.1, `brev` 0.6.335 → 0.6.337, `conduit` 0.20.2 → 0.20.3, `copyparty` 1.20.25 → 1.20.26, `dart-sass` 1.105.1 → 1.105.2, `djlint` 1.46.4 → 1.46.5, `flagd` 0.17.0 → 0.18.0, `fricas` 1.3.13_8 → 1.4.0, `glooctl` 1.22.5 → 1.22.6, `infisical` 0.44.0 → 0.44.1, `istioctl` 1.31.1 → 1.31.2, `mcp-remote` 0.14.3 → 0.15.0, `ntfy` 2.30.0 → 2.31.0, `openspec` 1.14.1 → 1.14.2, `teku` 26.10.0 → 26.10.1, `zizmor` 1.31.0 → 1.31.1
+- Updated 43 casks: `airstats` 1.5 → 1.6, `amp-app` 1.0,750 → 1.0,760, `batteries` 3.0.2 → 3.0.3, `bitwarden` 2026.9.1 → 2026.10.0, `busycal` 2026.4.1,2026-10-07-01-56-03 → 2026.4.2,2026-10-16-00-47-30, `carbon-copy-cloner` 7.2.1,8415 → 7.2.2,8443, `cc-pocket` 1.141.0,267 → 1.142.0,268, `chatgpt` 26.1007.71326 → 26.1013.31256, `codex` 0.162.1 → 0.163.0, `copilot-cli@prerelease` 1.0.99-1 → 1.0.99-2, `cursor` 3.24.18,be4c9e5350d77747b42cd467cbd3370a753d464b → 3.25.6,f0df777c412b670d09e3eaf214967d779e67c088, `dockside` 2.9.34 → 2.9.35, `droid` 0.242.0 → 0.242.1, `ea` 13.809.0.6322 → 13.809.1.6324, `factory` 0.199.0 → 0.199.1, `fidelity-trader+` 5.2.1 → 5.2.2, `firefox@nightly` 160.0a1,2026-10-15-09-36-24 → 160.0a1,2026-10-15-16-10-46, `fluent-reader` 1.3.0 → 1.3.1, `font-cal-sans` 2.010 → 2.011, `fossa` 3.20.1 → 3.20.2, `ghost-downloader` 4.3.7 → 4.4.0, `gloomberb` 0.17.4 → 0.17.5, `google-chrome` 155.0.8059.80 → 155.0.8059.85, `google-chrome@canary` 158.0.8106.0 → 158.0.8107.0, `grok-build` 1.0.52 → 1.0.60 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-15T23:05:44Z
 
 - Updated 39 formulae: `agent-manager` 0.41.0 → 0.42.0, `anycable-go` 1.6.18 → 1.6.19, `aoe` 1.19.0 → 1.20.0, `appwrite` 28.4.0 → 28.5.0, `arcadedb` 26.10.1 → 26.10.2, `aws-c-mqtt` 1.1.1 → 1.1.2, `ccusage` 20.0.33 → 20.0.34, `clarinet` 3.24.1 → 3.25.0, `cliproxyapi` 8.0.25 → 8.0.30, `clojure-lsp` 2026.07.06-14.34.19 → 2026.10.15-11.42.38, `closure-compiler` 20261005 → 20261015, `cloudflared` 2026.10.0 → 2026.10.1, `conduit` 0.20.1 → 0.20.2, `dblab` 0.52.1 → 0.53.0, `dependabot` 1.94.0 → 1.95.0, `dnscontrol` 5.4.0 → 5.5.0, `dtop` 0.10.1 → 0.10.2, `dua-cli` 2.45.1 → 2.46.0, `fabric-ai` 1.4.519 → 1.4.520, `fastapi` 0.143.0 → 0.143.1, `fastlane` 2.241.0 → 2.241.1, `fern-api` 5.158.0 → 5.159.0, `findent` 4.4.1 → 4.4.2, `fonttools` 4.66.1 → 4.67.0, `fvm` 4.3.1 → 4.3.2 …
