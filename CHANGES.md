@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-16T19:34:45Z
+
+- Updated 68 formulae: `aicommit2` 2.13.0 → 2.14.0, `backlog-md` 1.53.0 → 1.54.0, `block-goose-cli` 1.54.0 → 1.55.0, `cc-switch-cli` 5.11.1 → 5.11.2, `chrome-devtools-mcp` 1.10.1 → 1.11.0, `circleci` 1.6.0 → 1.7.0, `context7-mcp` 4.4.1 → 4.4.2, `dbx-cli` 0.4.120 → 0.4.122, `der-ascii` 0.10.0 → 0.11.0, `dnswire` 0.5.0 → 0.5.1, `dotdrop` 1.17.0_1 → 1.18.0, `dstack` 0.22.3 → 0.22.4, `dtop` 0.10.2 → 0.10.3, `dumbpipe` 0.39.0 → 0.40.0, `epinio` 1.14.2 → 1.14.3, `esptool` 5.5.0 → 5.6.0, `fabric-ai` 1.4.523 → 1.4.524, `fastapi` 0.143.1 → 0.143.2, `flamebearer` 2.1.0 → 2.2.0, `fluent-bit` 5.1.3 → 5.1.4, `fn` 0.6.72 → 0.6.73, `fnox` 1.39.0_1 → 1.40.0, `ggshield` 1.55.0_1 → 1.56.0, `harper` 2.12.0 → 2.13.0, `hdrhistogram_c` 0.12.0 → 0.12.1 …
+- **Registered 3 casks**: `notomo`, `petal`, `superhuman-docs`
+- Updated 63 casks: `accordance` 14.1.2 → 14.2.0, `adguard-vpn@nightly` 2.11.0.1144 → 2.11.0.1145, `aerial` 4.1.7 → 4.1.8, `aerial@beta` 4.1.7 → 4.1.8, `antigravity` 2.23.1,6348059836284928 → 2.24.0,5780333019398144, `backdrop` 2.9.4,140 → 2.10,141, `bettertouchtool` 6.937,2026101410 → 6.942,2026101604, `block-goose` 1.54.0 → 1.55.0, `cables` 0.12.0 → 0.12.1, `cc-switch` 4.0.13 → 4.0.14, `choice-financial-terminal` 9.15.0.1 → 9.15.0.2, `copilot-cli@prerelease` 1.0.99-2 → 1.0.99-3, `doubao` 2.32.5 → 2.32.6, `dropdmg` 3.7.1 → 3.7.2, `element` 1.12.31 → 1.12.32, `element@nightly` 2026101501 → 2026101601, `filo` 2.4.1 → 2.4.2, `firefox@nightly` 160.0a1,2026-10-15-16-10-46 → 160.0a1,2026-10-16-09-42-57, `flashspace` 4.18.79 → 4.18.80, `font-geist` 1.7.2 → 1.8.1, `font-geist-mono` 1.7.2 → 1.8.1, `font-geist-pixel` 1.7.2 → 1.8.1, `google-chrome@dev` 157.0.8092.0 → 158.0.8106.0, `harper-desktop` 2.12.0 → 2.13.0, `heptabase` 1.112.5 → 1.112.6 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-16T13:18:34Z
 
 - **Registered 1 formulae**: `dnswire`
