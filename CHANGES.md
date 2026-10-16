@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-16T13:18:34Z
+
+- **Registered 1 formulae**: `dnswire`
+- Updated 116 formulae: `aicommit2` 2.12.1 → 2.13.0, `alive2` 21.0_7 → 21.0_8, `alot` 0.12_2 → 0.12_3, `appwrite` 28.5.0 → 28.6.0, `azqr` 4.2.0 → 4.2.1, `ccache` 4.14.1_1 → 4.14.1_2, `cdogs-sdl` 2.4.0 → 2.5.0, `chainloop-cli` 1.123.0 → 1.124.0, `cloudflare-speed-cli` 1.0.9 → 1.0.10, `conduit` 0.20.3 → 0.20.4, `corsixth` 0.70.1 → 0.70.1_1, `coturn` 4.18.0_1 → 4.18.0_2, `cozypkg` 1.6.4 → 1.6.5, `cpuid` 2.4.0 → 2.4.1, `croaring` 5.2.4 → 5.3.0, `crowdin` 5.3.0 → 5.4.0, `djlint` 1.46.5 → 1.46.6, `docker-machine` 0.16.2-gitlab.61 → 0.16.2-gitlab.62, `draco` 1.5.7 → 1.5.8, `dunamai` 1.26.2 → 1.26.3, `duo_unix` 2.3.0 → 2.3.0_1, `durdraw` 0.30.1 → 0.31.0, `eas-cli` 24.13.0 → 24.14.0, `fabric-ai` 1.4.520 → 1.4.523, `fastnetmon` 1.2.9_13 → 1.2.9_14 …
+- **Registered 2 casks**: `switchbar`, `vernier-instrumental-analysis`
+- **De-registered 4 casks**: `focusrite-saffire-mixcontrol`, `mars`, `metabase-app`, `omnidb`
+- Updated 94 casks: `adobe-creative-cloud-cleaner-tool` 4.3.0.1322 → 4.3.0.1404, `aigcpanel` 2.5.0 → 2.6.0, `akuity` 0.33.1-rl.0.20261013081806-5c80cb338797 → 0.34.0-rl.1.0.20261016080414-7a9450ef21b5, `amp-app` 1.0,760 → 1.0,770, `android-cli` 1.0.16500706 → 1.0.16625370, `antigravity-cli` 1.3.6,5068262057312256 → 1.4.0,5281842794987520, `bettertouchtool@alpha` 6.938,2026101501 → 6.940,2026101601, `boss` 9.5.44 → 9.5.45, `capso` 1.2.1 → 1.2.2, `cc-pocket` 1.142.0,268 → 1.142.1,269, `chrome-remote-desktop-host` 154.0.8037.11 → 155.0.8059.19, `claude-code@latest` 2.1.300 → 2.1.301, `claudebar` 0.5.15 → 0.5.16, `cline-app` 0.0.46 → 0.0.47, `cmux` 0.65.1 → 0.65.2, `codexia` 0.55.0 → 0.56.0, `craft-agents` 0.15.1 → 0.15.3, `cuadriver` 0.35.4 → 0.36.0, `deviceshelf` 1.9.77 → 1.9.78, `discord@canary` 0.0.1385 → 0.0.1393, `donut` 0.33.0 → 0.34.0, `droid` 0.242.1 → 0.243.0, `dynamodb-local` 2026-07-31 → 2026-10-14, `factory` 0.199.1 → 0.200.0, `folo` 1.15.0 → 1.16.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-16T04:38:59Z
 
 - Updated 18 formulae: `atuin` 18.23.0 → 18.24.0, `atuin-server` 18.23.0 → 18.24.0, `aws-c-http` 1.1.0 → 1.1.1, `brev` 0.6.335 → 0.6.337, `conduit` 0.20.2 → 0.20.3, `copyparty` 1.20.25 → 1.20.26, `dart-sass` 1.105.1 → 1.105.2, `djlint` 1.46.4 → 1.46.5, `flagd` 0.17.0 → 0.18.0, `fricas` 1.3.13_8 → 1.4.0, `glooctl` 1.22.5 → 1.22.6, `infisical` 0.44.0 → 0.44.1, `istioctl` 1.31.1 → 1.31.2, `mcp-remote` 0.14.3 → 0.15.0, `ntfy` 2.30.0 → 2.31.0, `openspec` 1.14.1 → 1.14.2, `teku` 26.10.0 → 26.10.1, `zizmor` 1.31.0 → 1.31.1
