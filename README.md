@@ -75,3 +75,7 @@ Steps, in order:
 
 Copyright © 2026 **Jagadeesh Kumar S**. All rights reserved. The scripts and the index format are source-available under the [Pour licence](https://github.com/JKS-sys/pour-13-Oct-2026/blob/main/LICENSE). Third-party notices live in the main repository's `THIRD-PARTY-NOTICES.txt`.
 <!-- /licence -->
+
+---
+
+> **If Pour helps you, please ⭐ star this repository — it helps other people find it.**
