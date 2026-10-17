@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-17T15:43:05Z
+
+- Updated 13 formulae: `cabal-install` 3.18.1.0 → 3.18.2.0, `cloudflare-wrangler` 4.151.0 → 4.151.1, `evnx` 0.10.5 → 0.10.6, `fobis` 3.9.8 → 3.9.10, `got` 0.129_1 → 0.130, `gstreamer` 1.28.8 → 1.28.8_1, `mcpsnoop` 0.27.0 → 0.28.0, `opencode` 2.0.30 → 2.0.32, `quill` 13.0.0 → 13.1.0, `starship` 1.26.0 → 1.27.0, `supermodel` 0.3a-20261016-git-70b1b31 → 0.3a-20261017-git-b05ef21, `ty` 0.0.88 → 0.0.89, `usage` 7.0.1 → 7.0.2
+- **Registered 2 casks**: `font-libron`, `portkiller`
+- Updated 27 casks: `almighty` 2.13.1 → 2.13.2, `bettertouchtool` 6.942,2026101604 → 6.944,2026101702, `cisdem-pdf-converter-ocr` 9.7.0 → 10.0.0, `eigent` 1.0.5 → 1.0.6, `font-sketchybar-app-font` 3.0.8 → 3.0.9, `freelens@nightly` 2.0.0-0-nightly-2026-10-14 → 2.0.0-0-nightly-2026-10-16, `kotlin-lsp` 263.6379.0 → 263.7084.0, `loginputmac` 3.7.1,17722 → 3.7.2,17991, `mac-performance-monitor` 2.3.1.280 → 2.4.0.289, `macskk` 2.21.1 → 2.22.0, `manus` 2.0.7 → 2.0.8, `nostalgiapp` 1.2.3.2,195 → 1.2.3.3,196, `pokemon-tcg-live` 1.41.0,1167182 → 1.43.0, `pulse` 0.1.20 → 0.1.25, `purge` 1.11.0 → 1.11.1, `reader` 0.1.3297 → 0.1.3298, `roku-remote-tool` 5.0.5 → 5.1.0, `sleek-app` 2.0.29 → 2.1.0, `t3-code@nightly` 0.0.46-nightly.20261015.3145 → 0.1.1-nightly.20261017.3238, `tag-app` 1.0.5,017 → 1.1.0, `textual` 7.2.7,87084841d → 7.2.7, `thunderbird@daily` 160.0a1,2026-10-16-10-44-33 → 160.0a1,2026-10-17-10-35-12, `unity-hub@beta` 3.22.3 → 4.0.0-beta.2, `unity-ios-support-for-editor` 6000.6.5f1,3ff58d469c8a → 6000.6.6f1,d20c9ac777da, `unity-webgl-support-for-editor` 6000.6.5f1,3ff58d469c8a → 6000.6.6f1,d20c9ac777da …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-17T12:14:23Z
 
 - Updated 46 formulae: `ai-cli` 0.6.1 → 0.7.0, `all-smi` 0.27.1 → 0.28.0, `armadillo` 15.6.1 → 15.6.2, `aws-crt-cpp` 0.43.9_2 → 0.44.0, `azion` 4.23.0 → 4.24.0, `davmail` 7.0.0 → 7.1.0, `draco` 1.5.8 → 1.5.9, `dufs` 0.46.0 → 0.47.0, `dysk` 3.7.1 → 3.8.0, `edbrowse` 3.8.18_1 → 3.8.19, `eleventy` 3.1.6 → 3.1.7, `evnx` 0.10.3 → 0.10.5, `fern-api` 5.160.0 → 5.162.0, `go-parquet-tools` 1.56.2 → 1.56.3, `gplugin` 0.44.2 → 0.44.2_1, `influxdb@2` 2.9.1 → 2.10.0, `jackett` 0.24.2864 → 0.24.2865, `juju` 4.0.15 → 4.0.16, `keploy` 3.6.130 → 3.6.135, `kubefwd` 1.25.17 → 1.25.18, `librsvg` 2.63.2 → 2.63.3, `libx11` 1.8.13 → 1.8.14, `ls-lint` 2.3.1 → 2.3.2, `mac` 13.29 → 13.30, `mcap` 0.3.0 → 0.4.0 …

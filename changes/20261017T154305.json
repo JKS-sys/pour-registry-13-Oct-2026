@@ -1,0 +1,218 @@
+{
+ "synced_at": "2026-10-17T15:43:05Z",
+ "casks": {
+  "added": [
+   "font-libron",
+   "portkiller"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2.13.1",
+    "name": "almighty",
+    "to": "2.13.2"
+   },
+   {
+    "from": "6.942,2026101604",
+    "name": "bettertouchtool",
+    "to": "6.944,2026101702"
+   },
+   {
+    "from": "9.7.0",
+    "name": "cisdem-pdf-converter-ocr",
+    "to": "10.0.0"
+   },
+   {
+    "from": "1.0.5",
+    "name": "eigent",
+    "to": "1.0.6"
+   },
+   {
+    "from": "3.0.8",
+    "name": "font-sketchybar-app-font",
+    "to": "3.0.9"
+   },
+   {
+    "from": "2.0.0-0-nightly-2026-10-14",
+    "name": "freelens@nightly",
+    "to": "2.0.0-0-nightly-2026-10-16"
+   },
+   {
+    "from": "263.6379.0",
+    "name": "kotlin-lsp",
+    "to": "263.7084.0"
+   },
+   {
+    "from": "3.7.1,17722",
+    "name": "loginputmac",
+    "to": "3.7.2,17991"
+   },
+   {
+    "from": "2.3.1.280",
+    "name": "mac-performance-monitor",
+    "to": "2.4.0.289"
+   },
+   {
+    "from": "2.21.1",
+    "name": "macskk",
+    "to": "2.22.0"
+   },
+   {
+    "from": "2.0.7",
+    "name": "manus",
+    "to": "2.0.8"
+   },
+   {
+    "from": "1.2.3.2,195",
+    "name": "nostalgiapp",
+    "to": "1.2.3.3,196"
+   },
+   {
+    "from": "1.41.0,1167182",
+    "name": "pokemon-tcg-live",
+    "to": "1.43.0"
+   },
+   {
+    "from": "0.1.20",
+    "name": "pulse",
+    "to": "0.1.25"
+   },
+   {
+    "from": "1.11.0",
+    "name": "purge",
+    "to": "1.11.1"
+   },
+   {
+    "from": "0.1.3297",
+    "name": "reader",
+    "to": "0.1.3298"
+   },
+   {
+    "from": "5.0.5",
+    "name": "roku-remote-tool",
+    "to": "5.1.0"
+   },
+   {
+    "from": "2.0.29",
+    "name": "sleek-app",
+    "to": "2.1.0"
+   },
+   {
+    "from": "0.0.46-nightly.20261015.3145",
+    "name": "t3-code@nightly",
+    "to": "0.1.1-nightly.20261017.3238"
+   },
+   {
+    "from": "1.0.5,017",
+    "name": "tag-app",
+    "to": "1.1.0"
+   },
+   {
+    "from": "7.2.7,87084841d",
+    "name": "textual",
+    "to": "7.2.7"
+   },
+   {
+    "from": "160.0a1,2026-10-16-10-44-33",
+    "name": "thunderbird@daily",
+    "to": "160.0a1,2026-10-17-10-35-12"
+   },
+   {
+    "from": "3.22.3",
+    "name": "unity-hub@beta",
+    "to": "4.0.0-beta.2"
+   },
+   {
+    "from": "6000.6.5f1,3ff58d469c8a",
+    "name": "unity-ios-support-for-editor",
+    "to": "6000.6.6f1,d20c9ac777da"
+   },
+   {
+    "from": "6000.6.5f1,3ff58d469c8a",
+    "name": "unity-webgl-support-for-editor",
+    "to": "6000.6.6f1,d20c9ac777da"
+   },
+   {
+    "from": "6000.6.5f1,3ff58d469c8a",
+    "name": "unity-windows-support-for-editor",
+    "to": "6000.6.6f1,d20c9ac777da"
+   },
+   {
+    "from": "3.0.13,10327",
+    "name": "yandextelemost",
+    "to": "3.0.15,10352"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "3.18.1.0",
+    "name": "cabal-install",
+    "to": "3.18.2.0"
+   },
+   {
+    "from": "4.151.0",
+    "name": "cloudflare-wrangler",
+    "to": "4.151.1"
+   },
+   {
+    "from": "0.10.5",
+    "name": "evnx",
+    "to": "0.10.6"
+   },
+   {
+    "from": "3.9.8",
+    "name": "fobis",
+    "to": "3.9.10"
+   },
+   {
+    "from": "0.129_1",
+    "name": "got",
+    "to": "0.130"
+   },
+   {
+    "from": "1.28.8",
+    "name": "gstreamer",
+    "to": "1.28.8_1"
+   },
+   {
+    "from": "0.27.0",
+    "name": "mcpsnoop",
+    "to": "0.28.0"
+   },
+   {
+    "from": "2.0.30",
+    "name": "opencode",
+    "to": "2.0.32"
+   },
+   {
+    "from": "13.0.0",
+    "name": "quill",
+    "to": "13.1.0"
+   },
+   {
+    "from": "1.26.0",
+    "name": "starship",
+    "to": "1.27.0"
+   },
+   {
+    "from": "0.3a-20261016-git-70b1b31",
+    "name": "supermodel",
+    "to": "0.3a-20261017-git-b05ef21"
+   },
+   {
+    "from": "0.0.88",
+    "name": "ty",
+    "to": "0.0.89"
+   },
+   {
+    "from": "7.0.1",
+    "name": "usage",
+    "to": "7.0.2"
+   }
+  ]
+ }
+}
