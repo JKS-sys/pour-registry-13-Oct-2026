@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-17T18:33:09Z
+
+- Updated 17 formulae: `ballerina` 2201.13.7 → 2201.14.1, `bookokrat` 0.3.13 → 0.3.14, `cargo-binstall` 1.25.3 → 1.26.0, `ctx7` 0.6.1 → 0.7.0, `dtop` 0.10.3 → 0.10.4, `evnx` 0.10.6 → 0.10.7, `lfk` 0.19.6 → 0.19.7, `maki` 0.6.3 → 0.6.4, `oh-my-agent` 20.4.0 → 20.4.2, `openrtsp` 2026.10.13 → 2026.10.17, `ovsx` 1.2.0 → 1.3.0, `ponyc` 0.76.0 → 0.77.0, `pulp-cli` 0.41.0 → 0.41.1, `sanity` 8.17.1 → 8.18.0, `shadcn` 4.21.5 → 4.22.0, `style-dictionary` 5.6.1 → 5.7.0, `wakatime-cli` 2.27.8 → 2.27.13
+- Updated 13 casks: `firefox@nightly` 160.0a1,2026-10-16-19-38-15 → 160.0a1,2026-10-17-09-52-11, `fluxer` 2026.1015.145325 → 2026.1017.133957, `freelens@nightly` 2.0.0-0-nightly-2026-10-16 → 2.0.0-0-nightly-2026-10-17, `gitify` 7.9.0 → 7.10.0, `goodsync` 12.11.9 → 12.11.11, `itsycal` 0.15.14 → 0.27.3, `manus-cue` 1.0.12 → 1.1.0, `mcplinker` 2.7.0 → 2.7.1, `monal@beta` 1097 → 1099, `ollama-app` 0.40.5 → 0.40.6, `ollama-binary` 0.40.5 → 0.40.6, `reader` 0.1.3298 → 0.1.3301, `yandex-music` 5.122.0 → 5.123.4
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-17T15:43:05Z
 
 - Updated 13 formulae: `cabal-install` 3.18.1.0 → 3.18.2.0, `cloudflare-wrangler` 4.151.0 → 4.151.1, `evnx` 0.10.5 → 0.10.6, `fobis` 3.9.8 → 3.9.10, `got` 0.129_1 → 0.130, `gstreamer` 1.28.8 → 1.28.8_1, `mcpsnoop` 0.27.0 → 0.28.0, `opencode` 2.0.30 → 2.0.32, `quill` 13.0.0 → 13.1.0, `starship` 1.26.0 → 1.27.0, `supermodel` 0.3a-20261016-git-70b1b31 → 0.3a-20261017-git-b05ef21, `ty` 0.0.88 → 0.0.89, `usage` 7.0.1 → 7.0.2
