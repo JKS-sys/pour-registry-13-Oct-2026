@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-17T22:24:44Z
+
+- Updated 30 formulae: `asc` 5.14.3 → 5.15.0, `aube` 2.7.0 → 2.7.2, `carapace` 1.8.0 → 1.8.1, `ccusage` 20.0.34 → 20.0.35, `chezmoi` 2.73.1 → 2.73.2, `cubejs-cli` 1.8.6 → 1.8.8, `dbx-cli` 0.4.122 → 0.4.123, `deja-vu` 0.22.1 → 0.22.2, `dnote` 0.16.0 → 0.17.0, `dysk` 3.8.0 → 3.8.1, `eslint` 10.12.0 → 10.13.0, `fallow` 3.33.1 → 3.34.0, `fastapi` 0.143.2 → 0.143.3, `flyline` 1.9.0 → 1.10.0, `fobis` 3.9.10 → 3.9.11, `gitlogue` 0.12.0 → 0.12.1, `graphqlite` 0.10.0 → 0.11.0, `kata` 0.18.0 → 0.19.0, `kubectl-klock` 0.9.2 → 0.9.3, `langgraph-cli` 0.4.35 → 0.4.36, `mise` 2026.10.12 → 2026.10.13, `mpd` 0.24.15_4 → 0.24.16, `netlify-cli` 27.12.1 → 27.13.0, `obscura` 0.2.4 → 0.2.5, `ollama` 0.40.5 → 0.40.6 …
+- Updated 20 casks: `capsomnia` 4.2.4 → 4.2.5, `cc-switch` 4.0.14 → 4.0.15, `clickhouse` 26.9.20.23-stable → 26.9.21.9-stable, `cursor` 3.25.6,f0df777c412b670d09e3eaf214967d779e67c088 → 3.25.9,5d4df965746c5d09740842fc0f1331ba1c15783d, `dbx` 0.6.46 → 0.6.47, `dolphin@dev` 2609-85,a0,07 → 2609-92,50,79, `flowdown` 5.2.3 → 5.2.4, `font-lxgw-wenkai` 1.522 → 1.530, `font-lxgw-wenkai-gb` 1.522 → 1.530, `font-lxgw-wenkai-gb-lite` 1.522 → 1.530, `font-lxgw-wenkai-lite` 1.522 → 1.530, `font-lxgw-wenkai-tc` 1.522 → 1.530, `hol-guard` 3.0.136 → 3.0.139, `julia-app@nightly` 1.14.0 → 1.15.0, `launchie` 1.6.3 → 1.6.4, `rotato` 159.1 → 160, `singlebox` 68.3.1 → 68.4.0, `t3-code@nightly` 0.1.1-nightly.20261017.3238 → 0.1.1-nightly.20261017.3272, `webcatalog` 81.4.0 → 81.5.0, `zen@twilight` 1.24t,20261014104154 → 1.24t,20261017014614
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-17T18:33:09Z
 
 - Updated 17 formulae: `ballerina` 2201.13.7 → 2201.14.1, `bookokrat` 0.3.13 → 0.3.14, `cargo-binstall` 1.25.3 → 1.26.0, `ctx7` 0.6.1 → 0.7.0, `dtop` 0.10.3 → 0.10.4, `evnx` 0.10.6 → 0.10.7, `lfk` 0.19.6 → 0.19.7, `maki` 0.6.3 → 0.6.4, `oh-my-agent` 20.4.0 → 20.4.2, `openrtsp` 2026.10.13 → 2026.10.17, `ovsx` 1.2.0 → 1.3.0, `ponyc` 0.76.0 → 0.77.0, `pulp-cli` 0.41.0 → 0.41.1, `sanity` 8.17.1 → 8.18.0, `shadcn` 4.21.5 → 4.22.0, `style-dictionary` 5.6.1 → 5.7.0, `wakatime-cli` 2.27.8 → 2.27.13

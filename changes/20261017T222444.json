@@ -1,0 +1,265 @@
+{
+ "synced_at": "2026-10-17T22:24:44Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "4.2.4",
+    "name": "capsomnia",
+    "to": "4.2.5"
+   },
+   {
+    "from": "4.0.14",
+    "name": "cc-switch",
+    "to": "4.0.15"
+   },
+   {
+    "from": "26.9.20.23-stable",
+    "name": "clickhouse",
+    "to": "26.9.21.9-stable"
+   },
+   {
+    "from": "3.25.6,f0df777c412b670d09e3eaf214967d779e67c088",
+    "name": "cursor",
+    "to": "3.25.9,5d4df965746c5d09740842fc0f1331ba1c15783d"
+   },
+   {
+    "from": "0.6.46",
+    "name": "dbx",
+    "to": "0.6.47"
+   },
+   {
+    "from": "2609-85,a0,07",
+    "name": "dolphin@dev",
+    "to": "2609-92,50,79"
+   },
+   {
+    "from": "5.2.3",
+    "name": "flowdown",
+    "to": "5.2.4"
+   },
+   {
+    "from": "1.522",
+    "name": "font-lxgw-wenkai",
+    "to": "1.530"
+   },
+   {
+    "from": "1.522",
+    "name": "font-lxgw-wenkai-gb",
+    "to": "1.530"
+   },
+   {
+    "from": "1.522",
+    "name": "font-lxgw-wenkai-gb-lite",
+    "to": "1.530"
+   },
+   {
+    "from": "1.522",
+    "name": "font-lxgw-wenkai-lite",
+    "to": "1.530"
+   },
+   {
+    "from": "1.522",
+    "name": "font-lxgw-wenkai-tc",
+    "to": "1.530"
+   },
+   {
+    "from": "3.0.136",
+    "name": "hol-guard",
+    "to": "3.0.139"
+   },
+   {
+    "from": "1.14.0",
+    "name": "julia-app@nightly",
+    "to": "1.15.0"
+   },
+   {
+    "from": "1.6.3",
+    "name": "launchie",
+    "to": "1.6.4"
+   },
+   {
+    "from": "159.1",
+    "name": "rotato",
+    "to": "160"
+   },
+   {
+    "from": "68.3.1",
+    "name": "singlebox",
+    "to": "68.4.0"
+   },
+   {
+    "from": "0.1.1-nightly.20261017.3238",
+    "name": "t3-code@nightly",
+    "to": "0.1.1-nightly.20261017.3272"
+   },
+   {
+    "from": "81.4.0",
+    "name": "webcatalog",
+    "to": "81.5.0"
+   },
+   {
+    "from": "1.24t,20261014104154",
+    "name": "zen@twilight",
+    "to": "1.24t,20261017014614"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "5.14.3",
+    "name": "asc",
+    "to": "5.15.0"
+   },
+   {
+    "from": "2.7.0",
+    "name": "aube",
+    "to": "2.7.2"
+   },
+   {
+    "from": "1.8.0",
+    "name": "carapace",
+    "to": "1.8.1"
+   },
+   {
+    "from": "20.0.34",
+    "name": "ccusage",
+    "to": "20.0.35"
+   },
+   {
+    "from": "2.73.1",
+    "name": "chezmoi",
+    "to": "2.73.2"
+   },
+   {
+    "from": "1.8.6",
+    "name": "cubejs-cli",
+    "to": "1.8.8"
+   },
+   {
+    "from": "0.4.122",
+    "name": "dbx-cli",
+    "to": "0.4.123"
+   },
+   {
+    "from": "0.22.1",
+    "name": "deja-vu",
+    "to": "0.22.2"
+   },
+   {
+    "from": "0.16.0",
+    "name": "dnote",
+    "to": "0.17.0"
+   },
+   {
+    "from": "3.8.0",
+    "name": "dysk",
+    "to": "3.8.1"
+   },
+   {
+    "from": "10.12.0",
+    "name": "eslint",
+    "to": "10.13.0"
+   },
+   {
+    "from": "3.33.1",
+    "name": "fallow",
+    "to": "3.34.0"
+   },
+   {
+    "from": "0.143.2",
+    "name": "fastapi",
+    "to": "0.143.3"
+   },
+   {
+    "from": "1.9.0",
+    "name": "flyline",
+    "to": "1.10.0"
+   },
+   {
+    "from": "3.9.10",
+    "name": "fobis",
+    "to": "3.9.11"
+   },
+   {
+    "from": "0.12.0",
+    "name": "gitlogue",
+    "to": "0.12.1"
+   },
+   {
+    "from": "0.10.0",
+    "name": "graphqlite",
+    "to": "0.11.0"
+   },
+   {
+    "from": "0.18.0",
+    "name": "kata",
+    "to": "0.19.0"
+   },
+   {
+    "from": "0.9.2",
+    "name": "kubectl-klock",
+    "to": "0.9.3"
+   },
+   {
+    "from": "0.4.35",
+    "name": "langgraph-cli",
+    "to": "0.4.36"
+   },
+   {
+    "from": "2026.10.12",
+    "name": "mise",
+    "to": "2026.10.13"
+   },
+   {
+    "from": "0.24.15_4",
+    "name": "mpd",
+    "to": "0.24.16"
+   },
+   {
+    "from": "27.12.1",
+    "name": "netlify-cli",
+    "to": "27.13.0"
+   },
+   {
+    "from": "0.2.4",
+    "name": "obscura",
+    "to": "0.2.5"
+   },
+   {
+    "from": "0.40.5",
+    "name": "ollama",
+    "to": "0.40.6"
+   },
+   {
+    "from": "0.15.7",
+    "name": "rapid-mlx",
+    "to": "0.15.7_1"
+   },
+   {
+    "from": "0.46.0",
+    "name": "seam",
+    "to": "0.47.0"
+   },
+   {
+    "from": "1.8.5",
+    "name": "tombi",
+    "to": "1.8.6"
+   },
+   {
+    "from": "2.5.0",
+    "name": "tronbyt-server",
+    "to": "2.5.1"
+   },
+   {
+    "from": "0.10.0",
+    "name": "tuios",
+    "to": "0.10.1"
+   }
+  ]
+ }
+}
