@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-17T12:14:23Z
+
+- Updated 46 formulae: `ai-cli` 0.6.1 → 0.7.0, `all-smi` 0.27.1 → 0.28.0, `armadillo` 15.6.1 → 15.6.2, `aws-crt-cpp` 0.43.9_2 → 0.44.0, `azion` 4.23.0 → 4.24.0, `davmail` 7.0.0 → 7.1.0, `draco` 1.5.8 → 1.5.9, `dufs` 0.46.0 → 0.47.0, `dysk` 3.7.1 → 3.8.0, `edbrowse` 3.8.18_1 → 3.8.19, `eleventy` 3.1.6 → 3.1.7, `evnx` 0.10.3 → 0.10.5, `fern-api` 5.160.0 → 5.162.0, `go-parquet-tools` 1.56.2 → 1.56.3, `gplugin` 0.44.2 → 0.44.2_1, `influxdb@2` 2.9.1 → 2.10.0, `jackett` 0.24.2864 → 0.24.2865, `juju` 4.0.15 → 4.0.16, `keploy` 3.6.130 → 3.6.135, `kubefwd` 1.25.17 → 1.25.18, `librsvg` 2.63.2 → 2.63.3, `libx11` 1.8.13 → 1.8.14, `ls-lint` 2.3.1 → 2.3.2, `mac` 13.29 → 13.30, `mcap` 0.3.0 → 0.4.0 …
+- **Registered 1 casks**: `taperlabs-shadow`
+- **De-registered 1 casks**: `notchnook`
+- Updated 45 casks: `adobe-air` 51.3.3.1 → 51.4.1.2, `appgridmac` 1.2.13 → 1.2.14, `bettertouchtool@alpha` 6.940,2026101601 → 6.943,2026101701, `capso` 1.2.2 → 1.2.3, `cc-pocket` 1.142.1,269 → 1.143.0,270, `cline-app` 0.0.47 → 0.0.48, `deepseek-harness` 0.2.0-rc.2 → 0.2.1-rc.2, `devin-desktop@next` 3.10.1035+next.dfa4a2d639,dfa4a2d639b8a05ab72387c12f1aafca1b4c3cb9 → 3.11.1108+next.727501f0a2,727501f0a20f5297167ce744cc1cff5f0a0a1aca, `discord@canary` 0.0.1399 → 0.0.1400, `dolphin@dev` 2609-83,04,fd → 2609-85,a0,07, `element@nightly` 2026101601 → 2026101701, `factory` 0.200.0 → 0.201.0, `floorp` 12.20.1 → 12.20.2, `fossa` 3.20.2 → 3.20.4, `ghostex` 10.24.0 → 10.25.1, `gloomberb` 0.17.5 → 0.17.6, `google-chrome@canary` 158.0.8108.0 → 158.0.8110.0, `google-gemini` 1.128.14.1166 → 1.131.4.1198, `helium-browser` 0.19.3.1 → 0.19.4.1, `iterm2@nightly` 3_7_20261016 → 3_7_20261017, `kaku` 0.23.1 → 0.24.0, `koe` 1.0.32 → 1.0.33, `mac-sai` 1.25.3 → 1.25.4, `maestri` 0.54.0 → 0.54.1, `meetingrecorder` 1.6.9 → 1.6.11 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-17T04:36:25Z
 
 - **De-registered 1 formulae**: `six`
