@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-17T04:36:25Z
+
+- **De-registered 1 formulae**: `six`
+- Updated 65 formulae: `alive2` 21.0_8 → 21.0_9, `angular-cli` 22.2.2 → 22.2.3, `appwrite` 28.6.0 → 28.7.0, `atuin` 18.24.0 → 18.24.1, `atuin-server` 18.24.0 → 18.24.1, `aws-vault` 7.16.3 → 7.17.0, `azurehound` 3.1.2 → 3.1.3, `btllib` 1.7.8 → 1.8.0, `chainloop-cli` 1.124.0 → 1.125.0, `cpp-peglib` 1.21.0 → 1.22.0, `dependabot` 1.95.0 → 1.96.0, `dolt` 2.4.2 → 2.5.0, `eas-cli` 24.14.0 → 25.0.0, `esbmc` 8.6 → 8.6_1, `fern-api` 5.159.0 → 5.160.0, `flexget` 3.22.3 → 3.22.4, `forgejo-cli` 0.6.0 → 0.7.0, `garnet` 2.2.2 → 2.2.3, `infisical` 0.44.1 → 0.44.2, `jjui` 0.10.11 → 0.10.12, `klee` 3.3 → 3.3_1, `kubefwd` 1.25.16 → 1.25.17, `lakekeeper` 0.14.0 → 0.14.1, `libxpm` 3.5.19 → 3.5.20, `libxrender` 0.9.12 → 0.9.13 …
+- **Registered 1 casks**: `cleeen`
+- Updated 70 casks: `ableset` 3.1.6 → 3.1.8, `alma` 0.4.165 → 0.4.195, `amp-app` 1.0,770 → 1.0,780, `apidog` 2.8.50 → 2.8.51, `apidog-europe` 2.8.50 → 2.8.51, `apifox` 2.8.50 → 2.8.51, `bazecor` 1.10.0 → 1.11.0, `blitz-gg` 3.0.9 → 3.0.10, `brave-browser` 1.97.57.0 → 1.97.59.0, `brave-browser@beta` 1.98.56.0 → 1.99.44.0, `brave-origin@nightly` 1.99.41.0 → 1.100.7.0, `busycal` 2026.4.2,2026-10-16-00-47-30 → 2026.4.2,2026-10-17-00-43-33, `capacities` 1.71.27 → 1.71.32, `chatgpt` 26.1013.31256 → 26.1013.40934, `claude-code@latest` 2.1.301 → 2.1.302, `conductor` 0.91.0,01M50CW3XF38FSVRGSC15D5M6C → 0.91.1,01M53GCKWM7V863PMEXTYZQ613, `copilot-cli@prerelease` 1.0.99-3 → 1.0.100-1, `dbx` 0.6.45 → 0.6.46, `default-folder-x` 6.3.2 → 6.3.3, `deviceshelf` 1.9.78 → 1.9.79, `discord@canary` 0.0.1394 → 0.0.1399, `discord@development` 1.0.1025 → 1.0.1027, `discord@ptb` 0.0.264 → 0.0.265, `dolphin@dev` 2609-81,9d,06 → 2609-83,04,fd, `droid` 0.243.0 → 0.244.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-16T22:53:02Z
 
 - Updated 17 formulae: `algolia` 1.17.1 → 1.18.0, `chawan` 0.4.4_1 → 0.5.0, `crit` 0.22.0 → 0.23.0, `evnx` 0.10.2 → 0.10.3, `libxi` 1.8.3 → 1.8.4, `mise` 2026.10.11 → 2026.10.12, `monolith` 2.11.5 → 2.11.6, `mycli` 2.29.5 → 2.29.6, `pulumi` 3.269.0 → 3.270.0, `railway` 5.69.0 → 5.70.0, `resterm` 1.14.1 → 1.15.0, `roadrunner` 3.0.0 → 3.1.0, `s2n` 1.7.11_1 → 1.7.12, `sofka` 0.31.10 → 0.31.11, `stripe-cli` 1.53.1 → 1.54.0, `topgrade` 17.13.0 → 17.13.1, `ttl` 0.23.0 → 0.24.0
