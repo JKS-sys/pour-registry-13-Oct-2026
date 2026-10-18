@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-18T04:41:33Z
+
+- **Registered 2 formulae**: `bqlog`, `pdfcraft-cli`
+- Updated 37 formulae: `alejandra` 4.0.0 → 4.1.0, `byobu` 7.21_1 → 7.22, `coreutils` 9.12 → 9.12_1, `ctx7` 0.7.0 → 0.8.0, `dbhash` 3.54.0 → 3.54.1, `diffle` 0.2.5 → 0.2.6, `diskwatch` 0.6.0 → 0.6.1, `docmd` 0.9.7 → 0.9.8, `dotnet@8` 8.0.131 → 8.0.132, `dotnet@9` 9.0.121 → 9.0.122, `eas-cli` 25.0.0 → 25.1.1, `gcovr` 8.6_2 → 8.7, `git-pages-cli` 1.11.2 → 1.11.3, `gomplate` 5.2.0 → 5.3.0, `graphqlite` 0.11.0 → 0.12.0, `lemon` 3.54.0 → 3.54.1, `letta-code` 0.34.15 → 0.34.16, `libnotify` 0.8.8 → 0.8.9, `libsail` 1.2.0_1 → 1.3.0, `libunistring` 1.4.2 → 1.5, `neonctl` 8.7.2 → 8.8.0, `odin` 2026-10 → 2026-10_1, `openspec` 1.14.2 → 1.14.3, `pake` 3.17.5 → 3.17.6, `pkgconf` 3.0.8 → 3.0.9 …
+- **Registered 8 casks**: `font-firjar`, `font-redaction`, `font-redaction-10`, `font-redaction-100`, `font-redaction-20`, `font-redaction-35`, `font-redaction-50`, `font-redaction-70`
+- Updated 30 casks: `adguard` 2.19.0.2258 → 2.20.0.2626, `adrafinil` 1.12.0 → 1.13.0, `antigravity-cli` 1.4.0,5281842794987520 → 1.4.2,4835981233356800, `backdrop` 2.10,141 → 2.10.1,142, `cadcraft` 0.7.0 → 0.8.0, `deviceshelf` 1.9.79 → 1.9.80, `dmenu-mac` 0.8.0 → 0.9.0, `effectcraft` 0.10.0 → 0.11.1, `firefox@nightly` 160.0a1,2026-10-17-09-52-11 → 160.0a1,2026-10-17-21-03-36, `ghostty@tip` 18251,e3ebb1d1bf772cf5d1bc70b5ae19e6943e33a110 → 18253,73e4ff10fb2b30d1ab6e6f7f52ef33f3a0593dcc, `headroom` 0.9.41 → 0.9.42, `impactor` 2.7.0 → 2.7.1, `kate` 26.08,12388 → 26.08,12705, `legcord` 1.3.0 → 1.3.1, `microblog` 4.2 → 4.2.1, `mindroom` 2026.10.330 → 2026.10.340, `nodeterm` 0.4.3 → 0.4.4, `opendisk` 1.2.8 → 1.2.9, `openshot-video-editor@daily` 4.0.1,17588-983c847c-b4b8cc77 → 4.0.1,17728-983c847c-b4b8cc77, `pallycompanion` 0.1.58,319.1 → 0.1.59,324.1, `phosphene` 1.10.1 → 1.11.1, `pulse` 0.1.25 → 0.1.27, `reader` 0.1.3301 → 0.1.3303, `reamp` 1.7.0,996 → 2.0.0,1077, `smooze-pro` 2.3.20 → 2.3.22 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-17T22:24:44Z
 
 - Updated 30 formulae: `asc` 5.14.3 → 5.15.0, `aube` 2.7.0 → 2.7.2, `carapace` 1.8.0 → 1.8.1, `ccusage` 20.0.34 → 20.0.35, `chezmoi` 2.73.1 → 2.73.2, `cubejs-cli` 1.8.6 → 1.8.8, `dbx-cli` 0.4.122 → 0.4.123, `deja-vu` 0.22.1 → 0.22.2, `dnote` 0.16.0 → 0.17.0, `dysk` 3.8.0 → 3.8.1, `eslint` 10.12.0 → 10.13.0, `fallow` 3.33.1 → 3.34.0, `fastapi` 0.143.2 → 0.143.3, `flyline` 1.9.0 → 1.10.0, `fobis` 3.9.10 → 3.9.11, `gitlogue` 0.12.0 → 0.12.1, `graphqlite` 0.10.0 → 0.11.0, `kata` 0.18.0 → 0.19.0, `kubectl-klock` 0.9.2 → 0.9.3, `langgraph-cli` 0.4.35 → 0.4.36, `mise` 2026.10.12 → 2026.10.13, `mpd` 0.24.15_4 → 0.24.16, `netlify-cli` 27.12.1 → 27.13.0, `obscura` 0.2.4 → 0.2.5, `ollama` 0.40.5 → 0.40.6 …
