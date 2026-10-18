@@ -2,6 +2,12 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-18T22:27:36Z
+
+- Updated 29 formulae: `b4n` 1.1.0 → 1.2.0, `bump-my-version` 1.6.0 → 1.6.1, `ccusage` 20.0.35 → 20.0.36, `dartsim` 6.20.0 → 6.20.1, `dbmate` 2.36.0 → 2.37.0, `fabric-ai` 1.4.524 → 1.4.525, `fakecloud` 0.50.0 → 0.51.0, `flexget` 3.22.4 → 3.22.5, `fobis` 3.9.11 → 3.9.12, `gitea` 28.1.0 → 28.2.0, `gitea-mcp-server` 1.9.0 → 1.10.0, `libical` 4.0.6 → 4.0.7, `mise` 2026.10.13 → 2026.10.14, `mk-configure` 0.40.1 → 0.40.2, `mkvtoolnix` 102.0 → 103.0, `nng` 1.12.4 → 2.0.0, `noodle` 0.10.0 → 0.10.1, `nuitka` 4.3 → 4.3.1, `panache` 3.16.0 → 3.17.0, `pcsc-lite` 2.5.2 → 2.5.3, `render` 2.29.0 → 2.30.0, `rollup` 4.64.8 → 4.64.9, `rqlite` 10.6.1 → 10.6.2, `rulesync` 36.0.2 → 37.1.0, `supermodel` 0.3a-20261017-git-b05ef21 → 0.3a-20261018-git-ddbc306 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-18T18:40:24Z
 
 - Updated 50 formulae: `concord` 2.6.2 → 2.6.3, `libsail` 1.3.0 → 1.3.1, `ntfy` 2.31.1 → 2.32.0, `openfasttrace` 4.10.0 → 4.11.0, `openfpgaloader` 1.1.1 → 1.2.0, `packslip` 1.8.0 → 1.9.0, `pgbackrest` 2.59.3_1 → 2.60.0, `phantom` 6.3.1 → 6.3.2, `pipenv` 2026.9.1 → 2026.10.0, `pipx` 1.18.2 → 1.18.3, `pitchfork` 2.31.0 → 2.32.0, `qt3d` 6.12.0 → 6.12.0_1, `qt5compat` 6.12.0 → 6.12.0_1, `qtbase` 6.12.0 → 6.12.0_1, `qtcanvaspainter` 6.12.0 → 6.12.0_1, `qtcharts` 6.12.0 → 6.12.0_1, `qtconnectivity` 6.12.0 → 6.12.0_1, `qtdatavis3d` 6.12.0 → 6.12.0_1, `qtdeclarative` 6.12.0 → 6.12.0_1, `qtgraphs` 6.12.0 → 6.12.0_1, `qtgrpc` 6.12.0 → 6.12.0_1, `qthttpserver` 6.12.0 → 6.12.0_1, `qtlocation` 6.12.0 → 6.12.0_1, `qtlottie` 6.12.0 → 6.12.0_1, `qtmultimedia` 6.12.0 → 6.12.0_1 …
