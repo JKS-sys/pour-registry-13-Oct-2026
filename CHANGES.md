@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-18T12:38:51Z
+
+- Updated 33 formulae: `backgroundremover` 0.4.5_2 → 0.4.5_3, `bitbucket-cli` 0.34.0 → 0.35.0, `dagu` 2.20.1 → 2.21.0, `dotnet` 10.0.401_1 → 10.0.402, `evnx` 0.10.7 → 0.10.8, `fallow` 3.34.0 → 3.34.1, `flix` 0.78.0 → 0.79.0, `gobject-introspection` 1.86.0_4 → 1.86.0_5, `haraka` 3.3.4 → 3.3.5, `jackett` 0.24.2865 → 0.24.2867, `keploy` 3.6.135 → 3.6.140, `libpeas` 2.2.1 → 2.2.1_1, `libsigrokdecode` 0.5.3_1 → 0.5.3_2, `merman-cli` 0.9.0 → 0.9.1, `n` 10.2.0 → 11.0.0, `oh-my-agent` 20.4.2 → 20.5.0, `openai-whisper` 20250625_7 → 20250625_8, `opencrabs` 0.5.10 → 0.5.11, `pdfcraft-cli` 0.8.0 → 0.9.0, `phantom` 6.2.0 → 6.3.1, `photocraft-cli` 0.9.0 → 0.10.0, `pocket-tts` 3.3.0_1 → 3.3.0_2, `powershell` 7.6.7 → 7.6.7_1, `pytorch` 2.14.1 → 2.14.1_1, `sbt` 2.0.10 → 2.0.11 …
+- **Registered 4 casks**: `artcraft-launcher`, `opendisplay-receiver`, `tutti`, `zeal`
+- Updated 44 casks: `adrafinil` 1.13.0 → 1.13.1, `bettertouchtool@alpha` 6.943,2026101701 → 6.947,2026101706, `capso` 1.2.3 → 1.2.4, `clop` 3.5.1 → 3.6.0, `cog-app` 3790,a46091bae → 3805,a187e7795, `corretto` 26.0.2.11.1 → 27.0.0.35.1, `deckcraft` 0.7.0 → 0.8.0, `designcraft` 0.8.0 → 0.9.0, `diversion` 1.6.567 → 1.6.568, `element@nightly` 2026101701 → 2026101801, `figcraft` 0.6.0 → 0.7.0, `filmcraft` 0.8.0 → 0.9.0, `freelens@nightly` 2.0.0-0-nightly-2026-10-17 → 2.0.0-0-nightly-2026-10-18, `gridcraft` 0.7.0 → 0.8.0, `headroom` 0.9.42 → 0.9.43, `hol-guard` 3.0.139 → 3.0.140, `iloader` 2.3.9 → 2.3.10, `iterm2@nightly` 3_7_20261017 → 3_7_20261018, `lightcraft` 0.8.0 → 0.9.1, `llama-app` 0.44.0 → 0.45.0, `lobehub` 2.2.19 → 2.2.20, `lulu` 4.5.1 → 4.5.2, `markedit` 1.36.0 → 1.37.0, `mindroom` 2026.10.340 → 2026.10.350, `openaudible` 5.0.2 → 5.0.3 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-18T04:41:33Z
 
 - **Registered 2 formulae**: `bqlog`, `pdfcraft-cli`

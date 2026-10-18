@@ -1,0 +1,405 @@
+{
+ "synced_at": "2026-10-18T12:38:51Z",
+ "casks": {
+  "added": [
+   "artcraft-launcher",
+   "opendisplay-receiver",
+   "tutti",
+   "zeal"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.13.0",
+    "name": "adrafinil",
+    "to": "1.13.1"
+   },
+   {
+    "from": "6.943,2026101701",
+    "name": "bettertouchtool@alpha",
+    "to": "6.947,2026101706"
+   },
+   {
+    "from": "1.2.3",
+    "name": "capso",
+    "to": "1.2.4"
+   },
+   {
+    "from": "3.5.1",
+    "name": "clop",
+    "to": "3.6.0"
+   },
+   {
+    "from": "3790,a46091bae",
+    "name": "cog-app",
+    "to": "3805,a187e7795"
+   },
+   {
+    "from": "26.0.2.11.1",
+    "name": "corretto",
+    "to": "27.0.0.35.1"
+   },
+   {
+    "from": "0.7.0",
+    "name": "deckcraft",
+    "to": "0.8.0"
+   },
+   {
+    "from": "0.8.0",
+    "name": "designcraft",
+    "to": "0.9.0"
+   },
+   {
+    "from": "1.6.567",
+    "name": "diversion",
+    "to": "1.6.568"
+   },
+   {
+    "from": "2026101701",
+    "name": "element@nightly",
+    "to": "2026101801"
+   },
+   {
+    "from": "0.6.0",
+    "name": "figcraft",
+    "to": "0.7.0"
+   },
+   {
+    "from": "0.8.0",
+    "name": "filmcraft",
+    "to": "0.9.0"
+   },
+   {
+    "from": "2.0.0-0-nightly-2026-10-17",
+    "name": "freelens@nightly",
+    "to": "2.0.0-0-nightly-2026-10-18"
+   },
+   {
+    "from": "0.7.0",
+    "name": "gridcraft",
+    "to": "0.8.0"
+   },
+   {
+    "from": "0.9.42",
+    "name": "headroom",
+    "to": "0.9.43"
+   },
+   {
+    "from": "3.0.139",
+    "name": "hol-guard",
+    "to": "3.0.140"
+   },
+   {
+    "from": "2.3.9",
+    "name": "iloader",
+    "to": "2.3.10"
+   },
+   {
+    "from": "3_7_20261017",
+    "name": "iterm2@nightly",
+    "to": "3_7_20261018"
+   },
+   {
+    "from": "0.8.0",
+    "name": "lightcraft",
+    "to": "0.9.1"
+   },
+   {
+    "from": "0.44.0",
+    "name": "llama-app",
+    "to": "0.45.0"
+   },
+   {
+    "from": "2.2.19",
+    "name": "lobehub",
+    "to": "2.2.20"
+   },
+   {
+    "from": "4.5.1",
+    "name": "lulu",
+    "to": "4.5.2"
+   },
+   {
+    "from": "1.36.0",
+    "name": "markedit",
+    "to": "1.37.0"
+   },
+   {
+    "from": "2026.10.340",
+    "name": "mindroom",
+    "to": "2026.10.350"
+   },
+   {
+    "from": "5.0.2",
+    "name": "openaudible",
+    "to": "5.0.3"
+   },
+   {
+    "from": "1.5.4",
+    "name": "otty",
+    "to": "1.6.1"
+   },
+   {
+    "from": "0.8.0",
+    "name": "pdfcraft",
+    "to": "0.9.0"
+   },
+   {
+    "from": "1.11.1",
+    "name": "phosphene",
+    "to": "1.11.2"
+   },
+   {
+    "from": "0.9.0",
+    "name": "photocraft",
+    "to": "0.10.0"
+   },
+   {
+    "from": "2026.11.0-daily-78",
+    "name": "rstudio@daily",
+    "to": "2026.11.0-daily-80"
+   },
+   {
+    "from": "3.9.0",
+    "name": "snapline",
+    "to": "4.0.0"
+   },
+   {
+    "from": "2.31.2",
+    "name": "spokenly",
+    "to": "2.31.3"
+   },
+   {
+    "from": "3.0.21",
+    "name": "stats",
+    "to": "3.0.22"
+   },
+   {
+    "from": "6.6.1.28025",
+    "name": "sunlogincontrol",
+    "to": "6.7.1.30758"
+   },
+   {
+    "from": "0.1.1-nightly.20261018.3285",
+    "name": "t3-code@nightly",
+    "to": "0.1.1-nightly.20261018.3302"
+   },
+   {
+    "from": "0.28.1-4,20261017-1003c93",
+    "name": "tabularis@nightly",
+    "to": "0.28.1-5,20261018-27a2489"
+   },
+   {
+    "from": "3.2.2",
+    "name": "tal-drum",
+    "to": "3.3.1"
+   },
+   {
+    "from": "1.10.4",
+    "name": "thecommander",
+    "to": "1.10.5"
+   },
+   {
+    "from": "0.73.0",
+    "name": "token-monitor",
+    "to": "0.74.0"
+   },
+   {
+    "from": "0.18.1",
+    "name": "tungsten-edge",
+    "to": "0.18.2"
+   },
+   {
+    "from": "0.12.0",
+    "name": "vectorcraft",
+    "to": "0.13.1"
+   },
+   {
+    "from": "2.1,325",
+    "name": "virtualbuddy",
+    "to": "2.2,428"
+   },
+   {
+    "from": "17.1.2",
+    "name": "waves-central",
+    "to": "17.1.3"
+   },
+   {
+    "from": "0.7.0",
+    "name": "wordcraft",
+    "to": "0.8.0"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.4.5_2",
+    "name": "backgroundremover",
+    "to": "0.4.5_3"
+   },
+   {
+    "from": "0.34.0",
+    "name": "bitbucket-cli",
+    "to": "0.35.0"
+   },
+   {
+    "from": "2.20.1",
+    "name": "dagu",
+    "to": "2.21.0"
+   },
+   {
+    "from": "10.0.401_1",
+    "name": "dotnet",
+    "to": "10.0.402"
+   },
+   {
+    "from": "0.10.7",
+    "name": "evnx",
+    "to": "0.10.8"
+   },
+   {
+    "from": "3.34.0",
+    "name": "fallow",
+    "to": "3.34.1"
+   },
+   {
+    "from": "0.78.0",
+    "name": "flix",
+    "to": "0.79.0"
+   },
+   {
+    "from": "1.86.0_4",
+    "name": "gobject-introspection",
+    "to": "1.86.0_5"
+   },
+   {
+    "from": "3.3.4",
+    "name": "haraka",
+    "to": "3.3.5"
+   },
+   {
+    "from": "0.24.2865",
+    "name": "jackett",
+    "to": "0.24.2867"
+   },
+   {
+    "from": "3.6.135",
+    "name": "keploy",
+    "to": "3.6.140"
+   },
+   {
+    "from": "2.2.1",
+    "name": "libpeas",
+    "to": "2.2.1_1"
+   },
+   {
+    "from": "0.5.3_1",
+    "name": "libsigrokdecode",
+    "to": "0.5.3_2"
+   },
+   {
+    "from": "0.9.0",
+    "name": "merman-cli",
+    "to": "0.9.1"
+   },
+   {
+    "from": "10.2.0",
+    "name": "n",
+    "to": "11.0.0"
+   },
+   {
+    "from": "20.4.2",
+    "name": "oh-my-agent",
+    "to": "20.5.0"
+   },
+   {
+    "from": "20250625_7",
+    "name": "openai-whisper",
+    "to": "20250625_8"
+   },
+   {
+    "from": "0.5.10",
+    "name": "opencrabs",
+    "to": "0.5.11"
+   },
+   {
+    "from": "0.8.0",
+    "name": "pdfcraft-cli",
+    "to": "0.9.0"
+   },
+   {
+    "from": "6.2.0",
+    "name": "phantom",
+    "to": "6.3.1"
+   },
+   {
+    "from": "0.9.0",
+    "name": "photocraft-cli",
+    "to": "0.10.0"
+   },
+   {
+    "from": "3.3.0_1",
+    "name": "pocket-tts",
+    "to": "3.3.0_2"
+   },
+   {
+    "from": "7.6.7",
+    "name": "powershell",
+    "to": "7.6.7_1"
+   },
+   {
+    "from": "2.14.1",
+    "name": "pytorch",
+    "to": "2.14.1_1"
+   },
+   {
+    "from": "2.0.10",
+    "name": "sbt",
+    "to": "2.0.11"
+   },
+   {
+    "from": "2.3.4",
+    "name": "snobol4",
+    "to": "2.3.5"
+   },
+   {
+    "from": "1.2.2",
+    "name": "tgrep",
+    "to": "1.2.3"
+   },
+   {
+    "from": "1.8.6",
+    "name": "tombi",
+    "to": "1.8.7"
+   },
+   {
+    "from": "0.29.1",
+    "name": "torchvision",
+    "to": "0.29.1_1"
+   },
+   {
+    "from": "0.21.12",
+    "name": "unrtf",
+    "to": "0.21.13"
+   },
+   {
+    "from": "2_4",
+    "name": "vapoursynth-imwri",
+    "to": "2_5"
+   },
+   {
+    "from": "2.16.0",
+    "name": "wails",
+    "to": "2.17.0"
+   },
+   {
+    "from": "0.8.5",
+    "name": "zeroclaw",
+    "to": "0.8.6"
+   }
+  ]
+ }
+}
