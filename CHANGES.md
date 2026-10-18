@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-18T18:40:24Z
+
+- Updated 50 formulae: `concord` 2.6.2 → 2.6.3, `libsail` 1.3.0 → 1.3.1, `ntfy` 2.31.1 → 2.32.0, `openfasttrace` 4.10.0 → 4.11.0, `openfpgaloader` 1.1.1 → 1.2.0, `packslip` 1.8.0 → 1.9.0, `pgbackrest` 2.59.3_1 → 2.60.0, `phantom` 6.3.1 → 6.3.2, `pipenv` 2026.9.1 → 2026.10.0, `pipx` 1.18.2 → 1.18.3, `pitchfork` 2.31.0 → 2.32.0, `qt3d` 6.12.0 → 6.12.0_1, `qt5compat` 6.12.0 → 6.12.0_1, `qtbase` 6.12.0 → 6.12.0_1, `qtcanvaspainter` 6.12.0 → 6.12.0_1, `qtcharts` 6.12.0 → 6.12.0_1, `qtconnectivity` 6.12.0 → 6.12.0_1, `qtdatavis3d` 6.12.0 → 6.12.0_1, `qtdeclarative` 6.12.0 → 6.12.0_1, `qtgraphs` 6.12.0 → 6.12.0_1, `qtgrpc` 6.12.0 → 6.12.0_1, `qthttpserver` 6.12.0 → 6.12.0_1, `qtlocation` 6.12.0 → 6.12.0_1, `qtlottie` 6.12.0 → 6.12.0_1, `qtmultimedia` 6.12.0 → 6.12.0_1 …
+- Updated 37 casks: `bettermacwidgets` 2.4.0 → 2.5.0, `bettertouchtool` 6.944,2026101702 → 6.949,2026101801, `bettertouchtool@alpha` 6.947,2026101706 → 6.949,2026101801, `bitmuse` 1.4.4 → 1.4.5, `boltai` 2.18.0 → 2.18.1, `brilliant` 1.0.0-beta.107 → 1.0.0-beta.108, `clash-party` 2.0.3 → 2.0.4, `codexia` 0.56.0 → 0.57.0, `dolphin@dev` 2609-92,50,79 → 2609-100,5b,8d, `drawio` 32.4.1 → 32.5.5, `drawpen` 0.0.59 → 0.0.60, `firefox@nightly` 160.0a1,2026-10-17-21-03-36 → 160.0a1,2026-10-18-09-43-10, `fmail3` 3.0.0 → 3.0.1, `font-sketchybar-app-font` 3.0.9 → 3.0.10, `ghost-downloader` 4.4.0 → 4.4.2, `ghostex` 10.25.1 → 10.26.0, `jet-pilot` 2.2.2 → 2.2.3, `kaku` 0.24.0 → 0.25.0, `keepassxc@beta` 2.7.12 → 2.8.0-beta1, `lunar` 6.11.1 → 6.11.2, `maa` 6.19.0 → 6.20.0, `macloggerdx@beta` 6.63b11 → 6.63b12, `mark-text` 0.21.2 → 0.22.0, `markdown-preview` 0.0.67 → 0.0.68, `mole-app` 1.16.0 → 1.17.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-18T12:38:51Z
 
 - Updated 33 formulae: `backgroundremover` 0.4.5_2 → 0.4.5_3, `bitbucket-cli` 0.34.0 → 0.35.0, `dagu` 2.20.1 → 2.21.0, `dotnet` 10.0.401_1 → 10.0.402, `evnx` 0.10.7 → 0.10.8, `fallow` 3.34.0 → 3.34.1, `flix` 0.78.0 → 0.79.0, `gobject-introspection` 1.86.0_4 → 1.86.0_5, `haraka` 3.3.4 → 3.3.5, `jackett` 0.24.2865 → 0.24.2867, `keploy` 3.6.135 → 3.6.140, `libpeas` 2.2.1 → 2.2.1_1, `libsigrokdecode` 0.5.3_1 → 0.5.3_2, `merman-cli` 0.9.0 → 0.9.1, `n` 10.2.0 → 11.0.0, `oh-my-agent` 20.4.2 → 20.5.0, `openai-whisper` 20250625_7 → 20250625_8, `opencrabs` 0.5.10 → 0.5.11, `pdfcraft-cli` 0.8.0 → 0.9.0, `phantom` 6.2.0 → 6.3.1, `photocraft-cli` 0.9.0 → 0.10.0, `pocket-tts` 3.3.0_1 → 3.3.0_2, `powershell` 7.6.7 → 7.6.7_1, `pytorch` 2.14.1 → 2.14.1_1, `sbt` 2.0.10 → 2.0.11 …
