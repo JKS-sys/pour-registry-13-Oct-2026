@@ -1,0 +1,417 @@
+{
+ "synced_at": "2026-10-19T04:49:48Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2.0.20",
+    "name": "argo-books",
+    "to": "2.0.21"
+   },
+   {
+    "from": "2.10.1,142",
+    "name": "backdrop",
+    "to": "2.10.2,143"
+   },
+   {
+    "from": "6.949,2026101801",
+    "name": "bettertouchtool",
+    "to": "6.951,2026101803"
+   },
+   {
+    "from": "2.5.2",
+    "name": "binance",
+    "to": "2.6.0"
+   },
+   {
+    "from": "7.2.2,8443",
+    "name": "carbon-copy-cloner",
+    "to": "7.2.2,8446"
+   },
+   {
+    "from": "2.1.6",
+    "name": "cherry-studio",
+    "to": "2.1.7"
+   },
+   {
+    "from": "2.42304.0,e7f60e658f15cfece9efa384a78a39aec3c12845",
+    "name": "claude",
+    "to": "2.42304.2,af65c0e384c1657459441aac3083c6e622789afe"
+   },
+   {
+    "from": "2.1.302",
+    "name": "claude-code@latest",
+    "to": "2.1.303"
+   },
+   {
+    "from": "0.5.16",
+    "name": "claudebar",
+    "to": "0.5.17"
+   },
+   {
+    "from": "3.6.0",
+    "name": "clop",
+    "to": "3.6.1"
+   },
+   {
+    "from": "3805,a187e7795",
+    "name": "cog-app",
+    "to": "3810,ef45e7982"
+   },
+   {
+    "from": "1.554.0",
+    "name": "copilot-language-server",
+    "to": "1.555.0"
+   },
+   {
+    "from": "20261009",
+    "name": "db-browser-for-sqlcipher@nightly",
+    "to": "20261019"
+   },
+   {
+    "from": "20261009",
+    "name": "db-browser-for-sqlite@nightly",
+    "to": "20261019"
+   },
+   {
+    "from": "26.2.2",
+    "name": "dbeaver-community",
+    "to": "26.2.3"
+   },
+   {
+    "from": "0.6.47",
+    "name": "dbx",
+    "to": "0.6.48"
+   },
+   {
+    "from": "2.9.35",
+    "name": "dockside",
+    "to": "2.9.36"
+   },
+   {
+    "from": "2609-100,5b,8d",
+    "name": "dolphin@dev",
+    "to": "2609-102,e5,4f"
+   },
+   {
+    "from": "160.0a1,2026-10-18-09-43-10",
+    "name": "firefox@nightly",
+    "to": "160.0a1,2026-10-18-21-18-30"
+   },
+   {
+    "from": "4.18.80",
+    "name": "flashspace",
+    "to": "4.18.81"
+   },
+   {
+    "from": "2026.1017.133957",
+    "name": "fluxer",
+    "to": "2026.1018.223338"
+   },
+   {
+    "from": "5.54.1",
+    "name": "gcs",
+    "to": "5.55.0"
+   },
+   {
+    "from": "18253,73e4ff10fb2b30d1ab6e6f7f52ef33f3a0593dcc",
+    "name": "ghostty@tip",
+    "to": "18266,d8619f1bce383090260221dab5f62fc953d1280b"
+   },
+   {
+    "from": "3.8.10",
+    "name": "incy",
+    "to": "3.9.0"
+   },
+   {
+    "from": "1.1.10",
+    "name": "longplay",
+    "to": "1.1.11"
+   },
+   {
+    "from": "0.54.1",
+    "name": "maestri",
+    "to": "0.54.2"
+   },
+   {
+    "from": "3.2.22,1240",
+    "name": "marked-app",
+    "to": "3.2.23,1241"
+   },
+   {
+    "from": "2026.10.350",
+    "name": "mindroom",
+    "to": "2026.10.370"
+   },
+   {
+    "from": "7.2",
+    "name": "netnewswire@beta",
+    "to": "7.2.1b1"
+   },
+   {
+    "from": "1.2.3.3,196",
+    "name": "nostalgiapp",
+    "to": "1.2.3.4,197"
+   },
+   {
+    "from": "4.14.1",
+    "name": "ontime",
+    "to": "4.15.0"
+   },
+   {
+    "from": "1.2.9",
+    "name": "opendisk",
+    "to": "1.3.0"
+   },
+   {
+    "from": "4.0.1,17728-983c847c-b4b8cc77",
+    "name": "openshot-video-editor@daily",
+    "to": "4.0.1,17788-79769911-c6d22664"
+   },
+   {
+    "from": "26.9.2",
+    "name": "orcasheets",
+    "to": "26.10.1"
+   },
+   {
+    "from": "0.9.32",
+    "name": "petal",
+    "to": "0.9.33"
+   },
+   {
+    "from": "26.1.0,260100",
+    "name": "proxyman",
+    "to": "26.2.0,260200"
+   },
+   {
+    "from": "0.1.3303",
+    "name": "reader",
+    "to": "0.1.3306"
+   },
+   {
+    "from": "0.10.1",
+    "name": "repobar",
+    "to": "0.10.2"
+   },
+   {
+    "from": "4.0.0",
+    "name": "snapline",
+    "to": "4.1.0"
+   },
+   {
+    "from": "1.5.4",
+    "name": "spatterlight",
+    "to": "1.5.5"
+   },
+   {
+    "from": "0.1.1-nightly.20261018.3315",
+    "name": "t3-code@nightly",
+    "to": "0.1.1-nightly.20261018.3335"
+   },
+   {
+    "from": "3.3.1",
+    "name": "thelowtechguys-cling",
+    "to": "3.3.2"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [
+   "phpmd"
+  ],
+  "updated": [
+   {
+    "from": "2026.06.09",
+    "name": "abcmidi",
+    "to": "2026.10.16"
+   },
+   {
+    "from": "1.4.11",
+    "name": "apko",
+    "to": "1.4.12"
+   },
+   {
+    "from": "0.97",
+    "name": "astrometry-net",
+    "to": "0.97_1"
+   },
+   {
+    "from": "1.7.4",
+    "name": "cargo-run-bin",
+    "to": "1.7.5"
+   },
+   {
+    "from": "4.14.1_2",
+    "name": "ccache",
+    "to": "4.14.2"
+   },
+   {
+    "from": "2026.7.22_1",
+    "name": "certifi",
+    "to": "2026.10.18"
+   },
+   {
+    "from": "7.6.0",
+    "name": "chardet",
+    "to": "7.7.0"
+   },
+   {
+    "from": "0.61.0",
+    "name": "cpp-httplib",
+    "to": "0.62.0"
+   },
+   {
+    "from": "0.63.0",
+    "name": "dprint",
+    "to": "0.64.0"
+   },
+   {
+    "from": "25.1.1",
+    "name": "eas-cli",
+    "to": "25.2.0"
+   },
+   {
+    "from": "1.4.525",
+    "name": "fabric-ai",
+    "to": "1.4.526"
+   },
+   {
+    "from": "1.32.16",
+    "name": "gallery-dl",
+    "to": "1.32.17"
+   },
+   {
+    "from": "2.1.0",
+    "name": "gearman",
+    "to": "2.2.0"
+   },
+   {
+    "from": "0.52_2",
+    "name": "gocr",
+    "to": "0.52_3"
+   },
+   {
+    "from": "0.7.6_3",
+    "name": "gts",
+    "to": "0.7.6_4"
+   },
+   {
+    "from": "1.4.0",
+    "name": "ijq",
+    "to": "1.4.1"
+   },
+   {
+    "from": "0.98.1",
+    "name": "jcode",
+    "to": "0.99.0"
+   },
+   {
+    "from": "0.33.2",
+    "name": "karakeep",
+    "to": "0.34.0"
+   },
+   {
+    "from": "0.19.7",
+    "name": "lfk",
+    "to": "0.19.8"
+   },
+   {
+    "from": "0.62.1",
+    "name": "melange",
+    "to": "0.63.0"
+   },
+   {
+    "from": "5.26.2",
+    "name": "metview",
+    "to": "5.27.0"
+   },
+   {
+    "from": "2.24.21",
+    "name": "minify",
+    "to": "2.24.22"
+   },
+   {
+    "from": "2.29.6",
+    "name": "mycli",
+    "to": "2.30.0"
+   },
+   {
+    "from": "11.02.30",
+    "name": "netpbm",
+    "to": "10.86.51"
+   },
+   {
+    "from": "1.33.0",
+    "name": "oasdiff",
+    "to": "1.34.0"
+   },
+   {
+    "from": "20.5.0",
+    "name": "oh-my-agent",
+    "to": "20.5.1"
+   },
+   {
+    "from": "3.0.0",
+    "name": "onefetch",
+    "to": "3.1.0"
+   },
+   {
+    "from": "1.3.4",
+    "name": "oras",
+    "to": "1.3.5"
+   },
+   {
+    "from": "44.164.10",
+    "name": "renovate",
+    "to": "44.167.0"
+   },
+   {
+    "from": "1.15.0",
+    "name": "resterm",
+    "to": "1.16.0"
+   },
+   {
+    "from": "2.6.4",
+    "name": "shimmy",
+    "to": "2.6.5"
+   },
+   {
+    "from": "6.5.2",
+    "name": "snx-rs",
+    "to": "6.5.3"
+   },
+   {
+    "from": "15.6.1",
+    "name": "technitium-dns",
+    "to": "15.6.2"
+   },
+   {
+    "from": "15.6.1",
+    "name": "technitium-library",
+    "to": "15.6.2"
+   },
+   {
+    "from": "0.9.0",
+    "name": "termaid",
+    "to": "0.9.1"
+   },
+   {
+    "from": "1.8.7",
+    "name": "tombi",
+    "to": "1.8.8"
+   },
+   {
+    "from": "0.9.1",
+    "name": "treemd",
+    "to": "0.10.0"
+   },
+   {
+    "from": "0.16.0",
+    "name": "zls",
+    "to": "0.17.0"
+   }
+  ]
+ }
+}

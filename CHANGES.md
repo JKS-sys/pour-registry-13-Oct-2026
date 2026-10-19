@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-19T04:49:48Z
+
+- **De-registered 1 formulae**: `phpmd`
+- Updated 38 formulae: `abcmidi` 2026.06.09 → 2026.10.16, `apko` 1.4.11 → 1.4.12, `astrometry-net` 0.97 → 0.97_1, `cargo-run-bin` 1.7.4 → 1.7.5, `ccache` 4.14.1_2 → 4.14.2, `certifi` 2026.7.22_1 → 2026.10.18, `chardet` 7.6.0 → 7.7.0, `cpp-httplib` 0.61.0 → 0.62.0, `dprint` 0.63.0 → 0.64.0, `eas-cli` 25.1.1 → 25.2.0, `fabric-ai` 1.4.525 → 1.4.526, `gallery-dl` 1.32.16 → 1.32.17, `gearman` 2.1.0 → 2.2.0, `gocr` 0.52_2 → 0.52_3, `gts` 0.7.6_3 → 0.7.6_4, `ijq` 1.4.0 → 1.4.1, `jcode` 0.98.1 → 0.99.0, `karakeep` 0.33.2 → 0.34.0, `lfk` 0.19.7 → 0.19.8, `melange` 0.62.1 → 0.63.0, `metview` 5.26.2 → 5.27.0, `minify` 2.24.21 → 2.24.22, `mycli` 2.29.6 → 2.30.0, `netpbm` 11.02.30 → 10.86.51, `oasdiff` 1.33.0 → 1.34.0 …
+- Updated 42 casks: `argo-books` 2.0.20 → 2.0.21, `backdrop` 2.10.1,142 → 2.10.2,143, `bettertouchtool` 6.949,2026101801 → 6.951,2026101803, `binance` 2.5.2 → 2.6.0, `carbon-copy-cloner` 7.2.2,8443 → 7.2.2,8446, `cherry-studio` 2.1.6 → 2.1.7, `claude` 2.42304.0,e7f60e658f15cfece9efa384a78a39aec3c12845 → 2.42304.2,af65c0e384c1657459441aac3083c6e622789afe, `claude-code@latest` 2.1.302 → 2.1.303, `claudebar` 0.5.16 → 0.5.17, `clop` 3.6.0 → 3.6.1, `cog-app` 3805,a187e7795 → 3810,ef45e7982, `copilot-language-server` 1.554.0 → 1.555.0, `db-browser-for-sqlcipher@nightly` 20261009 → 20261019, `db-browser-for-sqlite@nightly` 20261009 → 20261019, `dbeaver-community` 26.2.2 → 26.2.3, `dbx` 0.6.47 → 0.6.48, `dockside` 2.9.35 → 2.9.36, `dolphin@dev` 2609-100,5b,8d → 2609-102,e5,4f, `firefox@nightly` 160.0a1,2026-10-18-09-43-10 → 160.0a1,2026-10-18-21-18-30, `flashspace` 4.18.80 → 4.18.81, `fluxer` 2026.1017.133957 → 2026.1018.223338, `gcs` 5.54.1 → 5.55.0, `ghostty@tip` 18253,73e4ff10fb2b30d1ab6e6f7f52ef33f3a0593dcc → 18266,d8619f1bce383090260221dab5f62fc953d1280b, `incy` 3.8.10 → 3.9.0, `longplay` 1.1.10 → 1.1.11 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-18T22:27:36Z
 
 - Updated 29 formulae: `b4n` 1.1.0 → 1.2.0, `bump-my-version` 1.6.0 → 1.6.1, `ccusage` 20.0.35 → 20.0.36, `dartsim` 6.20.0 → 6.20.1, `dbmate` 2.36.0 → 2.37.0, `fabric-ai` 1.4.524 → 1.4.525, `fakecloud` 0.50.0 → 0.51.0, `flexget` 3.22.4 → 3.22.5, `fobis` 3.9.11 → 3.9.12, `gitea` 28.1.0 → 28.2.0, `gitea-mcp-server` 1.9.0 → 1.10.0, `libical` 4.0.6 → 4.0.7, `mise` 2026.10.13 → 2026.10.14, `mk-configure` 0.40.1 → 0.40.2, `mkvtoolnix` 102.0 → 103.0, `nng` 1.12.4 → 2.0.0, `noodle` 0.10.0 → 0.10.1, `nuitka` 4.3 → 4.3.1, `panache` 3.16.0 → 3.17.0, `pcsc-lite` 2.5.2 → 2.5.3, `render` 2.29.0 → 2.30.0, `rollup` 4.64.8 → 4.64.9, `rqlite` 10.6.1 → 10.6.2, `rulesync` 36.0.2 → 37.1.0, `supermodel` 0.3a-20261017-git-b05ef21 → 0.3a-20261018-git-ddbc306 …
