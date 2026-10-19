@@ -1,0 +1,307 @@
+{
+ "synced_at": "2026-10-19T21:07:38Z",
+ "casks": {
+  "added": [
+   "status-trio"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "3.0.2,1023",
+    "name": "airbuddy",
+    "to": "3.0.3,1034"
+   },
+   {
+    "from": "3.1.9",
+    "name": "airparrot",
+    "to": "3.1.10"
+   },
+   {
+    "from": "2.13.2",
+    "name": "almighty",
+    "to": "2.13.3"
+   },
+   {
+    "from": "1.3.0",
+    "name": "clawd-on-desk",
+    "to": "1.4.0"
+   },
+   {
+    "from": "4.95.0,242831",
+    "name": "docker-desktop",
+    "to": "4.96.0,243774"
+   },
+   {
+    "from": "2.23.0",
+    "name": "easydict",
+    "to": "2.24.0"
+   },
+   {
+    "from": "0.11.829",
+    "name": "genoffice",
+    "to": "0.11.919"
+   },
+   {
+    "from": "0.3.0",
+    "name": "gitcomet",
+    "to": "0.3.1"
+   },
+   {
+    "from": "1.201.0.0",
+    "name": "grammarly-desktop",
+    "to": "1.202.0.0"
+   },
+   {
+    "from": "1.4.6",
+    "name": "incident-io",
+    "to": "1.4.7"
+   },
+   {
+    "from": "1.3.11",
+    "name": "kiro",
+    "to": "1.4.0"
+   },
+   {
+    "from": "0.107.1",
+    "name": "lody",
+    "to": "0.107.2"
+   },
+   {
+    "from": "1.3.0",
+    "name": "ltx-desktop",
+    "to": "1.3.1"
+   },
+   {
+    "from": "1.37.599",
+    "name": "meetmic",
+    "to": "1.37.601"
+   },
+   {
+    "from": "1.0.0",
+    "name": "notomo",
+    "to": "1.1.0"
+   },
+   {
+    "from": "0.1.3307",
+    "name": "reader",
+    "to": "0.1.3310"
+   },
+   {
+    "from": "4.1.2",
+    "name": "reflector",
+    "to": "4.1.3"
+   },
+   {
+    "from": "3.3.1",
+    "name": "reqable",
+    "to": "3.3.2"
+   },
+   {
+    "from": "1.38.0",
+    "name": "superset",
+    "to": "1.39.0"
+   },
+   {
+    "from": "13.0,283343",
+    "name": "telegram@beta",
+    "to": "13.0,283344"
+   },
+   {
+    "from": "0.5.19",
+    "name": "thoughtdag",
+    "to": "0.5.20"
+   },
+   {
+    "from": "159.0b2",
+    "name": "thunderbird@beta",
+    "to": "159.0b3"
+   },
+   {
+    "from": "3.6.1",
+    "name": "ukelele",
+    "to": "3.7.0"
+   },
+   {
+    "from": "1.0.2834",
+    "name": "unblocked",
+    "to": "1.0.2890"
+   },
+   {
+    "from": "0.1.908-beta",
+    "name": "unsloth",
+    "to": "0.1.909-beta"
+   },
+   {
+    "from": "8.3.4185.3",
+    "name": "vivaldi@snapshot",
+    "to": "8.3.4190.36"
+   },
+   {
+    "from": "2.88.1.610,0f1fc5bc1c36b43b1c330ef32639c08d",
+    "name": "yuanbao",
+    "to": "2.89.0.612,986b3e73d8faaf00f51c42bb05babe74"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2.7.2",
+    "name": "aube",
+    "to": "2.8.0"
+   },
+   {
+    "from": "1.37.0",
+    "name": "auth0",
+    "to": "1.38.0"
+   },
+   {
+    "from": "0.44.0",
+    "name": "aws-crt-cpp",
+    "to": "0.44.1"
+   },
+   {
+    "from": "4.2.1",
+    "name": "azqr",
+    "to": "4.2.2"
+   },
+   {
+    "from": "60.0.0",
+    "name": "bazel-diff",
+    "to": "61.0.0"
+   },
+   {
+    "from": "1.6.1",
+    "name": "bump-my-version",
+    "to": "1.6.2"
+   },
+   {
+    "from": "6.48.0",
+    "name": "cloudquery",
+    "to": "6.49.0"
+   },
+   {
+    "from": "21.2.3",
+    "name": "commitlint",
+    "to": "21.2.4"
+   },
+   {
+    "from": "0.31.0",
+    "name": "durdraw",
+    "to": "0.31.1"
+   },
+   {
+    "from": "1.13.0",
+    "name": "elio",
+    "to": "1.14.0"
+   },
+   {
+    "from": "0.143.5",
+    "name": "fastapi",
+    "to": "0.144.0"
+   },
+   {
+    "from": "5.162.0",
+    "name": "fern-api",
+    "to": "5.164.0"
+   },
+   {
+    "from": "1.45.0",
+    "name": "gammu",
+    "to": "1.45.1"
+   },
+   {
+    "from": "3.12.1",
+    "name": "gcsfuse",
+    "to": "3.13.0"
+   },
+   {
+    "from": "3.0.1",
+    "name": "geoserver",
+    "to": "3.0.2"
+   },
+   {
+    "from": "2.13.1",
+    "name": "httpx2",
+    "to": "2.14.0"
+   },
+   {
+    "from": "0.23.0",
+    "name": "hunk",
+    "to": "0.24.0"
+   },
+   {
+    "from": "1.62.0",
+    "name": "jdtls",
+    "to": "1.63.0"
+   },
+   {
+    "from": "12.9.3",
+    "name": "limine",
+    "to": "12.9.4"
+   },
+   {
+    "from": "6.9",
+    "name": "lxc",
+    "to": "6.10.0"
+   },
+   {
+    "from": "2.2.21",
+    "name": "md2pdf",
+    "to": "2.2.23"
+   },
+   {
+    "from": "25.0.0",
+    "name": "qsv",
+    "to": "26.0.0"
+   },
+   {
+    "from": "4.64.9",
+    "name": "rollup",
+    "to": "4.64.10"
+   },
+   {
+    "from": "0.8.0.1",
+    "name": "s6-rc",
+    "to": "0.8.0.2"
+   },
+   {
+    "from": "4.31.1",
+    "name": "schemathesis",
+    "to": "4.32.0"
+   },
+   {
+    "from": "0.27.0_1",
+    "name": "sem-cli",
+    "to": "0.28.1"
+   },
+   {
+    "from": "0.31.12",
+    "name": "sofka",
+    "to": "0.31.13"
+   },
+   {
+    "from": "1.165.1",
+    "name": "storj-uplink",
+    "to": "1.165.2"
+   },
+   {
+    "from": "1.2.0_1",
+    "name": "termscp",
+    "to": "1.2.1"
+   },
+   {
+    "from": "1.8.8",
+    "name": "tombi",
+    "to": "1.8.9"
+   },
+   {
+    "from": "0.5.4_1",
+    "name": "weave",
+    "to": "0.6.1"
+   }
+  ]
+ }
+}

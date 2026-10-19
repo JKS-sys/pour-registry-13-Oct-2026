@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-19T21:07:38Z
+
+- Updated 31 formulae: `aube` 2.7.2 → 2.8.0, `auth0` 1.37.0 → 1.38.0, `aws-crt-cpp` 0.44.0 → 0.44.1, `azqr` 4.2.1 → 4.2.2, `bazel-diff` 60.0.0 → 61.0.0, `bump-my-version` 1.6.1 → 1.6.2, `cloudquery` 6.48.0 → 6.49.0, `commitlint` 21.2.3 → 21.2.4, `durdraw` 0.31.0 → 0.31.1, `elio` 1.13.0 → 1.14.0, `fastapi` 0.143.5 → 0.144.0, `fern-api` 5.162.0 → 5.164.0, `gammu` 1.45.0 → 1.45.1, `gcsfuse` 3.12.1 → 3.13.0, `geoserver` 3.0.1 → 3.0.2, `httpx2` 2.13.1 → 2.14.0, `hunk` 0.23.0 → 0.24.0, `jdtls` 1.62.0 → 1.63.0, `limine` 12.9.3 → 12.9.4, `lxc` 6.9 → 6.10.0, `md2pdf` 2.2.21 → 2.2.23, `qsv` 25.0.0 → 26.0.0, `rollup` 4.64.9 → 4.64.10, `s6-rc` 0.8.0.1 → 0.8.0.2, `schemathesis` 4.31.1 → 4.32.0 …
+- **Registered 1 casks**: `status-trio`
+- Updated 27 casks: `airbuddy` 3.0.2,1023 → 3.0.3,1034, `airparrot` 3.1.9 → 3.1.10, `almighty` 2.13.2 → 2.13.3, `clawd-on-desk` 1.3.0 → 1.4.0, `docker-desktop` 4.95.0,242831 → 4.96.0,243774, `easydict` 2.23.0 → 2.24.0, `genoffice` 0.11.829 → 0.11.919, `gitcomet` 0.3.0 → 0.3.1, `grammarly-desktop` 1.201.0.0 → 1.202.0.0, `incident-io` 1.4.6 → 1.4.7, `kiro` 1.3.11 → 1.4.0, `lody` 0.107.1 → 0.107.2, `ltx-desktop` 1.3.0 → 1.3.1, `meetmic` 1.37.599 → 1.37.601, `notomo` 1.0.0 → 1.1.0, `reader` 0.1.3307 → 0.1.3310, `reflector` 4.1.2 → 4.1.3, `reqable` 3.3.1 → 3.3.2, `superset` 1.38.0 → 1.39.0, `telegram@beta` 13.0,283343 → 13.0,283344, `thoughtdag` 0.5.19 → 0.5.20, `thunderbird@beta` 159.0b2 → 159.0b3, `ukelele` 3.6.1 → 3.7.0, `unblocked` 1.0.2834 → 1.0.2890, `unsloth` 0.1.908-beta → 0.1.909-beta …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-19T15:41:47Z
 
 - Updated 52 formulae: `biosig` 3.9.8 → 3.9.8_1, `box2d` 3.1.1 → 3.2.0, `camlp5` 8.05.02_2 → 8.05.03, `dbx-cli` 0.4.123 → 0.4.124, `dcmtk` 3.7.0 → 3.7.1, `dillo` 3.2.0_1 → 3.3.0, `docker-agent` 1.150.0 → 1.151.0, `docker-machine` 0.16.2-gitlab.62 → 0.16.2-gitlab.63, `dumpling` 26.3.19 → 26.3.20, `execline` 2.9.9.2 → 2.10.0.0, `fastapi` 0.143.3 → 0.143.5, `fastmcp` 4.1.0 → 4.1.1, `fnox` 1.40.0 → 1.41.0, `gabo` 1.24.0 → 1.25.0, `gemini-cli` 0.46.0 → 0.64.0, `gerbv` 2.11.1 → 2.13.0, `glib-networking` 2.80.1 → 2.90.0, `grafana-alloy` 1.20.1 → 1.21.0, `hk` 2.7.0 → 2.7.1, `jackett` 0.24.2867 → 0.24.2875, `keploy` 3.6.140 → 3.6.145, `ledit` 2-07_4 → 2.08, `libsais` 2.10.4 → 2.12.0, `lighthouse` 8.2.3 → 8.3.0, `luajit` 2.1.1791988261 → 2.1.1792349434 …
