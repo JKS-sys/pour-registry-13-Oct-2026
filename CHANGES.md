@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-19T15:41:47Z
+
+- Updated 52 formulae: `biosig` 3.9.8 → 3.9.8_1, `box2d` 3.1.1 → 3.2.0, `camlp5` 8.05.02_2 → 8.05.03, `dbx-cli` 0.4.123 → 0.4.124, `dcmtk` 3.7.0 → 3.7.1, `dillo` 3.2.0_1 → 3.3.0, `docker-agent` 1.150.0 → 1.151.0, `docker-machine` 0.16.2-gitlab.62 → 0.16.2-gitlab.63, `dumpling` 26.3.19 → 26.3.20, `execline` 2.9.9.2 → 2.10.0.0, `fastapi` 0.143.3 → 0.143.5, `fastmcp` 4.1.0 → 4.1.1, `fnox` 1.40.0 → 1.41.0, `gabo` 1.24.0 → 1.25.0, `gemini-cli` 0.46.0 → 0.64.0, `gerbv` 2.11.1 → 2.13.0, `glib-networking` 2.80.1 → 2.90.0, `grafana-alloy` 1.20.1 → 1.21.0, `hk` 2.7.0 → 2.7.1, `jackett` 0.24.2867 → 0.24.2875, `keploy` 3.6.140 → 3.6.145, `ledit` 2-07_4 → 2.08, `libsais` 2.10.4 → 2.12.0, `lighthouse` 8.2.3 → 8.3.0, `luajit` 2.1.1791988261 → 2.1.1792349434 …
+- **Registered 3 casks**: `rew`, `tamery`, `textus`
+- **De-registered 1 casks**: `conar`
+- Updated 97 casks: `adobe-creative-cloud` 6.10.0.252.41 → 6.11.0.478.6, `amp-app` 1.0,780 → 1.0,790, `aptakube` 1.21.4 → 1.21.5, `bettertouchtool` 6.951,2026101803 → 6.954,2026101902, `bettertouchtool@alpha` 6.949,2026101801 → 6.953,2026101901, `bitmuse` 1.4.5 → 1.5.0, `butterkit` 3.0.06 → 3.1.01, `calyx` 0.48.0 → 0.49.0, `cc-pocket` 1.143.0,270 → 1.144.0,271, `cc-switch` 4.0.15 → 4.0.16, `colamd` 2.7.6 → 2.7.7, `copilot-language-server` 1.555.0 → 1.555.2, `crypto-native-app-ng` 26.1.20558 → 26.2.20745, `cyberghost-vpn` 8.4.7,267 → 8.4.8,291, `datadog-agent` 7.84.3-1 → 7.84.4-1, `dayflow` 2.7.1 → 2.7.2, `discord@canary` 0.0.1400 → 0.0.1401, `diversion` 1.6.568 → 1.6.595, `djstudio@next` 5.0.5-beta.1 → 5.0.6-beta.0, `duckduckgo` 1.211.1,831 → 1.212.0,845, `element@nightly` 2026101801 → 2026101901, `ente-auth` 4.4.25 → 4.4.26, `firefox@nightly` 160.0a1,2026-10-18-21-18-30 → 160.0a1,2026-10-19-07-34-00, `flexoptix` 5.68.0-latest → 5.69.0-latest, `flick` 1.1.2 → 1.1.3 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-19T04:49:48Z
 
 - **De-registered 1 formulae**: `phpmd`
