@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-20T23:13:15Z
+
+- Updated 39 formulae: `argocd` 3.5.5 → 3.5.6, `bazel-diff` 61.0.0 → 62.0.0, `bitbucket-cli` 0.35.1 → 0.35.2, `cog` 0.23.0 → 0.23.1, `cosign` 3.1.3 → 3.1.4, `dolt` 2.5.0 → 2.5.1, `dprint` 0.64.0 → 0.64.1, `evnx` 0.10.11 → 0.10.12, `exercism` 3.5.8 → 3.5.9, `faas-cli` 0.18.16 → 0.18.17, `fabric-ai` 1.4.529 → 1.4.531, `fern-api` 5.166.0 → 5.169.0, `fnox` 1.41.0 → 1.42.0, `fnt` 1.9.1 → 1.9.2, `fresh-editor` 0.5.3 → 0.5.4, `gh` 2.102.0 → 2.102.1, `gitea-runner` 5.1.1 → 5.2.0, `goat` 0.2.6 → 0.2.7, `hk` 2.7.1 → 2.8.0, `httpx2` 2.14.0 → 2.15.1, `ijq` 1.4.1 → 1.4.2, `juliaup` 1.22.7 → 1.22.10, `libjodycode` 4.1.2 → 4.2, `livekit-cli` 2.19.0 → 2.19.1, `mcp-grafana` 2.1.0 → 2.1.1 …
+- Updated 33 casks: `binary-ninja-free` 6.0.10601 → 6.0.10905, `capso` 1.2.4 → 1.2.5, `claude-code@latest` 2.1.304 → 2.1.305, `connect-fonts` 28.1.9 → 28.1.10, `cork` 2.0.3 → 2.1.0, `diversion` 1.6.641 → 1.6.667, `fossa` 3.20.4 → 3.20.5, `github@beta` 3.6.8-beta2-3e41d65d → 3.6.8-beta3-a9cbfe32, `google-chrome` 155.0.8059.85 → 156.0.8078.48, `google-chrome@canary` 158.0.8113.0 → 158.0.8114.0, `grok-bot` 0.72.0 → 0.72.1, `kiro-cli` 2.32.0 → 2.33.0, `netnewswire` 7.2 → 7.2.1, `netnewswire@beta` 7.2.1b1 → 7.3b1, `notion-cli` 0.23.20 → 0.23.21, `ocenaudio` 3.22.0 → 3.22.1, `orchard` 2.5.2 → 2.6.0, `ovito` 3.16.1 → 3.17.0, `ovito-pro` 3.16.1 → 3.17.0, `rectangle` 2.0.3 → 2.0.4, `seamly2d` 2026.10.19.145 → 2026.10.20.1823, `signal` 8.31.0 → 8.32.0, `signal@beta` 8.32.0-beta.1 → 8.33.0-beta.1, `stremio@beta` 5.1.29 → 5.1.30, `superwhisper` 3.0.1 → 3.0.2 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-20T20:01:36Z
 
 - Updated 56 formulae: `apm` 0.33.0 → 0.34.0, `batik` 1.19 → 1.20, `ca-certificates` 2026-09-25_1 → 2026-10-20, `calm-cli` 1.63.0 → 1.64.0, `chainloop-cli` 1.125.0 → 1.126.0, `chezmoi` 2.73.2 → 2.73.3, `cidr2range` 1.2.0 → 3.3.3, `clang-format` 23.1.3 → 23.1.4, `cloud-nuke` 0.52.0 → 0.53.0, `context7-mcp` 4.4.3 → 4.4.4, `ctx7` 0.8.0 → 0.8.1, `cypher-shell` 2026.09.0 → 2026.10.0, `dbx-cli` 0.4.125 → 0.4.126, `diffle` 0.2.7 → 0.2.9, `dnscrypt-proxy` 2.1.18 → 2.1.19, `evnx` 0.10.10 → 0.10.11, `fastapi` 0.147.0 → 0.148.0, `flowrs` 0.16.0 → 0.16.1, `flyctl` 0.4.119 → 0.4.120, `fop` 2.11 → 2.12, `glab` 1.123.0 → 1.124.0, `gperftools` 2.18.1 → 2.19, `grepip` 1.2.2 → 3.3.3, `hf-mcp-server` 0.4.30 → 0.4.31, `ipinfo-cli` 3.3.2 → 3.3.3 …
