@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-20T04:58:06Z
+
+- Updated 73 formulae: `all-smi` 0.28.0 → 0.28.1, `apt` 3.3.3_1 → 3.3.4, `asc` 5.15.0 → 5.16.0, `async-profiler` 4.5 → 4.6, `atmos` 1.232.0 → 1.233.0, `audacious` 4.6.1_1 → 4.6.2, `aws-iam-authenticator` 0.7.22 → 0.7.23, `bump-my-version` 1.6.2 → 1.6.3, `ccusage` 20.0.36 → 20.0.37, `cliproxyapi` 8.0.30 → 8.0.35, `closure-compiler` 20261015 → 20261018, `cocoapods` 1.17.0 → 1.17.0_1, `code2prompt` 4.2.0 → 4.3.0, `croc` 11.5.4 → 11.5.5, `dartsim` 6.20.1 → 6.20.2, `dbx-cli` 0.4.124 → 0.4.125, `diffle` 0.2.6 → 0.2.7, `doltlite` 0.51.0 → 0.51.1, `ekphos` 0.50.0 → 0.60.20, `evnx` 0.10.8 → 0.10.9, `fastapi` 0.144.0 → 0.146.0, `fern-api` 5.164.0 → 5.166.0, `flyctl` 0.4.118 → 0.4.119, `fobis` 3.9.12 → 3.10.0, `go@1.26` 1.26.9 → 1.26.10 …
+- Updated 80 casks: `adguard` 2.20.0.2626 → 2.20.1.2627, `amiberry` 8.4.1 → 8.4.2, `appzapper` 1.0 → 1.0.1,32, `bartender` 7.0.5 → 7.1.0, `calendr` 1.26.0 → 1.26.1, `calyx` 0.49.0 → 0.49.1, `carbon-copy-cloner` 7.2.2,8446 → 7.2.2,8450, `cc-pocket` 1.144.0,271 → 1.145.0,272, `claude-code` 2.1.292 → 2.1.304, `claude-code@latest` 2.1.303 → 2.1.304, `clickhouse` 26.9.21.9-stable → 26.9.22.3-stable, `cloudflare-warp` 2026.8.2110.0 → 2026.8.2115.0, `codexbar` 0.77.0 → 0.78.0, `conductor` 0.91.1,01M53GCKWM7V863PMEXTYZQ613 → 0.91.2,01M5AXSJPPGXRRABBQ1AFXNYQ8, `copilot-cli` 1.0.98 → 1.0.100, `copilot-cli@prerelease` 1.0.100-1 → 1.0.101-0, `copilot-language-server` 1.555.2 → 1.556.0, `cuadriver` 0.36.0 → 0.37.0, `cursor-cli` 2026.10.16-e3cb207 → 2026.10.19-6bbf2c4, `dbx` 0.6.48 → 0.6.49, `discord` 0.0.416 → 0.0.417, `discord@canary` 0.0.1401 → 0.0.1406, `dolphin@dev` 2609-102,e5,4f → 2609-104,14,38, `dyad` 1.19.0 → 1.20.0, `ea` 13.809.1.6324 → 13.813.0.6326 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-19T21:07:38Z
 
 - Updated 31 formulae: `aube` 2.7.2 → 2.8.0, `auth0` 1.37.0 → 1.38.0, `aws-crt-cpp` 0.44.0 → 0.44.1, `azqr` 4.2.1 → 4.2.2, `bazel-diff` 60.0.0 → 61.0.0, `bump-my-version` 1.6.1 → 1.6.2, `cloudquery` 6.48.0 → 6.49.0, `commitlint` 21.2.3 → 21.2.4, `durdraw` 0.31.0 → 0.31.1, `elio` 1.13.0 → 1.14.0, `fastapi` 0.143.5 → 0.144.0, `fern-api` 5.162.0 → 5.164.0, `gammu` 1.45.0 → 1.45.1, `gcsfuse` 3.12.1 → 3.13.0, `geoserver` 3.0.1 → 3.0.2, `httpx2` 2.13.1 → 2.14.0, `hunk` 0.23.0 → 0.24.0, `jdtls` 1.62.0 → 1.63.0, `limine` 12.9.3 → 12.9.4, `lxc` 6.9 → 6.10.0, `md2pdf` 2.2.21 → 2.2.23, `qsv` 25.0.0 → 26.0.0, `rollup` 4.64.9 → 4.64.10, `s6-rc` 0.8.0.1 → 0.8.0.2, `schemathesis` 4.31.1 → 4.32.0 …
