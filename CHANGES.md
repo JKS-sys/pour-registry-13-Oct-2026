@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-20T20:01:36Z
+
+- Updated 56 formulae: `apm` 0.33.0 → 0.34.0, `batik` 1.19 → 1.20, `ca-certificates` 2026-09-25_1 → 2026-10-20, `calm-cli` 1.63.0 → 1.64.0, `chainloop-cli` 1.125.0 → 1.126.0, `chezmoi` 2.73.2 → 2.73.3, `cidr2range` 1.2.0 → 3.3.3, `clang-format` 23.1.3 → 23.1.4, `cloud-nuke` 0.52.0 → 0.53.0, `context7-mcp` 4.4.3 → 4.4.4, `ctx7` 0.8.0 → 0.8.1, `cypher-shell` 2026.09.0 → 2026.10.0, `dbx-cli` 0.4.125 → 0.4.126, `diffle` 0.2.7 → 0.2.9, `dnscrypt-proxy` 2.1.18 → 2.1.19, `evnx` 0.10.10 → 0.10.11, `fastapi` 0.147.0 → 0.148.0, `flowrs` 0.16.0 → 0.16.1, `flyctl` 0.4.119 → 0.4.120, `fop` 2.11 → 2.12, `glab` 1.123.0 → 1.124.0, `gperftools` 2.18.1 → 2.19, `grepip` 1.2.2 → 3.3.3, `hf-mcp-server` 0.4.30 → 0.4.31, `ipinfo-cli` 3.3.2 → 3.3.3 …
+- **Registered 1 casks**: `hotkeyclash`
+- Updated 109 casks: `1password` 8.12.40 → 8.12.42, `amp-app` 1.0,800 → 1.0,810, `anarlog` 1.4.30 → 1.4.31, `arcbox` 1.38.2 → 1.38.3, `artcraft-launcher` 0.5.1 → 0.6.0, `arturia-software-center` 2.12.0.3157 → 2.13.0.3440, `bettertouchtool` 6.954,2026101902 → 6.958,2026102001, `bettertouchtool@alpha` 6.953,2026101901 → 6.958,2026102001, `bitmuse` 1.5.0 → 1.6.0, `boltai` 2.18.1 → 2.18.2, `bootstrap-studio` 8.0.1 → 9.0.0, `brilliant` 1.0.0-beta.108 → 1.0.0-beta.110, `calyx` 0.49.1 → 0.50.0, `cap` 0.6.0,01M2JE5SBQ73J4PJ6TZW168VGT → 0.6.1,01M5CGZ4SP1284TJD3KQZNZ67M, `cardhop` 2.5 → 2.5.1, `cc-switch` 4.0.16 → 4.0.17, `clickhouse` 26.9.22.3-stable → 26.9.23.15-stable, `codeql` 2.27.2 → 2.27.3, `coin-wallet` 6.30.0 → 6.31.0, `connectiq` 9.2.0,2026-06-09,92a1605b2 → 9.3.0,2026-10-20,95888f262, `copilot-cli` 1.0.100 → 1.0.101, `copilot-cli@prerelease` 1.0.101-0 → 1.0.101-1, `craft-agents` 0.15.3 → 0.15.4, `cursor` 3.25.9,5d4df965746c5d09740842fc0f1331ba1c15783d → 3.26.13,3bfec373749d3d4a53a151283022d49743ab50ba, `dbx` 0.6.49 → 0.6.50 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-20T13:36:50Z
 
 - **Registered 1 formulae**: `tpcgen-cli`
