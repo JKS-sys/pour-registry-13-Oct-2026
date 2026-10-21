@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-21T13:53:06Z
+
+- **Registered 1 formulae**: `buildkite`
+- Updated 141 formulae: `anyzig` 2026.10.13 → 2026.10.20, `appwrite` 28.7.0 → 28.8.0, `atlantis` 0.48.1 → 0.48.2, `aws-cdk` 2.1145.0 → 2.1146.0, `aws-sso-cli` 2.3.3 → 2.3.4, `azcopy` 10.32.8 → 10.34.0, `azure-dev` 1.36.0 → 1.37.0, `baguette` 0.2.8 → 0.2.10, `bazel` 9.3.0 → 9.3.1, `bazel@8` 8.8.1 → 8.8.2, `cargo-msrv` 0.19.3 → 0.19.5, `cargo-nextest` 0.9.148 → 0.9.149, `ccusage` 20.0.37 → 20.0.38, `cdk8s` 2.207.68 → 2.207.69, `chainloop-cli` 1.126.0 → 1.127.0, `closure-compiler` 20261018 → 20261019, `cloudquery` 6.49.0 → 6.49.1, `comrak` 0.56.0 → 0.57.0, `container` 1.5.0 → 1.6.0, `coredns` 1.14.7 → 1.15.0, `cpp-peglib` 1.23.0 → 1.24.0, `croaring` 5.3.0 → 5.3.1, `crowdin` 5.4.0 → 5.5.0, `dart-sass` 1.105.2 → 1.106.0, `deja-vu` 0.22.2 → 0.23.0 …
+- **Registered 1 casks**: `font-mengshen-handwritten`
+- Updated 109 casks: `a-better-finder-attributes` 7.51 → 7.52, `ableset` 3.1.8 → 3.1.9, `amp-app` 1.0,810 → 1.0,820, `antigravity-cli` 1.4.3,4577820882632704 → 1.4.4,4783783166214144, `app-cleaner` 10.0.1,2336 → 10.0.2,2399, `artcraft-launcher` 0.6.0 → 0.6.1, `asana` 2.10.2 → 2.10.3, `balenaetcher` 2.1.7 → 2.1.8, `battle-net` 1.19.3.3219 → 2.0.0.4232, `bluos-controller` 4.16.1 → 4.18.0, `cadcraft` 0.8.0 → 0.10.0, `capsomnia` 4.2.5 → 4.3.0, `cc-pocket` 1.145.2,274 → 1.145.3,275, `chatgpt` 26.1013.40934 → 26.1016.51333, `claude-code@latest` 2.1.305 → 2.1.306, `claudebar` 0.5.17 → 0.5.18, `clipbook` 2.4.0 → 2.5.0, `coderabbit` 0.9.0 → 0.9.1, `codexia` 0.57.0 → 0.58.0, `copilot-cli@prerelease` 1.0.101-1 → 1.0.102-1, `cuadriver` 0.37.0 → 0.38.0, `dayflow` 2.7.2 → 2.7.3, `dbschema` 10.5.2 → 10.6.0, `deckcraft` 0.8.0 → 0.9.0, `discord@canary` 0.0.1409 → 0.0.1412 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-21T04:57:15Z
 
 - Updated 46 formulae: `astro` 1.46.0 → 1.46.1, `aube` 2.8.0 → 2.8.1, `aws-sso-cli` 2.3.2 → 2.3.3, `aws-vault` 7.17.0 → 7.17.1, `awscli` 2.38.2 → 2.38.3, `bazel-remote` 2.6.3 → 2.6.4, `bazelisk` 1.29.0 → 1.30.0, `bend` 2.0.37 → 2.0.38, `buildkit` 0.34.0 → 0.34.1, `buildkitd` 0.34.0 → 0.34.1, `circleci` 1.7.0 → 1.9.0, `cpp-peglib` 1.22.0 → 1.23.0, `depot` 2.102.23 → 2.102.24, `docker` 29.9.1 → 29.9.2, `docker-buildx` 0.38.0 → 0.38.1, `docker-completion` 29.9.1 → 29.9.2, `docker-credential-helper` 0.9.10 → 0.9.12, `docker-engine` 29.9.1 → 29.9.2, `dxpy` 0.416.0_3 → 0.417.1, `fastapi` 0.148.0 → 0.149.0, `flexget` 3.22.5 → 3.22.6, `git-annex` 10.20261006 → 10.20261020, `granted` 0.39.0 → 0.40.0, `i2p` 2.13.0 → 2.14.0, `i2pd` 2.61.0_1 → 3.0.0 …
