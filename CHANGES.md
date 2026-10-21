@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-21T20:13:09Z
+
+- Updated 74 formulae: `anycable-go` 1.6.19 → 1.6.20, `bazel-diff` 62.0.0 → 63.0.0, `berglas` 2.0.17 → 2.0.18, `biber` 2.22 → 2.22_1, `bqlog` 2.7.0 → 2.7.1, `brotli` 1.2.0 → 1.2.0_1, `buildkite` 3.64.1 → 3.65.0, `byteman` 4.0.27 → 4.0.28.1, `camlpdf` 2.9.2_1 → 2.9.3, `cargo-show-asm` 0.2.63 → 0.2.64, `cargo-zigbuild` 0.23.4 → 0.24.0, `cloudflare-wrangler` 4.151.2 → 4.151.3, `cloudflared` 2026.10.2 → 2026.10.3, `consul-template` 0.43.0 → 0.43.1, `cpdf` 2.9.2_1 → 2.9.3, `daq` 3.0.27 → 3.0.28, `dbx-cli` 0.4.126 → 0.4.127, `deno` 2.9.7 → 2.9.8, `dexidp` 2.46.0 → 2.46.1, `dnscontrol` 5.5.0 → 5.7.0, `e2b` 2.22.0 → 2.22.2, `ethereum` 1.17.8 → 1.17.9, `evnx` 0.10.13 → 0.10.14, `fabric-ai` 1.4.531 → 1.4.534, `fastapi` 0.151.0 → 0.153.0 …
+- Updated 98 casks: `1password@beta` 8.12.42-34.BETA → 8.12.44-25.BETA, `acorn` 8.7 → 8.7.1, `adguard` 2.20.1.2627 → 2.20.2.2629, `altserver` 1.8.1 → 1.8.2, `android-studio-preview@beta` 2026.2.1.7,rabbit1-rc2 → 2026.2.2.6,rabbit2-rc1, `antigravity` 2.24.0,5780333019398144 → 2.25.0,6535192714805248, `aptakube` 1.21.5 → 1.21.6, `bettermacwidgets` 2.5.0 → 2.6.0, `bettertouchtool@alpha` 6.958,2026102001 → 6.965,2026102101, `bitmuse` 1.6.0 → 1.6.1, `blitz-gg` 3.0.10 → 3.0.12, `bookmacster@beta` 3.3.9 → 3.3.11, `canva` 1.126.1 → 1.126.2, `cc-pocket` 1.145.3,275 → 1.145.4,276, `cc-switch` 4.0.17 → 4.0.18, `clarify` 1.7.16 → 1.7.17, `clickhouse` 26.9.23.15-stable → 26.9.24.8-stable, `cmtrace-open` 1.6.0 → 1.6.3, `cocktail` 20.2.1 → 20.2.2, `codexia` 0.58.0 → 0.59.0, `companion` 5.1.0,9981,257b325d09 → 5.1.1,10000,1e2454ae78, `companion-satellite` 3.5.0,760,5fb1fbb → 3.6.0,768,44ac5dc, `copilot-cli` 1.0.101 → 1.0.102, `cursor` 3.26.13,3bfec373749d3d4a53a151283022d49743ab50ba → 3.26.16,8fcb8ace5c73fa31f2e2707fd6783160e4ed3e49, `db-browser-for-sqlcipher@nightly` 20261019 → 20261021 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-21T13:53:06Z
 
 - **Registered 1 formulae**: `buildkite`
