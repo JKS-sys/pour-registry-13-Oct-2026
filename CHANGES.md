@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-21T04:57:15Z
+
+- Updated 46 formulae: `astro` 1.46.0 → 1.46.1, `aube` 2.8.0 → 2.8.1, `aws-sso-cli` 2.3.2 → 2.3.3, `aws-vault` 7.17.0 → 7.17.1, `awscli` 2.38.2 → 2.38.3, `bazel-remote` 2.6.3 → 2.6.4, `bazelisk` 1.29.0 → 1.30.0, `bend` 2.0.37 → 2.0.38, `buildkit` 0.34.0 → 0.34.1, `buildkitd` 0.34.0 → 0.34.1, `circleci` 1.7.0 → 1.9.0, `cpp-peglib` 1.22.0 → 1.23.0, `depot` 2.102.23 → 2.102.24, `docker` 29.9.1 → 29.9.2, `docker-buildx` 0.38.0 → 0.38.1, `docker-completion` 29.9.1 → 29.9.2, `docker-credential-helper` 0.9.10 → 0.9.12, `docker-engine` 29.9.1 → 29.9.2, `dxpy` 0.416.0_3 → 0.417.1, `fastapi` 0.148.0 → 0.149.0, `flexget` 3.22.5 → 3.22.6, `git-annex` 10.20261006 → 10.20261020, `granted` 0.39.0 → 0.40.0, `i2p` 2.13.0 → 2.14.0, `i2pd` 2.61.0_1 → 3.0.0 …
+- **Registered 1 casks**: `sound-studio`
+- **De-registered 1 casks**: `graalvm-jdk@17`
+- Updated 50 casks: `arcbox` 1.38.3 → 1.38.4, `codexbar` 0.78.0 → 0.79.0, `confluent-cli` 4.80.0 → 4.81.0, `discord@canary` 0.0.1407 → 0.0.1409, `dropbox@beta` 276.3.5225 → 277.3.4925, `embyserver` 4.10.1.0 → 4.10.2.0, `fathom` 3.10.1 → 3.10.2, `firefox@nightly` 160.0a1,2026-10-20-09-59-29 → 160.0a1,2026-10-20-19-50-26, `flutterflow` 7.2.8 → 7.2.9, `ibkr` 3.6g → 3.6h, `kiro` 1.4.10 → 1.4.13, `microsoft-edge@beta` 156.0.4314.36,92031f5d-0f7d-42d8-8e05-7239d6f03a4b → 157.0.4341.10,41110fad-ede1-419d-87e6-0dbb967174cd, `microsoft-edge@canary` 158.0.4350.0,8e83e04e-febd-442e-9d8b-78e708e3a8e3 → 158.0.4352.0,d19ff718-6595-484c-b9dd-337ebfd7fc07, `microsoft-edge@dev` 157.0.4334.0,3a6c483c-a7f4-456e-92aa-928ec781f996 → 158.0.4344.0,2b05f1f4-d3ed-421c-abda-ce70fa408d1e, `mindroom` 2026.10.400 → 2026.10.410, `neo4j-desktop` 2.2.1 → 2.3.0, `notion` 7.39.0 → 7.40.0, `notion-calendar` 1.141.0 → 1.142.0, `obs@beta` 33.0.0-rc2 → 33.0.0-rc3, `obscura-vpn` 1.181 → 1.184, `only-switch` 3.0.0 → 3.1.0, `openshot-video-editor@daily` 4.0.1,17831-79769911-c6d22664 → 4.0.1,17890-79769911-c6d22664, `openwork` 0.18.58 → 0.18.59, `orcasheets` 26.10.1 → 26.10.2, `owlocr` 7.22.2 → 7.22.4 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-20T23:13:15Z
 
 - Updated 39 formulae: `argocd` 3.5.5 → 3.5.6, `bazel-diff` 61.0.0 → 62.0.0, `bitbucket-cli` 0.35.1 → 0.35.2, `cog` 0.23.0 → 0.23.1, `cosign` 3.1.3 → 3.1.4, `dolt` 2.5.0 → 2.5.1, `dprint` 0.64.0 → 0.64.1, `evnx` 0.10.11 → 0.10.12, `exercism` 3.5.8 → 3.5.9, `faas-cli` 0.18.16 → 0.18.17, `fabric-ai` 1.4.529 → 1.4.531, `fern-api` 5.166.0 → 5.169.0, `fnox` 1.41.0 → 1.42.0, `fnt` 1.9.1 → 1.9.2, `fresh-editor` 0.5.3 → 0.5.4, `gh` 2.102.0 → 2.102.1, `gitea-runner` 5.1.1 → 5.2.0, `goat` 0.2.6 → 0.2.7, `hk` 2.7.1 → 2.8.0, `httpx2` 2.14.0 → 2.15.1, `ijq` 1.4.1 → 1.4.2, `juliaup` 1.22.7 → 1.22.10, `libjodycode` 4.1.2 → 4.2, `livekit-cli` 2.19.0 → 2.19.1, `mcp-grafana` 2.1.0 → 2.1.1 …
