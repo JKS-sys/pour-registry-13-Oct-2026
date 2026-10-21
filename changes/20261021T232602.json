@@ -1,0 +1,439 @@
+{
+ "synced_at": "2026-10-21T23:26:02Z",
+ "casks": {
+  "added": [
+   "clamshell",
+   "font-nordwand-mono",
+   "sprites"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.34.0-rl.1.0.20261020012503-1c3f2e5b344a",
+    "name": "akuity",
+    "to": "0.34.0-rl.1.0.20261021161312-b97ffdcc1c8b"
+   },
+   {
+    "from": "7.28.0",
+    "name": "anypointstudio",
+    "to": "7.29.0"
+   },
+   {
+    "from": "1.0.4",
+    "name": "aptible",
+    "to": "1.0.5"
+   },
+   {
+    "from": "4.3.209",
+    "name": "beeper",
+    "to": "4.3.229"
+   },
+   {
+    "from": "3.1623.0,e751f9d5249da803676835a68a9b15463ec5b1d7",
+    "name": "claude",
+    "to": "3.1623.1,99e484be3828a3767e90385312c83202bca35d8c"
+   },
+   {
+    "from": "6.5.3",
+    "name": "crest",
+    "to": "6.6.0"
+   },
+   {
+    "from": "7.84.4-1",
+    "name": "datadog-agent",
+    "to": "7.84.5-1"
+   },
+   {
+    "from": "0.0.1412",
+    "name": "discord@canary",
+    "to": "0.0.1414"
+   },
+   {
+    "from": "5.0.7-beta.0",
+    "name": "djstudio@next",
+    "to": "5.0.7-beta.1"
+   },
+   {
+    "from": "7.2.9",
+    "name": "flutterflow",
+    "to": "7.2.11"
+   },
+   {
+    "from": "1.8.1",
+    "name": "font-geist",
+    "to": "1.8.2"
+   },
+   {
+    "from": "1.8.1",
+    "name": "font-geist-mono",
+    "to": "1.8.2"
+   },
+   {
+    "from": "1.8.1",
+    "name": "font-geist-pixel",
+    "to": "1.8.2"
+   },
+   {
+    "from": "0.18.2",
+    "name": "gloomberb",
+    "to": "0.18.3"
+   },
+   {
+    "from": "158.0.8115.0",
+    "name": "google-chrome@canary",
+    "to": "158.0.8116.0"
+   },
+   {
+    "from": "7.668.1",
+    "name": "granola",
+    "to": "7.668.2"
+   },
+   {
+    "from": "0.9.0",
+    "name": "gridcraft",
+    "to": "0.10.0"
+   },
+   {
+    "from": "0.72.1",
+    "name": "grok-bot",
+    "to": "0.75.0"
+   },
+   {
+    "from": "5.3.0,169679",
+    "name": "ipvanish-vpn",
+    "to": "5.4.0,173395"
+   },
+   {
+    "from": "28.13.0.0",
+    "name": "jamovi",
+    "to": "28.14.0.0"
+   },
+   {
+    "from": "0.98.8.0",
+    "name": "jasp",
+    "to": "0.99.0.0"
+   },
+   {
+    "from": "2026.8.0",
+    "name": "jitsi-meet",
+    "to": "2026.10.0"
+   },
+   {
+    "from": "2.7.12",
+    "name": "keepassxc",
+    "to": "2.8.0"
+   },
+   {
+    "from": "12.0.0",
+    "name": "kindle-comic-converter",
+    "to": "12.1.0"
+   },
+   {
+    "from": "2.33.0",
+    "name": "kiro-cli",
+    "to": "2.33.1"
+   },
+   {
+    "from": "2026.42.1",
+    "name": "lemonade-server",
+    "to": "2026.43.3"
+   },
+   {
+    "from": "0.10.0",
+    "name": "lightcraft",
+    "to": "0.11.0"
+   },
+   {
+    "from": "0.86.57",
+    "name": "littlebird",
+    "to": "0.86.68"
+   },
+   {
+    "from": "1.1.8,10",
+    "name": "lm-studio-bionic",
+    "to": "1.1.9,6"
+   },
+   {
+    "from": "6.63b13",
+    "name": "macloggerdx@beta",
+    "to": "6.63b14"
+   },
+   {
+    "from": "0.54.3",
+    "name": "maestri",
+    "to": "0.55.0"
+   },
+   {
+    "from": "0.4.2",
+    "name": "nativ",
+    "to": "0.4.3"
+   },
+   {
+    "from": "2.71.0",
+    "name": "neodisk",
+    "to": "2.83.2"
+   },
+   {
+    "from": "1.4.5008",
+    "name": "nessie-app",
+    "to": "1.4.5325"
+   },
+   {
+    "from": "3.39.11,dy27whJwwmb,a",
+    "name": "ngrok",
+    "to": "3.39.12,5UNrdiFf185,a"
+   },
+   {
+    "from": "1.2.3.6,199",
+    "name": "nostalgiapp",
+    "to": "1.2.3.7,200"
+   },
+   {
+    "from": "0.23.21",
+    "name": "notion-cli",
+    "to": "0.23.22"
+   },
+   {
+    "from": "1.72.2",
+    "name": "novation-components",
+    "to": "1.72.4"
+   },
+   {
+    "from": "4.0.1,17914-6a54ea70-c6d22664",
+    "name": "openshot-video-editor@daily",
+    "to": "4.0.1,17935-6a54ea70-c6d22664"
+   },
+   {
+    "from": "5.23.1",
+    "name": "osquery",
+    "to": "5.24.0"
+   },
+   {
+    "from": "0.10.1",
+    "name": "pdfcraft",
+    "to": "0.11.0"
+   },
+   {
+    "from": "0.11.1",
+    "name": "photocraft",
+    "to": "0.12.0"
+   },
+   {
+    "from": "4.22.0.0094",
+    "name": "proclaim",
+    "to": "4.22.0.0095"
+   },
+   {
+    "from": "3.1.1",
+    "name": "rambox",
+    "to": "3.1.2"
+   },
+   {
+    "from": "0.1.3329",
+    "name": "reader",
+    "to": "0.1.3332"
+   },
+   {
+    "from": "1.11.2",
+    "name": "readmoreading",
+    "to": "1.12.1"
+   },
+   {
+    "from": "0.743.0.7431133,7666a6879aaf4130",
+    "name": "robloxstudio",
+    "to": "0.744.0.7441077,19b83fc5aa504ea4"
+   },
+   {
+    "from": "1.2.835.0",
+    "name": "session-manager-plugin",
+    "to": "1.2.896.0"
+   },
+   {
+    "from": "1.42.2",
+    "name": "skills-manager",
+    "to": "1.43.0"
+   },
+   {
+    "from": "4.11",
+    "name": "slideshower",
+    "to": "4.12"
+   },
+   {
+    "from": "0.10.0",
+    "name": "soundcraft",
+    "to": "0.11.0"
+   },
+   {
+    "from": "0.1.2-nightly.20261021.3473",
+    "name": "t3-code@nightly",
+    "to": "0.1.2-nightly.20261021.3486"
+   },
+   {
+    "from": "18.11.6",
+    "name": "teleport-connect",
+    "to": "18.11.7"
+   },
+   {
+    "from": "18.11.6",
+    "name": "teleport-suite",
+    "to": "18.11.7"
+   },
+   {
+    "from": "1.16.77",
+    "name": "tidelift",
+    "to": "1.16.78"
+   },
+   {
+    "from": "0.76.0",
+    "name": "token-monitor",
+    "to": "0.77.0"
+   },
+   {
+    "from": "3.9.11",
+    "name": "trickster",
+    "to": "4.0"
+   },
+   {
+    "from": "6000.6.6f1,d20c9ac777da",
+    "name": "unity-ios-support-for-editor",
+    "to": "6000.6.7f1,b22767f04f04"
+   },
+   {
+    "from": "6000.6.6f1,d20c9ac777da",
+    "name": "unity-webgl-support-for-editor",
+    "to": "6000.6.7f1,b22767f04f04"
+   },
+   {
+    "from": "6000.6.6f1,d20c9ac777da",
+    "name": "unity-windows-support-for-editor",
+    "to": "6000.6.7f1,b22767f04f04"
+   },
+   {
+    "from": "4.43.1",
+    "name": "uuremote",
+    "to": "4.44.0"
+   },
+   {
+    "from": "1.144.0-insider,1792568049776,5170ebe909381b6990cd686dc47da9c854bc5946",
+    "name": "visual-studio-code@insiders",
+    "to": "1.144.0-insider,1792602369842,76fae85ac19c965c60b10618426469bfd93a6d03"
+   },
+   {
+    "from": "0.2026.10.14.08.27.stable_02",
+    "name": "warp",
+    "to": "0.2026.10.14.08.27.stable_03"
+   },
+   {
+    "from": "0.2026.10.14.08.27.stable_02",
+    "name": "warp-agent-cli",
+    "to": "0.2026.10.14.08.27.stable_03"
+   },
+   {
+    "from": "0.2026.10.14.08.27.preview_02",
+    "name": "warp@preview",
+    "to": "0.2026.10.14.08.27.preview_03"
+   },
+   {
+    "from": "2.6.8",
+    "name": "willow-voice",
+    "to": "2.6.9"
+   },
+   {
+    "from": "2.0.0,23050",
+    "name": "wordpresscom-studio",
+    "to": "2.0.4,23347"
+   },
+   {
+    "from": "0.20.1",
+    "name": "zed-delta",
+    "to": "0.21.0"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.233.0",
+    "name": "atmos",
+    "to": "1.233.1"
+   },
+   {
+    "from": "1.55.0",
+    "name": "backlog-md",
+    "to": "1.55.1"
+   },
+   {
+    "from": "25.2.0",
+    "name": "eas-cli",
+    "to": "25.3.0"
+   },
+   {
+    "from": "0.2.0",
+    "name": "expert",
+    "to": "0.2.0_1"
+   },
+   {
+    "from": "3.13.16",
+    "name": "python-gdbm@3.13",
+    "to": "3.13.17"
+   },
+   {
+    "from": "3.14.8",
+    "name": "python-gdbm@3.14",
+    "to": "3.14.9"
+   },
+   {
+    "from": "84.2.0",
+    "name": "python-setuptools",
+    "to": "84.2.1"
+   },
+   {
+    "from": "3.13.16_1",
+    "name": "python-tk@3.13",
+    "to": "3.13.17"
+   },
+   {
+    "from": "3.14.8_1",
+    "name": "python-tk@3.14",
+    "to": "3.14.9"
+   },
+   {
+    "from": "3.13.16_1",
+    "name": "python@3.13",
+    "to": "3.13.17"
+   },
+   {
+    "from": "3.14.8_3",
+    "name": "python@3.14",
+    "to": "3.14.9"
+   },
+   {
+    "from": "2.154.4",
+    "name": "sf",
+    "to": "2.155.7"
+   },
+   {
+    "from": "0.26.0",
+    "name": "skillshare",
+    "to": "0.26.1"
+   },
+   {
+    "from": "0.39.4",
+    "name": "tanka",
+    "to": "0.39.5"
+   },
+   {
+    "from": "4.3.0",
+    "name": "teslamate",
+    "to": "4.3.0_1"
+   },
+   {
+    "from": "20260301_1",
+    "name": "texlive",
+    "to": "20260301_2"
+   }
+  ]
+ }
+}

@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-21T23:26:02Z
+
+- Updated 16 formulae: `atmos` 1.233.0 → 1.233.1, `backlog-md` 1.55.0 → 1.55.1, `eas-cli` 25.2.0 → 25.3.0, `expert` 0.2.0 → 0.2.0_1, `python-gdbm@3.13` 3.13.16 → 3.13.17, `python-gdbm@3.14` 3.14.8 → 3.14.9, `python-setuptools` 84.2.0 → 84.2.1, `python-tk@3.13` 3.13.16_1 → 3.13.17, `python-tk@3.14` 3.14.8_1 → 3.14.9, `python@3.13` 3.13.16_1 → 3.13.17, `python@3.14` 3.14.8_3 → 3.14.9, `sf` 2.154.4 → 2.155.7, `skillshare` 0.26.0 → 0.26.1, `tanka` 0.39.4 → 0.39.5, `teslamate` 4.3.0 → 4.3.0_1, `texlive` 20260301_1 → 20260301_2
+- **Registered 3 casks**: `clamshell`, `font-nordwand-mono`, `sprites`
+- Updated 68 casks: `akuity` 0.34.0-rl.1.0.20261020012503-1c3f2e5b344a → 0.34.0-rl.1.0.20261021161312-b97ffdcc1c8b, `anypointstudio` 7.28.0 → 7.29.0, `aptible` 1.0.4 → 1.0.5, `beeper` 4.3.209 → 4.3.229, `claude` 3.1623.0,e751f9d5249da803676835a68a9b15463ec5b1d7 → 3.1623.1,99e484be3828a3767e90385312c83202bca35d8c, `crest` 6.5.3 → 6.6.0, `datadog-agent` 7.84.4-1 → 7.84.5-1, `discord@canary` 0.0.1412 → 0.0.1414, `djstudio@next` 5.0.7-beta.0 → 5.0.7-beta.1, `flutterflow` 7.2.9 → 7.2.11, `font-geist` 1.8.1 → 1.8.2, `font-geist-mono` 1.8.1 → 1.8.2, `font-geist-pixel` 1.8.1 → 1.8.2, `gloomberb` 0.18.2 → 0.18.3, `google-chrome@canary` 158.0.8115.0 → 158.0.8116.0, `granola` 7.668.1 → 7.668.2, `gridcraft` 0.9.0 → 0.10.0, `grok-bot` 0.72.1 → 0.75.0, `ipvanish-vpn` 5.3.0,169679 → 5.4.0,173395, `jamovi` 28.13.0.0 → 28.14.0.0, `jasp` 0.98.8.0 → 0.99.0.0, `jitsi-meet` 2026.8.0 → 2026.10.0, `keepassxc` 2.7.12 → 2.8.0, `kindle-comic-converter` 12.0.0 → 12.1.0, `kiro-cli` 2.33.0 → 2.33.1 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-21T20:13:09Z
 
 - Updated 74 formulae: `anycable-go` 1.6.19 → 1.6.20, `bazel-diff` 62.0.0 → 63.0.0, `berglas` 2.0.17 → 2.0.18, `biber` 2.22 → 2.22_1, `bqlog` 2.7.0 → 2.7.1, `brotli` 1.2.0 → 1.2.0_1, `buildkite` 3.64.1 → 3.65.0, `byteman` 4.0.27 → 4.0.28.1, `camlpdf` 2.9.2_1 → 2.9.3, `cargo-show-asm` 0.2.63 → 0.2.64, `cargo-zigbuild` 0.23.4 → 0.24.0, `cloudflare-wrangler` 4.151.2 → 4.151.3, `cloudflared` 2026.10.2 → 2026.10.3, `consul-template` 0.43.0 → 0.43.1, `cpdf` 2.9.2_1 → 2.9.3, `daq` 3.0.27 → 3.0.28, `dbx-cli` 0.4.126 → 0.4.127, `deno` 2.9.7 → 2.9.8, `dexidp` 2.46.0 → 2.46.1, `dnscontrol` 5.5.0 → 5.7.0, `e2b` 2.22.0 → 2.22.2, `ethereum` 1.17.8 → 1.17.9, `evnx` 0.10.13 → 0.10.14, `fabric-ai` 1.4.531 → 1.4.534, `fastapi` 0.151.0 → 0.153.0 …
