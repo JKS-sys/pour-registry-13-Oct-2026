@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-22T23:26:43Z
+
+- Updated 57 formulae: `agent-manager` 0.42.0 → 0.43.0, `apptainer` 1.5.4 → 1.5.5, `astgen` 3.51.0 → 3.51.0_1, `aws-elasticbeanstalk` 3.27.4 → 3.27.5, `awscli-local` 0.22.2_4 → 0.23.0, `awscli@1` 1.46.0 → 1.46.2, `backlog-md` 1.55.1_1 → 1.55.2, `benthos` 4.83.0 → 4.84.0, `cfn-lint` 1.57.2 → 1.58.0, `cloudquery` 6.49.1 → 6.49.2, `crowdin` 5.5.0 → 5.5.0_1, `crystal` 1.22.0 → 1.22.1, `depot` 2.103.0 → 2.103.1, `esphome` 2026.9.1 → 2026.10.0, `fabric-ai` 1.4.540 → 1.4.541, `fastapi` 0.156.8 → 0.157.0, `flyctl` 0.4.120 → 0.4.121, `git-lfs` 3.8.0 → 3.8.1, `hermes-agent` 0.22.2 → 0.22.4, `immich-cli` 3.3.4 → 3.3.5, `jcode` 0.99.0 → 0.99.1, `keploy` 3.6.155 → 3.6.160, `kubetail` 0.18.0 → 0.18.1, `libressl` 4.3.3 → 4.4.0, `libtorrent-rakshasa` 0.16.25_1 → 0.16.26 …
+- Updated 73 casks: `1password-cli@beta` 2.42.0-beta.01 → 2.43.0-beta.02, `alt-tab` 11.9.2 → 11.10.0, `arcbox` 1.38.4 → 1.38.5, `backblaze` 10.0.3.1076 → 10.0.4.1082, `bettertouchtool` 6.970,2026102202 → 6.974,2026102208, `cadcraft` 0.10.0 → 0.11.0, `cog-app` 3816,6e4d62cae → 3820,405c117f5, `comfy` 1.1.7,261013p26tnl6re → 1.1.8,26102263fz4azlz, `deckcraft` 0.9.0 → 0.10.0, `designcraft` 0.11.0 → 0.12.0, `discord@canary` 0.0.1416 → 0.0.1417, `dolphin@dev` 2609-106,a4,63 → 2609-113,e3,09, `dorso` 1.15.1 → 1.16.0, `draw-things` 26.1013.0-9bb6696f → 26.1020.0-a424ad4b, `effectcraft` 0.14.0 → 0.15.0, `figcraft` 0.9.0 → 0.10.0, `filmcraft` 0.10.0 → 0.11.0, `font-nordwand-mono` 1.3.3 → 1.3.4, `fossa` 3.20.5 → 3.20.7, `ghostex` 10.30.0 → 10.31.0, `github@beta` 3.6.8-beta3-a9cbfe32 → 3.6.8-beta4-288f99ee, `gnome` 1.28,1 → 1.28,2, `goodsync` 12.11.11 → 12.11.12, `google-chrome@beta` 157.0.8103.6 → 157.0.8103.15, `google-chrome@canary` 158.0.8117.0 → 158.0.8118.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-22T20:11:23Z
 
 - Updated 52 formulae: `aide` 0.19.4 → 0.19.5, `aliyun-cli` 3.5.1 → 3.5.2, `aqua` 2.65.1 → 2.65.2, `arkade` 0.11.132 → 0.11.133, `backlog-md` 1.55.1 → 1.55.1_1, `bun` 1.4.3 → 1.4.4, `calm-cli` 1.64.0 → 1.65.0, `ccmux` 1.4.4 → 1.4.4_1, `code-cli` 1.142.0 → 1.143.0, `convox` 3.25.11 → 3.25.12, `datadog-static-analyzer` 0.9.9 → 0.9.10, `descope` 0.8.15 → 0.8.16, `doppler` 3.77.0 → 3.77.1, `evnx` 0.10.15 → 0.10.16, `fabric-ai` 1.4.539 → 1.4.540, `fx` 40.0.0 → 40.0.1, `gitoxide` 0.60.0 → 0.61.0, `go-feature-flag-relay-proxy` 1.57.0 → 1.57.1, `gomplate` 5.3.0 → 5.3.1, `iir1` 1.10.0 → 1.11.0, `istioctl` 1.31.2 → 1.31.3, `kubectl-radar` 1.17.0 → 1.18.0, `lazyrsync` 0.3.0 → 0.4.0, `ld-find-code-refs` 2.18.3 → 2.18.4, `minify` 2.24.22 → 2.24.23 …
