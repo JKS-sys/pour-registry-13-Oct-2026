@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-22T20:11:23Z
+
+- Updated 52 formulae: `aide` 0.19.4 → 0.19.5, `aliyun-cli` 3.5.1 → 3.5.2, `aqua` 2.65.1 → 2.65.2, `arkade` 0.11.132 → 0.11.133, `backlog-md` 1.55.1 → 1.55.1_1, `bun` 1.4.3 → 1.4.4, `calm-cli` 1.64.0 → 1.65.0, `ccmux` 1.4.4 → 1.4.4_1, `code-cli` 1.142.0 → 1.143.0, `convox` 3.25.11 → 3.25.12, `datadog-static-analyzer` 0.9.9 → 0.9.10, `descope` 0.8.15 → 0.8.16, `doppler` 3.77.0 → 3.77.1, `evnx` 0.10.15 → 0.10.16, `fabric-ai` 1.4.539 → 1.4.540, `fx` 40.0.0 → 40.0.1, `gitoxide` 0.60.0 → 0.61.0, `go-feature-flag-relay-proxy` 1.57.0 → 1.57.1, `gomplate` 5.3.0 → 5.3.1, `iir1` 1.10.0 → 1.11.0, `istioctl` 1.31.2 → 1.31.3, `kubectl-radar` 1.17.0 → 1.18.0, `lazyrsync` 0.3.0 → 0.4.0, `ld-find-code-refs` 2.18.3 → 2.18.4, `minify` 2.24.22 → 2.24.23 …
+- Updated 103 casks: `ableton-live-intro` 12.4.6 → 12.4.7, `ableton-live-lite` 12.4.6 → 12.4.7, `ableton-live-standard` 12.4.6 → 12.4.7, `ableton-live-suite` 12.4.6 → 12.4.7, `alma` 0.4.195 → 0.4.210, `almighty` 2.13.3 → 2.13.4, `amp-app` 1.0,840 → 1.0,850, `aphera` 1.7.1 → 1.8.0, `arc` 1.169.0,88758 → 1.170.0,89123, `astro-editor` 1.0.17 → 1.0.19, `banktivity` 10.1.2,434 → 10.2.0,436, `bettertouchtool@alpha` 6.970,2026102202 → 6.973,2026102207, `bing-wallpaper` 2.0.15.307,86c43650-4912-4b9c-8ade-354b8013ea09 → 2.0.16.339,1b141c07-de43-4a68-8011-fa69cddaa18c, `bloom` 1.5.45 → 1.5.46, `chatgpt` 26.1016.61520 → 26.1016.62342, `clickhouse` 26.9.24.8-stable → 26.9.25.15-stable, `cloudflare-warp@beta` 2026.8.2028.1 → 2026.9.1555.1, `companion-satellite` 3.6.0,768,44ac5dc → 3.6.1,770,43fdde5, `consul` 2.0.4 → 2.1.0, `copilot-cli` 1.0.102 → 1.0.103, `crashplan` 12.0.0,735 → 12.1.0,720, `cursor-cli` 2026.10.19-6bbf2c4 → 2026.10.22-27dcf5f, `dangerzone` 0.11.0 → 0.11.1, `deezer` 7.1.340 → 8.0.10, `deviceshelf` 1.9.80 → 1.9.81 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-22T13:51:31Z
 
 - **Registered 2 formulae**: `openssh-sk-provider`, `zvec-grep`
