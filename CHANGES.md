@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-22T04:57:42Z
+
+- Updated 101 formulae: `arcane-cli` 2.16.1 → 2.17.0, `aspectj` 1.9.25.1 → 1.9.26, `autobrr` 1.88.0 → 1.89.0, `aws-crt-cpp` 0.44.1 → 0.44.2, `aws-sdk-cpp` 1.11.900_2 → 1.11.915, `awscli` 2.38.3 → 2.38.4, `azure-dev` 1.37.0 → 1.37.1, `balena-cli` 25.2.6 → 25.2.7, `bazel-diff` 63.0.0 → 64.0.0, `bind` 9.20.29_1 → 9.20.30, `bosh-cli` 7.11.1 → 7.11.2, `brotli` 1.2.0_1 → 1.2.1, `buf` 1.74.0 → 1.75.0, `cargo-dist` 0.33.0 → 0.33.1, `cargo-edit` 0.13.13 → 0.13.14, `cargo-generate` 0.25.0 → 0.25.1, `cargo-msrv` 0.19.5 → 0.19.6, `ccusage` 20.0.38 → 20.0.40, `chainloop-cli` 1.127.0 → 1.127.1, `checkov` 3.3.20 → 3.3.30, `circleci` 1.9.0 → 1.11.0, `closure-compiler` 20261019 → 20261020, `cotp` 1.10.0 → 1.11.0, `croaring` 5.3.1 → 5.3.2, `dagger` 0.21.10 → 0.21.11 …
+- Updated 52 casks: `1password-cli` 2.41.0 → 2.41.1, `amp-app` 1.0,820 → 1.0,830, `atomcode` 5.2.3 → 5.2.4, `bdash` 1.35.2 → 1.35.3, `brave-browser@nightly` 1.99.41.0 → 1.100.23.0, `brave-origin@nightly` 1.100.7.0 → 1.100.23.0, `claude-code` 2.1.304 → 2.1.306, `claude-code@latest` 2.1.306 → 2.1.307, `codeexpander` 7.1.3 → 7.1.4, `cursorsense` 2.5 → 2.5.1, `firefox@nightly` 160.0a1,2026-10-21-09-22-54 → 160.0a1,2026-10-21-20-53-24, `firezone` 1.5.22 → 1.5.23, `glide-browser` 0.1.64a → 0.1.65a, `grandtotal` 9.6.2.4 → 9.6.2.9, `grok-build` 1.0.62 → 1.0.67, `hol-guard` 3.0.140 → 3.0.143, `maestri` 0.55.0 → 0.55.1, `meetmic` 1.37.614 → 1.37.616, `microsoft-edge@canary` 158.0.4353.0,0bdb19fb-041c-45dc-9e68-0ca5c36ed06f → 158.0.4354.0,8dbc995d-c74e-49db-8d40-4238476deb1f, `milanote` 3.18.140 → 3.18.141, `mindroom` 2026.10.420 → 2026.10.430, `miniforge` 26.7.2-0 → 26.7.2-1, `modrinth` 0.21.10 → 0.22.0, `notion-cli` 0.23.22 → 0.23.25, `ollama-app` 0.40.7 → 0.40.8 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-21T23:26:02Z
 
 - Updated 16 formulae: `atmos` 1.233.0 → 1.233.1, `backlog-md` 1.55.0 → 1.55.1, `eas-cli` 25.2.0 → 25.3.0, `expert` 0.2.0 → 0.2.0_1, `python-gdbm@3.13` 3.13.16 → 3.13.17, `python-gdbm@3.14` 3.14.8 → 3.14.9, `python-setuptools` 84.2.0 → 84.2.1, `python-tk@3.13` 3.13.16_1 → 3.13.17, `python-tk@3.14` 3.14.8_1 → 3.14.9, `python@3.13` 3.13.16_1 → 3.13.17, `python@3.14` 3.14.8_3 → 3.14.9, `sf` 2.154.4 → 2.155.7, `skillshare` 0.26.0 → 0.26.1, `tanka` 0.39.4 → 0.39.5, `teslamate` 4.3.0 → 4.3.0_1, `texlive` 20260301_1 → 20260301_2
