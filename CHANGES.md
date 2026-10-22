@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-22T13:51:31Z
+
+- **Registered 2 formulae**: `openssh-sk-provider`, `zvec-grep`
+- Updated 111 formulae: `actions-up` 1.21.0 → 2.0.0, `aoe` 1.20.0 → 1.21.0, `aqua` 2.64.0 → 2.65.1, `argo` 4.1.5 → 4.1.6, `atuin` 18.24.1 → 18.24.2, `atuin-server` 18.24.1 → 18.24.2, `azcopy` 10.34.0 → 10.34.1, `azure-storage-blobs-cpp` 12.19.0 → 12.19.1, `biome` 2.5.15 → 2.6.2, `bpmnlint` 11.15.0 → 12.0.0, `bzip3` 1.5.4 → 1.5.5, `cargo-release` 1.1.6 → 1.1.7, `cc-switch-cli` 5.11.2 → 5.11.3, `cdk8s` 2.207.69 → 2.207.70, `cdo` 2.6.5 → 2.6.6, `cdxgen` 12.8.6 → 12.8.7, `chainloop-cli` 1.127.1 → 1.127.2, `contentful-cli` 4.0.11 → 4.0.12, `cpp-httplib` 0.62.0 → 0.63.0, `csound` 6.18.1_16 → 7.0.0, `dagu` 2.21.0 → 2.22.0, `deepline` 0.3.320 → 0.3.400, `depot` 2.102.25 → 2.103.0, `diffle` 0.2.10 → 0.3.1, `dislocker` 0.7.3_1 → 0.7.4 …
+- Updated 104 casks: `akuity` 0.34.0-rl.1.0.20261021161312-b97ffdcc1c8b → 0.34.0-rl.1.0.20261022095256-e2e2d7e48392, `amp-app` 1.0,830 → 1.0,840, `antigravity-cli` 1.4.4,4783783166214144 → 1.4.5,4952523841339392, `appflowy` 0.14.7 → 0.14.10, `asana` 2.10.3 → 2.10.4, `backdrop` 2.10.2,143 → 2.10.3,144, `bdash` 1.35.3 → 1.35.4, `bettermacwidgets` 2.6.0 → 2.7.0, `bettertouchtool` 6.958,2026102001 → 6.970,2026102202, `bettertouchtool@alpha` 6.965,2026102101 → 6.970,2026102202, `blender` 5.2.2 → 5.2.3, `brave-browser` 1.97.59.0 → 1.98.60.0, `brave-origin` 1.97.59.0 → 1.98.60.0, `bruno` 4.2.1 → 4.3.0, `channel-works` 12.1.0 → 12.1.1, `chatgpt` 26.1016.51333 → 26.1016.61520, `claude` 3.1623.1,99e484be3828a3767e90385312c83202bca35d8c → 3.6556.1,8e298a7fb62db44b6c902bdcbbc3bb1a74d147f0, `claude-code` 2.1.306 → 2.1.308, `claude-code@latest` 2.1.307 → 2.1.308, `claudebar` 0.5.18 → 0.5.19, `clearvpn` 3.4.5,202609.16.1823,1789583603 → 3.4.6,202610.17.0457,1792213554, `copilot-cli@prerelease` 1.0.102-1 → 1.0.103-0, `copilot-language-server` 1.556.0 → 1.558.0, `crest` 6.6.0 → 6.6.1, `cryptomator` 1.19.3 → 1.19.4 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-22T04:57:42Z
 
 - Updated 101 formulae: `arcane-cli` 2.16.1 → 2.17.0, `aspectj` 1.9.25.1 → 1.9.26, `autobrr` 1.88.0 → 1.89.0, `aws-crt-cpp` 0.44.1 → 0.44.2, `aws-sdk-cpp` 1.11.900_2 → 1.11.915, `awscli` 2.38.3 → 2.38.4, `azure-dev` 1.37.0 → 1.37.1, `balena-cli` 25.2.6 → 25.2.7, `bazel-diff` 63.0.0 → 64.0.0, `bind` 9.20.29_1 → 9.20.30, `bosh-cli` 7.11.1 → 7.11.2, `brotli` 1.2.0_1 → 1.2.1, `buf` 1.74.0 → 1.75.0, `cargo-dist` 0.33.0 → 0.33.1, `cargo-edit` 0.13.13 → 0.13.14, `cargo-generate` 0.25.0 → 0.25.1, `cargo-msrv` 0.19.5 → 0.19.6, `ccusage` 20.0.38 → 20.0.40, `chainloop-cli` 1.127.0 → 1.127.1, `checkov` 3.3.20 → 3.3.30, `circleci` 1.9.0 → 1.11.0, `closure-compiler` 20261019 → 20261020, `cotp` 1.10.0 → 1.11.0, `croaring` 5.3.1 → 5.3.2, `dagger` 0.21.10 → 0.21.11 …
