@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-23T13:31:36Z
+
+- Updated 112 formulae: `acronym` 2.0.0_5 → 2.0.0_6, `aicommits` 4.2.2 → 4.2.3, `anubis` 1.28.1 → 1.28.2, `appwrite` 28.8.0 → 28.9.0, `aws-vault` 7.17.1 → 7.17.2, `awscli` 2.38.4 → 2.38.5, `bitbucket-cli` 0.35.2 → 0.36.0, `buildkite` 3.65.0 → 3.66.0, `certstrap` 1.4.0 → 1.4.1, `cf2tf` 0.9.2_10 → 0.9.2_11, `chainloop-cli` 1.127.2 → 1.127.3, `cliproxyapi` 8.0.35 → 8.0.40, `code-cli` 1.143.0 → 1.143.1, `conda-lock` 4.0.3 → 4.0.3_1, `cpp-peglib` 1.24.0 → 1.25.0, `cruft` 2.16.0_16 → 2.16.0_17, `dart-sdk` 3.13.6 → 3.13.7, `dartaotruntime` 3.13.6 → 3.13.7, `dbx-cli` 0.4.127 → 0.4.128, `dolt` 2.5.1 → 2.6.0, `dprint` 0.64.2 → 0.64.3, `draft` 0.17.16 → 0.17.17, `dstack` 0.22.4 → 0.22.5, `duckdb` 2.0.0 → 2.0.0_1, `dvc` 3.67.1_17 → 3.67.1_18 …
+- Updated 89 casks: `amp-app` 1.0,850 → 1.0,860, `android-studio-preview@canary` 2026.2.2.5,rabbit2-canary5 → 2026.2.3.1,rabbit3-canary1, `antigravity-cli` 1.4.5,4952523841339392 → 1.4.6,4884751325200384, `apidog` 2.8.51 → 2.8.52, `apidog-europe` 2.8.51 → 2.8.52, `apifox` 2.8.51 → 2.8.52, `bettertouchtool` 6.974,2026102208 → 6.977,2026102302, `bettertouchtool@alpha` 6.973,2026102207 → 6.977,2026102302, `bookmacster` 3.3.9 → 3.3.12, `bookmacster@beta` 3.3.11 → 3.3.12, `buholaunchpad` 2.0.0 → 2.0.1, `calibre` 9.16.0 → 9.17.0, `channel-works` 12.1.1 → 12.2.0, `claudebar` 0.5.19 → 0.5.20, `clion` 2026.2.3.1,262.10968.176 → 2026.2.4,262.11879.74, `codex` 0.163.0 → 0.164.0, `contour` 0.7.0.8982 → 0.8.0.9335, `copilot-language-server` 1.559.0 → 1.560.0, `corretto` 27.0.0.35.1 → 27.0.1.0.10, `corretto@11` 11.0.32.12.1 → 11.0.33.0.9, `corretto@17` 17.0.20.12.1 → 17.0.21.0.10, `corretto@21` 21.0.12.12.1 → 21.0.13.0.10, `corretto@25` 25.0.4.10.1 → 25.0.5.0.9, `corretto@8` 8.504.04.1 → 8.512.08.1, `cursor` 3.27.6,f7119520544accb8dcf6d27119b9f1963d8ee5ae → 3.27.12,df132ffba90dfc15a12e6b8f020ba4e5d026c4be …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-23T04:59:15Z
 
 - **Registered 1 formulae**: `xfr`
