@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-23T19:58:21Z
+
+- **Registered 1 formulae**: `gitea-cli`
+- Updated 55 formulae: `agent-manager` 0.43.0 → 0.43.1, `angular-cli` 22.2.3 → 22.2.4, `arkade` 0.11.133 → 0.11.134, `ascii` 3.32 → 3.33, `aube` 2.8.1 → 2.8.2, `aws-c-sdkutils` 1.0.0 → 1.0.1, `backlog-md` 1.55.2 → 1.55.3, `bruno-cli` 4.2.1 → 4.3.0, `ccusage` 20.0.41 → 20.0.42, `chainloop-cli` 1.127.3 → 1.127.4, `chrome-devtools-mcp` 1.11.0 → 1.12.0, `cloudflare-wrangler` 4.151.3 → 4.152.0, `crit` 0.23.0 → 0.23.1, `cubejs-cli` 1.8.9 → 1.8.10, `cypher-shell` 2026.10.0 → 2026.10.1, `dagu` 2.22.0 → 2.22.2, `djlint` 1.46.6 → 1.47.0, `ethereum` 1.17.9 → 1.17.10, `fabric-ai` 1.4.549 → 1.4.551, `fantom` 1.0.83 → 1.0.84, `fern-api` 5.170.5 → 5.171.5, `fleet-cli` 0.16.2 → 0.16.3, `fwupd` 2.1.8 → 2.1.9, `gh` 2.103.0 → 2.103.1, `hcloud` 1.70.1 → 1.70.2 …
+- **Registered 1 casks**: `writer`
+- Updated 85 casks: `a-better-finder-attributes` 7.52 → 7.53, `aerial` 4.1.8 → 4.1.9, `aerial@beta` 4.1.8 → 4.1.9, `alcom` 1.1.8 → 1.1.9, `amp-app` 1.0,860 → 1.0,870, `avogadro` 2.0.0 → 2.1.0, `batteries` 3.0.3 → 3.1.0, `beatunes` 5.2.36 → 6.0.0, `block-goose` 1.55.0 → 1.56.0, `blood-on-the-clocktower-online` 3.57.3 → 3.58.0, `bootstrap-studio` 9.0.0 → 9.0.1, `busycontacts` 2026.4.1 → 2026.4.2, `cc-switch` 4.0.18 → 4.0.19, `copilot-cli@prerelease` 1.0.103-0 → 1.0.104-0, `devin-desktop` 3.10.67,0b186d6e13a1a48a46430c51fe414dd0747d46f6 → 3.11.212,75ee16a8b1727eacf044a4ad4996e12ee4117071, `discord@canary` 0.0.1418 → 0.0.1421, `discord@ptb` 0.0.267 → 0.0.268, `djstudio@next` 5.0.7-beta.2 → 5.0.7-beta.3, `dnclient` 0.9.9,8c94ab95 → 0.9.10,cc4e1ce7, `dnclient-server` 0.9.9,8c94ab95 → 0.9.10,cc4e1ce7, `extradock` 4.4.4 → 4.4.6, `fantastical` 4.2.3 → 4.2.4, `firefox@nightly` 161.0a1,2026-10-22-21-49-40 → 161.0a1,2026-10-23-09-50-57, `font-lxgw-neoxihei` 1.306 → 1.307, `font-lxgw-neozhisong` 1.068 → 1.069 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-23T13:31:36Z
 
 - Updated 112 formulae: `acronym` 2.0.0_5 → 2.0.0_6, `aicommits` 4.2.2 → 4.2.3, `anubis` 1.28.1 → 1.28.2, `appwrite` 28.8.0 → 28.9.0, `aws-vault` 7.17.1 → 7.17.2, `awscli` 2.38.4 → 2.38.5, `bitbucket-cli` 0.35.2 → 0.36.0, `buildkite` 3.65.0 → 3.66.0, `certstrap` 1.4.0 → 1.4.1, `cf2tf` 0.9.2_10 → 0.9.2_11, `chainloop-cli` 1.127.2 → 1.127.3, `cliproxyapi` 8.0.35 → 8.0.40, `code-cli` 1.143.0 → 1.143.1, `conda-lock` 4.0.3 → 4.0.3_1, `cpp-peglib` 1.24.0 → 1.25.0, `cruft` 2.16.0_16 → 2.16.0_17, `dart-sdk` 3.13.6 → 3.13.7, `dartaotruntime` 3.13.6 → 3.13.7, `dbx-cli` 0.4.127 → 0.4.128, `dolt` 2.5.1 → 2.6.0, `dprint` 0.64.2 → 0.64.3, `draft` 0.17.16 → 0.17.17, `dstack` 0.22.4 → 0.22.5, `duckdb` 2.0.0 → 2.0.0_1, `dvc` 3.67.1_17 → 3.67.1_18 …
