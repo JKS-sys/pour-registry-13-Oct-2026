@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-23T04:59:15Z
+
+- **Registered 1 formulae**: `xfr`
+- Updated 56 formulae: `agent-browser` 0.39.1 → 0.39.2, `b2-tools` 5.0.0_1 → 5.0.1, `betterglobekey` 4.1.0 → 4.2.0, `cargo-instruments` 0.4.17 → 0.4.18, `ccusage` 20.0.40 → 20.0.41, `cf-terraforming` 0.29.0 → 0.30.0, `charmcraft` 4.4.2_1 → 4.5.0, `closure-compiler` 20261020 → 20261021, `cloud-sql-proxy` 2.26.2 → 2.26.3, `cpm` 1.1.5 → 1.1.6, `cubejs-cli` 1.8.8 → 1.8.9, `depot` 2.103.1 → 2.103.2, `diffle` 0.3.1 → 0.3.2, `dnscrypt-proxy` 2.1.19 → 2.1.20, `dprint` 0.64.1 → 0.64.2, `ejdb` 2.93 → 2.94, `evtx` 0.12.3 → 0.13.0, `faas-cli` 0.18.17 → 0.18.18, `fallow` 3.34.1 → 3.35.0, `fastapi` 0.157.0 → 0.159.1, `firebase-cli` 15.34.0 → 15.34.1, `git-credential-oauth` 0.17.2 → 0.18.0, `gitea-runner` 5.2.0 → 5.2.2, `gitlab-runner` 19.5.0 → 19.5.1, `go-camo` 2.7.7 → 3.0 …
+- Updated 53 casks: `agentsview` 0.45.0 → 0.46.1, `artcraft-launcher` 0.6.1 → 0.7.0, `aside` 1.0.928.1 → 1.0.1022.1, `balenaetcher` 2.1.8 → 2.1.9, `bitwarden` 2026.10.0 → 2026.10.1, `blitz-gg` 3.0.12 → 3.0.14, `cadcraft` 0.11.0 → 0.12.0, `claude` 3.6556.1,8e298a7fb62db44b6c902bdcbbc3bb1a74d147f0 → 3.6556.2,20c019a1e61fa5b687616af57d31f97bb3181723, `claude-code@latest` 2.1.308 → 2.1.309, `codexbar` 0.79.0 → 0.80.0, `cog-app` 3820,405c117f5 → 3822,8b1f742c6, `copilot-language-server` 1.558.0 → 1.559.0, `crest-browser` 0.8.1 → 0.8.50, `dbx` 0.6.51 → 0.6.52, `discord@canary` 0.0.1417 → 0.0.1418, `dorso` 1.16.0 → 1.16.1, `droid` 0.247.0 → 0.248.0, `effectcraft` 0.15.0 → 0.16.0, `executor` 1.6.10 → 1.6.11, `filmcraft` 0.11.0 → 0.12.0, `get-iplayer-automator` 1.29.6,202608131913 → 1.29.9,202610221514, `github` 3.6.7-dbc92f97 → 3.6.8-c5923f66, `grok-bot` 0.75.2 → 0.75.3, `inmusic-software-center` 1.39.2 → 1.40.0, `kiro` 1.4.13 → 1.4.26 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-22T23:26:43Z
 
 - Updated 57 formulae: `agent-manager` 0.42.0 → 0.43.0, `apptainer` 1.5.4 → 1.5.5, `astgen` 3.51.0 → 3.51.0_1, `aws-elasticbeanstalk` 3.27.4 → 3.27.5, `awscli-local` 0.22.2_4 → 0.23.0, `awscli@1` 1.46.0 → 1.46.2, `backlog-md` 1.55.1_1 → 1.55.2, `benthos` 4.83.0 → 4.84.0, `cfn-lint` 1.57.2 → 1.58.0, `cloudquery` 6.49.1 → 6.49.2, `crowdin` 5.5.0 → 5.5.0_1, `crystal` 1.22.0 → 1.22.1, `depot` 2.103.0 → 2.103.1, `esphome` 2026.9.1 → 2026.10.0, `fabric-ai` 1.4.540 → 1.4.541, `fastapi` 0.156.8 → 0.157.0, `flyctl` 0.4.120 → 0.4.121, `git-lfs` 3.8.0 → 3.8.1, `hermes-agent` 0.22.2 → 0.22.4, `immich-cli` 3.3.4 → 3.3.5, `jcode` 0.99.0 → 0.99.1, `keploy` 3.6.155 → 3.6.160, `kubetail` 0.18.0 → 0.18.1, `libressl` 4.3.3 → 4.4.0, `libtorrent-rakshasa` 0.16.25_1 → 0.16.26 …
