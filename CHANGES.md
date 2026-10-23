@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-23T23:12:10Z
+
+- Updated 15 formulae: `cdxgen` 12.8.7 → 12.8.8, `gptline` 1.0.8_24 → 1.0.8_25, `ki` 0.5.2 → 0.6.0, `moon` 2.6.3 → 2.6.4, `n8n-mcp` 2.95.0 → 2.96.1, `netlify-cli` 27.14.1 → 27.14.2, `ratify` 1.4.7 → 1.4.8, `recc` 1.4.29 → 1.4.30, `samba` 4.25.0_1 → 4.25.1, `skip` 1.9.17 → 1.9.18, `supermodel` 0.3a-20261021-git-32c29b0 → 0.3a-20261023-git-e048c09, `terraform-mcp-server` 1.3.0 → 1.4.0, `tinycbor` 7.0 → 7.1, `valgrind` 3.27.1 → 3.28.0, `zot` 0.4.42 → 0.4.45
+- Updated 59 casks: `agentide` 0.9.11 → 0.9.12, `airi` 0.11.3 → 0.12.0, `antigravity` 2.25.0,6535192714805248 → 2.26.0,6546645232517120, `baidunetdisk` 8.9.2 → 8.9.7, `brainfm` 0.0.327 → 0.0.334, `calyx` 0.50.0 → 0.50.1, `chatgpt` 26.1016.62342 → 26.1021.22027, `copilot-cli@prerelease` 1.0.104-0 → 1.0.104-1, `drawio` 32.5.5 → 32.6.1, `emdash` 1.2.8 → 1.2.9, `equibop` 3.3.1 → 3.3.2, `etrecheckpro` 6.8.17 → 6.8.18, `flutter` 3.47.7 → 3.47.8, `font-lxgw-neoxihei` 1.307 → 1.308, `font-lxgw-neozhisong` 1.069 → 1.070, `google-chrome@canary` 158.0.8119.0 → 158.0.8120.0, `grandtotal` 10.0.0.11 → 10.0.0.14, `granola` 7.668.2 → 7.668.3, `grok-bot` 0.75.3 → 0.75.5, `hackolade` 8.13.5 → 8.13.6, `hol-guard` 3.0.143 → 3.0.144, `hytale` 2026.10.21-3c04223 → 2026.10.23-53cde5e, `input-source-pro` 2.13.2 → 2.14.0, `ishare` 5.3.0 → 5.4.1, `java@beta` 28,20 → 28,21 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-23T19:58:21Z
 
 - **Registered 1 formulae**: `gitea-cli`
