@@ -1,0 +1,608 @@
+{
+ "synced_at": "2026-10-24T18:49:44Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.0,870",
+    "name": "amp-app",
+    "to": "1.0,880"
+   },
+   {
+    "from": "3.1.0",
+    "name": "batteries",
+    "to": "3.1.1"
+   },
+   {
+    "from": "4.0.19",
+    "name": "cc-switch",
+    "to": "4.0.20"
+   },
+   {
+    "from": "0.5.20",
+    "name": "claudebar",
+    "to": "0.5.21"
+   },
+   {
+    "from": "0.80.0",
+    "name": "codexbar",
+    "to": "0.81.0"
+   },
+   {
+    "from": "1.0.104-2",
+    "name": "copilot-cli@prerelease",
+    "to": "1.0.104-3"
+   },
+   {
+    "from": "2026.5",
+    "name": "cotypist",
+    "to": "2026.5.1"
+   },
+   {
+    "from": "2.2.1.2706",
+    "name": "crosspaste",
+    "to": "2.3.0.2767"
+   },
+   {
+    "from": "1.9.81",
+    "name": "deviceshelf",
+    "to": "1.9.82"
+   },
+   {
+    "from": "2609-113,e3,09",
+    "name": "dolphin@dev",
+    "to": "2609-115,45,7e"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-aile",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-curly",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-curly-slab",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-etoile",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-slab",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss01",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss02",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss03",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss04",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss05",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss06",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss07",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss08",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss09",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss10",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss11",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss12",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss13",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss14",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss15",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss16",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss17",
+    "to": "34.9.1"
+   },
+   {
+    "from": "34.9.0",
+    "name": "font-iosevka-ss18",
+    "to": "34.9.1"
+   },
+   {
+    "from": "0.31",
+    "name": "font-libron",
+    "to": "0.32"
+   },
+   {
+    "from": "2.71.0",
+    "name": "fork@dev",
+    "to": "2.71.1"
+   },
+   {
+    "from": "3.8.18",
+    "name": "gearboy",
+    "to": "3.8.19"
+   },
+   {
+    "from": "3.9.22",
+    "name": "gearsystem",
+    "to": "3.9.23"
+   },
+   {
+    "from": "10.0.0.15",
+    "name": "grandtotal",
+    "to": "10.0.0.16"
+   },
+   {
+    "from": "0.75.5",
+    "name": "grok-bot",
+    "to": "0.75.8"
+   },
+   {
+    "from": "3.13.0,430",
+    "name": "hedy",
+    "to": "3.14.0,434"
+   },
+   {
+    "from": "2.1.15",
+    "name": "kero",
+    "to": "2.1.17"
+   },
+   {
+    "from": "3.4.0,20261013",
+    "name": "keyguard",
+    "to": "3.5.0,20261024.1"
+   },
+   {
+    "from": "1.1.3",
+    "name": "manus-cue",
+    "to": "1.1.4"
+   },
+   {
+    "from": "8.3.3",
+    "name": "mate-translate",
+    "to": "11.0.2"
+   },
+   {
+    "from": "3.10",
+    "name": "mi",
+    "to": "3.10.1"
+   },
+   {
+    "from": "3.10",
+    "name": "mi@beta",
+    "to": "3.10.1"
+   },
+   {
+    "from": "1098",
+    "name": "monal",
+    "to": "1101"
+   },
+   {
+    "from": "1.4.12-R6909.1",
+    "name": "muse-code",
+    "to": "1.4.13-R6996.1"
+   },
+   {
+    "from": "1.2.4",
+    "name": "nook",
+    "to": "1.3.0"
+   },
+   {
+    "from": "1.3.0",
+    "name": "opendisk",
+    "to": "1.3.1"
+   },
+   {
+    "from": "1.26.0",
+    "name": "opendisplay",
+    "to": "1.27.0"
+   },
+   {
+    "from": "1.26.0",
+    "name": "opendisplay-receiver",
+    "to": "1.27.0"
+   },
+   {
+    "from": "3.8.2,6009",
+    "name": "openvpn-connect",
+    "to": "3.9.0,6050"
+   },
+   {
+    "from": "1.2.19",
+    "name": "pen",
+    "to": "1.2.20"
+   },
+   {
+    "from": "1.19.0",
+    "name": "pgen",
+    "to": "1.20.0"
+   },
+   {
+    "from": "0.1.28",
+    "name": "pulse",
+    "to": "0.1.29"
+   },
+   {
+    "from": "1.12.0",
+    "name": "purge",
+    "to": "1.13.0"
+   },
+   {
+    "from": "0.1.3354",
+    "name": "reader",
+    "to": "0.1.3356"
+   },
+   {
+    "from": "7.82",
+    "name": "reaper",
+    "to": "7.83"
+   },
+   {
+    "from": "7.0.30",
+    "name": "sharemouse",
+    "to": "7.0.31"
+   },
+   {
+    "from": "2.3.22",
+    "name": "smooze-pro",
+    "to": "2.3.35"
+   },
+   {
+    "from": "3.2.1",
+    "name": "stirling-pdf",
+    "to": "3.2.2"
+   },
+   {
+    "from": "0.1.3-nightly.20261024.3604",
+    "name": "t3-code@nightly",
+    "to": "0.1.3-nightly.20261024.3630"
+   },
+   {
+    "from": "0.29.1-2,20261022-6324058",
+    "name": "tabularis@nightly",
+    "to": "0.29.1-3,20261024-39dab01"
+   },
+   {
+    "from": "13.1.0,283368",
+    "name": "telegram@beta",
+    "to": "13.1.0,283371"
+   },
+   {
+    "from": "10.2.1",
+    "name": "termius@beta",
+    "to": "10.3.0"
+   },
+   {
+    "from": "15.0.645",
+    "name": "thebrain",
+    "to": "15.0.647"
+   },
+   {
+    "from": "0.5.24",
+    "name": "thoughtdag",
+    "to": "0.5.25"
+   },
+   {
+    "from": "2.5.0",
+    "name": "triggerflo",
+    "to": "2.6.0"
+   },
+   {
+    "from": "1.140.06829-insider",
+    "name": "vscodium@insiders",
+    "to": "1.143.17140-insider"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [
+   "annotsv",
+   "erpc"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "65.0.0",
+    "name": "bazel-diff",
+    "to": "66.0.0"
+   },
+   {
+    "from": "0.2.8",
+    "name": "bed",
+    "to": "0.2.9"
+   },
+   {
+    "from": "2.6.2",
+    "name": "biome",
+    "to": "2.6.3"
+   },
+   {
+    "from": "1.26.0",
+    "name": "cargo-binstall",
+    "to": "1.26.1"
+   },
+   {
+    "from": "20.0.42",
+    "name": "ccusage",
+    "to": "20.0.43"
+   },
+   {
+    "from": "2026.10.19",
+    "name": "certifi",
+    "to": "2026.10.23"
+   },
+   {
+    "from": "0.8.1",
+    "name": "ctx7",
+    "to": "0.8.2"
+   },
+   {
+    "from": "1.39.4",
+    "name": "envoy",
+    "to": "1.40.1"
+   },
+   {
+    "from": "1.5.0",
+    "name": "gascity",
+    "to": "1.5.1"
+   },
+   {
+    "from": "1.57.1",
+    "name": "go-feature-flag-relay-proxy",
+    "to": "1.57.2"
+   },
+   {
+    "from": "1.6.5",
+    "name": "gomi",
+    "to": "1.7.0"
+   },
+   {
+    "from": "0.29.5",
+    "name": "headscale-cli",
+    "to": "0.29.6"
+   },
+   {
+    "from": "2.2.0_1",
+    "name": "hf",
+    "to": "2.3.0"
+   },
+   {
+    "from": "1.3",
+    "name": "jvm-mon",
+    "to": "1.4"
+   },
+   {
+    "from": "0.3.0",
+    "name": "lazy-tmux",
+    "to": "0.3.1"
+   },
+   {
+    "from": "0.6.6",
+    "name": "mcat",
+    "to": "0.6.7"
+   },
+   {
+    "from": "1.62.0",
+    "name": "mole",
+    "to": "1.63.0"
+   },
+   {
+    "from": "26.10.0",
+    "name": "molecule",
+    "to": "26.10.0_1"
+   },
+   {
+    "from": "2.30.0",
+    "name": "mycli",
+    "to": "2.30.0_1"
+   },
+   {
+    "from": "2.1.3",
+    "name": "opencode",
+    "to": "2.1.4"
+   },
+   {
+    "from": "4.2.7",
+    "name": "openlist",
+    "to": "4.2.8"
+   },
+   {
+    "from": "0.5.9",
+    "name": "osctrl-cli",
+    "to": "0.6.1"
+   },
+   {
+    "from": "0.6.0",
+    "name": "osctrl-mcp",
+    "to": "0.6.1"
+   },
+   {
+    "from": "2.3.1",
+    "name": "phpstan",
+    "to": "2.3.2"
+   },
+   {
+    "from": "10.34.7",
+    "name": "pnpm@10",
+    "to": "10.34.8"
+   },
+   {
+    "from": "11.28.6",
+    "name": "pnpm@11",
+    "to": "11.28.8"
+   },
+   {
+    "from": "0.15.9",
+    "name": "portless",
+    "to": "0.15.10"
+   },
+   {
+    "from": "5.45.0",
+    "name": "prowler",
+    "to": "5.45.0_1"
+   },
+   {
+    "from": "0.54.0",
+    "name": "rbspy",
+    "to": "0.55.0"
+   },
+   {
+    "from": "2.70.0",
+    "name": "redocly-cli",
+    "to": "2.71.0"
+   },
+   {
+    "from": "0.48.1",
+    "name": "resvg",
+    "to": "0.49.0"
+   },
+   {
+    "from": "9.1.0",
+    "name": "robot-framework-robocop",
+    "to": "9.1.2"
+   },
+   {
+    "from": "10.6.4",
+    "name": "rqlite",
+    "to": "10.6.5"
+   },
+   {
+    "from": "8.22.1",
+    "name": "sanity",
+    "to": "8.23.0"
+   },
+   {
+    "from": "0.18.0",
+    "name": "sccache",
+    "to": "0.19.0"
+   },
+   {
+    "from": "0.47.0",
+    "name": "seam",
+    "to": "0.48.0"
+   },
+   {
+    "from": "0.26.3",
+    "name": "skillshare",
+    "to": "0.26.4"
+   },
+   {
+    "from": "4.5.1",
+    "name": "slackdump",
+    "to": "4.5.2"
+   },
+   {
+    "from": "1.1308.2",
+    "name": "snyk-cli",
+    "to": "1.1308.3"
+   },
+   {
+    "from": "2.46.2",
+    "name": "spicetify-cli",
+    "to": "2.46.3"
+   },
+   {
+    "from": "0.8.8",
+    "name": "termframe",
+    "to": "0.9.0"
+   },
+   {
+    "from": "1.9.2",
+    "name": "tombi",
+    "to": "1.9.4"
+   },
+   {
+    "from": "3.20.0",
+    "name": "translate-toolkit",
+    "to": "3.20.1"
+   },
+   {
+    "from": "7.1.1",
+    "name": "usage",
+    "to": "7.1.2"
+   },
+   {
+    "from": "5.17.1",
+    "name": "webdav",
+    "to": "5.17.2"
+   },
+   {
+    "from": "5.112.1",
+    "name": "webpack",
+    "to": "5.112.2"
+   },
+   {
+    "from": "0.4.47",
+    "name": "zot",
+    "to": "0.4.49"
+   }
+  ]
+ }
+}

@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-24T18:49:44Z
+
+- **Registered 2 formulae**: `annotsv`, `erpc`
+- Updated 47 formulae: `bazel-diff` 65.0.0 → 66.0.0, `bed` 0.2.8 → 0.2.9, `biome` 2.6.2 → 2.6.3, `cargo-binstall` 1.26.0 → 1.26.1, `ccusage` 20.0.42 → 20.0.43, `certifi` 2026.10.19 → 2026.10.23, `ctx7` 0.8.1 → 0.8.2, `envoy` 1.39.4 → 1.40.1, `gascity` 1.5.0 → 1.5.1, `go-feature-flag-relay-proxy` 1.57.1 → 1.57.2, `gomi` 1.6.5 → 1.7.0, `headscale-cli` 0.29.5 → 0.29.6, `hf` 2.2.0_1 → 2.3.0, `jvm-mon` 1.3 → 1.4, `lazy-tmux` 0.3.0 → 0.3.1, `mcat` 0.6.6 → 0.6.7, `mole` 1.62.0 → 1.63.0, `molecule` 26.10.0 → 26.10.0_1, `mycli` 2.30.0 → 2.30.0_1, `opencode` 2.1.3 → 2.1.4, `openlist` 4.2.7 → 4.2.8, `osctrl-cli` 0.5.9 → 0.6.1, `osctrl-mcp` 0.6.0 → 0.6.1, `phpstan` 2.3.1 → 2.3.2, `pnpm@10` 10.34.7 → 10.34.8 …
+- Updated 71 casks: `amp-app` 1.0,870 → 1.0,880, `batteries` 3.1.0 → 3.1.1, `cc-switch` 4.0.19 → 4.0.20, `claudebar` 0.5.20 → 0.5.21, `codexbar` 0.80.0 → 0.81.0, `copilot-cli@prerelease` 1.0.104-2 → 1.0.104-3, `cotypist` 2026.5 → 2026.5.1, `crosspaste` 2.2.1.2706 → 2.3.0.2767, `deviceshelf` 1.9.81 → 1.9.82, `dolphin@dev` 2609-113,e3,09 → 2609-115,45,7e, `font-iosevka` 34.9.0 → 34.9.1, `font-iosevka-aile` 34.9.0 → 34.9.1, `font-iosevka-curly` 34.9.0 → 34.9.1, `font-iosevka-curly-slab` 34.9.0 → 34.9.1, `font-iosevka-etoile` 34.9.0 → 34.9.1, `font-iosevka-slab` 34.9.0 → 34.9.1, `font-iosevka-ss01` 34.9.0 → 34.9.1, `font-iosevka-ss02` 34.9.0 → 34.9.1, `font-iosevka-ss03` 34.9.0 → 34.9.1, `font-iosevka-ss04` 34.9.0 → 34.9.1, `font-iosevka-ss05` 34.9.0 → 34.9.1, `font-iosevka-ss06` 34.9.0 → 34.9.1, `font-iosevka-ss07` 34.9.0 → 34.9.1, `font-iosevka-ss08` 34.9.0 → 34.9.1, `font-iosevka-ss09` 34.9.0 → 34.9.1 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-24T12:44:13Z
 
 - **Registered 2 formulae**: `ascelerate`, `filmcraft-cli`
