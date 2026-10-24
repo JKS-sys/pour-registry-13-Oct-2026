@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-24T04:44:26Z
+
+- Updated 59 formulae: `alda` 2.4.7 → 2.4.8, `anyzig` 2026.10.20 → 2026.10.23, `apko` 1.4.12 → 1.4.13, `aws-cdk` 2.1146.0 → 2.1146.1, `aws-iam-authenticator` 0.7.23 → 0.7.24, `bazel-diff` 64.0.0 → 65.0.0, `bazel@7` 7.7.1 → 7.7.2, `bend` 2.0.38 → 2.0.39, `btrfs-progs` 7.1 → 7.3, `cdxgen` 12.8.8 → 12.9.0, `citus` 14.2.0_1 → 14.3.0, `coder` 2.37.5 → 2.37.6, `cpp-peglib` 1.25.0 → 1.26.0, `diffle` 0.3.2 → 0.3.3, `draw-things-cli` 26.1014.0 → 26.1023.0, `fabric-ai` 1.4.551 → 1.4.553, `fastapi` 0.159.1 → 0.160.0, `fastlane` 2.241.1 → 2.241.1_1, `fern-api` 5.171.5 → 5.172.0, `flyctl` 0.4.121 → 0.4.122, `gh` 2.103.1 → 2.103.2, `glib-networking` 2.90.0 → 2.90.1, `gogcli` 0.46.0 → 0.47.0, `govc` 0.56.0 → 0.56.1, `gpatch` 2.8 → 2.8.1 …
+- **Registered 3 casks**: `kero`, `omniwm@canary`, `pen`
+- Updated 35 casks: `alt-tab` 11.10.0 → 11.10.1, `antigravity-cli` 1.4.6,4884751325200384 → 1.4.7,5900205422411776, `argo-books` 2.0.21 → 2.0.22, `bb` 0.46.1 → 0.47.0, `biscuit` 2.1.2 → 2.1.3, `chatgpt` 26.1021.22027 → 26.1021.31345, `claude-code@latest` 2.1.309 → 2.1.310, `clion@eap` 2026.3,263.7031.19 → 2026.3,263.7307.35, `copilot-cli@prerelease` 1.0.104-1 → 1.0.104-2, `db-browser-for-sqlcipher@nightly` 20261021 → 20261024, `db-browser-for-sqlite@nightly` 20261021 → 20261024, `devin-desktop` 3.11.212,75ee16a8b1727eacf044a4ad4996e12ee4117071 → 3.11.216,d70b4713dfeaf856a4d8a35b35eac0c86e07af07, `devin-desktop@next` 3.11.1108+next.727501f0a2,727501f0a20f5297167ce744cc1cff5f0a0a1aca → 3.11.1216+next.d70b4713df,d70b4713dfeaf856a4d8a35b35eac0c86e07af07, `discord@canary` 0.0.1421 → 0.0.1423, `electerm` 5.6.10 → 5.7.5, `gridtracker2` 2.260925.2 → 2.261019.5, `intellij-idea@eap` 2026.3,263.7031.23 → 2026.3,263.7307.44, `kiro-cli` 2.33.1 → 2.34.0, `littlebird` 0.86.73 → 0.86.75, `mindroom` 2026.10.480 → 2026.10.490, `numi` 3.32.721 → 3.35.743, `obs` 32.2.2 → 33.0.0, `osaurus` 0.25.25 → 0.25.26, `photocraft` 0.14.0 → 0.15.1, `plexamp` 4.50.19 → 4.50.20 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-23T23:12:10Z
 
 - Updated 15 formulae: `cdxgen` 12.8.7 → 12.8.8, `gptline` 1.0.8_24 → 1.0.8_25, `ki` 0.5.2 → 0.6.0, `moon` 2.6.3 → 2.6.4, `n8n-mcp` 2.95.0 → 2.96.1, `netlify-cli` 27.14.1 → 27.14.2, `ratify` 1.4.7 → 1.4.8, `recc` 1.4.29 → 1.4.30, `samba` 4.25.0_1 → 4.25.1, `skip` 1.9.17 → 1.9.18, `supermodel` 0.3a-20261021-git-32c29b0 → 0.3a-20261023-git-e048c09, `terraform-mcp-server` 1.3.0 → 1.4.0, `tinycbor` 7.0 → 7.1, `valgrind` 3.27.1 → 3.28.0, `zot` 0.4.42 → 0.4.45
