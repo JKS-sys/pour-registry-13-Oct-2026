@@ -1,0 +1,305 @@
+{
+ "synced_at": "2026-10-24T22:32:13Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2609-115,45,7e",
+    "name": "dolphin@dev",
+    "to": "2609-117,dd,24"
+   },
+   {
+    "from": "4.18.81",
+    "name": "flashspace",
+    "to": "4.19.82"
+   },
+   {
+    "from": "158.0.8121.0",
+    "name": "google-chrome@canary",
+    "to": "158.0.8122.0"
+   },
+   {
+    "from": "1.7.3",
+    "name": "hagimimonitordirect",
+    "to": "1.7.4"
+   },
+   {
+    "from": "3.5.4",
+    "name": "jumpshare",
+    "to": "3.6.0,234"
+   },
+   {
+    "from": "2.7.2",
+    "name": "luxury-yacht",
+    "to": "2.8.0"
+   },
+   {
+    "from": "0.56.1",
+    "name": "maestri",
+    "to": "0.57.0"
+   },
+   {
+    "from": "2.11.0,z9pfn5AVGH5-xWDQm4tWd-_d5qYMFSE0",
+    "name": "multiviewer",
+    "to": "2.12.0,wYBMmwD1W-1KJtI4Dpaiuf7P2M4VtAqR"
+   },
+   {
+    "from": "0.40.10",
+    "name": "ollama-app",
+    "to": "0.40.11"
+   },
+   {
+    "from": "0.40.10",
+    "name": "ollama-binary",
+    "to": "0.40.11"
+   },
+   {
+    "from": "1.27.0",
+    "name": "opendisplay",
+    "to": "1.28.0"
+   },
+   {
+    "from": "1.27.0",
+    "name": "opendisplay-receiver",
+    "to": "1.28.0"
+   },
+   {
+    "from": "4.0.1,17989-d8d8c514-c6d22664",
+    "name": "openshot-video-editor@daily",
+    "to": "4.0.1,18045-6f63ecae-c6d22664"
+   },
+   {
+    "from": "0.1.3356",
+    "name": "reader",
+    "to": "0.1.3358"
+   },
+   {
+    "from": "1.42",
+    "name": "refine",
+    "to": "1.43"
+   },
+   {
+    "from": "3.0.45",
+    "name": "rize",
+    "to": "3.0.149"
+   },
+   {
+    "from": "2.33.2",
+    "name": "spokenly",
+    "to": "2.33.3"
+   },
+   {
+    "from": "1.7.2",
+    "name": "status-trio",
+    "to": "1.7.4"
+   },
+   {
+    "from": "26.10.4",
+    "name": "supaterm",
+    "to": "26.10.5"
+   },
+   {
+    "from": "3.3.3",
+    "name": "thelowtechguys-cling",
+    "to": "3.3.4"
+   },
+   {
+    "from": "A75",
+    "name": "uefitool",
+    "to": "A76"
+   },
+   {
+    "from": "1.6.1253",
+    "name": "wispr-flow",
+    "to": "1.6.1264"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2026.10.16",
+    "name": "abcmidi",
+    "to": "2026.10.23"
+   },
+   {
+    "from": "3.1.0",
+    "name": "apkid",
+    "to": "3.2.0"
+   },
+   {
+    "from": "0.26.4",
+    "name": "ascelerate",
+    "to": "0.26.5"
+   },
+   {
+    "from": "1.233.1",
+    "name": "atmos",
+    "to": "1.233.2"
+   },
+   {
+    "from": "1.169.0",
+    "name": "aws-sam-cli",
+    "to": "1.170.0"
+   },
+   {
+    "from": "11.6",
+    "name": "bsdconv",
+    "to": "11.7"
+   },
+   {
+    "from": "0.38.1",
+    "name": "cookcli",
+    "to": "0.39.0"
+   },
+   {
+    "from": "6.20.2",
+    "name": "dartsim",
+    "to": "6.20.3"
+   },
+   {
+    "from": "0.4.129",
+    "name": "dbx-cli",
+    "to": "0.4.130"
+   },
+   {
+    "from": "0.3.3",
+    "name": "diffle",
+    "to": "0.3.4"
+   },
+   {
+    "from": "0.10.17",
+    "name": "evnx",
+    "to": "0.10.18"
+   },
+   {
+    "from": "0.161.1",
+    "name": "fastapi",
+    "to": "0.162.0"
+   },
+   {
+    "from": "2.4.1",
+    "name": "garage",
+    "to": "2.5.0"
+   },
+   {
+    "from": "1.0.8",
+    "name": "hellwal",
+    "to": "1.0.9"
+   },
+   {
+    "from": "0.4.37",
+    "name": "langgraph-cli",
+    "to": "0.4.38"
+   },
+   {
+    "from": "0.31.0",
+    "name": "memex",
+    "to": "0.31.1"
+   },
+   {
+    "from": "2026.10.18",
+    "name": "mise",
+    "to": "2026.10.19"
+   },
+   {
+    "from": "3.0.1",
+    "name": "mistral-vibe",
+    "to": "3.0.2"
+   },
+   {
+    "from": "2.11.6",
+    "name": "muffet",
+    "to": "2.11.7"
+   },
+   {
+    "from": "2.96.1",
+    "name": "n8n-mcp",
+    "to": "2.96.2"
+   },
+   {
+    "from": "8.11.0",
+    "name": "neonctl",
+    "to": "8.11.1"
+   },
+   {
+    "from": "0.10.1_1",
+    "name": "noodle",
+    "to": "0.10.2"
+   },
+   {
+    "from": "2.33.1",
+    "name": "ntfy",
+    "to": "2.34.0"
+   },
+   {
+    "from": "0.40.10",
+    "name": "ollama",
+    "to": "0.40.11"
+   },
+   {
+    "from": "27.0.1.0.2",
+    "name": "openjdk",
+    "to": "27.0.1.0.3"
+   },
+   {
+    "from": "1.3.5",
+    "name": "oras",
+    "to": "1.3.6"
+   },
+   {
+    "from": "0.65.0",
+    "name": "oxen",
+    "to": "0.65.1"
+   },
+   {
+    "from": "3.15.0_1",
+    "name": "python-freethreading",
+    "to": "3.15.1"
+   },
+   {
+    "from": "3.15.0",
+    "name": "python-gdbm@3.15",
+    "to": "3.15.1"
+   },
+   {
+    "from": "3.15.0",
+    "name": "python-tk@3.15",
+    "to": "3.15.1"
+   },
+   {
+    "from": "3.15.0_1",
+    "name": "python@3.15",
+    "to": "3.15.1"
+   },
+   {
+    "from": "3.16.17",
+    "name": "readsb",
+    "to": "3.16.18"
+   },
+   {
+    "from": "2026.10.10.1",
+    "name": "scrutineer",
+    "to": "2026.10.24.1"
+   },
+   {
+    "from": "0.35.1",
+    "name": "vacuum",
+    "to": "0.35.3"
+   },
+   {
+    "from": "0.5.4",
+    "name": "vortix",
+    "to": "0.5.5"
+   },
+   {
+    "from": "41.0.1",
+    "name": "wildfly-as",
+    "to": "42.0.0"
+   }
+  ]
+ }
+}

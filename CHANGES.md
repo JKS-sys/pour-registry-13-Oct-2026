@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-24T22:32:13Z
+
+- Updated 36 formulae: `abcmidi` 2026.10.16 → 2026.10.23, `apkid` 3.1.0 → 3.2.0, `ascelerate` 0.26.4 → 0.26.5, `atmos` 1.233.1 → 1.233.2, `aws-sam-cli` 1.169.0 → 1.170.0, `bsdconv` 11.6 → 11.7, `cookcli` 0.38.1 → 0.39.0, `dartsim` 6.20.2 → 6.20.3, `dbx-cli` 0.4.129 → 0.4.130, `diffle` 0.3.3 → 0.3.4, `evnx` 0.10.17 → 0.10.18, `fastapi` 0.161.1 → 0.162.0, `garage` 2.4.1 → 2.5.0, `hellwal` 1.0.8 → 1.0.9, `langgraph-cli` 0.4.37 → 0.4.38, `memex` 0.31.0 → 0.31.1, `mise` 2026.10.18 → 2026.10.19, `mistral-vibe` 3.0.1 → 3.0.2, `muffet` 2.11.6 → 2.11.7, `n8n-mcp` 2.96.1 → 2.96.2, `neonctl` 8.11.0 → 8.11.1, `noodle` 0.10.1_1 → 0.10.2, `ntfy` 2.33.1 → 2.34.0, `ollama` 0.40.10 → 0.40.11, `openjdk` 27.0.1.0.2 → 27.0.1.0.3 …
+- Updated 22 casks: `dolphin@dev` 2609-115,45,7e → 2609-117,dd,24, `flashspace` 4.18.81 → 4.19.82, `google-chrome@canary` 158.0.8121.0 → 158.0.8122.0, `hagimimonitordirect` 1.7.3 → 1.7.4, `jumpshare` 3.5.4 → 3.6.0,234, `luxury-yacht` 2.7.2 → 2.8.0, `maestri` 0.56.1 → 0.57.0, `multiviewer` 2.11.0,z9pfn5AVGH5-xWDQm4tWd-_d5qYMFSE0 → 2.12.0,wYBMmwD1W-1KJtI4Dpaiuf7P2M4VtAqR, `ollama-app` 0.40.10 → 0.40.11, `ollama-binary` 0.40.10 → 0.40.11, `opendisplay` 1.27.0 → 1.28.0, `opendisplay-receiver` 1.27.0 → 1.28.0, `openshot-video-editor@daily` 4.0.1,17989-d8d8c514-c6d22664 → 4.0.1,18045-6f63ecae-c6d22664, `reader` 0.1.3356 → 0.1.3358, `refine` 1.42 → 1.43, `rize` 3.0.45 → 3.0.149, `spokenly` 2.33.2 → 2.33.3, `status-trio` 1.7.2 → 1.7.4, `supaterm` 26.10.4 → 26.10.5, `thelowtechguys-cling` 3.3.3 → 3.3.4, `uefitool` A75 → A76, `wispr-flow` 1.6.1253 → 1.6.1264
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-24T18:49:44Z
 
 - **Registered 2 formulae**: `annotsv`, `erpc`
