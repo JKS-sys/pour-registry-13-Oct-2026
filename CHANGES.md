@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-24T12:44:13Z
+
+- **Registered 2 formulae**: `ascelerate`, `filmcraft-cli`
+- Updated 94 formulae: `aicommit2` 2.14.0 → 2.14.1, `aicommits` 4.2.3 → 4.2.5, `ansible` 14.5.0 → 14.5.0_1, `ansible-builder` 3.2.0 → 3.2.0_1, `apm` 0.34.0 → 0.35.0, `aqtinstall` 3.3.0_10 → 3.3.0_11, `asc` 5.16.0 → 5.16.1, `astyle` 3.6.19 → 3.6.20, `aws-google-auth` 0.0.38_24 → 0.0.38_25, `aws-lc` 5.11.0 → 5.12.0, `b2-tools` 5.0.1 → 5.0.2, `bashate` 2.1.1_3 → 2.1.1_4, `bazarr` 1.6.2 → 1.6.2_1, `bbot` 3.0.2_2 → 3.0.2_3, `beads` 1.3.1 → 1.3.2, `block-goose-cli` 1.55.0 → 1.56.0, `ccm` 3.1.5_6 → 3.1.5_7, `cloudformation-cli` 0.2.41_2 → 0.2.41_3, `coconut` 3.2.0_3 → 3.2.0_4, `container` 1.6.0 → 1.6.1, `core-lightning` 26.06.9 → 26.06.9_1, `cve-bin-tool` 3.4_3 → 3.4_4, `cython` 3.3.0 → 3.3.0_1, `datasette` 0.65.5 → 0.65.5_1, `dbx-cli` 0.4.128 → 0.4.129 …
+- **Registered 1 casks**: `airbuild`
+- Updated 50 casks: `aldente` 1.39.4 → 1.40, `appgridmac` 1.2.14 → 1.2.15, `bb` 0.47.0 → 0.47.1, `beatunes` 6.0.0 → 6.0.1, `bettertouchtool@alpha` 6.977,2026102302 → 6.978,2026102401, `cc-pocket` 1.145.4,276 → 1.145.5,277, `clickhouse` 26.9.25.15-stable → 26.10.2.103-stable, `copilot-language-server` 1.560.0 → 1.561.0, `daedalus-mainnet` 11.5.0,87825,22440487d → 11.6.0,88084,d6502e079, `datadog-agent` 7.84.5-1 → 7.84.6-1, `dbx` 0.6.52 → 0.6.53, `deepseek-harness` 0.2.1-rc.2 → 0.2.1-rc.3, `droid` 0.248.0 → 0.249.0, `electrum` 4.8.2 → 4.8.3, `element@nightly` 2026102301 → 2026102401, `emacs-app@nightly` 2026-10-23_00-09-16,04bab7bb7af3512bc8591d9b050a1ce16bbaa704 → 2026-10-24_00-09-55,d961c9de742f7597a8be30bec6a55ea09e00e9b0, `excalidrawz` 2.4.5 → 2.5.1, `factory` 0.205.0 → 0.206.0, `freelens@nightly` 2.0.0-0-nightly-2026-10-23 → 2.0.0-0-nightly-2026-10-24, `ghostex` 10.31.0 → 10.32.0, `ghostty@tip` 18393,08a9518340e19487bd5fdf96963583fb32f0c41f → 18395,22f100c6367045bb5fc86172f837047dee2f7670, `github` 3.6.8-c5923f66 → 3.6.9-e0ba6bb8, `github-copilot-app` 1.1.31 → 1.1.32, `github@beta` 3.6.8-beta4-288f99ee → 3.6.9-beta1-775c1bf5, `google-chrome@canary` 158.0.8120.0 → 158.0.8121.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-24T04:44:26Z
 
 - Updated 59 formulae: `alda` 2.4.7 → 2.4.8, `anyzig` 2026.10.20 → 2026.10.23, `apko` 1.4.12 → 1.4.13, `aws-cdk` 2.1146.0 → 2.1146.1, `aws-iam-authenticator` 0.7.23 → 0.7.24, `bazel-diff` 64.0.0 → 65.0.0, `bazel@7` 7.7.1 → 7.7.2, `bend` 2.0.38 → 2.0.39, `btrfs-progs` 7.1 → 7.3, `cdxgen` 12.8.8 → 12.9.0, `citus` 14.2.0_1 → 14.3.0, `coder` 2.37.5 → 2.37.6, `cpp-peglib` 1.25.0 → 1.26.0, `diffle` 0.3.2 → 0.3.3, `draw-things-cli` 26.1014.0 → 26.1023.0, `fabric-ai` 1.4.551 → 1.4.553, `fastapi` 0.159.1 → 0.160.0, `fastlane` 2.241.1 → 2.241.1_1, `fern-api` 5.171.5 → 5.172.0, `flyctl` 0.4.121 → 0.4.122, `gh` 2.103.1 → 2.103.2, `glib-networking` 2.90.0 → 2.90.1, `gogcli` 0.46.0 → 0.47.0, `govc` 0.56.0 → 0.56.1, `gpatch` 2.8 → 2.8.1 …
