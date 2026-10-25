@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-25T04:51:15Z
+
+- **Registered 5 formulae**: `cellpose`, `dep-scan`, `gitea-importer`, `icu4c@79`, `kontext`
+- **De-registered 2 formulae**: `icu4c@75`, `tldr`
+- Updated 85 formulae: `agent-manager` 0.43.1 → 0.43.2, `amy` 1.19.0 → 1.20.0, `apngasm` 3.1.10_21 → 3.1.10_22, `atlantis` 0.48.2 → 0.49.0, `beads` 1.3.2 → 1.3.2_1, `boost` 1.92.0 → 1.92.0_1, `bun` 1.4.4 → 1.4.4_1, `ccusage` 20.0.43 → 20.0.44, `cdncheck` 1.3.2 → 1.3.3, `cpp-peglib` 1.26.0 → 1.27.0, `deja-vu` 0.23.0 → 0.23.1, `dolt` 2.6.0 → 2.6.0_1, `doltlite` 0.51.1 → 0.51.2, `easyrpg-player` 0.8.1.1_2 → 0.8.1.1_3, `freeciv` 3.2.6 → 3.2.6_1, `freerdp` 3.32.2 → 3.32.2_1, `gascity` 1.5.1 → 1.5.1_1, `gastown` 1.1.0 → 1.1.0_1, `git-pages` 0.9.1 → 0.10.0, `gnustep-base` 1.31.1_3 → 1.31.1_4, `gspell` 1.14.5 → 1.14.5_1, `harfbuzz` 15.0.0 → 15.0.0_1, `hunk` 0.24.0_1 → 0.24.1, `icu4c@78` 78.3 → 78.3_1, `kubectl-radar` 1.18.0 → 1.18.1 …
+- **Registered 1 casks**: `font-agrave-pro`
+- Updated 48 casks: `adguard@nightly` 2.20.0.2402 → 2.21.0.2632, `adobe-connect` 2026.01.39,11 → 2026.10.66,11, `amethyst-nostr` 1.19.0 → 1.20.0, `amp-app` 1.0,880 → 1.0,890, `backdrop` 2.10.3,144 → 2.10.4,145, `clickup` 3.5.343,260922khmj5cgny → 3.5.395,261024vdacqn9ya, `colamd` 2.7.7 → 2.7.8, `conductor` 0.91.2,01M5AXSJPPGXRRABBQ1AFXNYQ8 → 0.92.0,01M5QVXH22XKFJMKCK0B5440ZZ, `craft-agents` 0.15.4 → 0.15.6, `dbx` 0.6.53 → 0.6.54, `deviceshelf` 1.9.82 → 1.9.83, `dolphin@dev` 2609-117,dd,24 → 2609-119,83,49, `donut` 0.34.0 → 0.35.5, `dropbox@beta` 277.3.4925 → 277.3.4952, `firefox@nightly` 161.0a1,2026-10-23-09-50-57 → 161.0a1,2026-10-24-21-50-18, `fluxer` 2026.1018.223338 → 2026.1025.12517, `font-ark-pixel-10px-monospaced` 2026.10.16 → 2026.10.25, `font-ark-pixel-10px-proportional` 2026.10.16 → 2026.10.25, `font-ark-pixel-12px-monospaced` 2026.10.16 → 2026.10.25, `font-ark-pixel-12px-proportional` 2026.10.16 → 2026.10.25, `font-sarasa-gothic` 1.0.42 → 1.0.43, `franz` 6.10.1 → 6.10.2, `gcs` 5.55.0 → 5.56.0, `ghostex` 10.32.0 → 10.34.0, `gloomberb` 0.18.3 → 0.18.4 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-24T22:32:13Z
 
 - Updated 36 formulae: `abcmidi` 2026.10.16 → 2026.10.23, `apkid` 3.1.0 → 3.2.0, `ascelerate` 0.26.4 → 0.26.5, `atmos` 1.233.1 → 1.233.2, `aws-sam-cli` 1.169.0 → 1.170.0, `bsdconv` 11.6 → 11.7, `cookcli` 0.38.1 → 0.39.0, `dartsim` 6.20.2 → 6.20.3, `dbx-cli` 0.4.129 → 0.4.130, `diffle` 0.3.3 → 0.3.4, `evnx` 0.10.17 → 0.10.18, `fastapi` 0.161.1 → 0.162.0, `garage` 2.4.1 → 2.5.0, `hellwal` 1.0.8 → 1.0.9, `langgraph-cli` 0.4.37 → 0.4.38, `memex` 0.31.0 → 0.31.1, `mise` 2026.10.18 → 2026.10.19, `mistral-vibe` 3.0.1 → 3.0.2, `muffet` 2.11.6 → 2.11.7, `n8n-mcp` 2.96.1 → 2.96.2, `neonctl` 8.11.0 → 8.11.1, `noodle` 0.10.1_1 → 0.10.2, `ntfy` 2.33.1 → 2.34.0, `ollama` 0.40.10 → 0.40.11, `openjdk` 27.0.1.0.2 → 27.0.1.0.3 …
