@@ -1,0 +1,449 @@
+{
+ "synced_at": "2026-10-25T19:06:05Z",
+ "casks": {
+  "added": [
+   "magpie"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.0,890",
+    "name": "amp-app",
+    "to": "1.0,900"
+   },
+   {
+    "from": "0.7.0",
+    "name": "artcraft-launcher",
+    "to": "0.8.1"
+   },
+   {
+    "from": "26.8-beta.7,20261009212642",
+    "name": "bettercmdtab@beta",
+    "to": "26.8-beta.8,20261025110735"
+   },
+   {
+    "from": "2.7.0",
+    "name": "bettermacwidgets",
+    "to": "2.7.1"
+   },
+   {
+    "from": "2.1.3",
+    "name": "biscuit",
+    "to": "2.2.0"
+   },
+   {
+    "from": "0.11.0",
+    "name": "bramble",
+    "to": "0.12.0"
+   },
+   {
+    "from": "0.12.0",
+    "name": "cadcraft",
+    "to": "0.13.0"
+   },
+   {
+    "from": "0.5.21",
+    "name": "claudebar",
+    "to": "0.5.22"
+   },
+   {
+    "from": "3.6.2",
+    "name": "clop",
+    "to": "3.6.3"
+   },
+   {
+    "from": "3.1.1,2026-10-10,Reality-Check,3.1.1",
+    "name": "cockatrice",
+    "to": "3.1.2,2026-10-25,Reality-Check,3.1.2"
+   },
+   {
+    "from": "1.324.0-41180",
+    "name": "curseforge",
+    "to": "1.325.0-41594"
+   },
+   {
+    "from": "0.10.0",
+    "name": "deckcraft",
+    "to": "0.11.1"
+   },
+   {
+    "from": "0.12.0",
+    "name": "designcraft",
+    "to": "0.13.0"
+   },
+   {
+    "from": "1.6.758",
+    "name": "diversion",
+    "to": "1.6.777"
+   },
+   {
+    "from": "0.8.0",
+    "name": "diversion-app",
+    "to": "0.9.0"
+   },
+   {
+    "from": "2609-119,83,49",
+    "name": "dolphin@dev",
+    "to": "2609-127,6a,87"
+   },
+   {
+    "from": "0.16.0",
+    "name": "effectcraft",
+    "to": "0.17.0"
+   },
+   {
+    "from": "1.18.0,all",
+    "name": "feedflow",
+    "to": "1.19.0,all"
+   },
+   {
+    "from": "0.10.0",
+    "name": "figcraft",
+    "to": "0.11.2"
+   },
+   {
+    "from": "0.12.0",
+    "name": "filmcraft",
+    "to": "0.13.0"
+   },
+   {
+    "from": "3.0.12",
+    "name": "font-sketchybar-app-font",
+    "to": "3.0.13"
+   },
+   {
+    "from": "10.34.0",
+    "name": "ghostex",
+    "to": "10.35.0"
+   },
+   {
+    "from": "18395,22f100c6367045bb5fc86172f837047dee2f7670",
+    "name": "ghostty@tip",
+    "to": "18405,cec8b92f1ecd176a20a56aa405021e7ae991b996"
+   },
+   {
+    "from": "0.18.4",
+    "name": "gloomberb",
+    "to": "0.18.5"
+   },
+   {
+    "from": "10.0.0.16",
+    "name": "grandtotal",
+    "to": "10.0.0.18"
+   },
+   {
+    "from": "0.11.1",
+    "name": "gridcraft",
+    "to": "0.12.1"
+   },
+   {
+    "from": "0.13.0",
+    "name": "lightcraft",
+    "to": "0.14.0"
+   },
+   {
+    "from": "2.4.0.289",
+    "name": "mac-performance-monitor",
+    "to": "2.5.0.297"
+   },
+   {
+    "from": "2.22.0",
+    "name": "macskk",
+    "to": "2.22.1"
+   },
+   {
+    "from": "3.2.24,1242",
+    "name": "marked-app",
+    "to": "3.2.25,1243"
+   },
+   {
+    "from": "2026.10.510",
+    "name": "mindroom",
+    "to": "2026.10.520"
+   },
+   {
+    "from": "1.28",
+    "name": "mission-control-plus",
+    "to": "1.29"
+   },
+   {
+    "from": "3.6.2",
+    "name": "paintcode",
+    "to": "3.6.3"
+   },
+   {
+    "from": "0.13.0",
+    "name": "pdfcraft",
+    "to": "0.14.0"
+   },
+   {
+    "from": "0.15.1",
+    "name": "photocraft",
+    "to": "0.16.0"
+   },
+   {
+    "from": "0.1.3359",
+    "name": "reader",
+    "to": "0.1.3361"
+   },
+   {
+    "from": "3.0.5",
+    "name": "rsyncui",
+    "to": "3.1.0"
+   },
+   {
+    "from": "0.12.1",
+    "name": "soundcraft",
+    "to": "0.13.1"
+   },
+   {
+    "from": "3.0.22",
+    "name": "stats",
+    "to": "3.0.23"
+   },
+   {
+    "from": "0.11.5",
+    "name": "supacode",
+    "to": "0.11.6"
+   },
+   {
+    "from": "0.1.3-nightly.20261025.3655",
+    "name": "t3-code@nightly",
+    "to": "0.1.3-nightly.20261025.3669"
+   },
+   {
+    "from": "0.22.0",
+    "name": "tangleguard-cli",
+    "to": "0.23.0"
+   },
+   {
+    "from": "13.1.0,283380",
+    "name": "telegram@beta",
+    "to": "13.1.0,283381"
+   },
+   {
+    "from": "3.3.4",
+    "name": "thelowtechguys-cling",
+    "to": "3.3.5"
+   },
+   {
+    "from": "160.0a1,2026-10-22-10-59-20",
+    "name": "thunderbird@daily",
+    "to": "161.0a1,2026-10-25-07-52-10"
+   },
+   {
+    "from": "0.78.0",
+    "name": "token-monitor",
+    "to": "0.79.0"
+   },
+   {
+    "from": "1.14.10",
+    "name": "typora",
+    "to": "1.14.15"
+   },
+   {
+    "from": "0.16.0",
+    "name": "vectorcraft",
+    "to": "0.17.0"
+   },
+   {
+    "from": "2.6.3",
+    "name": "wheelwizard",
+    "to": "2.6.4"
+   },
+   {
+    "from": "1.80.0",
+    "name": "wizcli",
+    "to": "1.81.0"
+   },
+   {
+    "from": "0.10.0",
+    "name": "wordcraft",
+    "to": "0.11.0"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [
+   "spidermonkey@140"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2.8.2",
+    "name": "aube",
+    "to": "2.8.3"
+   },
+   {
+    "from": "1.6.3",
+    "name": "bump-my-version",
+    "to": "1.6.5"
+   },
+   {
+    "from": "2.22.2",
+    "name": "dagu",
+    "to": "2.22.3"
+   },
+   {
+    "from": "0.53.0",
+    "name": "dblab",
+    "to": "0.54.0"
+   },
+   {
+    "from": "0.19.5",
+    "name": "defuddle",
+    "to": "0.19.6"
+   },
+   {
+    "from": "3.35.0",
+    "name": "fallow",
+    "to": "3.36.0"
+   },
+   {
+    "from": "0.12.0",
+    "name": "filmcraft-cli",
+    "to": "0.13.0"
+   },
+   {
+    "from": "1.90.1",
+    "name": "gjs",
+    "to": "1.90.1_1"
+   },
+   {
+    "from": "1.9.0",
+    "name": "gomi",
+    "to": "1.9.1"
+   },
+   {
+    "from": "4.15.4",
+    "name": "instaloader",
+    "to": "4.15.5"
+   },
+   {
+    "from": "0.14.1",
+    "name": "lakekeeper",
+    "to": "0.14.2"
+   },
+   {
+    "from": "2.2.1_1",
+    "name": "libpeas",
+    "to": "2.2.1_2"
+   },
+   {
+    "from": "3.1.1",
+    "name": "libsidplayfp",
+    "to": "3.1.2"
+   },
+   {
+    "from": "2.10.3",
+    "name": "linecast",
+    "to": "2.11.0"
+   },
+   {
+    "from": "2.6.3",
+    "name": "lispkit",
+    "to": "2.6.4"
+   },
+   {
+    "from": "2.8.1",
+    "name": "micasa",
+    "to": "2.8.2"
+   },
+   {
+    "from": "1.19.0",
+    "name": "morphe",
+    "to": "1.19.1"
+   },
+   {
+    "from": "2.30.0_1",
+    "name": "mycli",
+    "to": "2.30.1"
+   },
+   {
+    "from": "2.97.0",
+    "name": "n8n-mcp",
+    "to": "2.98.1"
+   },
+   {
+    "from": "4.4.0",
+    "name": "opendht",
+    "to": "4.4.2"
+   },
+   {
+    "from": "0.13.0",
+    "name": "pdfcraft-cli",
+    "to": "0.14.0"
+   },
+   {
+    "from": "0.15.1",
+    "name": "photocraft-cli",
+    "to": "0.16.0"
+   },
+   {
+    "from": "5.0.1",
+    "name": "pinact",
+    "to": "5.0.2"
+   },
+   {
+    "from": "6.11.2",
+    "name": "qtwebengine",
+    "to": "6.11.2_1"
+   },
+   {
+    "from": "26.10.118",
+    "name": "roswell",
+    "to": "26.10.119"
+   },
+   {
+    "from": "2.33.0",
+    "name": "sesh",
+    "to": "2.34.0"
+   },
+   {
+    "from": "5.6.1",
+    "name": "shairport-sync",
+    "to": "5.6.2"
+   },
+   {
+    "from": "140.17.0_1",
+    "name": "spidermonkey",
+    "to": "153.5.1"
+   },
+   {
+    "from": "5.7.0",
+    "name": "style-dictionary",
+    "to": "5.7.1"
+   },
+   {
+    "from": "12.0",
+    "name": "svlang",
+    "to": "12.1"
+   },
+   {
+    "from": "5.8.0",
+    "name": "todoist-cli",
+    "to": "5.8.1"
+   },
+   {
+    "from": "3.1.5",
+    "name": "treehouse",
+    "to": "3.1.6"
+   },
+   {
+    "from": "0.35.3",
+    "name": "vacuum",
+    "to": "0.35.4"
+   },
+   {
+    "from": "r2117_1",
+    "name": "vgmstream",
+    "to": "r2168"
+   },
+   {
+    "from": "5.3.1",
+    "name": "z3",
+    "to": "5.3.2"
+   }
+  ]
+ }
+}

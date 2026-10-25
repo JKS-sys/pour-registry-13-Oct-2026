@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-25T19:06:05Z
+
+- **Registered 1 formulae**: `spidermonkey@140`
+- Updated 35 formulae: `aube` 2.8.2 → 2.8.3, `bump-my-version` 1.6.3 → 1.6.5, `dagu` 2.22.2 → 2.22.3, `dblab` 0.53.0 → 0.54.0, `defuddle` 0.19.5 → 0.19.6, `fallow` 3.35.0 → 3.36.0, `filmcraft-cli` 0.12.0 → 0.13.0, `gjs` 1.90.1 → 1.90.1_1, `gomi` 1.9.0 → 1.9.1, `instaloader` 4.15.4 → 4.15.5, `lakekeeper` 0.14.1 → 0.14.2, `libpeas` 2.2.1_1 → 2.2.1_2, `libsidplayfp` 3.1.1 → 3.1.2, `linecast` 2.10.3 → 2.11.0, `lispkit` 2.6.3 → 2.6.4, `micasa` 2.8.1 → 2.8.2, `morphe` 1.19.0 → 1.19.1, `mycli` 2.30.0_1 → 2.30.1, `n8n-mcp` 2.97.0 → 2.98.1, `opendht` 4.4.0 → 4.4.2, `pdfcraft-cli` 0.13.0 → 0.14.0, `photocraft-cli` 0.15.1 → 0.16.0, `pinact` 5.0.1 → 5.0.2, `qtwebengine` 6.11.2 → 6.11.2_1, `roswell` 26.10.118 → 26.10.119 …
+- **Registered 1 casks**: `magpie`
+- Updated 51 casks: `amp-app` 1.0,890 → 1.0,900, `artcraft-launcher` 0.7.0 → 0.8.1, `bettercmdtab@beta` 26.8-beta.7,20261009212642 → 26.8-beta.8,20261025110735, `bettermacwidgets` 2.7.0 → 2.7.1, `biscuit` 2.1.3 → 2.2.0, `bramble` 0.11.0 → 0.12.0, `cadcraft` 0.12.0 → 0.13.0, `claudebar` 0.5.21 → 0.5.22, `clop` 3.6.2 → 3.6.3, `cockatrice` 3.1.1,2026-10-10,Reality-Check,3.1.1 → 3.1.2,2026-10-25,Reality-Check,3.1.2, `curseforge` 1.324.0-41180 → 1.325.0-41594, `deckcraft` 0.10.0 → 0.11.1, `designcraft` 0.12.0 → 0.13.0, `diversion` 1.6.758 → 1.6.777, `diversion-app` 0.8.0 → 0.9.0, `dolphin@dev` 2609-119,83,49 → 2609-127,6a,87, `effectcraft` 0.16.0 → 0.17.0, `feedflow` 1.18.0,all → 1.19.0,all, `figcraft` 0.10.0 → 0.11.2, `filmcraft` 0.12.0 → 0.13.0, `font-sketchybar-app-font` 3.0.12 → 3.0.13, `ghostex` 10.34.0 → 10.35.0, `ghostty@tip` 18395,22f100c6367045bb5fc86172f837047dee2f7670 → 18405,cec8b92f1ecd176a20a56aa405021e7ae991b996, `gloomberb` 0.18.4 → 0.18.5, `grandtotal` 10.0.0.16 → 10.0.0.18 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-25T13:13:28Z
 
 - **Registered 2 formulae**: `slivar`, `worldmonitor`
