@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-25T22:37:01Z
+
+- **Registered 1 formulae**: `ng-log`
+- Updated 12 formulae: `alevin-fry` 0.18.3 → 0.19.0, `amass` 5.1.2 → 5.1.3, `apprise` 2.0.1 → 2.1.0, `arcane-cli` 2.17.0 → 2.17.1, `ascelerate` 0.26.5 → 0.27.0, `cglm` 0.9.6 → 0.9.7, `chawan` 0.5.0 → 0.5.1, `dbx-cli` 0.4.130 → 0.4.131, `dotnet` 10.0.402 → 10.0.402_1, `dotnet@9` 9.0.122 → 9.0.123, `feluda` 1.17.0 → 1.18.0, `unciv` 4.22.13 → 4.22.14
+- Updated 23 casks: `anarlog` 1.4.31 → 1.4.32, `biscuit` 2.2.0 → 2.2.1, `grandtotal` 10.0.0.18 → 10.0.0.19, `kero` 2.1.19 → 2.1.20, `lunar` 6.11.2 → 6.11.3, `magpie` 0.1.1525 → 0.1.1550, `mission-control-plus` 1.29 → 1.30, `monal` 1101 → 1102, `openra@playtest` 20261011 → 20261026, `ovito` 3.17.0 → 3.17.1, `ovito-pro` 3.17.0 → 3.17.1, `pritunl` 1.4.4777.90 → 1.4.4791.77, `rcmd` 3.6.4 → 3.7.0, `reader` 0.1.3361 → 0.1.3362, `seam-app` 1.18.7 → 1.18.8, `secure-pipes` 2.0.14 → 2.0.15, `strawberry` 0.1.76 → 0.1.77, `super-productivity` 19.3.0 → 19.3.1, `t3-code@nightly` 0.1.3-nightly.20261025.3669 → 0.1.3-nightly.20261025.3682, `thoughtdag` 0.5.25 → 0.5.26, `tunarr` 2026.10.3 → 2026.10.4, `vscodium@insiders` 1.143.17140-insider → 1.143.17166-insider, `zen@twilight` 1.24t,20261020115400 → 1.24t,20261025020453
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-25T19:06:05Z
 
 - **Registered 1 formulae**: `spidermonkey@140`
