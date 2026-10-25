@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-25T13:13:28Z
+
+- **Registered 2 formulae**: `slivar`, `worldmonitor`
+- Updated 80 formulae: `amass` 5.1.1 → 5.1.2, `bitbucket-cli` 0.36.0 → 0.37.0, `btop` 1.4.7 → 1.4.8, `camlp-streams` 5.0.1_8 → 5.0.1_9, `camlp5` 8.05.03 → 8.05.03_1, `camlpdf` 2.9.3 → 2.9.3_1, `coccinelle` 1.3.3_1 → 1.3.3_2, `commitizen` 4.19.2 → 4.19.3, `cpdf` 2.9.3 → 2.9.3_1, `cubejs-cli` 1.8.10 → 1.8.11, `docuum` 0.27.1 → 0.27.3, `domain-check` 1.2.0 → 1.2.1, `elm` 0.19.2 → 0.19.3, `fedify` 2.4.4 → 2.4.5, `go-hass-agent` 14.17.0_1 → 14.18.0, `gomi` 1.7.0 → 1.9.0, `hierarchy-builder` 1.10.3_5 → 1.10.3_6, `hypopg` 1.4.3 → 1.4.4, `jackett` 0.24.2903 → 0.24.2910, `ladybug` 0.21.2 → 0.22.0, `ledit` 2.08 → 2.08_1, `leetgo` 1.5.1 → 1.5.2, `livekit` 1.13.10 → 1.13.11, `lizard-analyzer` 1.24.2 → 1.24.3, `math-comp` 2.6.0_4 → 2.6.0_5 …
+- **Registered 1 casks**: `wblock`
+- Updated 33 casks: `android-cli` 1.0.16625370 → 1.1.16717390, `canon-eos-utility` 3.20.21.3,0200007654,4 → 3.21.11.2,0200007754,4, `colamd` 2.7.8 → 2.7.9, `crest` 6.6.1 → 6.6.2, `element@nightly` 2026102401 → 2026102501, `emacs-app@nightly` 2026-10-24_00-09-55,d961c9de742f7597a8be30bec6a55ea09e00e9b0 → 2026-10-25_00-09-50,f8ee13cfab6d8b5f0512a2c1880f1a7c20ddd443, `flow5` 7.57 → 7.58, `freelens@nightly` 2.0.0-0-nightly-2026-10-24 → 2.0.0-0-nightly-2026-10-25, `gitx` 1.7.1 → 1.8, `google-chrome@canary` 158.0.8122.0 → 158.0.8123.0, `gram` 3.3.0 → 3.4.1, `iterm2@nightly` 3_7_20261024 → 3_7_20261025, `kando` 3.0.0 → 3.0.1, `kero` 2.1.18 → 2.1.19, `manus` 2.0.10 → 2.0.11, `material-maker` 1.7 → 1.8, `mindroom` 2026.10.490 → 2026.10.510, `mole-app` 1.17.0 → 1.18.0, `motrix` 2.0.0 → 2.0.1, `omniwm@canary` 20261024-0439-40061526227-1 → 20261025-0437-40161156174-1, `passepartout` 3.12.2 → 3.12.3, `reader` 0.1.3358 → 0.1.3359, `rewritebar` 2.37.1 → 2.38.1, `rstudio@daily` 2026.11.0-daily-132 → 2026.11.0-daily-138, `sjmcl` 1.3.2 → 1.4.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-25T04:51:15Z
 
 - **Registered 5 formulae**: `cellpose`, `dep-scan`, `gitea-importer`, `icu4c@79`, `kontext`
