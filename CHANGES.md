@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-26T04:55:37Z
+
+- Updated 57 formulae: `agent-browser` 0.39.2 → 0.39.3, `agent-manager` 0.43.2 → 0.44.0, `akku` 1.1.0 → 1.2.0, `asc` 5.16.1 → 5.17.0, `bazel-diff` 66.0.0 → 67.0.0, `comrak` 0.57.0 → 0.58.0, `cpp-peglib` 1.27.0 → 1.28.0, `cppinsights` 21.1 → 23.1, `dagu` 2.22.3 → 2.22.4, `dekit` 0.10.2 → 0.10.3, `doltlite` 0.51.2 → 0.51.3, `fabric-ai` 1.4.553 → 1.4.555, `git-graph` 0.8.0 → 0.8.1, `gitlab-ci-local` 4.76.1 → 4.77.0, `hcledit` 0.2.18 → 0.2.19, `hcxtools` 7.1.2_1 → 8.0.0, `httm` 0.51.0 → 0.51.1, `iodine` 0.8.0 → 0.9.0, `jags` 5.0.0 → 5.0.1, `kubecfg` 0.41.0 → 0.41.1, `leaf-markdown-viewer` 1.29.1 → 1.29.2, `libsoup` 3.8.0 → 3.8.1, `markdownlint-cli` 0.49.1 → 0.50.0, `melange` 0.63.1 → 0.63.2, `n8n-mcp` 2.98.1 → 2.99.0 …
+- Updated 49 casks: `alma` 0.4.210 → 0.4.214, `almighty` 2.13.4 → 2.13.5, `amp-app` 1.0,900 → 1.0,910, `appflowy` 0.14.10 → 0.14.11, `bing-wallpaper` 2.0.16.339,1b141c07-de43-4a68-8011-fa69cddaa18c → 2.0.17.354,7d77707b-e314-4911-b981-dc8f1e4bb8a0, `busycal` 2026.4.2,2026-10-17-00-43-33 → 2026.4.4,2026-10-25-21-34-05, `cocoapacketanalyzer` 4.0.4 → 4.1.0, `cursor` 3.27.12,df132ffba90dfc15a12e6b8f020ba4e5d026c4be → 3.27.14,69b724ebc67ec522c1b5d287a5025f7a7e81be97, `db-browser-for-sqlcipher@nightly` 20261024 → 20261026, `db-browser-for-sqlite@nightly` 20261024 → 20261026, `dbx` 0.6.54 → 0.6.55, `dotnet-runtime` 10.0.13 → 10.0.14, `dotnet-runtime@preview` 11.0.0-rc.2.26504.105 → 11.0.0-rc.3.26522.148, `dotnet-sdk` 10.0.402 → 10.0.403, `dotnet-sdk@8` 8.0.426 → 8.0.427, `dotnet-sdk@9` 9.0.319 → 9.0.320, `dotnet-sdk@preview` 11.0.100-rc.2.26504.105 → 11.0.100-rc.3.26522.148, `electerm` 5.7.5 → 5.7.15, `extradock` 4.4.6 → 4.4.8, `fluxer` 2026.1025.12517 → 2026.1026.24218, `geolibre` 3.4.0 → 3.5.0, `google-chrome@canary` 158.0.8123.0 → 158.0.8124.0, `grandtotal` 10.0.0.19 → 10.0.0.21, `kaku` 0.26.1 → 0.27.0, `kero` 2.1.20 → 2.1.21 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-25T22:37:01Z
 
 - **Registered 1 formulae**: `ng-log`
