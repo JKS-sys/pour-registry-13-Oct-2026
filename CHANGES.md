@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-26T21:03:22Z
+
+- Updated 58 formulae: `apache-pulsar` 5.0.0 → 5.0.1, `ascelerate` 0.27.0 → 0.28.0, `baguette` 0.2.10 → 0.2.11, `bareos-client` 25.1.1 → 25.1.2, `bump-my-version` 1.6.5 → 1.6.6, `c-blosc2` 3.3.5 → 3.4.0, `cloudflare-speed-cli` 1.0.10 → 1.0.11, `dagu` 2.22.4 → 2.23.0, `dbx-cli` 0.4.131 → 0.4.132, `deepline` 0.3.400 → 0.3.420, `depot` 2.103.2 → 2.103.3, `doctl` 2.0.0 → 2.0.1, `dotnet` 10.0.402_1 → 10.0.403, `fabric-ai` 1.4.555 → 1.4.556, `falcoctl` 0.14.2 → 0.14.3, `fastlane` 2.241.1_1 → 2.241.2, `fastly` 16.2.0 → 17.0.0, `ffe` 0.3.9a → 0.4.1d, `flagd` 0.18.0 → 0.18.1, `fluxcd` 2.9.6 → 2.10.0, `gitea-cli` 0.1.0 → 0.2.0, `gixy` 0.2.58 → 0.2.59, `gomi` 1.10.0 → 1.10.1, `imgproxy` 4.0.19 → 4.0.20, `keploy` 3.6.160 → 3.6.165 …
+- Updated 102 casks: `airbuild` 1.1.138 → 1.2.7, `amp-app` 1.0,920 → 1.0,930, `android-studio-preview@beta` 2026.2.2.6,rabbit2-rc1 → 2026.2.2.7,rabbit2-rc2, `anythingllm` 1.18.0 → 1.19.0, `banking-4` 9.3.6,9783 → 9.3.7,9795, `bettermacwidgets` 2.7.1 → 2.8.1, `burp-suite` 2026.9.2 → 2026.9.3, `burp-suite@early-adopter` 2026.10 → 2026.10.1, `busycal` 2026.4.4,2026-10-25-21-34-05 → 2026.4.4,2026-10-26-10-21-25, `caido` 0.58.3 → 0.59.0, `capacities` 1.71.32 → 1.72.4, `cc-switch` 4.0.20 → 4.0.21, `claudoscope` 1.4.0 → 1.4.1, `cleanshot` 5.0.1 → 5.0.2, `copilot-money` 6.6.0,335-b7f9c533 → 6.7.0,336-0bbb0dcd, `crest` 6.6.2 → 6.6.3, `dbx` 0.6.55 → 0.6.56, `ddnet` 20.1.1 → 20.2, `djstudio@next` 5.0.7-beta.3 → 5.0.7-beta.4, `docker-desktop` 4.96.3,244472 → 4.97.0,244584, `ds4-control` 1.8.2 → 1.9.0, `duckduckgo` 1.212.0,845 → 1.213.0,859, `dyad` 1.20.0 → 1.21.0, `ea` 13.813.1.6327 → 13.817.0.6330, `easymac-cleaner` 1.6.2 → 1.7 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-26T15:15:26Z
 
 - Updated 75 formulae: `agent-browser` 0.39.3 → 0.39.4, `apache-arrow` 26.0.0 → 26.0.0_1, `apache-arrow-adbc` 24 → 25, `apache-arrow-adbc-glib` 24_2 → 25, `asnmap` 1.1.1 → 1.2.0, `av1an` 0.5.2_3 → 0.6.0, `avisynthplus` 3.7.5 → 3.7.6, `cargo-about` 0.9.2 → 0.9.3, `cassandra-reaper` 5.0.1 → 5.1.0, `cellpose` 4.2.1.1 → 4.2.1.1_1, `comrak` 0.58.0 → 0.59.0, `cubejs-cli` 1.8.11 → 1.8.13, `dotnet@8` 8.0.132 → 8.0.133, `dvr-scan` 1.8.2.1_1 → 1.8.2.1_2, `egctl` 1.9.2 → 1.9.3, `etcd-cpp-apiv3` 0.15.4_54 → 0.15.4_55, `fastnetmon` 1.2.9_14 → 1.2.9_15, `ffmpeg-full` 9.0.2 → 9.0.2_1, `flowrs` 0.16.1 → 0.16.2, `fnox` 1.42.1 → 1.43.0, `freetds` 1.5.19_1 → 1.5.20, `gallery-dl` 1.32.17_1 → 1.32.18, `ghalint` 1.5.6 → 1.5.7, `git-spice` 0.32.0 → 0.33.0, `gixy` 0.2.57 → 0.2.58 …
