@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-26T15:15:26Z
+
+- Updated 75 formulae: `agent-browser` 0.39.3 → 0.39.4, `apache-arrow` 26.0.0 → 26.0.0_1, `apache-arrow-adbc` 24 → 25, `apache-arrow-adbc-glib` 24_2 → 25, `asnmap` 1.1.1 → 1.2.0, `av1an` 0.5.2_3 → 0.6.0, `avisynthplus` 3.7.5 → 3.7.6, `cargo-about` 0.9.2 → 0.9.3, `cassandra-reaper` 5.0.1 → 5.1.0, `cellpose` 4.2.1.1 → 4.2.1.1_1, `comrak` 0.58.0 → 0.59.0, `cubejs-cli` 1.8.11 → 1.8.13, `dotnet@8` 8.0.132 → 8.0.133, `dvr-scan` 1.8.2.1_1 → 1.8.2.1_2, `egctl` 1.9.2 → 1.9.3, `etcd-cpp-apiv3` 0.15.4_54 → 0.15.4_55, `fastnetmon` 1.2.9_14 → 1.2.9_15, `ffmpeg-full` 9.0.2 → 9.0.2_1, `flowrs` 0.16.1 → 0.16.2, `fnox` 1.42.1 → 1.43.0, `freetds` 1.5.19_1 → 1.5.20, `gallery-dl` 1.32.17_1 → 1.32.18, `ghalint` 1.5.6 → 1.5.7, `git-spice` 0.32.0 → 0.33.0, `gixy` 0.2.57 → 0.2.58 …
+- **Registered 3 casks**: `diri`, `keyboop`, `peel`
+- Updated 70 casks: `amp-app` 1.0,910 → 1.0,920, `bettertouchtool@alpha` 6.978,2026102401 → 6.980,2026102501, `chatwork` 2.25.6 → 2.25.7, `cherry-studio` 2.1.7 → 2.1.8, `claudebar` 0.5.22 → 0.5.23, `cline-app` 0.0.48 → 0.0.49, `diversion` 1.6.777 → 1.6.795, `doubao` 2.32.6 → 2.33.5, `element@nightly` 2026102501 → 2026102601, `freelens@nightly` 2.0.0-0-nightly-2026-10-25 → 2.0.0-0-nightly-2026-10-26, `ghostex` 10.35.0 → 10.36.0, `google-chrome@canary` 158.0.8124.0 → 158.0.8125.0, `grandtotal` 10.0.0.21 → 10.0.0.22, `headroom` 0.9.49 → 0.9.50, `holavpn` 4.1,1.259.51 → 4.2,1.261.295, `hotovo-aider-desk` 0.88.0 → 0.89.0, `inkdrop` 6.2.0 → 6.3.0, `iterm2@nightly` 3_7_20261025 → 3_7_20261026, `julia-app` 1.13.2 → 1.13.3, `linguax` 2025.12,6016 → 2025.12,6017, `loginputmac` 3.7.2,17991 → 3.7.3,18051, `lunarbar` 1.9.2 → 1.10.0, `magpie` 0.1.1550 → 0.1.1575, `microsoft-365-copilot` 1.2609.2301 → 1.2610.2101, `mindroom` 2026.10.550 → 2026.10.560 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-26T04:55:37Z
 
 - Updated 57 formulae: `agent-browser` 0.39.2 → 0.39.3, `agent-manager` 0.43.2 → 0.44.0, `akku` 1.1.0 → 1.2.0, `asc` 5.16.1 → 5.17.0, `bazel-diff` 66.0.0 → 67.0.0, `comrak` 0.57.0 → 0.58.0, `cpp-peglib` 1.27.0 → 1.28.0, `cppinsights` 21.1 → 23.1, `dagu` 2.22.3 → 2.22.4, `dekit` 0.10.2 → 0.10.3, `doltlite` 0.51.2 → 0.51.3, `fabric-ai` 1.4.553 → 1.4.555, `git-graph` 0.8.0 → 0.8.1, `gitlab-ci-local` 4.76.1 → 4.77.0, `hcledit` 0.2.18 → 0.2.19, `hcxtools` 7.1.2_1 → 8.0.0, `httm` 0.51.0 → 0.51.1, `iodine` 0.8.0 → 0.9.0, `jags` 5.0.0 → 5.0.1, `kubecfg` 0.41.0 → 0.41.1, `leaf-markdown-viewer` 1.29.1 → 1.29.2, `libsoup` 3.8.0 → 3.8.1, `markdownlint-cli` 0.49.1 → 0.50.0, `melange` 0.63.1 → 0.63.2, `n8n-mcp` 2.98.1 → 2.99.0 …
