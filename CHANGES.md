@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-27T14:36:00Z
+
+- Updated 70 formulae: `ansible` 14.5.0_1 → 14.5.0_2, `asc` 5.17.0 → 5.17.1, `aws-c-s3` 1.3.1_1 → 1.4.1, `aws-crt-cpp` 0.44.2 → 0.44.2_1, `aws-sam-cli` 1.170.0 → 1.170.0_1, `aws-sdk-cpp` 1.11.915 → 1.11.915_1, `awscli` 2.38.6 → 2.38.6_1, `awscurl` 0.44_8 → 0.44_9, `calm-cli` 1.65.0 → 1.66.0, `cdo` 2.6.6 → 2.6.6-1, `cfripper` 1.22.0 → 1.22.1, `cloudlist` 1.5.0 → 1.5.1, `codanna` 0.17.1_1 → 0.17.1_2, `colmap` 4.2.1_3 → 4.2.1_4, `conduit` 0.20.5 → 0.21.2, `dagu` 2.23.0 → 2.24.0, `dbml-cli` 10.3.1 → 11.0.0, `dbx-cli` 0.4.132 → 0.4.133, `dxpy` 0.417.1 → 0.417.1_1, `envoy` 1.40.1 → 1.40.2, `epics-base` 7.0.10 → 7.0.11, `fastmcp` 4.1.3 → 4.1.4, `futhark` 0.28.1 → 0.28.2, `gdb` 18.1 → 18.1_1, `glab` 1.124.0 → 1.125.0 …
+- **Registered 2 casks**: `festnetz-check`, `nvalt`
+- **De-registered 1 casks**: `breitbandmessung`
+- Updated 71 casks: `adguard-vpn@nightly` 2.11.0.1145 → 2.11.0.1146, `advanced-renamer` 4.27 → 4.28, `amp-app` 1.0,930 → 1.0,940, `antigravity-cli` 1.4.7,5900205422411776 → 1.4.8,5447777392656384, `bettercmdtab@beta` 26.8-beta.8,20261025110735 → 26.8-beta.9,20261027130040, `bettertouchtool@alpha` 6.980,2026102501 → 6.982,2026102701, `brave-browser@nightly` 1.100.23.0 → 1.100.36.0, `brave-origin@nightly` 1.100.23.0 → 1.100.36.0, `burp-suite` 2026.9.3 → 2026.10.1, `capso` 1.2.5 → 1.2.6, `captains-deck` 1.5.5.1 → 1.5.6.1, `clementine` 1.3.1 → 1.4.3, `craft` 3.7.0 → 3.7.1, `dbx` 0.6.57 → 0.6.58, `ddnet` 20.2 → 20.2.1, `defold@alpha` 1.14.1 → 1.14.2, `defold@beta` 1.14.0 → 1.14.1, `diversion` 1.6.795 → 1.6.818, `electerm` 5.7.15 → 5.7.21, `element@nightly` 2026102601 → 2026102701, `emacs-app@nightly` 2026-10-25_00-09-50,f8ee13cfab6d8b5f0512a2c1880f1a7c20ddd443 → 2026-10-27_00-09-16,360a68ed70fd666b0d6bafa8dee0b5636a490a8c, `flick` 1.1.3 → 1.2.0, `freelens@nightly` 2.0.0-0-nightly-2026-10-26 → 2.0.0-0-nightly-2026-10-27, `gams` 54.6.0 → 54.6.1, `github-copilot-app` 1.1.32 → 1.1.33 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-27T05:13:09Z
 
 - Updated 77 formulae: `aqbanking` 6.9.2_2 → 6.9.2_3, `astro` 1.46.1 → 1.47.0, `asyncapi` 6.2.1 → 6.2.2, `aws-c-auth` 1.0.1 → 1.0.2, `aws-c-io` 1.1.0 → 1.1.1, `awscli` 2.38.5 → 2.38.6, `bazel-diff` 67.0.0 → 67.0.1, `bump-my-version` 1.6.6 → 1.6.7, `cargo-nextest` 0.9.149 → 0.9.150, `ccusage` 20.0.44 → 20.0.45, `certigo` 1.18.1 → 1.18.2, `chainloop-cli` 1.127.4 → 1.128.0, `cloudflared` 2026.10.3 → 2026.10.4, `coder` 2.37.6 → 2.37.7, `coffeescript` 2.7.0 → 2.7.1, `cotp` 1.11.0 → 1.11.1, `croaring` 5.3.2 → 5.4.0, `dnscontrol` 5.7.0 → 5.7.1, `dolt` 2.6.0_1 → 2.6.1, `exploitdb` 2026-10-24 → 2026-10-27, `fern-api` 5.172.0 → 5.175.0, `flexget` 3.22.6_1 → 3.22.7, `flyctl` 0.4.122 → 0.4.123, `forgejo` 17.0.0 → 17.0.1, `gh` 2.103.2 → 2.103.3 …
