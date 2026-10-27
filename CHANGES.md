@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-27T20:44:59Z
+
+- Updated 63 formulae: `activemq` 6.3.2 → 6.4.0, `addons-linter` 10.14.0 → 10.15.0, `aube` 2.8.3 → 2.8.4, `bcftools` 1.24 → 1.25, `chainloop-cli` 1.128.0 → 1.128.1, `chart-releaser` 1.8.1 → 1.9.0, `cliproxyapi` 8.0.40 → 8.0.45, `closure-compiler` 20261021 → 20261026, `cloudflare-wrangler` 4.152.0 → 4.153.0, `cloudflared` 2026.10.4 → 2026.10.5, `cloudprober` 0.14.6 → 0.14.7, `cmctl` 2.6.1 → 2.6.2, `codex-acp` 2.2.2 → 2.3.0, `convox` 3.25.12 → 3.25.13, `cpp-peglib` 1.28.0 → 1.29.0, `diffnav` 0.13.0 → 0.13.1, `djlint` 1.47.0 → 1.47.1, `doltlite` 0.51.3 → 0.51.4, `eas-cli` 25.3.0 → 26.0.0, `fern-api` 5.175.0 → 5.176.0, `ggshield` 1.56.0_1 → 1.56.1, `git-graph` 0.8.1 → 0.8.2, `gitea-importer` 0.0.2 → 0.1.0, `go-parquet-tools` 1.56.4 → 1.56.5, `gost` 3.3.1 → 3.3.2 …
+- Updated 104 casks: `a-better-finder-attributes` 7.53 → 7.54, `amp-app` 1.0,940 → 1.0,950, `anka-build-cloud-controller` 1.51.2-184ce875 → 1.52.0-36aa9fba, `anka-build-cloud-registry` 1.51.2-184ce875 → 1.52.0-36aa9fba, `aptakube` 1.21.6 → 1.22.0, `arm-performix` 2026.3.4 → 2026.4.0, `asana` 2.10.4 → 2.10.5, `banktivity` 10.2.0,436 → 10.2.1,438, `bettertouchtool` 6.977,2026102302 → 6.984,2026102703, `beyond-compare` 5.2.6.32774 → 5.2.7.32913, `bookends` 16.0 → 16.0.1, `bricklink-studio` 2.26.9_1 → 2.26.10_1, `chatgpt` 26.1021.31345 → 26.1023.50603, `chronoid` 1.0.104 → 1.0.105, `claude` 3.6556.2,20c019a1e61fa5b687616af57d31f97bb3181723 → 4.29.0,2609742292f7dbce2e259e76f53620cac4da9002, `cmake-app` 4.4.4 → 4.4.5, `cork` 2.1.0 → 2.1.1, `dbgate` 7.3.2 → 7.3.3, `deltachat` 2.62.0 → 2.65.0, `djstudio@next` 5.0.7-beta.4 → 5.0.7-beta.5, `dropbox` 274.4.4905 → 276.4.5325, `drovio` 3.6.2 → 3.7.0, `ea` 13.817.0.6330 → 13.817.10.6327, `easydict` 2.24.0 → 2.25.0, `element` 1.12.32 → 1.12.33 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-27T14:36:00Z
 
 - Updated 70 formulae: `ansible` 14.5.0_1 → 14.5.0_2, `asc` 5.17.0 → 5.17.1, `aws-c-s3` 1.3.1_1 → 1.4.1, `aws-crt-cpp` 0.44.2 → 0.44.2_1, `aws-sam-cli` 1.170.0 → 1.170.0_1, `aws-sdk-cpp` 1.11.915 → 1.11.915_1, `awscli` 2.38.6 → 2.38.6_1, `awscurl` 0.44_8 → 0.44_9, `calm-cli` 1.65.0 → 1.66.0, `cdo` 2.6.6 → 2.6.6-1, `cfripper` 1.22.0 → 1.22.1, `cloudlist` 1.5.0 → 1.5.1, `codanna` 0.17.1_1 → 0.17.1_2, `colmap` 4.2.1_3 → 4.2.1_4, `conduit` 0.20.5 → 0.21.2, `dagu` 2.23.0 → 2.24.0, `dbml-cli` 10.3.1 → 11.0.0, `dbx-cli` 0.4.132 → 0.4.133, `dxpy` 0.417.1 → 0.417.1_1, `envoy` 1.40.1 → 1.40.2, `epics-base` 7.0.10 → 7.0.11, `fastmcp` 4.1.3 → 4.1.4, `futhark` 0.28.1 → 0.28.2, `gdb` 18.1 → 18.1_1, `glab` 1.124.0 → 1.125.0 …
