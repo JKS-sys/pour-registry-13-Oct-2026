@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-28T15:10:51Z
+
+- **Registered 1 formulae**: `roborev`
+- Updated 82 formulae: `act` 0.2.89 → 0.2.90, `aicommits` 4.2.5 → 5.0.1, `akamai` 2.0.5 → 2.0.6, `ampl-mp` 4.1.0 → 4.2.0, `apache-spark` 4.2.0 → 4.2.1, `appwrite` 28.9.0 → 28.10.0, `apt` 3.3.4 → 3.3.5, `aws-c-common` 1.0.3 → 1.0.4, `awscli` 2.38.6_1 → 2.39.0, `bazel-diff` 67.0.2 → 67.0.3, `bfs` 4.1.4 → 4.1.5, `buildifier` 10.1.0 → 10.2.0, `buildozer` 10.1.0 → 10.2.0, `butane` 0.29.0 → 2.28.0, `cdk8s` 2.207.70 → 2.207.71, `cubejs-cli` 1.8.13 → 1.8.14, `difi` 0.2.32 → 0.3.0, `dockly` 3.24.5 → 3.24.6, `doctl` 2.0.1 → 2.1.0, `dvc` 3.67.1_18 → 3.67.1_19, `gcovr` 8.7 → 8.8, `getmail6` 6.20.02 → 6.21.00, `gf` 2.10.3 → 2.10.4, `ggml` 0.27.0 → 0.28.0, `ghcitty` 0.5.0 → 0.6.0 …
+- **Registered 4 casks**: `deutschlandgpt`, `nebius`, `qoder`, `task-manager-tmog`
+- Updated 85 casks: `ableton-live-intro` 12.4.7 → 12.4.15, `ableton-live-lite` 12.4.7 → 12.4.15, `ableton-live-suite` 12.4.7 → 12.4.15, `airi` 0.12.0 → 0.13.0, `amp-app` 1.0,950 → 1.0,960, `antigravity-cli` 1.4.8,5447777392656384 → 1.4.9,4962164969177088, `astro-editor` 1.0.19 → 1.0.20, `atomcode` 5.2.4 → 5.2.5, `ausweisapp` 2.6.1 → 2.6.2, `beatunes` 6.0.1 → 6.0.2, `betterandbetter` 2.7.9,2026062701 → 2.8.0,2026102601, `bettermacwidgets` 2.9.0 → 2.10.0, `bezel` 5.4.0 → 5.4.1, `bing-wallpaper` 2.0.17.354,7d77707b-e314-4911-b981-dc8f1e4bb8a0 → 2.0.18.370,731d78f2-f2a9-46d2-839a-17be870ad4b2, `brave-browser@beta` 1.99.44.0 → 1.99.53.0, `cmux` 0.65.2 → 0.65.2.2, `crest` 6.6.4 → 6.6.6, `dbx` 0.6.58 → 0.6.59, `diversion` 1.6.818 → 1.6.826, `djstudio@next` 5.0.7-beta.5 → 5.0.8-beta.0, `dynobase` 3.0.8,260930f317xih77 → 3.0.9,261028lve7nvlx0, `effect-house` 5.15.0,0687,09142026,104 → 5.16.0,1671,10202026,104, `element@nightly` 2026102701 → 2026102801, `emacs-app@nightly` 2026-10-27_00-09-16,360a68ed70fd666b0d6bafa8dee0b5636a490a8c → 2026-10-28_00-09-51,367f7c7cc2213ce8b949fbbdb42353fb2441d452, `filo` 2.4.3 → 2.4.4 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-28T05:50:52Z
 
 - Updated 85 formulae: `agent-browser` 0.39.4 → 0.40.0, `austin` 4.0.0 → 4.1.0, `azqr` 4.2.2 → 4.3.0, `bazel-diff` 67.0.1 → 67.0.2, `bee` 1.117 → 1.118, `bzt` 1.17.1_2 → 1.17.2, `check-jsonschema` 0.38.2 → 0.39.0, `cmake` 4.4.4 → 4.4.5, `cmake-docs` 4.4.4 → 4.4.5, `ctrld` 1.5.8 → 1.5.9, `cucumber-ruby` 12.0.0 → 12.0.1, `dbx-cli` 0.4.133 → 0.4.134, `dependabot` 1.96.0 → 1.97.0, `depot` 2.103.3 → 2.103.4, `der-ascii` 0.11.0 → 0.12.0, `device-mapper` 2.03.43 → 2.03.44, `difi` 0.2.31 → 0.2.32, `edencommon` 2026.10.19.00 → 2026.10.26.00, `erpc` 0.4.0 → 0.5.0, `fallow` 3.36.0 → 3.37.0, `fb303` 2026.10.19.00 → 2026.10.26.00, `fbthrift` 2026.10.19.00 → 2026.10.26.00, `fern-api` 5.176.0 → 5.177.0, `fizz` 2026.10.19.00 → 2026.10.26.00, `flexget` 3.22.7 → 3.22.8 …
