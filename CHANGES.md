@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-28T05:50:52Z
+
+- Updated 85 formulae: `agent-browser` 0.39.4 → 0.40.0, `austin` 4.0.0 → 4.1.0, `azqr` 4.2.2 → 4.3.0, `bazel-diff` 67.0.1 → 67.0.2, `bee` 1.117 → 1.118, `bzt` 1.17.1_2 → 1.17.2, `check-jsonschema` 0.38.2 → 0.39.0, `cmake` 4.4.4 → 4.4.5, `cmake-docs` 4.4.4 → 4.4.5, `ctrld` 1.5.8 → 1.5.9, `cucumber-ruby` 12.0.0 → 12.0.1, `dbx-cli` 0.4.133 → 0.4.134, `dependabot` 1.96.0 → 1.97.0, `depot` 2.103.3 → 2.103.4, `der-ascii` 0.11.0 → 0.12.0, `device-mapper` 2.03.43 → 2.03.44, `difi` 0.2.31 → 0.2.32, `edencommon` 2026.10.19.00 → 2026.10.26.00, `erpc` 0.4.0 → 0.5.0, `fallow` 3.36.0 → 3.37.0, `fb303` 2026.10.19.00 → 2026.10.26.00, `fbthrift` 2026.10.19.00 → 2026.10.26.00, `fern-api` 5.176.0 → 5.177.0, `fizz` 2026.10.19.00 → 2026.10.26.00, `flexget` 3.22.7 → 3.22.8 …
+- **De-registered 7 casks**: `crypter`, `marble`, `mit-app-inventor`, `obs-websocket`, `timer`, `trolcommander`, `tyke`
+- Updated 99 casks: `agentide` 0.9.12 → 0.9.13, `alma` 0.4.214 → 0.4.221, `amiberry` 8.4.2 → 8.5.0, `anarlog` 1.4.32 → 1.4.33, `antigravity` 2.26.0,6546645232517120 → 2.27.0,4933976025071616, `bettermacwidgets` 2.8.1 → 2.9.0, `billings-pro` 1.8.1,39116,2026-04-06-1244 → 1.8.2,39121,2026-10-27-1410, `blankie` 2.0.2 → 2.1.0, `blitz-gg` 3.0.14 → 3.0.16, `bramble` 0.12.0 → 0.13.0, `brave-origin@nightly` 1.100.36.0 → 1.100.37.0, `butterkit` 3.1.01 → 3.2.01, `chatgpt` 26.1023.50603 → 26.1023.51421, `claude-code@latest` 2.1.311 → 2.1.312, `codeexpander` 7.1.4 → 7.1.5, `codex` 0.164.0 → 0.165.0, `cog-app` 3822,8b1f742c6 → 3835,1793b8007, `copilot-cli` 1.0.104 → 1.0.105, `copilot-cli@prerelease` 1.0.104-4 → 1.0.105-1, `coteditor` 7.1.2 → 7.1.3, `cotypist` 2026.5.1 → 2026.5.2, `davit` 0.1.38 → 0.1.39, `discord@canary` 0.0.1425 → 0.0.1426, `droid` 0.250.0 → 0.251.0, `elephicon` 4.3.0 → 4.3.1 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-27T20:44:59Z
 
 - Updated 63 formulae: `activemq` 6.3.2 → 6.4.0, `addons-linter` 10.14.0 → 10.15.0, `aube` 2.8.3 → 2.8.4, `bcftools` 1.24 → 1.25, `chainloop-cli` 1.128.0 → 1.128.1, `chart-releaser` 1.8.1 → 1.9.0, `cliproxyapi` 8.0.40 → 8.0.45, `closure-compiler` 20261021 → 20261026, `cloudflare-wrangler` 4.152.0 → 4.153.0, `cloudflared` 2026.10.4 → 2026.10.5, `cloudprober` 0.14.6 → 0.14.7, `cmctl` 2.6.1 → 2.6.2, `codex-acp` 2.2.2 → 2.3.0, `convox` 3.25.12 → 3.25.13, `cpp-peglib` 1.28.0 → 1.29.0, `diffnav` 0.13.0 → 0.13.1, `djlint` 1.47.0 → 1.47.1, `doltlite` 0.51.3 → 0.51.4, `eas-cli` 25.3.0 → 26.0.0, `fern-api` 5.175.0 → 5.176.0, `ggshield` 1.56.0_1 → 1.56.1, `git-graph` 0.8.1 → 0.8.2, `gitea-importer` 0.0.2 → 0.1.0, `go-parquet-tools` 1.56.4 → 1.56.5, `gost` 3.3.1 → 3.3.2 …
