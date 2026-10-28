@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-28T21:08:53Z
+
+- Updated 74 formulae: `anchor` 1.2.1 → 1.2.2, `appium` 3.8.0 → 3.9.0, `auth0` 1.38.0 → 1.39.0, `aws-c-s3` 1.4.1 → 1.5.0, `aws-crt-cpp` 0.44.2_1 → 0.44.2_2, `aws-sam-cli` 1.170.0_1 → 1.170.0_2, `aws-sdk-cpp` 1.11.915_1 → 1.11.915_2, `awscli` 2.39.0 → 2.39.0_1, `awscurl` 0.44_9 → 0.44_10, `betterglobekey` 4.2.0 → 4.3.0, `checkpwn` 0.6.2 → 0.6.3, `cimg` 4.0.6 → 4.0.7, `circleci` 1.11.0 → 1.12.0, `clozure-cl` 1.13 → 1.14, `cmus` 2.12.0_4 → 2.13.0, `cpp-peglib` 1.29.0 → 1.30.0, `datalad` 1.7.1 → 1.7.2, `deja-vu` 0.23.1 → 0.23.2, `docker-agent` 1.152.0 → 1.153.0, `dumpling` 26.3.21 → 26.3.22, `dxpy` 0.417.1_1 → 0.417.1_2, `fern-api` 5.177.0 → 5.181.0, `filmcraft-cli` 0.13.0 → 0.14.0, `fonttools` 4.67.0_1 → 4.68.0, `git` 2.56.0_1 → 2.56.0_2 …
+- **Registered 1 casks**: `solidcraft`
+- Updated 114 casks: `010-editor` 16.0.4 → 17.0, `8x8-work` 8.37.2-1 → 8.38.4-1, `ableton-live-standard` 12.4.7 → 12.4.15, `akuity` 0.34.0-rl.1.0.20261022095256-e2e2d7e48392 → 0.34.0-rl.1.0.20261028144206-7b557d59ef1a, `android-studio` 2026.2.1.8,rabbit1 → 2026.2.2.8,rabbit2, `android-studio-preview@canary` 2026.2.3.1,rabbit3-canary1 → 2026.2.3.2,rabbit3-canary2, `antigravity` 2.27.0,4933976025071616 → 2.28.0,6410674700681216, `apifox` 2.8.52 → 2.8.53, `aptakube` 1.22.0 → 1.22.1, `artcraft-launcher` 0.8.1 → 0.9.0, `bb` 0.47.1 → 0.48.0, `bettertouchtool` 6.984,2026102703 → 6.988,2026102708, `bettertouchtool@alpha` 6.982,2026102701 → 6.988,2026102708, `betterzip` 6.0.6 → 6.1, `brave-browser` 1.98.60.0 → 1.98.62.0, `brave-origin` 1.98.60.0 → 1.98.62.0, `brave-origin@nightly` 1.100.37.0 → 1.100.41.0, `cadcraft` 0.13.0 → 0.14.0, `clarify` 1.7.17 → 1.7.19, `dcv-viewer` 2026.0.14405 → 2026.0.14555, `deckcraft` 0.11.1 → 0.12.0, `designcraft` 0.13.0 → 0.14.0, `djstudio@next` 5.0.8-beta.0 → 5.0.8-beta.1, `duplicate-file-finder` 9.2.3,1092 → 9.2.4,1099, `effectcraft` 0.17.0 → 0.18.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-28T15:10:51Z
 
 - **Registered 1 formulae**: `roborev`
