@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-29T21:12:32Z
+
+- Updated 47 formulae: `apify-cli` 1.10.0 → 1.11.0, `aws-vault` 7.17.2 → 7.17.3, `azqr` 4.3.0 → 4.3.1, `bazel-diff` 67.0.3 → 68.0.0, `bindgen` 0.73.2 → 0.73.2_1, `bitwarden-cli` 2026.10.0 → 2026.10.1, `bqlog` 2.7.2 → 2.7.3, `byobu` 7.22 → 7.23, `cidr2range` 3.3.3 → 3.3.4, `cilium-cli` 0.20.1 → 0.20.2, `cloudflared` 2026.10.5 → 2026.10.6, `conan` 2.33.0 → 2.34.0, `cozypkg` 1.6.5 → 1.7.0, `cyclonedx-python` 7.5.0 → 7.6.0, `devcontainer` 0.89.0 → 0.90.0, `diffle` 0.3.4 → 0.3.5, `docker-machine` 0.16.2-gitlab.64 → 0.16.2-gitlab.65, `espflash` 4.6.0 → 4.7.0, `forcecli` 1.15.0 → 1.16.0, `foundry` 1.8.6 → 1.8.7, `gauge` 1.6.41 → 1.6.42, `grepip` 3.3.3 → 3.3.4, `halide` 22.0.0 → 22.0.0.post3, `influxdb-cli` 2.8.0 → 2.9.1, `ipinfo-cli` 3.3.3 → 3.3.4 …
+- Updated 96 casks: `akuity` 0.34.0-rl.1.0.20261028200731-473578b318ac → 0.34.0-rl.1.0.20261029110416-858318c31ba6, `amadine` 1.8.4 → 1.8.5, `annotate` 1.7.0 → 1.8.0, `antigravity` 2.28.1,6709500728705024 → 2.28.2,5937220255875072, `apparency` 3.4 → 3.5, `arc` 1.170.0,89123 → 1.171.0,89666, `archaeology` 1.7,306 → 1.8,357, `betterdisplay` 5.1.1 → 5.2.1, `bitwarden` 2026.10.1 → 2026.10.2, `boltai` 2.18.2 → 2.18.3, `capacities` 1.72.4 → 1.72.7, `captains-deck` 1.5.6.1 → 1.5.7, `chatgpt` 26.1023.51421 → 26.1027.30824, `claude` 4.29.0,2609742292f7dbce2e259e76f53620cac4da9002 → 4.4212.0,cbfe3c56d49c49332ad5a9588303c9dbc70a5e7f, `cleanmymac` 5.7.2,50702.0.2610141002 → 5.7.3,50703.0.2610281229, `clop` 3.6.3 → 3.6.4, `crashplan` 12.1.0,720 → 12.1.1,2, `crest` 6.6.6 → 6.6.7, `datadog-agent` 7.84.6-1 → 7.85.0-1, `discord@canary` 0.0.1427 → 0.0.1428, `diversion-app` 0.9.0 → 0.10.0, `djstudio@next` 5.0.8-beta.1 → 5.0.8-beta.2, `duplicati` 2.4.0.1,2026-10-07 → 2.4.1.0,2026-10-29, `eve-online` 1.17.2 → 1.17.3, `exelearning` 4.0.5 → 4.0.6 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-29T15:16:28Z
 
 - **Registered 4 formulae**: `beszel`, `calcure`, `libkrunfw`, `lovable-oj`
