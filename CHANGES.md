@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-29T05:55:20Z
+
+- **Registered 1 formulae**: `upki`
+- **De-registered 1 formulae**: `kubernetes-cli@1.31`
+- Updated 91 formulae: `act` 0.2.90 → 0.2.92, `agent-browser` 0.40.0 → 0.41.0, `appstream` 1.2.1 → 1.2.2, `atuin` 18.24.2 → 18.24.3, `atuin-server` 18.24.2 → 18.24.3, `aws-c-common` 1.0.4 → 1.0.5, `aws-c-s3` 1.5.0 → 1.5.1, `awscli` 2.39.0_1 → 2.39.1, `azure-dev` 1.37.1 → 1.37.2, `baguette` 0.2.11 → 0.2.12, `betterglobekey` 4.3.0 → 4.3.2, `bitcoin` 31.1_1 → 32.1, `block-goose-cli` 1.56.0 → 1.57.0, `clarinet` 3.25.0 → 3.26.0, `cloudflare-wrangler` 4.153.0 → 4.154.0, `code-cli` 1.143.1 → 1.144.0, `coder` 2.37.7 → 2.37.8, `cracklib` 2.10.3 → 2.10.4, `dbx-cli` 0.4.134 → 0.4.135, `docker-agent` 1.153.0 → 1.154.0, `faker` 40.43.0 → 40.44.0, `fern-api` 5.181.0 → 5.183.0, `flagd` 0.18.1 → 0.18.2, `flexget` 3.22.8 → 3.22.9, `flit` 4.1.0 → 4.2.0 …
+- Updated 76 casks: `airi` 0.13.0 → 0.13.1, `akuity` 0.34.0-rl.1.0.20261028144206-7b557d59ef1a → 0.34.0-rl.1.0.20261028200731-473578b318ac, `alma` 0.4.221 → 0.4.231, `altserver` 1.8.2 → 1.8.3, `amp-app` 1.0,960 → 1.0,980, `app-cleaner` 10.0.2,2399 → 10.0.3,2406, `beekeeper-studio` 6.1.6 → 6.2.0, `bettermouse` 1.7,9010 → 1.7,9059, `bettertouchtool` 6.988,2026102708 → 6.989,2026102709, `biscuit` 2.2.1 → 2.2.2, `bitcoin-core` 31.1 → 32.1, `blitz-gg` 3.0.16 → 3.0.17, `block-goose` 1.56.0 → 1.57.0, `cap` 0.6.1,01M5CGZ4SP1284TJD3KQZNZ67M → 0.6.2,01M625F2C69VMCTS7HHCSJBNSM, `clickup` 3.5.395,261024vdacqn9ya → 3.5.402,261028rnqdrclpe, `cog-app` 3835,1793b8007 → 3840,120b60874, `db-browser-for-sqlcipher@nightly` 20261026 → 20261029, `db-browser-for-sqlite@nightly` 20261026 → 20261029, `dbx` 0.6.59 → 0.6.60, `deviceshelf` 1.9.83 → 1.9.84, `dingtalk` 9.0.2,59049656 → 9.0.5,59529713, `discord@canary` 0.0.1426 → 0.0.1427, `dropbox@beta` 277.3.4952 → 278.3.3892, `epson-print-layout` 1.5.17 → 1.5.18, `fidelity-trader+` 5.2.2 → 5.3.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-28T21:08:53Z
 
 - Updated 74 formulae: `anchor` 1.2.1 → 1.2.2, `appium` 3.8.0 → 3.9.0, `auth0` 1.38.0 → 1.39.0, `aws-c-s3` 1.4.1 → 1.5.0, `aws-crt-cpp` 0.44.2_1 → 0.44.2_2, `aws-sam-cli` 1.170.0_1 → 1.170.0_2, `aws-sdk-cpp` 1.11.915_1 → 1.11.915_2, `awscli` 2.39.0 → 2.39.0_1, `awscurl` 0.44_9 → 0.44_10, `betterglobekey` 4.2.0 → 4.3.0, `checkpwn` 0.6.2 → 0.6.3, `cimg` 4.0.6 → 4.0.7, `circleci` 1.11.0 → 1.12.0, `clozure-cl` 1.13 → 1.14, `cmus` 2.12.0_4 → 2.13.0, `cpp-peglib` 1.29.0 → 1.30.0, `datalad` 1.7.1 → 1.7.2, `deja-vu` 0.23.1 → 0.23.2, `docker-agent` 1.152.0 → 1.153.0, `dumpling` 26.3.21 → 26.3.22, `dxpy` 0.417.1_1 → 0.417.1_2, `fern-api` 5.177.0 → 5.181.0, `filmcraft-cli` 0.13.0 → 0.14.0, `fonttools` 4.67.0_1 → 4.68.0, `git` 2.56.0_1 → 2.56.0_2 …
