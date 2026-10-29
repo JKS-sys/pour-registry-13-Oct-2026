@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-29T15:16:28Z
+
+- **Registered 4 formulae**: `beszel`, `calcure`, `libkrunfw`, `lovable-oj`
+- Updated 64 formulae: `aicommit2` 2.14.1 → 2.16.0, `angular-cli` 22.2.4 → 22.2.5, `aspell` 0.60.8.2 → 0.60.8.3, `biome` 2.6.3 → 2.6.4, `bqlog` 2.7.1 → 2.7.2, `buildkite` 3.66.0 → 3.67.0, `calm-cli` 1.66.0 → 1.67.0, `cdk8s` 2.207.71 → 2.207.72, `chainloop-cli` 1.128.1 → 1.129.0, `composer` 2.10.3 → 2.11.0, `dart-sass` 1.106.1 → 1.107.0, `e2b` 2.22.3 → 2.23.0, `et` 7.0.0_5 → 7.1.1, `evnx` 0.10.18 → 0.11.0, `fancy-cat` 0.6.0_6 → 0.6.0_7, `ffmpegthumbnailer` 2.3.1 → 2.4.0, `geeqie` 3.3 → 3.3_1, `gowall` 0.2.4_6 → 0.2.4_7, `gperftools` 2.19.1 → 2.19.2, `groonga` 16.1.4 → 16.1.5, `hatch` 1.18.1_3 → 1.18.2, `hk` 2.9.0 → 2.10.0, `imessage-exporter` 4.3.0 → 5.0.1, `jackett` 0.24.2949 → 0.24.2961, `kubectl-radar` 1.18.3 → 1.19.0 …
+- **Registered 2 casks**: `macdirstat`, `spencer`
+- Updated 95 casks: `airtame` 4.16.0 → 4.16.1, `aldente` 1.40 → 1.40.1, `alfaview` 9.30.2 → 9.30.5, `amp-app` 1.0,980 → 1.0,990, `anarlog` 1.4.33 → 1.4.34, `antigravity` 2.28.0,6410674700681216 → 2.28.1,6709500728705024, `antigravity-cli` 1.4.9,4962164969177088 → 1.4.10,5501573669978112, `autogram` 2.7.5 → 2.8.3, `chatwork` 2.25.7 → 2.25.8, `clarify` 1.7.19 → 1.7.20, `claudebar` 0.5.23 → 0.5.24, `cog-app` 3840,120b60874 → 3849,279fcc254, `copilot-language-server` 1.562.0 → 1.564.0, `cryptomator` 1.19.4 → 1.19.5, `dbx` 0.6.60 → 0.6.61, `diversion` 1.6.826 → 1.6.851, `element@nightly` 2026102801 → 2026102901, `emacs-app@nightly` 2026-10-28_00-09-51,367f7c7cc2213ce8b949fbbdb42353fb2441d452 → 2026-10-29_00-09-20,55055b34cb35a457879b84712f444a87820e754d, `ff-works` 5.4.2 → 5.4.3, `firefox@nightly` 161.0a1,2026-10-28-09-48-58 → 161.0a1,2026-10-28-21-30-39, `folder-preview-pro` 3.2 → 3.3, `font-sketchybar-app-font` 3.0.13 → 3.0.14, `foobar2000` 2.26 → 2.26.2, `freelens@nightly` 2.0.0-0-nightly-2026-10-28 → 2.0.0-nightly-2026-10-29, `futubull` 16.36.27208 → 16.37.27308 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-29T05:55:20Z
 
 - **Registered 1 formulae**: `upki`
