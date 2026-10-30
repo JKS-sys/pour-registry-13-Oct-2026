@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-30T05:56:12Z
+
+- **Registered 4 formulae**: `blint`, `entire-cli`, `ryl`, `sbomasm`
+- **De-registered 2 formulae**: `hasura-cli`, `node@18`
+- Updated 144 formulae: `ampl-asl` 1.0.1 → 1.0.2, `apache-arrow` 26.0.0_1 → 26.0.0_2, `api-linter` 2.4.0 → 2.4.1, `appwrite` 28.10.0 → 28.10.1, `asc` 5.17.1 → 6.0.0, `ascelerate` 0.28.0 → 0.28.1, `atuin` 18.24.3 → 18.24.4, `atuin-server` 18.24.3 → 18.24.4, `auto-editor` 31.7.2 → 31.8.0, `aws-crt-cpp` 0.44.2_2 → 0.44.3, `awscli` 2.39.1 → 2.39.2, `b4n` 1.2.0 → 1.3.0, `bee` 1.118 → 1.119, `brename` 2.14.0 → 2.15.0, `cfn-lint` 1.58.0 → 1.59.0, `chainloop-cli` 1.129.0 → 1.129.1, `checkov` 3.3.30 → 3.4.0, `chopper` 0.14.1 → 0.15.0, `closure-compiler` 20261026 → 20261028, `cloud-sql-proxy` 2.26.3 → 2.27.0, `cloudflare-wrangler` 4.154.0 → 4.155.0, `codecov-cli` 11.3.1_2 → 11.3.2, `cpp-httplib` 0.63.0 → 0.64.0, `crystal` 1.22.1 → 1.22.2, `dcm2niix` 1.0.20260724 → 1.0.20261029 …
+- **De-registered 3 casks**: `gtkwave`, `oracle-jdk@17`, `speedcrunch`
+- Updated 94 casks: `airbuild` 1.3.4 → 1.3.26, `airi` 0.13.1 → 0.14.0, `alma` 0.4.231 → 0.4.246, `artcraft-launcher` 0.9.0 → 0.10.0, `bb` 0.48.0 → 0.48.1, `bettertouchtool` 6.989,2026102709 → 6.990,2026102901, `bettertouchtool@alpha` 6.988,2026102708 → 6.990,2026102901, `binance` 2.6.0 → 2.6.1, `blip` 1.2.7,20261027002206 → 1.2.8,20261029214736, `cashnotify` 3.8.2 → 3.9.0, `claude-code@latest` 2.1.312 → 2.1.314, `codex` 0.165.0 → 0.166.0, `copilot-language-server` 1.564.0 → 1.565.0, `dash-dash` 23.1.8 → 23.1.9, `db-browser-for-sqlcipher@nightly` 20261029 → 20261030, `db-browser-for-sqlite@nightly` 20261029 → 20261030, `db-pro` 2.10.1 → 2.10.2, `deepseek-harness` 0.2.1-rc.3 → 0.2.1-rc.5, `devin-cli` 3000.11.228 → 3000.11.234, `devin-desktop` 3.11.228,053434014dbdb7a662a14e38752946a0dafb97f2 → 3.11.234,92c83011d1139eee53ac0629125938d536d4cd9c, `devin-desktop@next` 3.11.1228+next.053434014d,053434014dbdb7a662a14e38752946a0dafb97f2 → 3.11.1234+next.92c83011d1,92c83011d1139eee53ac0629125938d536d4cd9c, `dingtalk` 9.0.5,59529713 → 9.0.5,59563623, `discord@ptb` 0.0.268 → 0.0.269, `droid` 0.251.0 → 1.0.0, `dropzone` 4.80.76 → 4.80.77 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-29T21:12:32Z
 
 - Updated 47 formulae: `apify-cli` 1.10.0 → 1.11.0, `aws-vault` 7.17.2 → 7.17.3, `azqr` 4.3.0 → 4.3.1, `bazel-diff` 67.0.3 → 68.0.0, `bindgen` 0.73.2 → 0.73.2_1, `bitwarden-cli` 2026.10.0 → 2026.10.1, `bqlog` 2.7.2 → 2.7.3, `byobu` 7.22 → 7.23, `cidr2range` 3.3.3 → 3.3.4, `cilium-cli` 0.20.1 → 0.20.2, `cloudflared` 2026.10.5 → 2026.10.6, `conan` 2.33.0 → 2.34.0, `cozypkg` 1.6.5 → 1.7.0, `cyclonedx-python` 7.5.0 → 7.6.0, `devcontainer` 0.89.0 → 0.90.0, `diffle` 0.3.4 → 0.3.5, `docker-machine` 0.16.2-gitlab.64 → 0.16.2-gitlab.65, `espflash` 4.6.0 → 4.7.0, `forcecli` 1.15.0 → 1.16.0, `foundry` 1.8.6 → 1.8.7, `gauge` 1.6.41 → 1.6.42, `grepip` 3.3.3 → 3.3.4, `halide` 22.0.0 → 22.0.0.post3, `influxdb-cli` 2.8.0 → 2.9.1, `ipinfo-cli` 3.3.3 → 3.3.4 …
