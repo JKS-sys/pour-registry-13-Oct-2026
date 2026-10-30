@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-30T20:51:51Z
+
+- Updated 65 formulae: `agent-manager` 0.44.0 → 0.45.0, `apko` 1.4.13 → 1.4.14, `appwrite` 28.10.1 → 28.10.2, `ascelerate` 0.28.1 → 0.28.2, `bob` 4.2.0 → 4.3.0, `circleci` 1.12.0 → 1.13.0, `clarinet` 3.26.0 → 4.0.0, `codex-acp` 2.3.0 → 2.5.0, `decker` 1.71 → 1.72, `dissent` 0.0.38 → 0.0.39, `dstack` 0.22.5 → 0.22.6, `flyway` 13.11.1 → 13.12.0, `fobis` 3.10.0 → 3.11.0, `fortitude` 0.10.0 → 0.10.1, `fresh-editor` 0.5.4 → 0.5.5, `google-java-format` 1.37.0 → 2.0.0, `grpc` 1.85.0 → 1.85.1, `hermit` 0.54.1 → 0.55.0, `hf` 2.3.0 → 2.4.0, `icp-cli` 1.7.0 → 1.8.0, `jupyterlab` 4.6.4_3 → 4.6.5, `kmod` 34.2_1 → 34.3, `kosli-cli` 2.51.0 → 2.52.0, `letta-code` 0.34.30 → 0.34.31, `linux-headers@5.15` 5.15.223 → 5.15.224 …
+- Updated 81 casks: `ableton-live-intro` 12.4.15 → 12.4.16, `ableton-live-lite` 12.4.15 → 12.4.16, `ableton-live-standard` 12.4.15 → 12.4.16, `ableton-live-suite` 12.4.15 → 12.4.16, `airbuild` 1.3.26 → 1.4.8, `airi` 0.14.0 → 0.14.1, `aphera` 1.8.0 → 1.8.1, `beeper` 4.3.229 → 4.3.264, `cherry-studio` 2.1.8 → 2.1.9, `clion` 2026.2.4,262.11879.74 → 2026.2.4.1,262.11879.106, `codeexpander` 7.1.5 → 7.1.6, `command-tab-plus` 2.9.13 → 2.9.14, `datagrip` 2026.2.6,262.10968.148 → 2026.2.6.1,262.11879.103, `deutschlandgpt` 0.16.0 → 0.16.1, `djstudio@next` 5.0.8-beta.2 → 5.0.8-beta.3, `dorso` 1.16.1 → 1.17.0, `dropbox@beta` 278.3.3892 → 278.3.3901, `eigent` 1.0.6 → 1.0.7, `emdash` 1.2.9 → 1.2.10, `firefox@beta` 160.0b2 → 160.0b3, `firefox@developer-edition` 160.0b2 → 160.0b3, `font-geist` 1.8.2 → 1.9.0, `font-geist-mono` 1.8.2 → 1.9.0, `font-geist-pixel` 1.8.2 → 1.9.0, `framer` 2026.43.2 → 2026.43.3 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-30T15:05:31Z
 
 - Updated 33 formulae: `bitrise` 3.2.1 → 3.3.0, `c-blosc2` 3.4.0 → 3.4.1, `cdk8s` 2.207.72 → 2.207.73, `concord` 2.6.3 → 2.6.4, `dbx-cli` 0.4.135 → 0.4.136, `dissent` 0.0.37 → 0.0.38, `headscale-cli` 0.29.6 → 0.29.7, `incus` 7.5.1 → 7.6, `jackett` 0.24.2961 → 0.24.2977, `keploy` 3.6.175 → 3.6.180, `kumactl` 3.0.0 → 3.0.1, `letta-code` 0.34.27 → 0.34.30, `merman-cli` 0.9.2 → 0.9.3, `mise` 2026.10.23 → 2026.10.24, `officecli` 1.0.159 → 1.0.160, `oh-my-agent` 20.21.0 → 20.22.0, `opencode` 2.2.1 → 2.2.3, `panache` 3.17.1 → 3.17.2, `pipdeptree` 4.2.10 → 4.2.12, `pipx` 1.18.8 → 1.18.9, `postgis` 3.6.4_1 → 3.7.0, `prek` 0.5.7 → 0.5.9, `pup` 2.3.7 → 2.3.8, `pyqt-builder` 1.20.0_2 → 1.20.3, `rattler-index` 0.34.2 → 0.34.3 …
