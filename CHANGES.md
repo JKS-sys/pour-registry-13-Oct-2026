@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-30T15:05:31Z
+
+- Updated 33 formulae: `bitrise` 3.2.1 → 3.3.0, `c-blosc2` 3.4.0 → 3.4.1, `cdk8s` 2.207.72 → 2.207.73, `concord` 2.6.3 → 2.6.4, `dbx-cli` 0.4.135 → 0.4.136, `dissent` 0.0.37 → 0.0.38, `headscale-cli` 0.29.6 → 0.29.7, `incus` 7.5.1 → 7.6, `jackett` 0.24.2961 → 0.24.2977, `keploy` 3.6.175 → 3.6.180, `kumactl` 3.0.0 → 3.0.1, `letta-code` 0.34.27 → 0.34.30, `merman-cli` 0.9.2 → 0.9.3, `mise` 2026.10.23 → 2026.10.24, `officecli` 1.0.159 → 1.0.160, `oh-my-agent` 20.21.0 → 20.22.0, `opencode` 2.2.1 → 2.2.3, `panache` 3.17.1 → 3.17.2, `pipdeptree` 4.2.10 → 4.2.12, `pipx` 1.18.8 → 1.18.9, `postgis` 3.6.4_1 → 3.7.0, `prek` 0.5.7 → 0.5.9, `pup` 2.3.7 → 2.3.8, `pyqt-builder` 1.20.0_2 → 1.20.3, `rattler-index` 0.34.2 → 0.34.3 …
+- **Registered 8 casks**: `junie`, `lingon-pro`, `mactoy`, `opencodex`, `openframe-console`, `thinkrail`, `tldv`, `vocevista-pro`
+- **De-registered 2 casks**: `lingon-x`, `vocevista-video-pro`
+- Updated 85 casks: `adlock` 2.2.0.3 → 2.2.0.8, `akuity` 0.34.0-rl.1.0.20261029110416-858318c31ba6 → 0.34.0-rl.1.0.20261029155352-f3875d3566da, `amore` 0.1,49 → 0.1,51, `amp-app` 1.0,990 → 1.0,1010, `antigravity-cli` 1.4.10,5501573669978112 → 1.4.11,5180209989812224, `bettermacwidgets` 2.10.0 → 2.10.1, `bilibili` 1.19.0 → 1.20.0, `buholaunchpad` 2.0.1 → 2.0.2, `butterkit` 3.2.01 → 3.2.25, `cc-switch` 4.0.21 → 4.0.22, `copilot-language-server` 1.565.0 → 1.565.1, `crest` 6.6.7 → 6.6.8, `crosspaste` 2.3.0.2767 → 2.3.1.2781, `cryptomator` 1.19.5 → 1.19.6, `dbx` 0.6.61 → 0.6.62, `element@nightly` 2026102901 → 2026103001, `emacs-app@nightly` 2026-10-29_00-09-20,55055b34cb35a457879b84712f444a87820e754d → 2026-10-30_00-09-25,c10b6f01db5435308878fbec70f47ce9f0db7c39, `firefox@nightly` 161.0a1,2026-10-29-21-23-58 → 161.0a1,2026-10-30-09-04-06, `font-sketchybar-app-font` 3.0.14 → 3.0.15, `fontcreator` 16.0.0.3082 → 16.0.0.3086, `freeshow@beta` 1.6.8-beta.1 → 1.6.8-beta.2, `google-chrome@canary` 159.0.8131.0 → 159.0.8132.0, `grandtotal` 10.0.0.38 → 10.0.0.39, `headroom` 0.9.52 → 0.9.53, `intellij-idea-oss` 2026.2.3 → 2026.2.4 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-30T05:56:12Z
 
 - **Registered 4 formulae**: `blint`, `entire-cli`, `ryl`, `sbomasm`
