@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-31T05:52:32Z
+
+- Updated 60 formulae: `ai-cli` 0.7.0 → 0.8.0, `aom` 3.15.2 → 3.15.3, `apache-spark` 4.2.1 → 4.3.0, `aube` 2.8.4 → 2.8.5, `awscli` 2.39.2 → 2.39.3, `bazel-diff` 68.0.0 → 69.0.0, `borgmatic` 2.1.10 → 2.2.0, `cadence-workflow` 1.4.2 → 1.4.5, `ccusage` 20.0.45 → 20.0.46, `certbot` 5.8.0_1 → 5.9.0, `cloudflare-wrangler` 4.155.0 → 4.156.0, `cloudflared` 2026.10.6 → 2026.10.7, `coder` 2.37.8 → 2.37.9, `composer` 2.11.0 → 2.11.1, `conda-lock` 4.0.3_1 → 4.0.4, `croc` 11.5.5 → 11.6.0, `dart-sass` 1.107.0 → 1.107.1, `fallow` 3.37.0 → 3.38.0, `fern-api` 5.186.0 → 5.190.0, `fernflower` 262.10968.63 → 262.11879.100, `flow` 0.337.0 → 0.338.0, `fobis` 3.11.0 → 3.11.1, `gitea-mcp-server` 1.11.0 → 1.12.0, `grokj2k` 20.4.20 → 20.4.21, `harlequin` 2.16.2 → 2.17.0 …
+- **Registered 3 casks**: `font-geist-serif`, `herdr-app`, `rencal`
+- Updated 71 casks: `amp-app` 1.0,1010 → 1.0,1020, `antigravity-cli` 1.4.11,5180209989812224 → 1.4.12,4768735748292608, `bramble` 0.13.0 → 0.14.0, `brave-browser` 1.98.62.0 → 1.98.63.0, `brave-origin` 1.98.62.0 → 1.98.63.0, `butterkit` 3.2.25 → 3.2.30, `cadran` 1.3.12 → 2.0.1, `calendr` 1.26.1 → 1.26.2, `clipy` 1.4.0 → 1.4.1, `companion-satellite` 3.6.1,770,43fdde5 → 3.7.0,787,1514040, `devin-desktop` 3.11.234,92c83011d1139eee53ac0629125938d536d4cd9c → 3.11.238,9e593c73d4ca24802eb3b302035f33cedad59802, `devin-desktop@next` 3.11.1234+next.92c83011d1,92c83011d1139eee53ac0629125938d536d4cd9c → 3.11.1238+next.9e593c73d4,9e593c73d4ca24802eb3b302035f33cedad59802, `diri` 0.10.1 → 0.11.0, `dolphin@dev` 2609-127,6a,87 → 2609-131,3e,9c, `droid` 1.0.0 → 1.1.0, `factory` 1.0.0 → 1.1.0, `fiji` 20261029-1617 → 20261030-1817, `firefox@nightly` 161.0a1,2026-10-30-09-04-06 → 161.0a1,2026-10-30-21-41-48, `flutterflow` 7.2.23 → 7.2.25, `fluxer` 2026.1026.24218 → 2026.1030.232443, `folder-preview-pro` 3.3 → 3.3.1, `font-urw-core35` 1.0.1 → 2.2.0, `fontra-pak` 2026.10.0 → 2026.10.2, `fossa` 3.20.8 → 3.20.10, `free42-binary` 3.4.1 → 3.5 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-30T20:51:51Z
 
 - Updated 65 formulae: `agent-manager` 0.44.0 → 0.45.0, `apko` 1.4.13 → 1.4.14, `appwrite` 28.10.1 → 28.10.2, `ascelerate` 0.28.1 → 0.28.2, `bob` 4.2.0 → 4.3.0, `circleci` 1.12.0 → 1.13.0, `clarinet` 3.26.0 → 4.0.0, `codex-acp` 2.3.0 → 2.5.0, `decker` 1.71 → 1.72, `dissent` 0.0.38 → 0.0.39, `dstack` 0.22.5 → 0.22.6, `flyway` 13.11.1 → 13.12.0, `fobis` 3.10.0 → 3.11.0, `fortitude` 0.10.0 → 0.10.1, `fresh-editor` 0.5.4 → 0.5.5, `google-java-format` 1.37.0 → 2.0.0, `grpc` 1.85.0 → 1.85.1, `hermit` 0.54.1 → 0.55.0, `hf` 2.3.0 → 2.4.0, `icp-cli` 1.7.0 → 1.8.0, `jupyterlab` 4.6.4_3 → 4.6.5, `kmod` 34.2_1 → 34.3, `kosli-cli` 2.51.0 → 2.52.0, `letta-code` 0.34.30 → 0.34.31, `linux-headers@5.15` 5.15.223 → 5.15.224 …
