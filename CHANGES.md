@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-31T14:34:37Z
+
+- **Registered 1 formulae**: `sbomqs`
+- Updated 92 formulae: `ampl-mp` 4.2.0 → 4.2.1, `ansible` 14.5.0_2 → 14.5.0_3, `asc` 6.0.0 → 6.2.0, `aws-shell` 0.2.2_16 → 0.2.2_17, `basex` 12.4 → 13.0, `cargo-generate` 0.25.1 → 0.26.0, `cdk8s` 2.207.73 → 2.207.74, `chart-releaser` 1.9.0 → 1.10.0, `cubejs-cli` 1.8.14 → 1.8.15, `cve-bin-tool` 3.4_4 → 3.4_5, `dissent` 0.0.39 → 0.0.41, `eas-cli` 27.1.0 → 27.2.0, `efl` 1.28.1_4 → 1.29.0, `ejdb` 2.95 → 2.96, `filmcraft-cli` 0.14.0 → 0.15.0, `fobis` 3.11.1 → 3.13.0, `gcalcli` 4.5.1_14 → 4.5.1_15, `ghalint` 1.5.7 → 1.6.0, `gitlogue` 0.12.1 → 0.12.2, `gittype` 0.10.3 → 0.10.4, `glances` 4.5.8 → 4.5.8_1, `grokj2k` 20.4.21 → 20.4.24, `ipsw` 3.1.739 → 3.1.740, `ipython` 9.17.1 → 9.18.0, `jackett` 0.24.2977 → 0.24.2981 …
+- **Registered 1 casks**: `notational-velocity`
+- Updated 73 casks: `artcraft-launcher` 0.10.0 → 0.11.1, `biscuit` 2.2.2 → 2.2.3, `cadcraft` 0.14.0 → 0.15.1, `capso` 1.2.6 → 1.2.7, `cc-pocket` 1.145.5,277 → 1.146.0,279, `claude-code` 2.1.308 → 2.1.309, `claude-code@latest` 2.1.314 → 2.1.316, `clawd-on-desk` 1.4.0 → 1.5.0, `clop` 3.6.4 → 3.6.5, `cloudpouch` 1.49.0 → 2.0.0, `coderabbit` 0.9.1 → 0.9.2, `codexbar` 0.82.0 → 0.83.0, `core-tunnel` 5.1,4874 → 5.2,4951, `deckcraft` 0.12.0 → 0.13.1, `designcraft` 0.14.0 → 0.15.2, `dolphin@dev` 2609-131,3e,9c → 2609-133,f5,ba, `effectcraft` 0.18.0 → 0.19.0, `element@nightly` 2026103001 → 2026103101, `emacs-app@nightly` 2026-10-30_00-09-25,c10b6f01db5435308878fbec70f47ce9f0db7c39 → 2026-10-31_00-09-41,3b92ea238b404fcfc38c9f8895171aa57d66675a, `figcraft` 0.12.1 → 0.13.1, `filmcraft` 0.14.0 → 0.15.0, `fluxer` 2026.1030.232443 → 2026.1031.50514, `fmail3` 3.0.1 → 3.0.2, `font-sketchybar-app-font` 3.0.15 → 3.0.16, `freelens@nightly` 2.0.0-nightly-2026-10-29 → 2.0.1-0-nightly-2026-10-31 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-31T05:52:32Z
 
 - Updated 60 formulae: `ai-cli` 0.7.0 → 0.8.0, `aom` 3.15.2 → 3.15.3, `apache-spark` 4.2.1 → 4.3.0, `aube` 2.8.4 → 2.8.5, `awscli` 2.39.2 → 2.39.3, `bazel-diff` 68.0.0 → 69.0.0, `borgmatic` 2.1.10 → 2.2.0, `cadence-workflow` 1.4.2 → 1.4.5, `ccusage` 20.0.45 → 20.0.46, `certbot` 5.8.0_1 → 5.9.0, `cloudflare-wrangler` 4.155.0 → 4.156.0, `cloudflared` 2026.10.6 → 2026.10.7, `coder` 2.37.8 → 2.37.9, `composer` 2.11.0 → 2.11.1, `conda-lock` 4.0.3_1 → 4.0.4, `croc` 11.5.5 → 11.6.0, `dart-sass` 1.107.0 → 1.107.1, `fallow` 3.37.0 → 3.38.0, `fern-api` 5.186.0 → 5.190.0, `fernflower` 262.10968.63 → 262.11879.100, `flow` 0.337.0 → 0.338.0, `fobis` 3.11.0 → 3.11.1, `gitea-mcp-server` 1.11.0 → 1.12.0, `grokj2k` 20.4.20 → 20.4.21, `harlequin` 2.16.2 → 2.17.0 …
