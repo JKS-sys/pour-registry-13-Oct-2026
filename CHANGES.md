@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-31T20:02:07Z
+
+- **Registered 1 formulae**: `zmij`
+- Updated 57 formulae: `acl2` 8.7_7 → 8.7_8, `apache-arrow` 26.0.0_2 → 26.0.0_3, `arcane-cli` 2.17.1 → 2.17.2, `buildapp` 1.5.6_7 → 1.5.6_8, `c-blosc` 1.21.6 → 1.21.7, `c2patool` 0.27.22 → 0.28.4, `cargo-binstall` 1.26.1 → 1.26.2, `chart-releaser` 1.10.0 → 1.10.1, `checkstyle` 14.3.0 → 14.4.0, `crit` 0.23.1 → 0.23.2, `dtop` 0.10.4 → 0.10.5, `duplicity` 3.2.1 → 3.2.2, `eslint` 10.13.0 → 10.14.0, `fallow` 3.38.0 → 3.38.1, `fast_float` 8.3.2 → 8.3.3, `fobis` 3.13.0 → 3.15.0, `fricas` 1.4.0 → 1.4.0_1, `ghorg` 1.11.16 → 1.11.17, `gixy` 0.2.59 → 0.2.60, `groonga` 16.1.5_1 → 16.1.5_2, `hblock` 3.5.1 → 3.5.2, `humanbound` 2.13.0 → 2.14.0, `ipsw` 3.1.740 → 3.1.741, `jaguar` 1.72.0 → 1.73.0, `libiconv` 1.19 → 1.19.1 …
+- Updated 33 casks: `amp-app` 1.0,1020 → 1.0,1030, `bettertouchtool@alpha` 6.990,2026102901 → 6.991,2026103101, `bloom` 1.5.46 → 1.5.47, `cc-pocket` 1.146.0,279 → 1.148.0,281, `cc-switch` 4.0.22 → 4.0.23, `cherry-studio` 2.1.9 → 2.1.10, `dataflare` 3.2.5 → 3.2.6, `dexed` 1.0.1 → 1.1.0, `dolphin@dev` 2609-133,f5,ba → 2609-156,62,48, `firefox@nightly` 161.0a1,2026-10-30-21-41-48 → 161.0a1,2026-10-31-09-50-59, `fluxer` 2026.1031.50514 → 2026.1031.143121, `font-nordwand-mono` 1.4.0 → 1.5.0, `fractal-bot` 3.00.24 → 3.01.00, `google-gemini` 1.135.1.1291 → 1.138.0.1315, `grandtotal` 10.0.0.41 → 10.0.1, `kindle-create` 1.116 → 1.117, `macloggerdx@beta` 6.63b21 → 6.63b22, `maestri` 0.57.2 → 0.58.0, `magpie` 0.1.2375 → 0.1.2400, `mindroom` 2026.10.760 → 2026.10.770, `napari` 0.9.2 → 0.10.0, `nvalt` 3.0.15,144 → 3.0.16,145, `oscar` 2.1.0 → 2.1.1, `picmal` 2.1.0 → 2.1.1, `roonbridge` 1.8,100801125 → 2.71,207101683 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-31T14:34:37Z
 
 - **Registered 1 formulae**: `sbomqs`
