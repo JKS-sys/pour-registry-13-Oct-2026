@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-10-31T23:26:04Z
+
+- Updated 22 formulae: `act` 0.2.92 → 0.2.94, `aws-cdk` 2.1146.1 → 2.1147.0, `bazel-diff` 69.0.0 → 70.0.0, `diffoscope` 332 → 336, `dolt` 2.6.1 → 2.6.2, `fobis` 3.15.0 → 3.16.0, `fresh-editor` 0.5.5 → 0.5.7, `gabo` 1.25.0 → 1.26.0, `guile-fibers` 1.4.3 → 2.0.0, `letta-code` 0.34.33 → 0.34.34, `nak` 0.22.0 → 0.22.1, `ntfy` 2.35.0 → 2.36.0, `nx` 24.0.2 → 24.0.3, `obscura` 0.2.5 → 0.2.6, `openkermit` 11.1.515 → 11.1.516, `parallel` 20260922 → 20261022, `rollup` 4.66.0 → 4.67.2, `rulesync` 43.3.0 → 43.4.0, `scotch` 7.0.17 → 7.0.18, `sqlfluff` 4.4.0 → 4.5.0, `virtualenv` 21.15.1 → 21.15.2, `vnstat` 2.13 → 2.14
+- Updated 27 casks: `adrafinil` 1.13.1 → 1.14.0, `alma` 0.4.246 → 0.4.332, `bettertouchtool` 6.990,2026102901 → 6.992,2026103102, `copilot-cli@prerelease` 1.0.105-1 → 1.0.106-1, `free42-binary` 3.5 → 3.5.1, `free42-decimal` 3.5 → 3.5.1, `ghostex` 10.41.0 → 10.42.0, `ghostty@tip` 18514,ca91d0a24e67b3eecdb23c943227cd2b3908747b → 18535,83b57ac5ead868e133adb509f7ef0a4ffa3ffe01, `google-chrome@canary` 159.0.8134.0 → 159.0.8135.0, `herdr-app` 0.1.10 → 0.1.11, `highball` 0.10.22 → 0.10.23, `magpie` 0.1.2400 → 0.1.2450, `mailmaster` 5.7.3.1523 → 5.7.4.1543, `mindroom` 2026.10.770 → 2026.10.780, `multiviewer` 2.12.0,wYBMmwD1W-1KJtI4Dpaiuf7P2M4VtAqR → 2.13.0,ajyeyNgFAxVt334Hkyux_U-Wp-lY4PEV, `nvalt` 3.0.16,145 → 3.0.18,147, `opendisk` 1.5.1 → 1.5.2, `openshot-video-editor@daily` 4.1.0,18162-ad96f7e4-11bfe0a9,release-candidate → 4.1.0,18313-3cec7608-11bfe0a9,release-candidate, `shimo` 6.0.17b4,9592 → 6.0.17b5,9597, `super` 0.3.0 → 0.4.0, `swiftformat-for-xcode` 0.64.4 → 0.64.5, `t3-code@nightly` 0.1.6-nightly.20261031.3977 → 0.1.7-nightly.20261031.3991, `telegram@beta` 13.1.0,283424 → 13.1.0,283425, `tine` 0.8.3 → 0.8.4, `weasis` 4.7.3 → 4.8.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-31T20:02:07Z
 
 - **Registered 1 formulae**: `zmij`

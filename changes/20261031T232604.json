@@ -1,0 +1,260 @@
+{
+ "synced_at": "2026-10-31T23:26:04Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.13.1",
+    "name": "adrafinil",
+    "to": "1.14.0"
+   },
+   {
+    "from": "0.4.246",
+    "name": "alma",
+    "to": "0.4.332"
+   },
+   {
+    "from": "6.990,2026102901",
+    "name": "bettertouchtool",
+    "to": "6.992,2026103102"
+   },
+   {
+    "from": "1.0.105-1",
+    "name": "copilot-cli@prerelease",
+    "to": "1.0.106-1"
+   },
+   {
+    "from": "3.5",
+    "name": "free42-binary",
+    "to": "3.5.1"
+   },
+   {
+    "from": "3.5",
+    "name": "free42-decimal",
+    "to": "3.5.1"
+   },
+   {
+    "from": "10.41.0",
+    "name": "ghostex",
+    "to": "10.42.0"
+   },
+   {
+    "from": "18514,ca91d0a24e67b3eecdb23c943227cd2b3908747b",
+    "name": "ghostty@tip",
+    "to": "18535,83b57ac5ead868e133adb509f7ef0a4ffa3ffe01"
+   },
+   {
+    "from": "159.0.8134.0",
+    "name": "google-chrome@canary",
+    "to": "159.0.8135.0"
+   },
+   {
+    "from": "0.1.10",
+    "name": "herdr-app",
+    "to": "0.1.11"
+   },
+   {
+    "from": "0.10.22",
+    "name": "highball",
+    "to": "0.10.23"
+   },
+   {
+    "from": "0.1.2400",
+    "name": "magpie",
+    "to": "0.1.2450"
+   },
+   {
+    "from": "5.7.3.1523",
+    "name": "mailmaster",
+    "to": "5.7.4.1543"
+   },
+   {
+    "from": "2026.10.770",
+    "name": "mindroom",
+    "to": "2026.10.780"
+   },
+   {
+    "from": "2.12.0,wYBMmwD1W-1KJtI4Dpaiuf7P2M4VtAqR",
+    "name": "multiviewer",
+    "to": "2.13.0,ajyeyNgFAxVt334Hkyux_U-Wp-lY4PEV"
+   },
+   {
+    "from": "3.0.16,145",
+    "name": "nvalt",
+    "to": "3.0.18,147"
+   },
+   {
+    "from": "1.5.1",
+    "name": "opendisk",
+    "to": "1.5.2"
+   },
+   {
+    "from": "4.1.0,18162-ad96f7e4-11bfe0a9,release-candidate",
+    "name": "openshot-video-editor@daily",
+    "to": "4.1.0,18313-3cec7608-11bfe0a9,release-candidate"
+   },
+   {
+    "from": "6.0.17b4,9592",
+    "name": "shimo",
+    "to": "6.0.17b5,9597"
+   },
+   {
+    "from": "0.3.0",
+    "name": "super",
+    "to": "0.4.0"
+   },
+   {
+    "from": "0.64.4",
+    "name": "swiftformat-for-xcode",
+    "to": "0.64.5"
+   },
+   {
+    "from": "0.1.6-nightly.20261031.3977",
+    "name": "t3-code@nightly",
+    "to": "0.1.7-nightly.20261031.3991"
+   },
+   {
+    "from": "13.1.0,283424",
+    "name": "telegram@beta",
+    "to": "13.1.0,283425"
+   },
+   {
+    "from": "0.8.3",
+    "name": "tine",
+    "to": "0.8.4"
+   },
+   {
+    "from": "4.7.3",
+    "name": "weasis",
+    "to": "4.8.0"
+   },
+   {
+    "from": "1.0.2",
+    "name": "work-louder-input",
+    "to": "1.1.0"
+   },
+   {
+    "from": "1.25t,20261029123723",
+    "name": "zen@twilight",
+    "to": "1.25t,20261031031940"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.2.92",
+    "name": "act",
+    "to": "0.2.94"
+   },
+   {
+    "from": "2.1146.1",
+    "name": "aws-cdk",
+    "to": "2.1147.0"
+   },
+   {
+    "from": "69.0.0",
+    "name": "bazel-diff",
+    "to": "70.0.0"
+   },
+   {
+    "from": "332",
+    "name": "diffoscope",
+    "to": "336"
+   },
+   {
+    "from": "2.6.1",
+    "name": "dolt",
+    "to": "2.6.2"
+   },
+   {
+    "from": "3.15.0",
+    "name": "fobis",
+    "to": "3.16.0"
+   },
+   {
+    "from": "0.5.5",
+    "name": "fresh-editor",
+    "to": "0.5.7"
+   },
+   {
+    "from": "1.25.0",
+    "name": "gabo",
+    "to": "1.26.0"
+   },
+   {
+    "from": "1.4.3",
+    "name": "guile-fibers",
+    "to": "2.0.0"
+   },
+   {
+    "from": "0.34.33",
+    "name": "letta-code",
+    "to": "0.34.34"
+   },
+   {
+    "from": "0.22.0",
+    "name": "nak",
+    "to": "0.22.1"
+   },
+   {
+    "from": "2.35.0",
+    "name": "ntfy",
+    "to": "2.36.0"
+   },
+   {
+    "from": "24.0.2",
+    "name": "nx",
+    "to": "24.0.3"
+   },
+   {
+    "from": "0.2.5",
+    "name": "obscura",
+    "to": "0.2.6"
+   },
+   {
+    "from": "11.1.515",
+    "name": "openkermit",
+    "to": "11.1.516"
+   },
+   {
+    "from": "20260922",
+    "name": "parallel",
+    "to": "20261022"
+   },
+   {
+    "from": "4.66.0",
+    "name": "rollup",
+    "to": "4.67.2"
+   },
+   {
+    "from": "43.3.0",
+    "name": "rulesync",
+    "to": "43.4.0"
+   },
+   {
+    "from": "7.0.17",
+    "name": "scotch",
+    "to": "7.0.18"
+   },
+   {
+    "from": "4.4.0",
+    "name": "sqlfluff",
+    "to": "4.5.0"
+   },
+   {
+    "from": "21.15.1",
+    "name": "virtualenv",
+    "to": "21.15.2"
+   },
+   {
+    "from": "2.13",
+    "name": "vnstat",
+    "to": "2.14"
+   }
+  ]
+ }
+}
