@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-01T06:16:59Z
+
+- Updated 35 formulae: `adrs` 0.12.1 → 0.13.0, `agent-manager` 0.45.0 → 0.46.0, `asc` 6.2.0 → 6.3.0, `bottom` 0.14.9 → 0.15.0, `cdncheck` 1.3.3 → 1.4.0, `cubejs-cli` 1.8.15 → 1.8.16, `envelope` 0.8.0 → 0.8.1, `forgit` 26.10.0 → 26.11.0, `gecode` 6.4.0 → 6.5.0, `git-pages-cli` 1.12.1 → 1.13.0, `gitea-importer` 0.4.0 → 0.5.0, `halide` 22.0.0.post3 → 22.1.0, `imagemagick` 7.1.2-34 → 7.1.2-35, `imagemagick-full` 7.1.2-34 → 7.1.2-35, `imagemagick@6` 6.9.13-59 → 6.9.13-60, `keploy` 3.6.185 → 3.6.190, `letta-code` 0.34.34 → 0.34.35, `minizinc` 2.10.1 → 2.10.1_1, `neonctl` 8.14.0 → 8.15.1, `node-sass` 1.107.0 → 1.107.1, `nodeenv` 1.11.1 → 1.12.0, `oh-my-agent` 20.25.0 → 20.27.0, `openspec` 1.15.0 → 1.16.0, `petsc` 3.26.0 → 3.26.1, `petsc-complex` 3.26.0 → 3.26.1 …
+- **Registered 1 casks**: `font-madhuban`
+- Updated 34 casks: `chatgpt` 26.1027.30824 → 26.1027.51404, `cog-app` 3849,279fcc254 → 3857,32df6f718, `copilot-cli@prerelease` 1.0.106-1 → 1.0.106-2, `firefox@nightly` 161.0a1,2026-10-31-09-50-59 → 161.0a1,2026-10-31-20-29-18, `fluxer` 2026.1031.143121 → 2026.1031.201025, `geotag` 6.0.2 → 6.1, `ghostex` 10.42.0 → 10.42.1, `grandtotal` 10.0.1 → 10.0.1.1, `ia-presenter` 2.1,21020 → 2.1.2,21024, `jet-pilot` 2.2.3 → 2.3.0, `kirocrew` 0.11.0 → 0.11.1, `kiwix` 3.17.1 → 3.18.0, `luxury-yacht` 2.8.2 → 2.8.3, `magpie` 0.1.2450 → 0.1.2525, `markviewer` 1.8.17 → 1.8.18, `mindroom` 2026.10.780 → 2026.11.0, `opencodex` 2.95.0 → 2.96.0, `openshot-video-editor` 4.0.1 → 4.1.0, `openshot-video-editor@daily` 4.1.0,18313-3cec7608-11bfe0a9,release-candidate → 4.1.0,18344-d7c54513-e0aa3886, `pallycompanion` 0.1.66,354.1 → 0.1.67,357.1, `panoply` 5.10.2 → 5.10.3, `plus42-binary` 1.5 → 1.5.1, `plus42-decimal` 1.5 → 1.5.1, `rio` 0.5.28 → 0.5.29, `rstudio@daily` 2026.11.0-201 → 2026.11.0-202 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-10-31T23:26:04Z
 
 - Updated 22 formulae: `act` 0.2.92 → 0.2.94, `aws-cdk` 2.1146.1 → 2.1147.0, `bazel-diff` 69.0.0 → 70.0.0, `diffoscope` 332 → 336, `dolt` 2.6.1 → 2.6.2, `fobis` 3.15.0 → 3.16.0, `fresh-editor` 0.5.5 → 0.5.7, `gabo` 1.25.0 → 1.26.0, `guile-fibers` 1.4.3 → 2.0.0, `letta-code` 0.34.33 → 0.34.34, `nak` 0.22.0 → 0.22.1, `ntfy` 2.35.0 → 2.36.0, `nx` 24.0.2 → 24.0.3, `obscura` 0.2.5 → 0.2.6, `openkermit` 11.1.515 → 11.1.516, `parallel` 20260922 → 20261022, `rollup` 4.66.0 → 4.67.2, `rulesync` 43.3.0 → 43.4.0, `scotch` 7.0.17 → 7.0.18, `sqlfluff` 4.4.0 → 4.5.0, `virtualenv` 21.15.1 → 21.15.2, `vnstat` 2.13 → 2.14
