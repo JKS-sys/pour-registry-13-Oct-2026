@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-01T15:15:31Z
+
+- **Registered 4 formulae**: `arm-optimized-routines`, `cx`, `svt-jpegxs`, `toit`
+- Updated 50 formulae: `alot` 0.12_3 → 0.12_4, `asccli` 0.18.6 → 0.18.7, `aws-sam-cli` 1.170.0_2 → 1.171.0, `carla` 2.5.10_1 → 2.5.10_2, `cdk8s` 2.207.74 → 2.207.75, `cliproxyapi` 8.0.45 → 8.0.50, `contentful-cli` 4.0.12 → 4.0.13, `dagu` 2.24.0 → 2.25.0, `datalad` 1.7.2 → 1.7.3, `dmd` 2.113.0 → 2.113.1, `dtools` 2.113.0 → 2.113.1, `esphome` 2026.10.0 → 2026.10.1, `evnx` 0.11.0 → 0.12.0, `evtx` 0.14.0 → 0.15.1, `faudio` 26.10 → 26.11, `fnox` 1.45.0 → 1.46.0, `gallery-dl` 1.32.18 → 1.32.19, `gitea` 28.2.0 → 28.3.0, `gnuradio` 3.10.12.0_12 → 3.10.12.0_13, `gojq` 0.12.19 → 0.12.20, `hk` 2.10.0 → 2.11.0, `hypopg` 1.4.4 → 1.4.5, `jackett` 0.24.2981 → 0.24.2985, `joern` 4.0.660 → 4.0.670, `keploy` 3.6.190 → 3.6.195 …
+- **Registered 2 casks**: `anydrag`, `irbis-zen`
+- **De-registered 1 casks**: `zen-privacy`
+- Updated 50 casks: `agentiloop-agent` 1.1.87.287 → 1.1.95.295, `artcraft-launcher` 0.11.1 → 0.12.0, `capsomnia` 4.3.0 → 4.3.1, `cc-pocket` 1.148.0,281 → 1.150.2,285, `diversion` 1.6.851 → 1.6.889, `dolphin@dev` 2609-156,62,48 → 2609-158,92,6d, `element@nightly` 2026103101 → 2026110101, `endless-sky-high-dpi` 0.11.2 → 0.11.4, `firefox@nightly` 161.0a1,2026-10-31-20-29-18 → 161.0a1,2026-11-01-08-59-33, `fluxer` 2026.1031.201025 → 2026.1101.102918, `font-inconsolata-lgc` 3.411 → 3.420, `font-sketchybar-app-font` 3.0.16 → 3.0.17, `fredm-fuse` 1.10.0 → 1.10.1, `freelens@nightly` 2.0.1-0-nightly-2026-10-31 → 2.0.1-0-nightly-2026-11-01, `gloomberb` 0.19.2 → 0.19.3, `google-chrome@canary` 159.0.8135.0 → 159.0.8136.0, `iterm2@nightly` 3_7_20261031 → 3_7_20261101, `linearmouse@beta` 0.13.0-beta.4 → 0.13.0-beta.5, `lobehub` 2.2.20 → 2.3.0, `maa` 6.20.1 → 6.21.0, `macvim-app` 183,9.2.321 → 184,9.2.1252, `magpie` 0.1.2525 → 0.1.2600, `mangodisk` 1.2.1 → 1.2.2, `mindroom` 2026.11.0 → 2026.11.30, `mongrel` 5.73.1,7ae9b5c1-6645-4229-bc07-a070d4baf723 → 5.74.1,6f475246-7d3a-4d9f-ba2a-82528057b0c6 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-01T06:16:59Z
 
 - Updated 35 formulae: `adrs` 0.12.1 → 0.13.0, `agent-manager` 0.45.0 → 0.46.0, `asc` 6.2.0 → 6.3.0, `bottom` 0.14.9 → 0.15.0, `cdncheck` 1.3.3 → 1.4.0, `cubejs-cli` 1.8.15 → 1.8.16, `envelope` 0.8.0 → 0.8.1, `forgit` 26.10.0 → 26.11.0, `gecode` 6.4.0 → 6.5.0, `git-pages-cli` 1.12.1 → 1.13.0, `gitea-importer` 0.4.0 → 0.5.0, `halide` 22.0.0.post3 → 22.1.0, `imagemagick` 7.1.2-34 → 7.1.2-35, `imagemagick-full` 7.1.2-34 → 7.1.2-35, `imagemagick@6` 6.9.13-59 → 6.9.13-60, `keploy` 3.6.185 → 3.6.190, `letta-code` 0.34.34 → 0.34.35, `minizinc` 2.10.1 → 2.10.1_1, `neonctl` 8.14.0 → 8.15.1, `node-sass` 1.107.0 → 1.107.1, `nodeenv` 1.11.1 → 1.12.0, `oh-my-agent` 20.25.0 → 20.27.0, `openspec` 1.15.0 → 1.16.0, `petsc` 3.26.0 → 3.26.1, `petsc-complex` 3.26.0 → 3.26.1 …
