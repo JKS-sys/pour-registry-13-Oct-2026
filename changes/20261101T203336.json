@@ -1,0 +1,282 @@
+{
+ "synced_at": "2026-11-01T20:33:36Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.12.0",
+    "name": "artcraft-launcher",
+    "to": "0.13.0"
+   },
+   {
+    "from": "2.10.4,145",
+    "name": "backdrop",
+    "to": "2.10.5,146"
+   },
+   {
+    "from": "1.9.9",
+    "name": "bluebubbles",
+    "to": "1.9.12"
+   },
+   {
+    "from": "4.3.1",
+    "name": "capsomnia",
+    "to": "4.3.2"
+   },
+   {
+    "from": "4.0.23",
+    "name": "cc-switch",
+    "to": "4.0.24"
+   },
+   {
+    "from": "3.6.5",
+    "name": "clop",
+    "to": "3.6.6"
+   },
+   {
+    "from": "4.12.1.39217423,757a5b2f",
+    "name": "codebuddy",
+    "to": "4.12.2.41207131,425ab70e"
+   },
+   {
+    "from": "1.88",
+    "name": "dockflow",
+    "to": "1.91"
+   },
+   {
+    "from": "3.0.2",
+    "name": "fmail3",
+    "to": "3.0.3"
+   },
+   {
+    "from": "3.0.146",
+    "name": "hol-guard",
+    "to": "3.0.147"
+   },
+   {
+    "from": "2.37.0",
+    "name": "kiro-cli",
+    "to": "2.37.1"
+   },
+   {
+    "from": "2.5.0.297",
+    "name": "mac-performance-monitor",
+    "to": "2.6.0.306"
+   },
+   {
+    "from": "0.1.2600",
+    "name": "magpie",
+    "to": "0.1.2625"
+   },
+   {
+    "from": "3.2.26,1245",
+    "name": "marked-app",
+    "to": "3.2.27,1246"
+   },
+   {
+    "from": "4.1.0,261028bqj5kkau3",
+    "name": "morgen",
+    "to": "4.1.2,2611018532ncsjy"
+   },
+   {
+    "from": "3.0.3,13.0",
+    "name": "musicbrainz-picard",
+    "to": "3.0.4,13.0"
+   },
+   {
+    "from": "0.89.0",
+    "name": "portfolioperformance",
+    "to": "0.90.0"
+   },
+   {
+    "from": "156.17.8.74,f560cf99",
+    "name": "prisma-access-browser",
+    "to": "156.17.9.80,6289ec17"
+   },
+   {
+    "from": "3.7.4",
+    "name": "rcmd",
+    "to": "3.8.0"
+   },
+   {
+    "from": "1.29.1",
+    "name": "remnote",
+    "to": "1.29.5"
+   },
+   {
+    "from": "1.3.3",
+    "name": "saega",
+    "to": "1.3.4"
+   },
+   {
+    "from": "2.34.4",
+    "name": "spokenly",
+    "to": "2.34.5"
+   },
+   {
+    "from": "2026.238",
+    "name": "sqlpro-studio",
+    "to": "2026.301.3"
+   },
+   {
+    "from": "0.1.7-nightly.20261101.4016",
+    "name": "t3-code@nightly",
+    "to": "0.1.7-nightly.20261101.4035"
+   },
+   {
+    "from": "3.3.2",
+    "name": "timemator",
+    "to": "3.4.0"
+   },
+   {
+    "from": "1.81.0",
+    "name": "wizcli",
+    "to": "1.82.0"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [
+   "hoppr"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.41.0",
+    "name": "agent-browser",
+    "to": "0.41.1"
+   },
+   {
+    "from": "1.61.0",
+    "name": "broot",
+    "to": "1.62.0"
+   },
+   {
+    "from": "1.6.7",
+    "name": "bump-my-version",
+    "to": "1.7.0"
+   },
+   {
+    "from": "1.8.1",
+    "name": "carapace",
+    "to": "1.8.2"
+   },
+   {
+    "from": "1.4.4_1",
+    "name": "ccmux",
+    "to": "1.4.5"
+   },
+   {
+    "from": "2.73.3",
+    "name": "chezmoi",
+    "to": "2.74.0"
+   },
+   {
+    "from": "11.6.0",
+    "name": "croc",
+    "to": "11.6.1"
+   },
+   {
+    "from": "1.47.1",
+    "name": "djlint",
+    "to": "1.48.0"
+   },
+   {
+    "from": "2.6.1",
+    "name": "fluid-synth",
+    "to": "2.6.2"
+   },
+   {
+    "from": "2.13.0_2",
+    "name": "gcli",
+    "to": "2.14.0"
+   },
+   {
+    "from": "2.8.5",
+    "name": "imapfilter",
+    "to": "2.8.6"
+   },
+   {
+    "from": "0.3.1",
+    "name": "lovable-oj",
+    "to": "0.4.0"
+   },
+   {
+    "from": "9.2.0321",
+    "name": "macvim",
+    "to": "9.2.1252"
+   },
+   {
+    "from": "0.8.13",
+    "name": "meli",
+    "to": "0.9.0"
+   },
+   {
+    "from": "3.0.3",
+    "name": "mistral-vibe",
+    "to": "3.0.4"
+   },
+   {
+    "from": "1.13.2",
+    "name": "opentofu",
+    "to": "1.13.5"
+   },
+   {
+    "from": "0.1.22",
+    "name": "playwright-cli",
+    "to": "0.1.23"
+   },
+   {
+    "from": "0.0.83",
+    "name": "playwright-mcp",
+    "to": "0.0.84"
+   },
+   {
+    "from": "2.4.2",
+    "name": "qmmp",
+    "to": "2.4.3"
+   },
+   {
+    "from": "3.16.20",
+    "name": "readsb",
+    "to": "3.16.21"
+   },
+   {
+    "from": "0.9.64",
+    "name": "schema-evolution-manager",
+    "to": "0.9.65"
+   },
+   {
+    "from": "2.25.1",
+    "name": "ssocr",
+    "to": "2.26.0"
+   },
+   {
+    "from": "2.4.8",
+    "name": "steampipe",
+    "to": "2.4.9"
+   },
+   {
+    "from": "5.8.5",
+    "name": "todoist-cli",
+    "to": "5.9.0"
+   },
+   {
+    "from": "3.0.0",
+    "name": "wails",
+    "to": "3.1.0"
+   },
+   {
+    "from": "0.4.58",
+    "name": "zot",
+    "to": "0.4.61"
+   },
+   {
+    "from": "65.16",
+    "name": "zpaqfranz",
+    "to": "65.17"
+   }
+  ]
+ }
+}

@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-01T20:33:36Z
+
+- **Registered 1 formulae**: `hoppr`
+- Updated 27 formulae: `agent-browser` 0.41.0 → 0.41.1, `broot` 1.61.0 → 1.62.0, `bump-my-version` 1.6.7 → 1.7.0, `carapace` 1.8.1 → 1.8.2, `ccmux` 1.4.4_1 → 1.4.5, `chezmoi` 2.73.3 → 2.74.0, `croc` 11.6.0 → 11.6.1, `djlint` 1.47.1 → 1.48.0, `fluid-synth` 2.6.1 → 2.6.2, `gcli` 2.13.0_2 → 2.14.0, `imapfilter` 2.8.5 → 2.8.6, `lovable-oj` 0.3.1 → 0.4.0, `macvim` 9.2.0321 → 9.2.1252, `meli` 0.8.13 → 0.9.0, `mistral-vibe` 3.0.3 → 3.0.4, `opentofu` 1.13.2 → 1.13.5, `playwright-cli` 0.1.22 → 0.1.23, `playwright-mcp` 0.0.83 → 0.0.84, `qmmp` 2.4.2 → 2.4.3, `readsb` 3.16.20 → 3.16.21, `schema-evolution-manager` 0.9.64 → 0.9.65, `ssocr` 2.25.1 → 2.26.0, `steampipe` 2.4.8 → 2.4.9, `todoist-cli` 5.8.5 → 5.9.0, `wails` 3.0.0 → 3.1.0 …
+- Updated 26 casks: `artcraft-launcher` 0.12.0 → 0.13.0, `backdrop` 2.10.4,145 → 2.10.5,146, `bluebubbles` 1.9.9 → 1.9.12, `capsomnia` 4.3.1 → 4.3.2, `cc-switch` 4.0.23 → 4.0.24, `clop` 3.6.5 → 3.6.6, `codebuddy` 4.12.1.39217423,757a5b2f → 4.12.2.41207131,425ab70e, `dockflow` 1.88 → 1.91, `fmail3` 3.0.2 → 3.0.3, `hol-guard` 3.0.146 → 3.0.147, `kiro-cli` 2.37.0 → 2.37.1, `mac-performance-monitor` 2.5.0.297 → 2.6.0.306, `magpie` 0.1.2600 → 0.1.2625, `marked-app` 3.2.26,1245 → 3.2.27,1246, `morgen` 4.1.0,261028bqj5kkau3 → 4.1.2,2611018532ncsjy, `musicbrainz-picard` 3.0.3,13.0 → 3.0.4,13.0, `portfolioperformance` 0.89.0 → 0.90.0, `prisma-access-browser` 156.17.8.74,f560cf99 → 156.17.9.80,6289ec17, `rcmd` 3.7.4 → 3.8.0, `remnote` 1.29.1 → 1.29.5, `saega` 1.3.3 → 1.3.4, `spokenly` 2.34.4 → 2.34.5, `sqlpro-studio` 2026.238 → 2026.301.3, `t3-code@nightly` 0.1.7-nightly.20261101.4016 → 0.1.7-nightly.20261101.4035, `timemator` 3.3.2 → 3.4.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-01T15:15:31Z
 
 - **Registered 4 formulae**: `arm-optimized-routines`, `cx`, `svt-jpegxs`, `toit`
