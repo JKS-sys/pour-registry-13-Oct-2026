@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-02T18:29:08Z
+
+- **Registered 2 formulae**: `beszel-agent`, `gridcraft-cli`
+- Updated 75 formulae: `aqua` 2.65.2 → 2.66.0, `ast-grep` 0.51.0 → 0.51.1, `badkeys` 0.0.21 → 0.0.22, `beagle` 4.0.1 → 4.2.0, `beakerlib` 1.33.3 → 1.33.4, `bump-my-version` 1.7.0 → 1.8.0, `cargo-dist` 0.33.1 → 0.34.0, `cargo-flamegraph` 0.6.14 → 0.6.15, `cargo-hack` 0.6.45 → 0.6.46, `chainloop-cli` 1.129.1 → 1.130.0, `clamav` 1.5.4_1 → 1.5.4_2, `cliproxyapi` 8.0.50 → 8.0.51, `cloudquery` 6.49.2 → 6.50.0, `croc` 11.6.2 → 11.6.3, `cve-bin-tool` 3.4_5 → 3.4_6, `cycode` 3.26.0 → 3.27.0, `dagu` 2.25.0 → 2.25.1, `dbx-cli` 0.4.136 → 0.4.137, `diskwatch` 0.7.0 → 0.7.1, `djlint` 1.48.1 → 1.49.1, `docker-agent` 1.154.0 → 1.155.0, `fern-api` 5.190.0 → 5.191.0, `filebeat` 9.5.5 → 9.5.6, `freerdp` 3.32.2_1 → 3.33.0, `glab` 1.126.0 → 1.127.0 …
+- **Registered 1 casks**: `vocevista-basic`
+- **De-registered 1 casks**: `overtone-analyzer`
+- Updated 150 casks: `affinity` 3.3.1,4940 → 3.3.3,5004, `airbuild` 1.4.8 → 1.4.21, `akuity` 0.34.0-rl.1.0.20261029155352-f3875d3566da → 0.34.0-rl.1.0.20261102075306-7c3f1c73b872, `amp-app` 1.0,1040 → 1.0,1060, `anka-virtualization` 3.9.3.219 → 3.10.0.223, `anydrag` 26.10.121 → 26.11.122, `audacity` 4.0.1 → 4.0.2, `banking-4` 9.3.7,9795 → 9.3.8,9802, `bettercmdtab@beta` 26.8-beta.9,20261027130040 → 26.8-beta.10,20261102111014, `bettermacwidgets` 2.10.1 → 2.11.0, `bettertouchtool@alpha` 6.993,2026110101 → 6.995,2026110201, `bitfocus-buttons` 1.6.9,5647,8ab35c7c → 1.8.10,7301,16376c94, `boltai` 2.18.3 → 2.18.4, `brave-browser@beta` 1.99.53.0 → 1.100.44.0,200.44, `brave-browser@nightly` 1.100.36.0 → 1.101.8.0,201.8, `brave-origin@beta` 1.99.44.0 → 1.100.44.0,200.44, `brave-origin@nightly` 1.100.41.0 → 1.101.8.0,201.8, `cc-pocket` 1.150.2,285 → 1.154.0,289, `cc-switch` 4.0.24 → 4.0.25, `channel-works` 12.2.0 → 12.2.4, `clash-verge-rev` 2.5.8 → 2.5.9, `clearvpn` 3.4.6,202610.17.0457,1792213554 → 3.5.0,202610.30.1622,1793377924, `clementine` 1.4.3 → 1.4.4, `clipbook` 2.5.0 → 2.5.1, `codebuddy-cn` 4.12.2.41207131,425ab70e → 4.12.3.42658816,8e9c06cb …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-02T06:18:20Z
 
 - **De-registered 1 formulae**: `condure`
