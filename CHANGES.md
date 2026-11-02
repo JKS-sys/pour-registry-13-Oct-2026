@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-02T06:18:20Z
+
+- **De-registered 1 formulae**: `condure`
+- Updated 56 formulae: `afflib` 3.7.22_2 → 3.7.23, `agent-manager` 0.46.0 → 0.47.0, `amy` 1.20.0 → 1.21.0, `ansilove` 4.2.2 → 4.2.3, `apko` 1.4.14 → 1.4.15, `archi-steam-farm` 6.3.10.6 → 6.3.11.7, `autobrr` 1.89.0 → 1.90.0, `aws-sdk-cpp` 1.11.915_2 → 1.11.921, `aws-vault` 7.17.3 → 7.17.5, `bazel-diff` 70.0.0 → 70.0.1, `bear` 4.2.3 → 4.2.4, `breezy` 3.3.21_4 → 3.3.24, `cabin` 0.17.0 → 0.18.0, `ccusage` 20.0.46 → 20.0.47, `croc` 11.6.1 → 11.6.2, `deepline` 0.3.440 → 0.3.453, `deja-vu` 0.23.3 → 0.23.4, `depot` 2.103.5 → 2.103.6, `diffle` 0.3.5 → 0.3.6, `djlint` 1.48.0 → 1.48.1, `dnscontrol` 5.7.1 → 5.7.2, `doltlite` 0.51.5 → 0.51.6, `dust` 1.2.6 → 1.2.7, `f3d` 4.0.0 → 4.0.1, `fabric-ai` 1.4.557 → 1.4.562 …
+- **Registered 2 casks**: `bambu-studio@beta`, `codeburn-app`
+- **De-registered 19 casks**: `backlog`, `cornercal`, `dropbox-passwords`, `elektron-transfer`, `foldingtext`, `font-brill`, `fstream`, `get-lyrical`, `height`, `jdiskreport`, `livetail`, `pixel-check`, `remotix-agent`, `scala-ide`, `texts`, `themeengine`, `udig`, `ultimate-control`, `vu`
+- Updated 72 casks: `actual` 26.10.0 → 26.11.0, `alma` 0.4.332 → 0.4.376, `amethyst-nostr` 1.20.0 → 1.21.0, `amp-app` 1.0,1030 → 1.0,1040, `bettertouchtool@alpha` 6.991,2026103101 → 6.993,2026110101, `blender@lts` 5.2.2 → 5.2.3, `cadcraft` 0.15.1 → 0.16.0, `chatgpt` 26.1027.51404 → 26.1027.61615, `cog-app` 3857,32df6f718 → 3868,3c1af1936, `copilot-language-server` 1.565.1 → 1.565.2, `db-browser-for-sqlcipher@nightly` 20261030 → 20261102, `db-browser-for-sqlite@nightly` 20261030 → 20261102, `dbeaver-community` 26.2.3 → 26.2.4, `deckcraft` 0.13.1 → 0.14.1, `designcraft` 0.15.2 → 0.16.0, `dolphin@dev` 2609-158,92,6d → 2609-162,4e,7d, `doubao` 2.33.5 → 2.34.6, `effectcraft` 0.19.0 → 0.20.0, `emailchemy` 15.0 → 15.1, `figcraft` 0.13.1 → 0.14.0, `filmcraft` 0.15.0 → 0.16.0, `firefox@nightly` 161.0a1,2026-11-01-08-59-33 → 161.0a1,2026-11-01-21-32-37, `fsnotes` 7.4.0 → 7.5.0, `gephi` 0.11.3 → 0.11.4, `ghostty@tip` 18535,83b57ac5ead868e133adb509f7ef0a4ffa3ffe01 → 18548,a7e8e4d15bd0f12ad2a1123bf157b338e526c23e …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-01T20:33:36Z
 
 - **Registered 1 formulae**: `hoppr`
