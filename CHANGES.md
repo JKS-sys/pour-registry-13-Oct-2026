@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-03T19:32:49Z
+
+- Updated 81 formulae: `act` 0.2.95 → 0.2.96, `apache-arrow` 26.0.0_3 → 26.0.1, `apache-arrow-glib` 26.0.0 → 26.0.1, `asc` 6.3.0 → 6.4.0, `babel` 8.0.6 → 8.1.0, `bazel-diff` 71.0.0 → 72.0.0, `buildkit` 0.34.1 → 0.34.2, `buildkitd` 0.34.1 → 0.34.2, `cdxgen` 12.9.0 → 13.6.0, `cliproxyapi` 8.0.51 → 8.0.53, `cloudflare-speed-cli` 1.0.11 → 1.0.12, `cloudflare-wrangler` 4.156.1 → 4.156.2, `clusterctl` 1.14.3 → 1.14.4, `confluence-markdown-exporter` 5.5.2 → 5.6.0, `cx` 0.1.28 → 0.1.29, `depot` 2.103.6 → 2.103.7, `django-completion` 6.1.2 → 6.1.3, `docker-buildx` 0.38.1 → 0.38.2, `enzyme` 0.0.303 → 0.0.304, `fanficfare` 4.62.0_1 → 4.63.0, `fern-api` 5.191.0 → 5.193.2, `ghq` 1.11.2 → 1.12.0, `ghr` 0.18.5 → 0.18.6, `git-pages-cli` 1.13.0 → 1.13.1, `git-pkgs-proxy` 0.10.0 → 0.11.0 …
+- Updated 87 casks: `1password` 8.12.42 → 8.12.44, `a-better-finder-attributes` 7.54 → 7.55, `adguard` 2.20.2.2629 → 2.20.3.2633, `adguard@nightly` 2.21.0.2632 → 2.21.0.2635, `adobe-acrobat-pro` 26.002.22031 → 26.003.22075, `anytype` 0.57.4 → 0.57.7, `anytype@alpha` 0.57.4 → 0.57.7, `anytype@beta` 0.57.4 → 0.57.7, `aptakube` 1.22.1 → 1.22.2, `arcbox` 1.38.5 → 1.39.0, `bbedit` 16.0.3 → 16.1, `beatunes` 6.0.2 → 6.0.3, `bettertouchtool` 6.992,2026103102 → 6.996,2026110302, `bettertouchtool@alpha` 6.995,2026110201 → 6.996,2026110302, `clash-verge-rev` 2.5.9 → 2.5.10, `coderunner` 4.5 → 4.6, `copilot-money` 6.7.0,336-0bbb0dcd → 6.8.1,339-ef755f73, `creality-print` 7.3.0.6157 → 7.3.1.6378, `crest` 6.6.8 → 6.6.9, `dayflow` 2.7.5 → 2.8.0, `digiexam` 26.3.17 → 26.4.2, `diversion` 1.6.953 → 1.6.974, `dockdoor-pro` 1.7.4 → 1.7.5, `docker-desktop` 4.97.0,244584 → 4.98.0,245422, `egnyte` 1.20.1,2383 → 1.22.0,2405 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-03T11:59:36Z
 
 - **Registered 6 formulae**: `agent-desktop`, `designcraft-cli`, `libgovirt`, `lightcraft-cli`, `vectorcraft-cli`, `wordcraft-cli`
