@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-03T02:24:10Z
+
+- Updated 72 formulae: `air` 0.12.0 → 0.13.0, `aube` 2.8.5 → 2.9.0, `auditbeat` 9.5.5 → 9.5.6, `aws-c-auth` 1.0.2 → 1.0.3, `bazel-diff` 70.0.1 → 70.0.2, `bitrise` 3.3.0 → 3.4.0, `bump-my-version` 1.8.0 → 1.8.1, `ccusage` 20.0.47 → 20.0.48, `djlint` 1.49.1 → 1.49.2, `docker-agent` 1.155.0 → 1.156.1, `docker-compose` 5.6.1 → 5.7.0, `dua-cli` 2.46.0 → 3.0.0, `dysk` 3.8.1 → 3.8.2, `elio` 1.14.0 → 1.15.0, `expat` 2.9.0 → 2.10.0, `fabric-ai` 1.4.562 → 1.4.563, `flexget` 3.22.9 → 3.22.10, `flowrs` 0.16.2 → 0.16.3, `flyctl` 0.5.1 → 0.5.2, `gitea-cli` 0.2.0 → 1.0.0, `gitea-runner` 5.2.4 → 5.3.0, `grokj2k` 20.4.24 → 20.4.25, `grype` 0.121.0 → 0.121.1, `imgproxy` 4.0.20 → 4.0.21, `infisical` 0.44.11 → 0.44.12 …
+- **De-registered 3 casks**: `apptrap`, `gmvault`, `valentina-studio`
+- Updated 88 casks: `aerial` 4.1.9 → 4.1.10, `aerial@beta` 4.1.9 → 4.1.10, `amp-app` 1.0,1060 → 1.0,1070, `appflowy` 0.14.11 → 0.15.0, `artcraft-launcher` 0.13.0 → 0.14.0, `bitwarden` 2026.10.2 → 2026.10.3, `brave-origin@nightly` 1.101.8.0,201.8 → 1.101.15.0,201.15, `cadran` 2.0.1 → 2.0.2, `charmstone` 1.44 → 1.45, `clarify` 1.7.20 → 1.7.21, `codeql` 2.27.3 → 2.27.4, `confluent-cli` 4.81.0 → 4.82.0, `copilot-cli@prerelease` 1.0.106-2 → 1.0.106-4, `copilot-language-server` 1.565.2 → 1.565.3, `cork` 2.1.1 → 2.1.2, `dbvisualizer` 26.2.4 → 26.2.5, `deckcraft` 0.14.1 → 0.15.0, `diri` 0.11.0 → 0.11.1, `discord` 0.0.420 → 0.0.421, `djstudio@next` 5.0.8-beta.3 → 5.0.9-beta.0, `dockdoor` 1.41.0 → 1.42.2, `dockdoor-pro` 1.7.3 → 1.7.4, `dolphin@dev` 2609-166,e3,5a → 2609-170,82,47, `donut` 0.35.5 → 0.36.0, `dot` 2.4.2 → 2.4.3 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-02T18:29:08Z
 
 - **Registered 2 formulae**: `beszel-agent`, `gridcraft-cli`
