@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-03T11:59:36Z
+
+- **Registered 6 formulae**: `agent-desktop`, `designcraft-cli`, `libgovirt`, `lightcraft-cli`, `vectorcraft-cli`, `wordcraft-cli`
+- Updated 73 formulae: `act` 0.2.94 → 0.2.95, `agent-manager` 0.47.0 → 0.47.1, `apr-util` 1.6.5_1 → 1.6.6, `argocd` 3.5.6 → 3.5.7, `aws-c-s3` 1.5.1 → 1.5.2, `awscurl` 0.44_10 → 0.45, `balena-cli` 25.2.7 → 25.2.9, `bazel-diff` 70.0.2 → 71.0.0, `beads_viewer` 0.25.2 → 0.26.0, `bitrise` 3.4.0 → 3.4.1, `byobu` 7.23 → 7.23_1, `cargo-nextest` 0.9.150 → 0.9.151, `chainloop-cli` 1.130.0 → 1.130.1, `cloudflare-wrangler` 4.156.0 → 4.156.1, `confluence-markdown-exporter` 5.5.0 → 5.5.2, `cpuid` 2.4.1 → 2.4.2, `cython` 3.3.0_1 → 3.3.1, `dagu` 2.25.1 → 2.25.2, `dbml-cli` 11.0.0 → 11.0.1, `dbx-cli` 0.4.137 → 0.4.138, `deepline` 0.3.453 → 0.3.461, `deja-vu` 0.23.4 → 0.23.5, `dnsrobocert` 3.27.1_2 → 3.28.0, `docker-agent` 1.156.1 → 1.156.2, `fastmcp` 4.1.4 → 4.1.5 …
+- **Registered 1 casks**: `audioroute`
+- Updated 96 casks: `adrafinil` 1.14.0 → 1.14.1, `amp-app` 1.0,1070 → 1.0,1080, `azure-cli` 2.91.0 → 2.92.0, `blitz-gg` 3.0.17 → 3.0.18, `bramble` 0.14.0 → 0.15.0, `brave-browser@nightly` 1.101.8.0,201.8 → 1.101.16.0,201.16, `cadcraft` 0.16.0 → 0.17.0, `cc-pocket` 1.154.0,289 → 1.155.1,291, `claude-code` 2.1.309 → 2.1.311, `claude-code@latest` 2.1.316 → 2.1.317, `claudebar` 0.5.24 → 0.5.25, `cocktail` 20.2.2 → 20.2.3, `copilot-cli@prerelease` 1.0.106-4 → 1.0.106-6, `core-tunnel` 5.2,4951 → 5.2.1,4957, `cursor` 3.27.22,b1aa50cb6db84fd3e8c808259cb172ea73425c1f → 3.28.7,25b52e7d03ebf2d5608914158e119f7992432a34, `dbx` 0.6.64 → 0.6.65, `designcraft` 0.16.0 → 0.17.0, `deutschlandgpt` 0.16.2 → 0.16.3, `discord@canary` 0.0.1428 → 0.0.1461, `discord@development` 1.0.1027 → 1.0.1032, `diversion` 1.6.917 → 1.6.953, `dolphin@dev` 2609-170,82,47 → 2609-173,59,49, `droid` 1.1.0 → 1.2.0, `effectcraft` 0.20.0 → 0.21.0, `element@nightly` 2026110201 → 2026110301 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-03T02:24:10Z
 
 - Updated 72 formulae: `air` 0.12.0 → 0.13.0, `aube` 2.8.5 → 2.9.0, `auditbeat` 9.5.5 → 9.5.6, `aws-c-auth` 1.0.2 → 1.0.3, `bazel-diff` 70.0.1 → 70.0.2, `bitrise` 3.3.0 → 3.4.0, `bump-my-version` 1.8.0 → 1.8.1, `ccusage` 20.0.47 → 20.0.48, `djlint` 1.49.1 → 1.49.2, `docker-agent` 1.155.0 → 1.156.1, `docker-compose` 5.6.1 → 5.7.0, `dua-cli` 2.46.0 → 3.0.0, `dysk` 3.8.1 → 3.8.2, `elio` 1.14.0 → 1.15.0, `expat` 2.9.0 → 2.10.0, `fabric-ai` 1.4.562 → 1.4.563, `flexget` 3.22.9 → 3.22.10, `flowrs` 0.16.2 → 0.16.3, `flyctl` 0.5.1 → 0.5.2, `gitea-cli` 0.2.0 → 1.0.0, `gitea-runner` 5.2.4 → 5.3.0, `grokj2k` 20.4.24 → 20.4.25, `grype` 0.121.0 → 0.121.1, `imgproxy` 4.0.20 → 4.0.21, `infisical` 0.44.11 → 0.44.12 …
