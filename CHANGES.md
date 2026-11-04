@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-04T12:14:12Z
+
+- **Registered 2 formulae**: `nelm@1`, `netbird`
+- Updated 78 formulae: `agent-browser` 0.41.1 → 0.41.2, `arcane-cli` 2.17.2 → 2.17.3, `asc` 6.4.0 → 6.4.1, `ascelerate` 0.28.2 → 0.29.0, `atuin` 18.24.4 → 18.24.5, `atuin-server` 18.24.4 → 18.24.5, `aws-c-io` 1.1.1 → 1.1.2, `bazel-diff` 73.0.0 → 74.0.1, `beads` 1.3.2_1 → 1.3.3, `caddy` 2.11.7 → 2.11.8, `cdk8s` 2.207.75 → 2.207.76, `coder` 2.37.9 → 2.38.6, `conda-lock` 4.0.4 → 4.0.5, `container2wasm` 0.8.4 → 0.8.5, `contentful-cli` 4.0.13 → 4.0.14, `context7-mcp` 4.4.4 → 4.5.0, `ctx7` 0.8.2 → 0.9.0, `datalad` 1.7.3 → 1.8.0, `dblab` 0.54.0 → 0.55.0, `depot` 2.103.7 → 2.103.8, `djlint` 1.49.2 → 1.49.4, `docker` 29.9.2 → 29.9.3, `docker-completion` 29.9.2 → 29.9.3, `docker-engine` 29.9.2 → 29.9.3, `dtop` 0.10.5 → 0.10.6 …
+- **Registered 6 casks**: `beat-link-trigger`, `meta-vr-developer-hub`, `openscreen`, `sanductor`, `screendrop`, `spotify-soloist`
+- **De-registered 5 casks**: `agentide`, `bossa-app`, `iridium`, `meta-quest-developer-hub`, `townwifi`
+- Updated 102 casks: `1password-cli@beta` 2.43.0-beta.02 → 2.44.0-beta.01, `agentiloop-agent` 1.1.95.295 → 1.1.97.297, `airbuild` 1.4.21 → 1.5.7, `akuity` 0.34.0-rl.1.0.20261102075306-7c3f1c73b872 → 0.34.0-rl.1.0.20261104063903-9912fb864628, `amneziavpn` 5.0.3.0 → 5.1.0.6, `amp-app` 1.0,1090 → 1.0,1100, `antigravity` 2.28.2,5937220255875072 → 2.29.0,5723181030440960, `antigravity-cli` 1.4.12,4768735748292608 → 1.5.0,5269980577660928, `backblaze-restore` 10.0.3.1076 → 10.0.4.1082, `bettertouchtool` 6.998,2026110309 → 6.999,2026110310, `bettertouchtool@alpha` 6.998,2026110309 → 6.1101,2026110401, `biscuit` 2.2.3 → 2.2.4, `busycal` 2026.4.4,2026-10-26-10-21-25 → 2026.4.5,2026-11-03-22-43-56, `camtasia` 2026.2.4 → 2026.2.5, `chatbox` 1.23.5 → 1.24.0, `chrome-remote-desktop-host` 155.0.8059.19 → 157.0.8103.38, `claude-code@latest` 2.1.317 → 2.1.318, `clop` 3.6.6 → 3.6.7, `copilot-cli@prerelease` 1.0.106-6 → 1.0.106-8, `copilot-language-server` 1.565.3 → 1.566.0, `crest` 6.6.10 → 6.6.11, `discord@canary` 0.0.1461 → 0.0.1472, `diversion` 1.6.974 → 1.6.988, `dockdoor-pro` 1.7.5 → 1.7.6, `droid` 1.2.0 → 1.3.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-04T00:39:13Z
 
 - Updated 51 formulae: `anyzig` 2026.10.23 → 2026.11.03, `argocd` 3.5.7 → 3.6.0, `astyle` 3.6.20 → 3.6.21, `aws-nuke` 3.68.3 → 3.69.0, `bazel-diff` 72.0.0 → 73.0.0, `checkov` 3.4.0 → 3.4.3, `claude-code-templates` 1.30.0 → 1.31.0, `clingo` 5.8.2 → 5.8.3, `closure-compiler` 20261028 → 20261102, `convox` 3.25.13 → 3.25.14, `cookcli` 0.39.0 → 0.40.0, `cubejs-cli` 1.8.16 → 1.8.17, `doltlite` 0.51.6 → 0.51.7, `fallow` 3.38.1 → 3.39.0, `flyctl` 0.5.2 → 0.5.3, `fnox` 1.46.0 → 1.47.0, `gosu` 1.18.13 → 1.18.14, `hk` 2.11.0 → 2.11.1, `hypre` 3.2.0 → 3.2.1, `infisical` 0.44.13 → 0.44.14, `letta-code` 0.34.38 → 0.34.39, `libclc` 23.1.4_1 → 23.1.5, `lume` 0.6.1 → 0.20.0, `mapproxy` 7.0.0_1 → 8.0.0, `minify` 2.24.24 → 2.24.25 …
