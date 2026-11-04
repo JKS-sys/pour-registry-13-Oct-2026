@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-04T19:52:56Z
+
+- **Registered 1 formulae**: `godu`
+- Updated 79 formulae: `act` 0.2.96 → 0.2.97, `apt` 3.3.5 → 3.3.6, `argocd` 3.6.0 → 3.6.1, `astgen` 3.51.0_1 → 3.53.0, `bazel-diff` 74.0.1 → 74.0.2, `beads` 1.3.3 → 1.3.4, `c-blosc2` 3.4.1 → 3.5.0, `cargo-zigbuild` 0.24.0 → 0.24.1, `chronograf` 1.11.6 → 1.11.7, `cloudflare-wrangler` 4.156.2 → 4.157.0, `code-cli` 1.144.0 → 1.145.0, `cubejs-cli` 1.8.17 → 1.8.18, `cx` 0.1.29 → 0.1.31, `dagu` 2.25.2 → 2.25.4, `delly` 2.7.0 → 2.8.1, `directx-headers` 1.619.5 → 1.620.1, `djlint` 1.49.4 → 1.49.7, `dlpack` 1.3 → 1.4, `dtop` 0.10.6 → 0.11.0, `esphome` 2026.10.1 → 2026.10.2, `fd` 10.5.0 → 10.5.1, `findent` 4.4.2 → 4.4.3, `flang` 23.1.4 → 23.1.5, `ggml` 0.28.0 → 0.29.0, `gnhf` 0.1.51 → 0.1.52 …
+- Updated 108 casks: `010-editor` 17.0 → 17.0.1, `amadeus-pro` 3.0.3 → 3.0.4, `anki` 26.09.3 → 26.09.4, `aptakube` 1.22.2 → 1.22.3, `banktivity` 10.2.1,438 → 10.2.2,440, `bitmuse` 1.6.1 → 1.6.2, `bloom` 1.5.47 → 1.5.48, `boltai` 2.18.4 → 2.18.5, `brave-browser@beta` 1.100.44.0,200.44 → 1.100.48.0,200.48, `brave-origin@beta` 1.100.44.0,200.44 → 1.100.48.0,200.48, `brave-origin@nightly` 1.101.18.0,201.18 → 1.101.23.0,201.23, `busycal` 2026.4.5,2026-11-03-22-43-56 → 2026.4.5,2026-11-04-15-05-12, `cadran` 2.0.2 → 2.0.3, `companion` 5.1.1,10000,1e2454ae78 → 5.1.2,10019,98d5d4e1a1, `conductor` 0.92.1,01M6HGWNW93NVZ31ZCM6ZT38VA → 0.93.0,01M6KR44F2MT1786PCBKYWBN4Y, `copilot-cli@prerelease` 1.0.106-8 → 1.0.106-9, `datadog-agent` 7.85.0-1 → 7.85.1-1, `deeper` 3.4.0 → 3.4.1, `deepseek-harness` 0.2.1-rc.5 → 0.2.2-rc.1, `diri` 0.11.1 → 0.11.2, `discord@canary` 0.0.1472 → 0.0.1475, `djstudio@next` 5.0.9-beta.0 → 5.0.9-beta.1, `downie` 4.13.3,5273 → 4.13.4,5284, `dropbox@beta` 278.3.3901 → 279.3.5697, `ecamm-live` 4.6 → 4.6.1 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-04T12:14:12Z
 
 - **Registered 2 formulae**: `nelm@1`, `netbird`
