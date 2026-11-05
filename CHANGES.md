@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-05T12:27:41Z
+
+- **Registered 2 formulae**: `percona-xtrabackup@8.4`, `sbom-tools`
+- **De-registered 1 formulae**: `libprelude`
+- Updated 127 formulae: `agent-desktop` 1.1.0 → 1.2.0, `ai-cli` 0.8.0 → 0.9.0, `aklomp-base64` 0.5.2 → 0.5.3, `apko` 1.4.15 → 1.4.16, `aqua` 2.66.0 → 2.66.1, `arcadedb` 26.10.2 → 26.11.1, `ascelerate` 0.29.0 → 0.31.0, `aspectj` 1.9.26 → 1.9.27, `asyncapi` 6.2.2 → 6.2.3, `aws-c-auth` 1.0.3 → 1.0.3_1, `aws-c-http` 1.1.1 → 1.2.0, `aws-c-mqtt` 1.1.2 → 1.1.2_1, `aws-c-s3` 1.5.2 → 1.5.2_1, `aws-crt-cpp` 0.44.3 → 0.44.3_1, `aws-sam-cli` 1.171.0 → 1.171.0_1, `aws-sdk-cpp` 1.11.921 → 1.11.921_1, `awscli` 2.39.3 → 2.39.4_1, `awscurl` 0.45 → 0.45_1, `backplane-cli` 1.0.0 → 1.1.0, `baresip` 4.12.0 → 4.13.0, `batt` 0.8.0 → 0.9.0, `betterleaks` 1.9.0 → 1.10.0, `biome` 2.6.4 → 2.6.5, `botan` 3.13.0 → 3.14.0, `bpftop` 0.9.0 → 0.9.1 …
+- **Registered 4 casks**: `emeetlink`, `expose`, `freellmapi`, `tinycast`
+- Updated 126 casks: `amp-app` 1.0,1100 → 1.0,1110, `android-platform-tools` 37.0.1 → 37.0.2, `antigravity-cli` 1.5.0,5269980577660928 → 1.5.1,4523430503120896, `anydrag` 26.11.122 → 26.11.124, `aptible` 1.0.5 → 1.0.7, `argo-books` 2.0.22 → 2.0.23, `artcraft-launcher` 0.14.0 → 0.14.1, `bambu-studio@beta` 02.08.04.61,20260929132640,02.08.04.57 → 02.09.01.70,20261103183404, `beeper` 4.3.276 → 4.3.284, `bettertouchtool` 6.1103,2026110404 → 6.1104,2026110405, `biscuit` 2.2.4 → 2.2.5, `brave-browser@nightly` 1.101.23.0,201.23 → 1.101.25.0,201.25, `brave-origin@nightly` 1.101.23.0,201.23 → 1.101.25.0,201.25, `cadcraft` 0.17.0 → 0.17.1, `capcut` 9.5.0.4590 → 9.7.0.4727, `cc-pocket` 1.155.1,291 → 1.155.2,292, `chatbox` 1.24.0 → 1.24.1, `clipbook` 2.5.1 → 2.5.2, `cog-app` 3868,3c1af1936 → 3876,358b5dd76, `cursor` 3.28.7,25b52e7d03ebf2d5608914158e119f7992432a34 → 3.29.9,306d153d51d714882ab7b1bc49649cab624e8a31, `cursor-cli` 2026.10.22-27dcf5f → 2026.11.05-86047df, `dbx` 0.6.65 → 0.6.66, `deckcraft` 0.15.0 → 0.15.1, `designcraft` 0.17.1 → 0.17.2, `discord@canary` 0.0.1475 → 0.0.1488 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-05T00:55:54Z
 
 - Updated 32 formulae: `bkmr` 7.8.0 → 7.9.1, `cliproxyapi` 8.0.53 → 8.0.55, `docmd` 0.9.8 → 0.9.9, `eas-cli` 27.3.0 → 27.4.0, `echidna` 2.3.3_1 → 2.4.0, `fern-api` 5.193.2 → 5.195.0, `frpc` 0.71.1 → 0.72.0, `frps` 0.71.1 → 0.72.0, `jj` 0.46.0 → 0.47.0, `kagent` 0.10.4 → 0.10.5, `lacework-cli` 2.23.1 → 2.23.2, `lovable-oj` 0.4.0 → 0.4.1, `lz4` 1.10.0 → 1.11.0, `mapproxy` 8.0.0 → 8.0.1, `mise` 2026.11.0 → 2026.11.1, `mx` 7.88.1 → 7.88.2, `n8n-mcp` 2.100.0 → 2.101.0, `neonctl` 8.17.1 → 8.18.0, `nss` 3.132 → 3.133, `openjdk@8` 1.8.0-504 → 1.8.0-512, `osdctl` 0.66.0 → 0.67.0, `percona-server` 9.7.1-1_3 → 9.7.2-2, `rattler-index` 0.34.5 → 0.34.6, `rolesanywhere-credential-helper` 1.8.5 → 1.8.6, `roxctl` 4.11.7 → 5.0.0 …
