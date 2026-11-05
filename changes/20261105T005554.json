@@ -1,0 +1,584 @@
+{
+ "synced_at": "2026-11-05T00:55:54Z",
+ "casks": {
+  "added": [
+   "fore-studio-vitals",
+   "obelisk",
+   "oleafly"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "2.41.1",
+    "name": "1password-cli",
+    "to": "2.42.0"
+   },
+   {
+    "from": "8.12.44-25.BETA",
+    "name": "1password@beta",
+    "to": "8.12.46-26.BETA"
+   },
+   {
+    "from": "0.14.1",
+    "name": "airi",
+    "to": "0.15.1"
+   },
+   {
+    "from": "0.4.376",
+    "name": "alma",
+    "to": "0.4.446"
+   },
+   {
+    "from": "4.2.0",
+    "name": "artisan",
+    "to": "5.0.0"
+   },
+   {
+    "from": "6.999,2026110310",
+    "name": "bettertouchtool",
+    "to": "6.1103,2026110404"
+   },
+   {
+    "from": "1.101.18.0,201.18",
+    "name": "brave-browser@nightly",
+    "to": "1.101.23.0,201.23"
+   },
+   {
+    "from": "26.1029.61003",
+    "name": "chatgpt",
+    "to": "26.1029.70936"
+   },
+   {
+    "from": "0.15.6",
+    "name": "craft-agents",
+    "to": "0.15.8"
+   },
+   {
+    "from": "0.17.0",
+    "name": "designcraft",
+    "to": "0.17.1"
+   },
+   {
+    "from": "2609-173,59,49",
+    "name": "dolphin@dev",
+    "to": "2609-180,29,33"
+   },
+   {
+    "from": "32.6.1",
+    "name": "drawio",
+    "to": "32.6.10"
+   },
+   {
+    "from": "5.1.0,c420dd2bb4faafb2,2acfe893c4",
+    "name": "engine-dj",
+    "to": "5.3.0,d41cd81e67f225bf,df4eb4ab46"
+   },
+   {
+    "from": "160.0b4",
+    "name": "firefox@beta",
+    "to": "160.0b5"
+   },
+   {
+    "from": "160.0b4",
+    "name": "firefox@developer-edition",
+    "to": "160.0b5"
+   },
+   {
+    "from": "3.7.0,1875",
+    "name": "focused",
+    "to": "3.7.1,1876"
+   },
+   {
+    "from": "1.9.0",
+    "name": "font-geist",
+    "to": "1.9.1"
+   },
+   {
+    "from": "1.9.0",
+    "name": "font-geist-mono",
+    "to": "1.9.1"
+   },
+   {
+    "from": "1.9.0",
+    "name": "font-geist-pixel",
+    "to": "1.9.1"
+   },
+   {
+    "from": "1.9.0",
+    "name": "font-geist-serif",
+    "to": "1.9.1"
+   },
+   {
+    "from": "10.45.0",
+    "name": "ghostex",
+    "to": "10.46.0"
+   },
+   {
+    "from": "12.6.1",
+    "name": "gitkraken",
+    "to": "12.6.2"
+   },
+   {
+    "from": "159.0.8142.0",
+    "name": "google-chrome@canary",
+    "to": "159.0.8143.0"
+   },
+   {
+    "from": "10.0.1.7",
+    "name": "grandtotal",
+    "to": "10.0.1.9"
+   },
+   {
+    "from": "1.30.2",
+    "name": "herd",
+    "to": "2.0.3"
+   },
+   {
+    "from": "7.4",
+    "name": "hides",
+    "to": "7.4.1"
+   },
+   {
+    "from": "4.0.0.97,101326",
+    "name": "idrive",
+    "to": "4.0.0.98,110426"
+   },
+   {
+    "from": "1.4.15",
+    "name": "incident-io",
+    "to": "1.4.16"
+   },
+   {
+    "from": "2026.2.4",
+    "name": "intellij-idea-oss",
+    "to": "2026.3"
+   },
+   {
+    "from": "2.1.32",
+    "name": "kero",
+    "to": "2.1.33"
+   },
+   {
+    "from": "2026.44.1",
+    "name": "lemonade-server",
+    "to": "2026.45.3"
+   },
+   {
+    "from": "3.4.9",
+    "name": "lunar-client",
+    "to": "3.7.31"
+   },
+   {
+    "from": "3.2.28,1248",
+    "name": "marked-app",
+    "to": "3.2.29,1249"
+   },
+   {
+    "from": "157.0.4341.36,8c75ae3b-dde9-4bba-af12-69da2068690f",
+    "name": "microsoft-edge@beta",
+    "to": "158.0.4370.1,125e6876-209c-41e9-bc35-d464970a5bab"
+   },
+   {
+    "from": "16.114.26102720",
+    "name": "microsoft-excel",
+    "to": "16.114.26110224"
+   },
+   {
+    "from": "16.114.26102720",
+    "name": "microsoft-office",
+    "to": "16.114.26110224"
+   },
+   {
+    "from": "16.114.26102720",
+    "name": "microsoft-office-businesspro",
+    "to": "16.114.26110224"
+   },
+   {
+    "from": "16.114.26102720",
+    "name": "microsoft-onenote",
+    "to": "16.114.26110224"
+   },
+   {
+    "from": "16.114.26101123",
+    "name": "microsoft-outlook",
+    "to": "16.114.26102720"
+   },
+   {
+    "from": "16.114.26102720",
+    "name": "microsoft-powerpoint",
+    "to": "16.114.26110224"
+   },
+   {
+    "from": "16.114.26102720",
+    "name": "microsoft-word",
+    "to": "16.114.26110224"
+   },
+   {
+    "from": "2026.11.100",
+    "name": "mindroom",
+    "to": "2026.11.120"
+   },
+   {
+    "from": "1.3.7",
+    "name": "mindwtr",
+    "to": "1.3.8"
+   },
+   {
+    "from": "1.19.0",
+    "name": "mole-app",
+    "to": "1.19.1"
+   },
+   {
+    "from": "2.0.2",
+    "name": "multitouch",
+    "to": "2.0.3"
+   },
+   {
+    "from": "3.0.19,148",
+    "name": "nvalt",
+    "to": "3.0.20,149"
+   },
+   {
+    "from": "2.0.89.154",
+    "name": "nvidia-geforce-now",
+    "to": "2.0.90.126"
+   },
+   {
+    "from": "2026.5.1.161-3889610",
+    "name": "nvidia-nsight-systems",
+    "to": "2026.6.1.218-39266636"
+   },
+   {
+    "from": "1.0.207",
+    "name": "openframe-console",
+    "to": "1.0.209"
+   },
+   {
+    "from": "5.24.0",
+    "name": "osquery",
+    "to": "5.24.1"
+   },
+   {
+    "from": "22,369098921",
+    "name": "propresenter@beta",
+    "to": "22,369098928"
+   },
+   {
+    "from": "4.5.3",
+    "name": "pulse-sms",
+    "to": "4.5.4"
+   },
+   {
+    "from": "2.11.0.0",
+    "name": "raycast",
+    "to": "2.11.1.0"
+   },
+   {
+    "from": "3.8.0",
+    "name": "rcmd",
+    "to": "3.8.1"
+   },
+   {
+    "from": "3.97",
+    "name": "rectangle-pro",
+    "to": "3.98"
+   },
+   {
+    "from": "0.745.0.7451137,b09c93298b5d4cd1",
+    "name": "roblox",
+    "to": "0.746.0.7461264,2fc79d515be6449d"
+   },
+   {
+    "from": "0.745.0.7451137,a7baca1cb08a4943",
+    "name": "robloxstudio",
+    "to": "0.746.0.7461264,5edfb1649d55462d"
+   },
+   {
+    "from": "2.74",
+    "name": "roon",
+    "to": "2.74.2"
+   },
+   {
+    "from": "1.18.19",
+    "name": "seam-app",
+    "to": "1.18.20"
+   },
+   {
+    "from": "11.0.32.15",
+    "name": "semeru-jdk-open@11",
+    "to": "11.0.33.0"
+   },
+   {
+    "from": "8.0.504.5",
+    "name": "semeru-jdk-open@8",
+    "to": "8.0.512.0"
+   },
+   {
+    "from": "7.5.15",
+    "name": "sessionwatcher",
+    "to": "7.5.16"
+   },
+   {
+    "from": "2026.4,237957",
+    "name": "sketch@beta",
+    "to": "2026.4,238004"
+   },
+   {
+    "from": "2.0.3",
+    "name": "superset",
+    "to": "2.0.4"
+   },
+   {
+    "from": "0.1.8-nightly.20261104.4179",
+    "name": "t3-code@nightly",
+    "to": "0.1.8-nightly.20261104.4192"
+   },
+   {
+    "from": "13.1.0,283447",
+    "name": "telegram@beta",
+    "to": "13.1.0,283451"
+   },
+   {
+    "from": "8.5,908.5.999",
+    "name": "textexpander",
+    "to": "8.6,908.6.999"
+   },
+   {
+    "from": "1.3.6",
+    "name": "textus",
+    "to": "1.3.7"
+   },
+   {
+    "from": "160.0b4",
+    "name": "thunderbird@beta",
+    "to": "160.0b5"
+   },
+   {
+    "from": "1.0.0",
+    "name": "tikz-editor",
+    "to": "1.1.0"
+   },
+   {
+    "from": "0.85.0",
+    "name": "token-monitor",
+    "to": "0.86.0"
+   },
+   {
+    "from": "10.51.1e",
+    "name": "trader-workstation",
+    "to": "10.52.1c"
+   },
+   {
+    "from": "8.5.2",
+    "name": "twonkyserver",
+    "to": "8.5.3-7"
+   },
+   {
+    "from": "0.1.914-beta",
+    "name": "unsloth",
+    "to": "0.1.915-beta"
+   },
+   {
+    "from": "4.1.7,41700",
+    "name": "vellum",
+    "to": "4.2,42004"
+   },
+   {
+    "from": "65.9.0",
+    "name": "vercel",
+    "to": "65.11.0"
+   },
+   {
+    "from": "0.2026.10.21.08.25.stable_02",
+    "name": "warp",
+    "to": "0.2026.11.03.17.08.stable_00"
+   },
+   {
+    "from": "0.2026.10.21.08.25.stable_02",
+    "name": "warp-agent-cli",
+    "to": "0.2026.11.03.17.08.stable_00"
+   },
+   {
+    "from": "0.2026.10.21.08.26.preview_02",
+    "name": "warp@preview",
+    "to": "0.2026.11.03.17.07.preview_00"
+   },
+   {
+    "from": "0.23.0",
+    "name": "zed-delta",
+    "to": "0.24.0"
+   },
+   {
+    "from": "0.5.0",
+    "name": "zentty",
+    "to": "0.6.0"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "7.8.0",
+    "name": "bkmr",
+    "to": "7.9.1"
+   },
+   {
+    "from": "8.0.53",
+    "name": "cliproxyapi",
+    "to": "8.0.55"
+   },
+   {
+    "from": "0.9.8",
+    "name": "docmd",
+    "to": "0.9.9"
+   },
+   {
+    "from": "27.3.0",
+    "name": "eas-cli",
+    "to": "27.4.0"
+   },
+   {
+    "from": "2.3.3_1",
+    "name": "echidna",
+    "to": "2.4.0"
+   },
+   {
+    "from": "5.193.2",
+    "name": "fern-api",
+    "to": "5.195.0"
+   },
+   {
+    "from": "0.71.1",
+    "name": "frpc",
+    "to": "0.72.0"
+   },
+   {
+    "from": "0.71.1",
+    "name": "frps",
+    "to": "0.72.0"
+   },
+   {
+    "from": "0.46.0",
+    "name": "jj",
+    "to": "0.47.0"
+   },
+   {
+    "from": "0.10.4",
+    "name": "kagent",
+    "to": "0.10.5"
+   },
+   {
+    "from": "2.23.1",
+    "name": "lacework-cli",
+    "to": "2.23.2"
+   },
+   {
+    "from": "0.4.0",
+    "name": "lovable-oj",
+    "to": "0.4.1"
+   },
+   {
+    "from": "1.10.0",
+    "name": "lz4",
+    "to": "1.11.0"
+   },
+   {
+    "from": "8.0.0",
+    "name": "mapproxy",
+    "to": "8.0.1"
+   },
+   {
+    "from": "2026.11.0",
+    "name": "mise",
+    "to": "2026.11.1"
+   },
+   {
+    "from": "7.88.1",
+    "name": "mx",
+    "to": "7.88.2"
+   },
+   {
+    "from": "2.100.0",
+    "name": "n8n-mcp",
+    "to": "2.101.0"
+   },
+   {
+    "from": "8.17.1",
+    "name": "neonctl",
+    "to": "8.18.0"
+   },
+   {
+    "from": "3.132",
+    "name": "nss",
+    "to": "3.133"
+   },
+   {
+    "from": "1.8.0-504",
+    "name": "openjdk@8",
+    "to": "1.8.0-512"
+   },
+   {
+    "from": "0.66.0",
+    "name": "osdctl",
+    "to": "0.67.0"
+   },
+   {
+    "from": "9.7.1-1_3",
+    "name": "percona-server",
+    "to": "9.7.2-2"
+   },
+   {
+    "from": "0.34.5",
+    "name": "rattler-index",
+    "to": "0.34.6"
+   },
+   {
+    "from": "1.8.5",
+    "name": "rolesanywhere-credential-helper",
+    "to": "1.8.6"
+   },
+   {
+    "from": "4.11.7",
+    "name": "roxctl",
+    "to": "5.0.0"
+   },
+   {
+    "from": "2.156.8",
+    "name": "sf",
+    "to": "2.157.8"
+   },
+   {
+    "from": "0.4.9.15",
+    "name": "tor",
+    "to": "0.4.9.16"
+   },
+   {
+    "from": "4.67.7",
+    "name": "tox",
+    "to": "4.67.8"
+   },
+   {
+    "from": "3.14.1",
+    "name": "typedb",
+    "to": "3.14.2"
+   },
+   {
+    "from": "9.2.1286",
+    "name": "vim",
+    "to": "9.2.1292"
+   },
+   {
+    "from": "1.4.5",
+    "name": "vulcain",
+    "to": "1.4.6"
+   },
+   {
+    "from": "0.4.62",
+    "name": "zot",
+    "to": "0.4.63"
+   }
+  ]
+ }
+}

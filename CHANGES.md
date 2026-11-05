@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-05T00:55:54Z
+
+- Updated 32 formulae: `bkmr` 7.8.0 → 7.9.1, `cliproxyapi` 8.0.53 → 8.0.55, `docmd` 0.9.8 → 0.9.9, `eas-cli` 27.3.0 → 27.4.0, `echidna` 2.3.3_1 → 2.4.0, `fern-api` 5.193.2 → 5.195.0, `frpc` 0.71.1 → 0.72.0, `frps` 0.71.1 → 0.72.0, `jj` 0.46.0 → 0.47.0, `kagent` 0.10.4 → 0.10.5, `lacework-cli` 2.23.1 → 2.23.2, `lovable-oj` 0.4.0 → 0.4.1, `lz4` 1.10.0 → 1.11.0, `mapproxy` 8.0.0 → 8.0.1, `mise` 2026.11.0 → 2026.11.1, `mx` 7.88.1 → 7.88.2, `n8n-mcp` 2.100.0 → 2.101.0, `neonctl` 8.17.1 → 8.18.0, `nss` 3.132 → 3.133, `openjdk@8` 1.8.0-504 → 1.8.0-512, `osdctl` 0.66.0 → 0.67.0, `percona-server` 9.7.1-1_3 → 9.7.2-2, `rattler-index` 0.34.5 → 0.34.6, `rolesanywhere-credential-helper` 1.8.5 → 1.8.6, `roxctl` 4.11.7 → 5.0.0 …
+- **Registered 3 casks**: `fore-studio-vitals`, `obelisk`, `oleafly`
+- Updated 81 casks: `1password-cli` 2.41.1 → 2.42.0, `1password@beta` 8.12.44-25.BETA → 8.12.46-26.BETA, `airi` 0.14.1 → 0.15.1, `alma` 0.4.376 → 0.4.446, `artisan` 4.2.0 → 5.0.0, `bettertouchtool` 6.999,2026110310 → 6.1103,2026110404, `brave-browser@nightly` 1.101.18.0,201.18 → 1.101.23.0,201.23, `chatgpt` 26.1029.61003 → 26.1029.70936, `craft-agents` 0.15.6 → 0.15.8, `designcraft` 0.17.0 → 0.17.1, `dolphin@dev` 2609-173,59,49 → 2609-180,29,33, `drawio` 32.6.1 → 32.6.10, `engine-dj` 5.1.0,c420dd2bb4faafb2,2acfe893c4 → 5.3.0,d41cd81e67f225bf,df4eb4ab46, `firefox@beta` 160.0b4 → 160.0b5, `firefox@developer-edition` 160.0b4 → 160.0b5, `focused` 3.7.0,1875 → 3.7.1,1876, `font-geist` 1.9.0 → 1.9.1, `font-geist-mono` 1.9.0 → 1.9.1, `font-geist-pixel` 1.9.0 → 1.9.1, `font-geist-serif` 1.9.0 → 1.9.1, `ghostex` 10.45.0 → 10.46.0, `gitkraken` 12.6.1 → 12.6.2, `google-chrome@canary` 159.0.8142.0 → 159.0.8143.0, `grandtotal` 10.0.1.7 → 10.0.1.9, `herd` 1.30.2 → 2.0.3 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-04T19:52:56Z
 
 - **Registered 1 formulae**: `godu`
