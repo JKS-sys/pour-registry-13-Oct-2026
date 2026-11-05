@@ -1,0 +1,1100 @@
+{
+ "synced_at": "2026-11-05T22:04:25Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "4.3.0.1404",
+    "name": "adobe-creative-cloud-cleaner-tool",
+    "to": "4.3.0.1437"
+   },
+   {
+    "from": "2.83.8,9f6f1262",
+    "name": "akiflow",
+    "to": "2.85.5,833b3cae"
+   },
+   {
+    "from": "1.0,1110",
+    "name": "amp-app",
+    "to": "1.0,1120"
+   },
+   {
+    "from": "2026.2.2.8,rabbit2",
+    "name": "android-studio",
+    "to": "2026.2.2.9,rabbit2-patch1"
+   },
+   {
+    "from": "1.171.0,89666",
+    "name": "arc",
+    "to": "1.172.0,90280"
+   },
+   {
+    "from": "5.2.5",
+    "name": "atomcode",
+    "to": "5.2.6"
+   },
+   {
+    "from": "02.08.02.61,20260820225108",
+    "name": "bambu-studio",
+    "to": "02.09.01.70,20261103183404"
+   },
+   {
+    "from": "23.0.32.91",
+    "name": "bitrix24",
+    "to": "24.0.37.92"
+   },
+   {
+    "from": "2026.10.3",
+    "name": "bitwarden",
+    "to": "2026.10.4"
+   },
+   {
+    "from": "1.98.63.0",
+    "name": "brave-browser",
+    "to": "1.99.55.0"
+   },
+   {
+    "from": "1.100.48.0,200.48",
+    "name": "brave-browser@beta",
+    "to": "1.100.49.0,200.49"
+   },
+   {
+    "from": "1.101.25.0,201.25",
+    "name": "brave-browser@nightly",
+    "to": "1.101.27.0,201.27"
+   },
+   {
+    "from": "1.98.63.0",
+    "name": "brave-origin",
+    "to": "1.99.55.0"
+   },
+   {
+    "from": "1.100.48.0,200.48",
+    "name": "brave-origin@beta",
+    "to": "1.100.49.0,200.49"
+   },
+   {
+    "from": "1.101.25.0,201.25",
+    "name": "brave-origin@nightly",
+    "to": "1.101.27.0,201.27"
+   },
+   {
+    "from": "1.0.0-beta.110",
+    "name": "brilliant",
+    "to": "1.0.0-beta.112"
+   },
+   {
+    "from": "9.7.0.4727",
+    "name": "capcut",
+    "to": "9.7.1.4778"
+   },
+   {
+    "from": "1.155.2,292",
+    "name": "cc-pocket",
+    "to": "1.157.0,294"
+   },
+   {
+    "from": "4.0.25",
+    "name": "cc-switch",
+    "to": "4.0.26"
+   },
+   {
+    "from": "4.16336.0,61c5bb50afdeb36ef1152e82f33cdb2f46fccdee",
+    "name": "claude",
+    "to": "4.23118.0,8175c354eda704cea00fdeddfa69cea329dd321a"
+   },
+   {
+    "from": "2026.2.4.1,262.11879.106",
+    "name": "clion",
+    "to": "2026.3,263.7307.209"
+   },
+   {
+    "from": "9.5.4,45528",
+    "name": "cyberduck",
+    "to": "9.6.0,46406"
+   },
+   {
+    "from": "2026.2.6.1,262.11879.103",
+    "name": "datagrip",
+    "to": "2026.3,263.7307.216"
+   },
+   {
+    "from": "2609.4.0",
+    "name": "dialpad",
+    "to": "2609.5.0"
+   },
+   {
+    "from": "26.4.2",
+    "name": "digiexam",
+    "to": "26.4.7"
+   },
+   {
+    "from": "0.0.1488",
+    "name": "discord@canary",
+    "to": "0.0.1493"
+   },
+   {
+    "from": "1.0.1034",
+    "name": "discord@development",
+    "to": "1.0.1035"
+   },
+   {
+    "from": "1.6.1010",
+    "name": "diversion",
+    "to": "1.6.1023"
+   },
+   {
+    "from": "5.0.9-beta.1",
+    "name": "djstudio@next",
+    "to": "5.0.10-beta.0"
+   },
+   {
+    "from": "1.3.0",
+    "name": "factory",
+    "to": "1.4.1"
+   },
+   {
+    "from": "161.0a1,2026-11-04-21-48-39",
+    "name": "firefox@nightly",
+    "to": "161.0a1,2026-11-05-05-05-39"
+   },
+   {
+    "from": "1.4.0",
+    "name": "font-intel-one-mono",
+    "to": "1.5.0"
+   },
+   {
+    "from": "16.37.27308",
+    "name": "futubull",
+    "to": "16.38.27408"
+   },
+   {
+    "from": "2026.100.0.1195",
+    "name": "gamemaker@beta",
+    "to": "2026.100.0.1199"
+   },
+   {
+    "from": "5.58.0",
+    "name": "gcs",
+    "to": "5.58.1"
+   },
+   {
+    "from": "4.4.6",
+    "name": "ghost-downloader",
+    "to": "4.4.7"
+   },
+   {
+    "from": "7.10.0",
+    "name": "gitify",
+    "to": "8.0.0"
+   },
+   {
+    "from": "7.726.2",
+    "name": "granola",
+    "to": "7.749.0"
+   },
+   {
+    "from": "0.78.5",
+    "name": "grok-bot",
+    "to": "0.79.2"
+   },
+   {
+    "from": "26.1022.1208",
+    "name": "groove-omnidialer",
+    "to": "26.1105.1138"
+   },
+   {
+    "from": "0.20.3.1",
+    "name": "helium-browser",
+    "to": "0.21.1.1"
+   },
+   {
+    "from": "2.0.3",
+    "name": "herd",
+    "to": "2.1.0"
+   },
+   {
+    "from": "3.0.147",
+    "name": "hol-guard",
+    "to": "3.0.148"
+   },
+   {
+    "from": "26.10.0-0",
+    "name": "hoppscotch",
+    "to": "26.10.1-0"
+   },
+   {
+    "from": "26.10.0-0",
+    "name": "hoppscotch-selfhost",
+    "to": "26.10.1-0"
+   },
+   {
+    "from": "2.48.1",
+    "name": "ibm-cloud-cli",
+    "to": "2.49.0"
+   },
+   {
+    "from": "2026.2.4,262.11879.99",
+    "name": "jetbrains-gateway",
+    "to": "2026.3,263.7307.184"
+   },
+   {
+    "from": "19613",
+    "name": "josm",
+    "to": "19678"
+   },
+   {
+    "from": "2.1.33",
+    "name": "kero",
+    "to": "2.1.34"
+   },
+   {
+    "from": "3.2.24",
+    "name": "kimi",
+    "to": "3.2.25"
+   },
+   {
+    "from": "0.11.2",
+    "name": "kirocrew",
+    "to": "0.12.0"
+   },
+   {
+    "from": "26.10.4",
+    "name": "kkbox",
+    "to": "26.11.5"
+   },
+   {
+    "from": "3.7.0",
+    "name": "kontur-talk",
+    "to": "3.8.0"
+   },
+   {
+    "from": "0.46.1",
+    "name": "llama-app",
+    "to": "0.47.0"
+   },
+   {
+    "from": "2026.7.992920",
+    "name": "logitech-g-hub",
+    "to": "2026.7.1011216"
+   },
+   {
+    "from": "0.383.1",
+    "name": "loom",
+    "to": "0.384.0"
+   },
+   {
+    "from": "6.62",
+    "name": "macloggerdx",
+    "to": "6.63"
+   },
+   {
+    "from": "0.59.1",
+    "name": "maestri",
+    "to": "0.59.2"
+   },
+   {
+    "from": "1.1.10",
+    "name": "manus-cue",
+    "to": "1.1.13"
+   },
+   {
+    "from": "2.4",
+    "name": "mediahuman-audio-converter",
+    "to": "2.4.1"
+   },
+   {
+    "from": "3.64.1",
+    "name": "meru",
+    "to": "3.64.2"
+   },
+   {
+    "from": "2026.11.120",
+    "name": "mindroom",
+    "to": "2026.11.130"
+   },
+   {
+    "from": "0.22.1",
+    "name": "modrinth",
+    "to": "0.23.1"
+   },
+   {
+    "from": "1.53.2-beta.1",
+    "name": "mongodb-compass@beta",
+    "to": "1.53.3-beta.0"
+   },
+   {
+    "from": "2.0.3",
+    "name": "multitouch",
+    "to": "2.0.4"
+   },
+   {
+    "from": "26.36.1417,20260903144733",
+    "name": "mycloud",
+    "to": "26.45.1546,20261104180814"
+   },
+   {
+    "from": "5.4.0",
+    "name": "nrf-connect",
+    "to": "5.4.1"
+   },
+   {
+    "from": "1.4.1-f15ff58",
+    "name": "nrfutil",
+    "to": "1.4.2-8a9090a"
+   },
+   {
+    "from": "3.0.21,150",
+    "name": "nvalt",
+    "to": "3.0.24,153"
+   },
+   {
+    "from": "1.117.0",
+    "name": "okta-advanced-server-access",
+    "to": "1.117.2"
+   },
+   {
+    "from": "26.11.1",
+    "name": "onexrayse",
+    "to": "26.11.2"
+   },
+   {
+    "from": "138.0.6044.69",
+    "name": "opera-air",
+    "to": "139.0.6053.45"
+   },
+   {
+    "from": "1.45.0",
+    "name": "pareto-security",
+    "to": "1.46.0"
+   },
+   {
+    "from": "1.2.21",
+    "name": "pen",
+    "to": "1.2.22"
+   },
+   {
+    "from": "2026.2.4,262.11879.104",
+    "name": "phpstorm",
+    "to": "2026.3,263.7307.215"
+   },
+   {
+    "from": "10.1.0-306",
+    "name": "pixcake",
+    "to": "10.1.0-307"
+   },
+   {
+    "from": "26.2.4",
+    "name": "plasticity",
+    "to": "26.2.5"
+   },
+   {
+    "from": "2026.10.2-3",
+    "name": "positron",
+    "to": "2026.11.0-308"
+   },
+   {
+    "from": "0.722.0",
+    "name": "privacynotes",
+    "to": "0.726.9"
+   },
+   {
+    "from": "2026.2.4,262.11879.98",
+    "name": "pycharm",
+    "to": "2026.3,263.7307.206"
+   },
+   {
+    "from": "0.5.3",
+    "name": "qoder",
+    "to": "0.5.5"
+   },
+   {
+    "from": "7.4.2.822,3004627",
+    "name": "quarkclouddrive",
+    "to": "7.4.5.824,3004627"
+   },
+   {
+    "from": "9.3.0,903.62664.100",
+    "name": "quicken",
+    "to": "9.3.1,903.62685.100"
+   },
+   {
+    "from": "0.1.3437",
+    "name": "reader",
+    "to": "0.1.3439"
+   },
+   {
+    "from": "3.98",
+    "name": "rectangle-pro",
+    "to": "3.99"
+   },
+   {
+    "from": "4.5.4,eyJfcmFpbHMiOnsiZGF0YSI6MjIzLCJwdXIiOiJibG9iX2lkIn19--7dc23c1958764c44e9d5fe1e414084d8cf85a8ee",
+    "name": "recut",
+    "to": "4.5.5,eyJfcmFpbHMiOnsiZGF0YSI6MjMxLCJwdXIiOiJibG9iX2lkIn19--80411ac4f16cec4ad72f7d8472c2259f383d6fae"
+   },
+   {
+    "from": "3.4.1.4",
+    "name": "rescuetime",
+    "to": "3.4.1.6"
+   },
+   {
+    "from": "1.6.3",
+    "name": "retcon",
+    "to": "1.6.4"
+   },
+   {
+    "from": "4.19.0",
+    "name": "rocket-chat",
+    "to": "4.19.1"
+   },
+   {
+    "from": "2026.2.4,262.11879.97",
+    "name": "rubymine",
+    "to": "2026.3,263.7307.205"
+   },
+   {
+    "from": "8.33.0",
+    "name": "signal",
+    "to": "8.34.0"
+   },
+   {
+    "from": "8.34.0-beta.1",
+    "name": "signal@beta",
+    "to": "8.35.0-beta.1"
+   },
+   {
+    "from": "5.0.539.001_M6R",
+    "name": "silhouette-studio",
+    "to": "5.0.556.001_M6R"
+   },
+   {
+    "from": "4.53.280",
+    "name": "slack@beta",
+    "to": "4.53.283"
+   },
+   {
+    "from": "1.6.15",
+    "name": "sononym",
+    "to": "1.6.16"
+   },
+   {
+    "from": "6.1.7,2,20261030,1645,6177002",
+    "name": "soundsource@test",
+    "to": "6.1.7,3,20261105,1211,6177003"
+   },
+   {
+    "from": "2.34.6",
+    "name": "spokenly",
+    "to": "2.35.1"
+   },
+   {
+    "from": "1.9.2",
+    "name": "status-trio",
+    "to": "1.9.3"
+   },
+   {
+    "from": "3.1.0",
+    "name": "superwhisper",
+    "to": "3.2.0"
+   },
+   {
+    "from": "0.1.8-nightly.20261105.4205",
+    "name": "t3-code@nightly",
+    "to": "0.1.8-nightly.20261105.4234"
+   },
+   {
+    "from": "0.25.0",
+    "name": "tangleguard-cli",
+    "to": "0.26.0"
+   },
+   {
+    "from": "2.4.2,158",
+    "name": "taperlabs-shadow",
+    "to": "2.4.3,159"
+   },
+   {
+    "from": "13.1.0,283357",
+    "name": "telegram",
+    "to": "13.2.0,283459"
+   },
+   {
+    "from": "7.3.5",
+    "name": "telegram-desktop",
+    "to": "7.4.0"
+   },
+   {
+    "from": "7.3.5",
+    "name": "telegram-desktop@beta",
+    "to": "7.4.0"
+   },
+   {
+    "from": "13.1.0,283453",
+    "name": "telegram@beta",
+    "to": "13.2.0,283459"
+   },
+   {
+    "from": "1.55.1,89833",
+    "name": "thebrowsercompany-dia",
+    "to": "1.56.0,90312"
+   },
+   {
+    "from": "161.0a1,2026-11-04-10-53-49",
+    "name": "thunderbird@daily",
+    "to": "161.0a1,2026-11-05-06-49-54"
+   },
+   {
+    "from": "3.0.399",
+    "name": "tldv",
+    "to": "3.0.417"
+   },
+   {
+    "from": "3.3.20,2026-11-04,774eef96ee",
+    "name": "tuple",
+    "to": "3.3.21,2026-11-05,2bdd4a7abc"
+   },
+   {
+    "from": "5.13.0",
+    "name": "ultimaker-cura",
+    "to": "5.14.0"
+   },
+   {
+    "from": "11.0.16.10570",
+    "name": "unity-version-control",
+    "to": "11.0.16.10616"
+   },
+   {
+    "from": "0.15.6",
+    "name": "vcamapp",
+    "to": "0.15.9"
+   },
+   {
+    "from": "4.2,42004",
+    "name": "vellum",
+    "to": "4.2.1,42100"
+   },
+   {
+    "from": "1.26.30",
+    "name": "veracrypt",
+    "to": "1.26.31"
+   },
+   {
+    "from": "1.26.30",
+    "name": "veracrypt-fuse-t",
+    "to": "1.26.31"
+   },
+   {
+    "from": "1.6.8",
+    "name": "vesktop",
+    "to": "1.6.9"
+   },
+   {
+    "from": "1.8.357",
+    "name": "vibeproxy",
+    "to": "1.8.358"
+   },
+   {
+    "from": "1.2.645",
+    "name": "vienna-assistant",
+    "to": "1.2.650"
+   },
+   {
+    "from": "1.146.0-insider,1793855229000,69176e5c7703e4ddf6b91a8ad5daf4597c9bea29",
+    "name": "visual-studio-code@insiders",
+    "to": "1.146.0-insider,1793898473597,d40ade3898b5d93f6739dc8934594ef60663f188"
+   },
+   {
+    "from": "2026.2.4,262.11879.105",
+    "name": "webstorm",
+    "to": "2026.3,263.7307.202"
+   },
+   {
+    "from": "2026.14.2,2610263rdo9tspo",
+    "name": "whimsical",
+    "to": "2026.14.3,261105kdfjwfgxa"
+   },
+   {
+    "from": "1.6.1376",
+    "name": "wispr-flow",
+    "to": "1.6.1400"
+   },
+   {
+    "from": "4.3.2611021619",
+    "name": "workflowy",
+    "to": "4.3.2611041652"
+   },
+   {
+    "from": "26.10.0.1852,119350",
+    "name": "yandex",
+    "to": "26.10.0.1877,120611"
+   },
+   {
+    "from": "1.43.0",
+    "name": "yandex-cloud-cli",
+    "to": "1.44.0"
+   },
+   {
+    "from": "5.125.3",
+    "name": "yandex-music",
+    "to": "5.126.1"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "3.5.2",
+    "name": "aliyun-cli",
+    "to": "3.5.3"
+   },
+   {
+    "from": "1.21.0",
+    "name": "aoe",
+    "to": "1.22.0"
+   },
+   {
+    "from": "0.11.134",
+    "name": "arkade",
+    "to": "0.12.0"
+   },
+   {
+    "from": "6.4.1",
+    "name": "asc",
+    "to": "6.5.0"
+   },
+   {
+    "from": "0.18.7",
+    "name": "asccli",
+    "to": "0.18.8"
+   },
+   {
+    "from": "1.11.921_1",
+    "name": "aws-sdk-cpp",
+    "to": "1.11.922"
+   },
+   {
+    "from": "7.17.5",
+    "name": "aws-vault",
+    "to": "7.17.6"
+   },
+   {
+    "from": "0.2.12",
+    "name": "baguette",
+    "to": "0.2.13"
+   },
+   {
+    "from": "4.1.5",
+    "name": "bfs",
+    "to": "4.1.6"
+   },
+   {
+    "from": "1.67.0",
+    "name": "calm-cli",
+    "to": "1.68.0"
+   },
+   {
+    "from": "1.131.0",
+    "name": "chainloop-cli",
+    "to": "1.132.0"
+   },
+   {
+    "from": "3.25.14",
+    "name": "convox",
+    "to": "3.26.0"
+   },
+   {
+    "from": "0.64.0",
+    "name": "cpp-httplib",
+    "to": "0.65.0"
+   },
+   {
+    "from": "5.4.0",
+    "name": "croaring",
+    "to": "5.5.5"
+   },
+   {
+    "from": "5.5.0_1",
+    "name": "crowdin",
+    "to": "5.6.0"
+   },
+   {
+    "from": "7.6.0",
+    "name": "cyclonedx-python",
+    "to": "8.0.1"
+   },
+   {
+    "from": "2.25.4",
+    "name": "dagu",
+    "to": "2.25.7"
+   },
+   {
+    "from": "2.20.17",
+    "name": "dasm",
+    "to": "2.20.18"
+   },
+   {
+    "from": "0.23.5",
+    "name": "deja-vu",
+    "to": "0.24.0"
+   },
+   {
+    "from": "2.103.8",
+    "name": "depot",
+    "to": "2.103.9"
+   },
+   {
+    "from": "1.156.2",
+    "name": "docker-agent",
+    "to": "1.157.2"
+   },
+   {
+    "from": "3.24.6",
+    "name": "dockly",
+    "to": "3.24.7"
+   },
+   {
+    "from": "0.22.6",
+    "name": "dstack",
+    "to": "0.22.7"
+   },
+   {
+    "from": "15.0.3",
+    "name": "eslint_d",
+    "to": "15.1.0"
+   },
+   {
+    "from": "13.12.0",
+    "name": "flyway",
+    "to": "13.12.1"
+   },
+   {
+    "from": "0.14.2",
+    "name": "git-pkgs-brief",
+    "to": "0.15.0"
+   },
+   {
+    "from": "4.77.0",
+    "name": "gitlab-ci-local",
+    "to": "4.77.1"
+   },
+   {
+    "from": "0.16.0",
+    "name": "golines",
+    "to": "0.16.1"
+   },
+   {
+    "from": "3.2",
+    "name": "hstr",
+    "to": "3.3.0"
+   },
+   {
+    "from": "4.0.21",
+    "name": "imgproxy",
+    "to": "4.0.22"
+   },
+   {
+    "from": "3.1.741",
+    "name": "ipsw",
+    "to": "3.1.742"
+   },
+   {
+    "from": "3.6.216",
+    "name": "keploy",
+    "to": "3.6.218"
+   },
+   {
+    "from": "1.18.0",
+    "name": "kontext",
+    "to": "1.19.0"
+   },
+   {
+    "from": "4.0.17",
+    "name": "kubescape",
+    "to": "4.0.18"
+   },
+   {
+    "from": "0.8.6",
+    "name": "lazyjournal",
+    "to": "0.8.7"
+   },
+   {
+    "from": "2.0.3_1",
+    "name": "ldeep",
+    "to": "2.0.4"
+   },
+   {
+    "from": "0.19.14",
+    "name": "lfk",
+    "to": "0.19.15"
+   },
+   {
+    "from": "0.4.1",
+    "name": "lovable-oj",
+    "to": "0.4.3"
+   },
+   {
+    "from": "0.4.1",
+    "name": "mailtrap-local",
+    "to": "0.5.0"
+   },
+   {
+    "from": "29.9.0_4",
+    "name": "manticoresearch",
+    "to": "29.9.0_5"
+   },
+   {
+    "from": "16.25.0",
+    "name": "mark",
+    "to": "17.0.0"
+   },
+   {
+    "from": "1.3.2_1",
+    "name": "minizip",
+    "to": "1.4"
+   },
+   {
+    "from": "2026.11.1",
+    "name": "mise",
+    "to": "2026.11.2"
+   },
+   {
+    "from": "3.0.4",
+    "name": "mistral-vibe",
+    "to": "3.1.0"
+   },
+   {
+    "from": "12.0.1",
+    "name": "mmctl",
+    "to": "12.0.2"
+   },
+   {
+    "from": "0.41.0_12",
+    "name": "mpv",
+    "to": "0.42.0"
+   },
+   {
+    "from": "0.30.1_1",
+    "name": "near",
+    "to": "0.31.0"
+   },
+   {
+    "from": "2.45",
+    "name": "newsboat",
+    "to": "2.45.1"
+   },
+   {
+    "from": "3.27.2",
+    "name": "npq",
+    "to": "3.27.3"
+   },
+   {
+    "from": "7.15.5",
+    "name": "oauth2_proxy",
+    "to": "7.15.6"
+   },
+   {
+    "from": "2026-11",
+    "name": "odin",
+    "to": "2026-11a"
+   },
+   {
+    "from": "3.24.1",
+    "name": "okteto",
+    "to": "3.25.0"
+   },
+   {
+    "from": "1.22.0",
+    "name": "opa",
+    "to": "1.22.1"
+   },
+   {
+    "from": "1.13.5",
+    "name": "open-code-review",
+    "to": "1.13.6"
+   },
+   {
+    "from": "10.6p1_2",
+    "name": "openssh",
+    "to": "10.6p2"
+   },
+   {
+    "from": "10.6p1",
+    "name": "openssh-sk-provider",
+    "to": "10.6p2"
+   },
+   {
+    "from": "1.13.8",
+    "name": "opentofu",
+    "to": "1.13.9"
+   },
+   {
+    "from": "2.7.8_1",
+    "name": "openvpn",
+    "to": "2.7.9"
+   },
+   {
+    "from": "1.7.5",
+    "name": "permify",
+    "to": "1.7.6"
+   },
+   {
+    "from": "1.3.2",
+    "name": "portable-zlib",
+    "to": "1.4"
+   },
+   {
+    "from": "3.15.1",
+    "name": "prometheus",
+    "to": "3.16.0"
+   },
+   {
+    "from": "7.0.0",
+    "name": "psalm",
+    "to": "7.0.3"
+   },
+   {
+    "from": "1.20.1_1",
+    "name": "pygit2",
+    "to": "1.21.0"
+   },
+   {
+    "from": "26.08.2",
+    "name": "qcachegrind",
+    "to": "26.08.3"
+   },
+   {
+    "from": "0.25.0",
+    "name": "ramalama",
+    "to": "0.26.0"
+   },
+   {
+    "from": "2.73.0",
+    "name": "redocly-cli",
+    "to": "2.74.0"
+   },
+   {
+    "from": "44.199.0",
+    "name": "renovate",
+    "to": "44.201.0"
+   },
+   {
+    "from": "4.67.4",
+    "name": "rollup",
+    "to": "4.67.5"
+   },
+   {
+    "from": "3.0.4",
+    "name": "rumbledb",
+    "to": "3.0.5"
+   },
+   {
+    "from": "0.2.2_1",
+    "name": "sentencepiece",
+    "to": "0.2.3"
+   },
+   {
+    "from": "3.5.1",
+    "name": "shadowenv",
+    "to": "3.6.0"
+   },
+   {
+    "from": "2.13.3",
+    "name": "skillspector",
+    "to": "2.13.4"
+   },
+   {
+    "from": "3.31.0",
+    "name": "snowflake-cli",
+    "to": "3.32.1"
+   },
+   {
+    "from": "0.25.1",
+    "name": "spotify_player",
+    "to": "0.25.2"
+   },
+   {
+    "from": "10.6p1",
+    "name": "ssh-copy-id",
+    "to": "10.6p2"
+   },
+   {
+    "from": "1.166.0",
+    "name": "storj-uplink",
+    "to": "1.166.1"
+   },
+   {
+    "from": "0.3a-20261029-git-036af1c",
+    "name": "supermodel",
+    "to": "0.3a-20261105-git-63138ac"
+   },
+   {
+    "from": "1.16.21",
+    "name": "swc",
+    "to": "1.16.22"
+   },
+   {
+    "from": "262.1",
+    "name": "systemd",
+    "to": "262.2"
+   },
+   {
+    "from": "3.14.51",
+    "name": "trealla-prolog",
+    "to": "3.14.54"
+   },
+   {
+    "from": "2.15.0",
+    "name": "tt",
+    "to": "2.15.2"
+   },
+   {
+    "from": "0.0.96",
+    "name": "ty",
+    "to": "0.0.97"
+   },
+   {
+    "from": "15.7.112.23",
+    "name": "v8",
+    "to": "15.8.62.9"
+   },
+   {
+    "from": "1.40.3",
+    "name": "weaviate",
+    "to": "1.40.4"
+   },
+   {
+    "from": "0.16.2",
+    "name": "yaegi",
+    "to": "0.16.3"
+   },
+   {
+    "from": "1.22.1",
+    "name": "yara-x",
+    "to": "1.23.0"
+   },
+   {
+    "from": "2.10.6",
+    "name": "youtubedr",
+    "to": "2.10.7"
+   },
+   {
+    "from": "7.4.16",
+    "name": "zabbix",
+    "to": "8.0.0"
+   },
+   {
+    "from": "1.3.2",
+    "name": "zlib",
+    "to": "1.4"
+   },
+   {
+    "from": "0.4.63",
+    "name": "zot",
+    "to": "0.4.65"
+   }
+  ]
+ }
+}

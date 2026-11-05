@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-05T22:04:25Z
+
+- Updated 90 formulae: `aliyun-cli` 3.5.2 → 3.5.3, `aoe` 1.21.0 → 1.22.0, `arkade` 0.11.134 → 0.12.0, `asc` 6.4.1 → 6.5.0, `asccli` 0.18.7 → 0.18.8, `aws-sdk-cpp` 1.11.921_1 → 1.11.922, `aws-vault` 7.17.5 → 7.17.6, `baguette` 0.2.12 → 0.2.13, `bfs` 4.1.5 → 4.1.6, `calm-cli` 1.67.0 → 1.68.0, `chainloop-cli` 1.131.0 → 1.132.0, `convox` 3.25.14 → 3.26.0, `cpp-httplib` 0.64.0 → 0.65.0, `croaring` 5.4.0 → 5.5.5, `crowdin` 5.5.0_1 → 5.6.0, `cyclonedx-python` 7.6.0 → 8.0.1, `dagu` 2.25.4 → 2.25.7, `dasm` 2.20.17 → 2.20.18, `deja-vu` 0.23.5 → 0.24.0, `depot` 2.103.8 → 2.103.9, `docker-agent` 1.156.2 → 1.157.2, `dockly` 3.24.6 → 3.24.7, `dstack` 0.22.6 → 0.22.7, `eslint_d` 15.0.3 → 15.1.0, `flyway` 13.12.0 → 13.12.1 …
+- Updated 127 casks: `adobe-creative-cloud-cleaner-tool` 4.3.0.1404 → 4.3.0.1437, `akiflow` 2.83.8,9f6f1262 → 2.85.5,833b3cae, `amp-app` 1.0,1110 → 1.0,1120, `android-studio` 2026.2.2.8,rabbit2 → 2026.2.2.9,rabbit2-patch1, `arc` 1.171.0,89666 → 1.172.0,90280, `atomcode` 5.2.5 → 5.2.6, `bambu-studio` 02.08.02.61,20260820225108 → 02.09.01.70,20261103183404, `bitrix24` 23.0.32.91 → 24.0.37.92, `bitwarden` 2026.10.3 → 2026.10.4, `brave-browser` 1.98.63.0 → 1.99.55.0, `brave-browser@beta` 1.100.48.0,200.48 → 1.100.49.0,200.49, `brave-browser@nightly` 1.101.25.0,201.25 → 1.101.27.0,201.27, `brave-origin` 1.98.63.0 → 1.99.55.0, `brave-origin@beta` 1.100.48.0,200.48 → 1.100.49.0,200.49, `brave-origin@nightly` 1.101.25.0,201.25 → 1.101.27.0,201.27, `brilliant` 1.0.0-beta.110 → 1.0.0-beta.112, `capcut` 9.7.0.4727 → 9.7.1.4778, `cc-pocket` 1.155.2,292 → 1.157.0,294, `cc-switch` 4.0.25 → 4.0.26, `claude` 4.16336.0,61c5bb50afdeb36ef1152e82f33cdb2f46fccdee → 4.23118.0,8175c354eda704cea00fdeddfa69cea329dd321a, `clion` 2026.2.4.1,262.11879.106 → 2026.3,263.7307.209, `cyberduck` 9.5.4,45528 → 9.6.0,46406, `datagrip` 2026.2.6.1,262.11879.103 → 2026.3,263.7307.216, `dialpad` 2609.4.0 → 2609.5.0, `digiexam` 26.4.2 → 26.4.7 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-05T12:27:41Z
 
 - **Registered 2 formulae**: `percona-xtrabackup@8.4`, `sbom-tools`
