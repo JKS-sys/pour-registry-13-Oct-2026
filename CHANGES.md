@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-06T21:34:03Z
+
+- Updated 40 formulae: `appwrite` 28.10.2 → 28.11.0, `apt` 3.3.6 → 3.3.7, `aws-cdk` 2.1147.0 → 2.1148.0, `bkmr` 7.9.1 → 7.10.1, `eccodes` 2.50.0 → 2.50.1, `entire-cli` 0.12.2 → 0.13.1, `goredo` 2.10.0 → 2.11.0, `kosli-cli` 2.54.0 → 2.55.0, `kubevela` 1.11.0 → 1.11.1, `lazy-tmux` 0.3.4 → 0.3.5, `libplist` 2.8.0 → 2.8.1, `lima` 2.2.1 → 2.3.0, `lima-additional-guestagents` 2.2.1 → 2.3.0, `lovable-oj` 0.4.3 → 0.4.4, `mapproxy` 8.0.1 → 8.1.0, `mcp-publisher` 1.8.7 → 1.8.8, `memex` 0.32.0 → 0.33.0, `mighttpd2` 4.0.11 → 4.0.12, `neo4j` 2026.10.1 → 2026.10.2, `nexttrace` 1.7.5 → 1.7.6, `nub` 0.9.7 → 0.10.0, `oasis` 0.22.1 → 0.22.2, `overturemaps` 1.0.2_1 → 1.0.3, `oxlint` 1.91.0 → 1.92.0, `parca` 0.29.1 → 0.30.0 …
+- **Registered 2 casks**: `emeet-studio`, `gloom`
+- **De-registered 1 casks**: `gloomberb`
+- Updated 71 casks: `arm-performix` 2026.4.0 → 2026.4.1, `au-lab` 2.3 → 2.5, `audio-modeling-software-center` 3.0.4-777 → 3.1.0-1141, `audioroute` 1.2.10 → 1.2.12, `brave-browser@nightly` 1.101.31.0,201.31 → 1.101.32.0,201.32, `brave-origin@nightly` 1.101.31.0,201.31 → 1.101.32.0,201.32, `cc-pocket` 1.158.0,298 → 1.158.1,299, `chatgpt` 26.1103.31037 → 26.1103.32239, `claude-code@latest` 2.1.318 → 2.1.319, `cuadriver` 0.39.0 → 0.40.2, `daedalus-mainnet` 11.6.0,88084,d6502e079 → 11.6.1,88397,d8ee6df04, `datadog-agent` 7.85.1-1 → 7.85.2-1, `discord@canary` 0.0.1510 → 0.0.1513, `distill-web-monitor` 4.1.1-beta → 4.3.0-beta, `djstudio@next` 5.0.10-beta.0 → 5.0.10-beta.1, `dropbox@beta` 279.3.5697 → 279.3.5701, `figma` 126.10.13 → 126.11.7, `figma-agent` 126.10.13 → 126.11.7, `figma@beta` 126.12.1 → 126.12.2, `font-nordwand-mono` 1.5.1 → 1.5.2, `ghost-downloader` 4.4.7 → 4.5.0, `google-chrome@dev` 159.0.8130.0 → 159.0.8144.0, `grandtotal` 10.0.1.11 → 10.0.2, `hackolade` 8.13.7 → 8.13.8, `hagimimonitordirect` 1.7.7 → 1.7.8 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-06T15:58:21Z
 
 - Updated 66 formulae: `angular-cli` 22.2.5 → 22.2.6, `ansible-creator` 26.10.0 → 26.11.0, `asc` 6.5.0 → 6.5.1, `aspell` 0.60.8.3 → 0.60.8.3_1, `aws-sdk-cpp` 1.11.922 → 1.11.923, `aztfexport` 0.20.0 → 0.21.0, `baml` 0.2.5 → 0.3.1, `biosig` 3.9.8_1 → 4.0.0, `bluez` 5.87 → 5.88, `cargo-cyclonedx` 0.5.9 → 0.5.10, `cdk8s` 2.207.77 → 2.207.78, `chainloop-cli` 1.132.0 → 1.133.0, `cloudflare-wrangler` 4.157.0 → 4.158.0, `code-cli` 1.145.1 → 1.145.2, `cypher-shell` 2026.10.1 → 2026.10.2, `dbx-cli` 0.4.139 → 0.4.140, `egctl` 1.9.3 → 1.10.0, `ffmate` 2.0.18 → 2.1.0, `fresh-editor` 0.5.7 → 0.5.8, `gdal` 3.13.3_5 → 3.13.3_6, `git-town` 24.1.0 → 24.1.1, `gitea-mcp-server` 1.12.0 → 1.13.0, `gitlab-runner` 19.5.2 → 19.5.3, `go-passbolt-cli` 0.5.2 → 0.5.3, `helix-db` 3.6.0 → 3.6.1 …
