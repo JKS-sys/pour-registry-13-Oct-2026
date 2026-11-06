@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-06T15:58:21Z
+
+- Updated 66 formulae: `angular-cli` 22.2.5 → 22.2.6, `ansible-creator` 26.10.0 → 26.11.0, `asc` 6.5.0 → 6.5.1, `aspell` 0.60.8.3 → 0.60.8.3_1, `aws-sdk-cpp` 1.11.922 → 1.11.923, `aztfexport` 0.20.0 → 0.21.0, `baml` 0.2.5 → 0.3.1, `biosig` 3.9.8_1 → 4.0.0, `bluez` 5.87 → 5.88, `cargo-cyclonedx` 0.5.9 → 0.5.10, `cdk8s` 2.207.77 → 2.207.78, `chainloop-cli` 1.132.0 → 1.133.0, `cloudflare-wrangler` 4.157.0 → 4.158.0, `code-cli` 1.145.1 → 1.145.2, `cypher-shell` 2026.10.1 → 2026.10.2, `dbx-cli` 0.4.139 → 0.4.140, `egctl` 1.9.3 → 1.10.0, `ffmate` 2.0.18 → 2.1.0, `fresh-editor` 0.5.7 → 0.5.8, `gdal` 3.13.3_5 → 3.13.3_6, `git-town` 24.1.0 → 24.1.1, `gitea-mcp-server` 1.12.0 → 1.13.0, `gitlab-runner` 19.5.2 → 19.5.3, `go-passbolt-cli` 0.5.2 → 0.5.3, `helix-db` 3.6.0 → 3.6.1 …
+- **Registered 2 casks**: `image-optimizer`, `tendedero`
+- Updated 81 casks: `amp-app` 1.0,1120 → 1.0,1140, `antigravity-cli` 1.5.1,4523430503120896 → 1.5.2,4951595792859136, `biscuit` 2.2.5 → 2.2.8, `blockstream` 3.6.0 → 3.6.1, `brave-browser@nightly` 1.101.27.0,201.27 → 1.101.31.0,201.31, `brave-origin@nightly` 1.101.27.0,201.27 → 1.101.31.0,201.31, `busycal` 2026.4.5,2026-11-04-15-05-12 → 2026.4.5,2026-11-06-09-31-42, `cc-pocket` 1.157.1,295 → 1.158.0,298, `cleanmymac` 5.7.3,50703.0.2610281229 → 5.7.4,50704.0.2611060828, `clickshare` 4.51.1,4 → 4.52.0,11, `crest` 6.6.11 → 6.7.0, `cuadriver` 0.38.0 → 0.39.0, `discord@canary` 0.0.1509 → 0.0.1510, `droid` 1.4.1 → 1.5.0, `element@nightly` 2026110501 → 2026110601, `emacs-app@nightly` 2026-11-05_00-09-23,e9429a2db33d5ef8c1195956d80639a1ae490435 → 2026-11-06_00-09-19,d4d7aeeaa6975aa0c1ab47cc51e5169f7bc90199, `emdash` 1.2.10 → 1.2.11, `factory` 1.4.1 → 1.5.0, `filo` 2.4.5 → 2.4.6, `firefox@nightly` 162.0a1,2026-11-05-20-50-04 → 162.0a1,2026-11-06-04-41-22, `font-geist` 1.9.1 → 1.9.2, `font-geist-mono` 1.9.1 → 1.9.2, `font-geist-pixel` 1.9.1 → 1.9.2, `font-geist-serif` 1.9.1 → 1.9.2, `fore-studio-vitals` 1.9.8 → 1.10.1 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-06T06:56:05Z
 
 - Updated 98 formulae: `algernon` 1.17.12 → 1.17.13, `apko` 1.4.16 → 1.4.17, `ascelerate` 0.31.0 → 0.32.0, `astyle` 3.6.21 → 3.6.22, `aws-nuke` 3.69.0 → 3.69.1, `aws-vault` 7.17.6 → 7.17.7, `awscli` 2.39.4_1 → 2.39.5, `azure-dev` 1.37.2 → 1.37.3, `bazel` 9.3.1 → 9.3.2, `bazel-diff` 74.0.2 → 75.0.0, `bend` 2.0.39 → 2.0.40, `chuck` 1.5.5.8 → 1.5.5.9, `clang-format` 23.1.4 → 23.1.5, `cliproxyapi` 8.0.55 → 8.0.57, `closure-compiler` 20261103 → 20261104, `code-cli` 1.145.0 → 1.145.1, `concord` 2.6.4 → 2.7.0, `dagu` 2.25.7 → 2.25.8, `daq` 3.0.28 → 3.0.29, `dart-sass` 1.107.1 → 1.108.0, `deepline` 0.3.463 → 0.3.472, `dolt` 2.7.1 → 2.7.2, `doltgres` 1.4.0 → 1.5.0, `doltlite` 0.51.8 → 0.51.9, `fallow` 3.39.0 → 3.40.0 …
