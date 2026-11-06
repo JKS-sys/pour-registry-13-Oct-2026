@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-06T06:56:05Z
+
+- Updated 98 formulae: `algernon` 1.17.12 → 1.17.13, `apko` 1.4.16 → 1.4.17, `ascelerate` 0.31.0 → 0.32.0, `astyle` 3.6.21 → 3.6.22, `aws-nuke` 3.69.0 → 3.69.1, `aws-vault` 7.17.6 → 7.17.7, `awscli` 2.39.4_1 → 2.39.5, `azure-dev` 1.37.2 → 1.37.3, `bazel` 9.3.1 → 9.3.2, `bazel-diff` 74.0.2 → 75.0.0, `bend` 2.0.39 → 2.0.40, `chuck` 1.5.5.8 → 1.5.5.9, `clang-format` 23.1.4 → 23.1.5, `cliproxyapi` 8.0.55 → 8.0.57, `closure-compiler` 20261103 → 20261104, `code-cli` 1.145.0 → 1.145.1, `concord` 2.6.4 → 2.7.0, `dagu` 2.25.7 → 2.25.8, `daq` 3.0.28 → 3.0.29, `dart-sass` 1.107.1 → 1.108.0, `deepline` 0.3.463 → 0.3.472, `dolt` 2.7.1 → 2.7.2, `doltgres` 1.4.0 → 1.5.0, `doltlite` 0.51.8 → 0.51.9, `fallow` 3.39.0 → 3.40.0 …
+- **De-registered 1 casks**: `flow-desktop`
+- Updated 97 casks: `acorn` 8.7.1 → 8.7.2, `airbuild` 1.5.7 → 1.6.5, `alma` 0.4.446 → 0.4.473, `amethyst` 0.24.3 → 0.25.0, `android-studio-preview@canary` 2026.2.3.2,rabbit3-canary2 → 2026.2.3.3,rabbit3-canary3, `anydrag` 26.11.124 → 26.11.125, `arc` 1.172.0,90280 → 1.172.1,90370, `arq` 7.50 → 7.51, `aws-vpn-client` 6.2.1 → 6.2.2, `bettermacwidgets` 2.12.0 → 2.13.0, `bettertouchtool@alpha` 6.1101,2026110401 → 6.1105,2026110406, `bing-wallpaper` 2.0.18.370,731d78f2-f2a9-46d2-839a-17be870ad4b2 → 2.0.26.0,7d83205d-0650-4f11-aa35-9b216123c5d9, `brilliant` 1.0.0-beta.112 → 1.0.0-beta.113, `calibre` 9.17.0 → 9.18.0, `cc-pocket` 1.157.0,294 → 1.157.1,295, `chatgpt` 26.1029.70936 → 26.1103.31037, `chronoid` 1.0.105 → 1.0.106, `clarify` 1.7.21 → 1.7.22, `codex` 0.166.0 → 0.167.0, `cog-app` 3876,358b5dd76 → 3877,0fb3d97d6, `copilot-cli` 1.0.105 → 1.0.106, `copilot-cli@prerelease` 1.0.106-9 → 1.0.106-11, `dash-dash` 23.1.10 → 24.0.0, `dbx` 0.6.66 → 0.6.67, `deutschlandgpt` 0.16.4 → 0.16.5 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-05T22:04:25Z
 
 - Updated 90 formulae: `aliyun-cli` 3.5.2 → 3.5.3, `aoe` 1.21.0 → 1.22.0, `arkade` 0.11.134 → 0.12.0, `asc` 6.4.1 → 6.5.0, `asccli` 0.18.7 → 0.18.8, `aws-sdk-cpp` 1.11.921_1 → 1.11.922, `aws-vault` 7.17.5 → 7.17.6, `baguette` 0.2.12 → 0.2.13, `bfs` 4.1.5 → 4.1.6, `calm-cli` 1.67.0 → 1.68.0, `chainloop-cli` 1.131.0 → 1.132.0, `convox` 3.25.14 → 3.26.0, `cpp-httplib` 0.64.0 → 0.65.0, `croaring` 5.4.0 → 5.5.5, `crowdin` 5.5.0_1 → 5.6.0, `cyclonedx-python` 7.6.0 → 8.0.1, `dagu` 2.25.4 → 2.25.7, `dasm` 2.20.17 → 2.20.18, `deja-vu` 0.23.5 → 0.24.0, `depot` 2.103.8 → 2.103.9, `docker-agent` 1.156.2 → 1.157.2, `dockly` 3.24.6 → 3.24.7, `dstack` 0.22.6 → 0.22.7, `eslint_d` 15.0.3 → 15.1.0, `flyway` 13.12.0 → 13.12.1 …
