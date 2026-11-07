@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-07T23:42:28Z
+
+- Updated 17 formulae: `agent-manager` 0.47.1 → 0.48.0, `ascelerate` 0.33.0 → 0.33.1, `autocannon` 8.0.0 → 9.0.0, `bkmr` 8.0.0 → 8.2.0, `checkbashisms` 2.26.13 → 2.26.14, `cspell` 10.4.0 → 10.4.1, `groff` 1.24.2 → 1.25.0, `kubectl-radar` 1.20.0 → 1.20.1, `minijinja-cli` 3.0.5 → 3.1.0, `n8n-mcp` 2.101.0 → 2.101.1, `nak` 0.22.2 → 0.22.3, `neonctl` 8.23.4 → 9.1.0, `plink-ng` 2.0.0-b.1.3 → 2.0.0-b.1.4, `primecount` 8.8 → 9.0, `resterm` 1.17.2 → 1.18.0, `shimmy` 2.6.5 → 2.6.6, `virtualenv` 21.15.5 → 21.15.6
+- Updated 28 casks: `backdrop` 2.10.6,147 → 2.10.7,148, `bettertouchtool` 6.1110,2026110705 → 6.1112,2026110708, `bettertouchtool@alpha` 6.1107,2026110702 → 6.1113,2026110709, `blitz-gg` 3.0.19 → 3.0.21, `busycontacts` 2026.4.2 → 2026.4.3, `devin-cli` 3000.12.17 → 3000.12.28, `devin-desktop` 3.12.17,d23bb600ed8f90d7d985cef5ceca9b9235e88911 → 3.12.28,91c3aec41579d2c1795b64f82fa6a8a202ea4c69, `devin-desktop@next` 3.12.1017+next.d23bb600ed,d23bb600ed8f90d7d985cef5ceca9b9235e88911 → 3.12.1028+next.91c3aec415,91c3aec41579d2c1795b64f82fa6a8a202ea4c69, `gloom` 0.20.3 → 0.20.4, `google-chrome@canary` 159.0.8148.0 → 159.0.8149.0, `mindroom` 2026.11.170 → 2026.11.180, `monarch` 0.9.64 → 0.9.65, `nostalgiapp` 1.2.5.5,209 → 1.2.5.5,211, `omniwm` 0.7.6 → 0.8.0, `profind` 1.42 → 1.43, `publii` 0.48.2,17583 → 0.48.3,17587, `purge` 1.13.4 → 1.14.0, `read-ai` 1.45.0 → 1.45.1, `reader` 0.1.3449 → 0.1.3453, `riverscript` 1.3.5 → 1.3.6, `robbietilton-compositor` 1.6.4 → 1.6.5, `saega` 1.5.0 → 1.5.1, `seam-app` 1.18.20 → 1.18.21, `solar2d` 2026.3736 → 2026.3737, `tinycast@beta` 0.12.9-beta.134 → 0.12.10-beta.135 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-07T20:16:32Z
 
 - **Registered 1 formulae**: `krunkit`
