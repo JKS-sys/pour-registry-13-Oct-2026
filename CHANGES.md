@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-07T14:55:58Z
+
+- **Registered 1 formulae**: `libkrun`
+- Updated 78 formulae: `ansible` 14.5.0_3 → 14.6.0, `ansible-lint` 26.10.1 → 26.10.1_1, `aoe` 1.22.0 → 1.22.1, `apprise` 2.1.0 → 2.1.0_1, `asc` 6.5.1 → 6.5.3, `ascelerate` 0.32.1 → 0.33.0, `asyncapi` 6.2.3 → 6.3.0, `biome` 2.6.5 → 2.6.6, `bkmr` 7.10.1 → 7.10.2, `charmcraft` 4.5.0 → 4.5.0_1, `core-lightning` 26.06.9_1 → 26.06.10, `dart-sass` 1.108.0 → 1.108.1, `dbml-cli` 11.0.1 → 11.1.0, `deepline` 0.3.472 → 0.3.475, `desed` 1.2.2 → 1.2.3, `dockerfmt` 0.5.4 → 0.6.0, `dotdrop` 1.18.0 → 1.18.1, `duplicity` 3.2.2 → 3.2.2_1, `dvc` 3.67.1_19 → 3.67.1_20, `emscripten` 6.0.13 → 7.0.0, `evernote-backup` 1.14.0_2 → 1.14.0_3, `fd` 10.5.1 → 10.5.2, `ffmate` 2.1.0 → 2.1.1, `flow` 0.338.0 → 0.339.0, `freetds` 1.5.20 → 1.5.21 …
+- **Registered 1 casks**: `tree-outliner`
+- Updated 55 casks: `amp-app` 1.0,1150 → 1.0,1170, `antigravity-cli` 1.5.2,4951595792859136 → 1.5.3,6604829099950080, `artcraft-launcher` 0.15.0 → 0.16.0, `audius` 1.5.180 → 1.5.181, `bettermacwidgets` 2.13.0 → 2.13.2, `bettertouchtool` 6.1104,2026110405 → 6.1110,2026110705, `biscuit` 2.2.8 → 2.2.9, `brilliant` 1.0.0-beta.113 → 1.0.0-beta.114, `cc-pocket` 1.158.1,299 → 1.160.0,301, `cc-switch` 4.0.26 → 4.0.27, `chatgpt` 26.1103.32239 → 26.1103.41825, `coderabbit` 0.9.2 → 0.9.3, `codexbar` 0.83.0 → 0.84.0, `comfy` 1.1.8,26102263fz4azlz → 1.1.9,2611063zxyb71c9, `cuadriver` 0.41.2 → 0.41.3, `deviceshelf` 1.9.87 → 1.9.89, `discord@canary` 0.0.1525 → 0.0.1526, `distill-web-monitor` 4.3.0-beta → 4.3.1-beta, `droid` 1.5.0 → 1.6.0, `element@nightly` 2026110601 → 2026110701, `emacs-app@nightly` 2026-11-06_00-09-19,d4d7aeeaa6975aa0c1ab47cc51e5169f7bc90199 → 2026-11-07_00-09-17,879f04811883ee3331a7b2a75c356e85aa41ac4e, `factory` 1.5.0 → 1.6.0, `fmail3` 3.0.4 → 3.1.0, `freelens@nightly` 2.0.1-0-nightly-2026-11-06 → 2.0.1-0-nightly-2026-11-07, `freellmapi` 0.16.20 → 0.16.21 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-07T06:07:50Z
 
 - **Registered 2 formulae**: `goda`, `safe-chain`
