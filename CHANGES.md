@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-07T20:16:32Z
+
+- **Registered 1 formulae**: `krunkit`
+- Updated 52 formulae: `automake` 1.19 → 1.20, `aws-sdk-cpp` 1.11.923 → 1.11.924, `baguette` 0.2.13 → 0.2.14, `batt` 0.9.0 → 0.10.0, `bkmr` 7.10.2 → 8.0.0, `context7-mcp` 4.5.0 → 4.5.1, `cookcli` 0.40.0 → 0.41.0, `ctx7` 0.9.0 → 0.10.0, `dagu` 2.25.8 → 2.26.0, `ejdb` 2.97 → 2.98, `fallow` 3.40.0 → 3.41.0, `fmt` 12.2.0 → 12.2.1, `fzf` 0.74.5 → 0.75.0, `getparty` 1.28.3 → 1.29.0, `git-pkgs` 0.21.0 → 0.22.0, `janet` 1.42.1 → 1.43.0, `jupyterlab` 4.6.5 → 4.6.6, `kubevpn` 2.11.10 → 2.12.0, `ladybug` 0.22.1 → 0.22.3, `letta-code` 0.34.41 → 0.34.42, `lfk` 0.19.15 → 0.19.16, `luau` 0.745 → 0.746, `mise` 2026.11.3 → 2026.11.4, `mlt` 7.42.0 → 7.42.0_1, `mycorrhiza` 1.15.1 → 1.16.0 …
+- **Registered 1 casks**: `texpile`
+- Updated 20 casks: `amp-app` 1.0,1170 → 1.0,1180, `batfi` 4.0.3 → 4.1.0, `biscuit` 2.2.9 → 2.2.10, `bookends` 16.0.1 → 16.0.2, `firefox@nightly` 162.0a1,2026-11-06-17-16-55 → 162.0a1,2026-11-07-09-25-11, `flameshot` 14.0.0,14.0,git0.da6121bd → 15.0.0,15.0.0,git0.f4f2e4e, `kero` 2.1.34 → 2.1.35, `luxury-yacht` 2.8.4 → 2.8.5, `magpie` 0.1.3225 → 0.1.3275, `mindroom` 2026.11.160 → 2026.11.170, `multiviewer` 2.15.1,P0KbA5YHNsJde0u6S0E1LCaT_SAMb4NE → 2.15.2,terCtte6JFvMxe70aABmMy0RxFcNVEnp, `nvalt` 3.0.31,160 → 3.0.32,161, `pgen` 1.20.0 → 1.21.0, `recut` 4.5.6,eyJfcmFpbHMiOnsiZGF0YSI6MjM5LCJwdXIiOiJibG9iX2lkIn19--3f6c19d3f2b25ee11e2f71cdcd58c995ca94ad6b → 4.5.7,eyJfcmFpbHMiOnsiZGF0YSI6MjQ3LCJwdXIiOiJibG9iX2lkIn19--0e34e367b7e81bacef5da885e1a5198c16171c7a, `supacode` 0.11.6 → 0.11.7, `t3-code@nightly` 0.1.8-nightly.20261107.4314 → 0.1.8-nightly.20261107.4327, `thecommander` 1.11.0 → 1.11.1, `thunderbird@daily` 162.0a1,2026-11-06-09-56-54 → 162.0a1,2026-11-07-10-20-03, `wailbrew` 0.14.1 → 0.14.2, `znote` 4.9.3 → 4.10.0
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-07T14:55:58Z
 
 - **Registered 1 formulae**: `libkrun`

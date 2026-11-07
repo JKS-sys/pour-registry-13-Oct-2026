@@ -1,0 +1,379 @@
+{
+ "synced_at": "2026-11-07T20:16:32Z",
+ "casks": {
+  "added": [
+   "texpile"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.0,1170",
+    "name": "amp-app",
+    "to": "1.0,1180"
+   },
+   {
+    "from": "4.0.3",
+    "name": "batfi",
+    "to": "4.1.0"
+   },
+   {
+    "from": "2.2.9",
+    "name": "biscuit",
+    "to": "2.2.10"
+   },
+   {
+    "from": "16.0.1",
+    "name": "bookends",
+    "to": "16.0.2"
+   },
+   {
+    "from": "162.0a1,2026-11-06-17-16-55",
+    "name": "firefox@nightly",
+    "to": "162.0a1,2026-11-07-09-25-11"
+   },
+   {
+    "from": "14.0.0,14.0,git0.da6121bd",
+    "name": "flameshot",
+    "to": "15.0.0,15.0.0,git0.f4f2e4e"
+   },
+   {
+    "from": "2.1.34",
+    "name": "kero",
+    "to": "2.1.35"
+   },
+   {
+    "from": "2.8.4",
+    "name": "luxury-yacht",
+    "to": "2.8.5"
+   },
+   {
+    "from": "0.1.3225",
+    "name": "magpie",
+    "to": "0.1.3275"
+   },
+   {
+    "from": "2026.11.160",
+    "name": "mindroom",
+    "to": "2026.11.170"
+   },
+   {
+    "from": "2.15.1,P0KbA5YHNsJde0u6S0E1LCaT_SAMb4NE",
+    "name": "multiviewer",
+    "to": "2.15.2,terCtte6JFvMxe70aABmMy0RxFcNVEnp"
+   },
+   {
+    "from": "3.0.31,160",
+    "name": "nvalt",
+    "to": "3.0.32,161"
+   },
+   {
+    "from": "1.20.0",
+    "name": "pgen",
+    "to": "1.21.0"
+   },
+   {
+    "from": "4.5.6,eyJfcmFpbHMiOnsiZGF0YSI6MjM5LCJwdXIiOiJibG9iX2lkIn19--3f6c19d3f2b25ee11e2f71cdcd58c995ca94ad6b",
+    "name": "recut",
+    "to": "4.5.7,eyJfcmFpbHMiOnsiZGF0YSI6MjQ3LCJwdXIiOiJibG9iX2lkIn19--0e34e367b7e81bacef5da885e1a5198c16171c7a"
+   },
+   {
+    "from": "0.11.6",
+    "name": "supacode",
+    "to": "0.11.7"
+   },
+   {
+    "from": "0.1.8-nightly.20261107.4314",
+    "name": "t3-code@nightly",
+    "to": "0.1.8-nightly.20261107.4327"
+   },
+   {
+    "from": "1.11.0",
+    "name": "thecommander",
+    "to": "1.11.1"
+   },
+   {
+    "from": "162.0a1,2026-11-06-09-56-54",
+    "name": "thunderbird@daily",
+    "to": "162.0a1,2026-11-07-10-20-03"
+   },
+   {
+    "from": "0.14.1",
+    "name": "wailbrew",
+    "to": "0.14.2"
+   },
+   {
+    "from": "4.9.3",
+    "name": "znote",
+    "to": "4.10.0"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [
+   "krunkit"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.19",
+    "name": "automake",
+    "to": "1.20"
+   },
+   {
+    "from": "1.11.923",
+    "name": "aws-sdk-cpp",
+    "to": "1.11.924"
+   },
+   {
+    "from": "0.2.13",
+    "name": "baguette",
+    "to": "0.2.14"
+   },
+   {
+    "from": "0.9.0",
+    "name": "batt",
+    "to": "0.10.0"
+   },
+   {
+    "from": "7.10.2",
+    "name": "bkmr",
+    "to": "8.0.0"
+   },
+   {
+    "from": "4.5.0",
+    "name": "context7-mcp",
+    "to": "4.5.1"
+   },
+   {
+    "from": "0.40.0",
+    "name": "cookcli",
+    "to": "0.41.0"
+   },
+   {
+    "from": "0.9.0",
+    "name": "ctx7",
+    "to": "0.10.0"
+   },
+   {
+    "from": "2.25.8",
+    "name": "dagu",
+    "to": "2.26.0"
+   },
+   {
+    "from": "2.97",
+    "name": "ejdb",
+    "to": "2.98"
+   },
+   {
+    "from": "3.40.0",
+    "name": "fallow",
+    "to": "3.41.0"
+   },
+   {
+    "from": "12.2.0",
+    "name": "fmt",
+    "to": "12.2.1"
+   },
+   {
+    "from": "0.74.5",
+    "name": "fzf",
+    "to": "0.75.0"
+   },
+   {
+    "from": "1.28.3",
+    "name": "getparty",
+    "to": "1.29.0"
+   },
+   {
+    "from": "0.21.0",
+    "name": "git-pkgs",
+    "to": "0.22.0"
+   },
+   {
+    "from": "1.42.1",
+    "name": "janet",
+    "to": "1.43.0"
+   },
+   {
+    "from": "4.6.5",
+    "name": "jupyterlab",
+    "to": "4.6.6"
+   },
+   {
+    "from": "2.11.10",
+    "name": "kubevpn",
+    "to": "2.12.0"
+   },
+   {
+    "from": "0.22.1",
+    "name": "ladybug",
+    "to": "0.22.3"
+   },
+   {
+    "from": "0.34.41",
+    "name": "letta-code",
+    "to": "0.34.42"
+   },
+   {
+    "from": "0.19.15",
+    "name": "lfk",
+    "to": "0.19.16"
+   },
+   {
+    "from": "0.745",
+    "name": "luau",
+    "to": "0.746"
+   },
+   {
+    "from": "2026.11.3",
+    "name": "mise",
+    "to": "2026.11.4"
+   },
+   {
+    "from": "7.42.0",
+    "name": "mlt",
+    "to": "7.42.0_1"
+   },
+   {
+    "from": "1.15.1",
+    "name": "mycorrhiza",
+    "to": "1.16.0"
+   },
+   {
+    "from": "8.23.3",
+    "name": "neonctl",
+    "to": "8.23.4"
+   },
+   {
+    "from": "1.35.0",
+    "name": "oasdiff",
+    "to": "1.36.0"
+   },
+   {
+    "from": "20.36.3",
+    "name": "oh-my-agent",
+    "to": "20.36.5"
+   },
+   {
+    "from": "5.0.0_12",
+    "name": "opencv",
+    "to": "5.1.0"
+   },
+   {
+    "from": "0.76.0",
+    "name": "oxfmt",
+    "to": "0.77.0"
+   },
+   {
+    "from": "1.5.0",
+    "name": "pgstream",
+    "to": "1.6.0"
+   },
+   {
+    "from": "1.18.14",
+    "name": "pipx",
+    "to": "1.18.15"
+   },
+   {
+    "from": "0.3.1",
+    "name": "portop",
+    "to": "0.4.0"
+   },
+   {
+    "from": "12.16",
+    "name": "primesieve",
+    "to": "12.17"
+   },
+   {
+    "from": "5.47.0_1",
+    "name": "prowler",
+    "to": "5.48.0"
+   },
+   {
+    "from": "0.26.8",
+    "name": "qwen-code",
+    "to": "0.26.9"
+   },
+   {
+    "from": "1.0.1",
+    "name": "rapid-mlx",
+    "to": "1.0.1_1"
+   },
+   {
+    "from": "4.67.5",
+    "name": "rollup",
+    "to": "4.68.0"
+   },
+   {
+    "from": "0.24.2",
+    "name": "rtabmap",
+    "to": "0.24.2_1"
+   },
+   {
+    "from": "43.6.2",
+    "name": "rulesync",
+    "to": "43.7.0"
+   },
+   {
+    "from": "1.13.0",
+    "name": "rura",
+    "to": "1.14.0"
+   },
+   {
+    "from": "2026.10.24.1",
+    "name": "scrutineer",
+    "to": "2026.11.07.1"
+   },
+   {
+    "from": "1.4.5",
+    "name": "siril",
+    "to": "1.4.5_1"
+   },
+   {
+    "from": "0.16.0",
+    "name": "supabase-mcp-server",
+    "to": "0.16.1"
+   },
+   {
+    "from": "0.4-20261107-git-d0cdfa1",
+    "name": "supermodel",
+    "to": "0.4-20261107-git-4926081"
+   },
+   {
+    "from": "0.11.0",
+    "name": "termaid",
+    "to": "0.12.0"
+   },
+   {
+    "from": "5.10.1",
+    "name": "todoist-cli",
+    "to": "5.11.0"
+   },
+   {
+    "from": "4.67.12",
+    "name": "tox",
+    "to": "4.67.13"
+   },
+   {
+    "from": "3.7.0_10",
+    "name": "visp",
+    "to": "3.7.0_11"
+   },
+   {
+    "from": "0.1.279",
+    "name": "workmux",
+    "to": "0.1.280"
+   },
+   {
+    "from": "20261002",
+    "name": "yle-dl",
+    "to": "20261106"
+   },
+   {
+    "from": "65.17",
+    "name": "zpaqfranz",
+    "to": "65.18"
+   }
+  ]
+ }
+}
