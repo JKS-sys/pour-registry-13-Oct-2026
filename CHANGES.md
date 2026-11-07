@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-07T06:07:50Z
+
+- **Registered 2 formulae**: `goda`, `safe-chain`
+- Updated 68 formulae: `ascelerate` 0.32.0 → 0.32.1, `awk` 20260426 → 20261106, `aws-lc` 5.12.0 → 5.13.0, `awscli` 2.39.5 → 2.39.6, `awscli@1` 1.46.2 → 1.46.3, `botan` 3.14.0 → 3.14.1, `c2patool` 0.28.4 → 0.28.6, `cfengine` 3.28.0_1 → 3.29.0, `cfn-lint` 1.59.0 → 1.60.0, `cliproxyapi` 8.0.57 → 8.0.58, `container` 1.6.1 → 1.7.1, `cpp-peglib` 1.30.0 → 1.31.0, `designcraft-cli` 0.17.2 → 0.18.0, `diffle` 0.3.6 → 0.4.0, `diffoscope` 336 → 337, `eas-cli` 27.4.1 → 27.5.0, `enzyme` 0.0.306 → 0.0.307, `fern-api` 5.197.0 → 5.199.0, `filmcraft-cli` 0.17.1 → 0.18.0, `gabo` 1.26.0 → 1.27.0, `gdu` 5.38.0 → 5.39.0, `gridcraft-cli` 0.16.1 → 0.17.0, `harper` 3.0.0 → 3.1.0, `httpd` 2.4.69_1 → 2.4.70, `hubble` 1.20.2 → 1.20.4 …
+- **Registered 3 casks**: `read-ai`, `tinycast@beta`, `wallpapermachine`
+- **De-registered 1 casks**: `nzbvortex`
+- Updated 90 casks: `alma` 0.4.473 → 0.4.480, `amp-app` 1.0,1140 → 1.0,1150, `aphera` 1.8.1 → 1.9.0, `artcraft` 0.41.0 → 0.41.1, `artcraft-launcher` 0.14.1 → 0.15.0, `backdrop` 2.10.5,146 → 2.10.6,147, `bb` 0.48.1 → 0.49.0, `beekeeper-studio` 6.2.1 → 6.2.2, `bettertouchtool@alpha` 6.1105,2026110406 → 6.1107,2026110702, `busycal` 2026.4.5,2026-11-06-09-31-42 → 2026.4.5,2026-11-07-02-54-51, `butterkit` 3.2.30 → 3.3.01, `cadcraft` 0.17.1 → 0.18.0, `cog-app` 3877,0fb3d97d6 → 3880,af67a918a, `colamd` 2.7.9 → 2.7.11, `copilot-cli` 1.0.106 → 1.0.107, `copilot-cli@prerelease` 1.0.106-11 → 1.0.108-1, `cuadriver` 0.40.2 → 0.41.2, `deckcraft` 0.15.1 → 0.16.0, `designcraft` 0.17.2 → 0.18.0, `devin-cli` 3000.11.234 → 3000.12.17, `devin-desktop` 3.11.238,9e593c73d4ca24802eb3b302035f33cedad59802 → 3.12.17,d23bb600ed8f90d7d985cef5ceca9b9235e88911, `devin-desktop@next` 3.11.1238+next.9e593c73d4,9e593c73d4ca24802eb3b302035f33cedad59802 → 3.12.1017+next.d23bb600ed,d23bb600ed8f90d7d985cef5ceca9b9235e88911, `discord@canary` 0.0.1513 → 0.0.1525, `discord@ptb` 0.0.269 → 0.0.270, `djv` 3.7.5 → 3.7.6 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-06T21:34:03Z
 
 - Updated 40 formulae: `appwrite` 28.10.2 → 28.11.0, `apt` 3.3.6 → 3.3.7, `aws-cdk` 2.1147.0 → 2.1148.0, `bkmr` 7.9.1 → 7.10.1, `eccodes` 2.50.0 → 2.50.1, `entire-cli` 0.12.2 → 0.13.1, `goredo` 2.10.0 → 2.11.0, `kosli-cli` 2.54.0 → 2.55.0, `kubevela` 1.11.0 → 1.11.1, `lazy-tmux` 0.3.4 → 0.3.5, `libplist` 2.8.0 → 2.8.1, `lima` 2.2.1 → 2.3.0, `lima-additional-guestagents` 2.2.1 → 2.3.0, `lovable-oj` 0.4.3 → 0.4.4, `mapproxy` 8.0.1 → 8.1.0, `mcp-publisher` 1.8.7 → 1.8.8, `memex` 0.32.0 → 0.33.0, `mighttpd2` 4.0.11 → 4.0.12, `neo4j` 2026.10.1 → 2026.10.2, `nexttrace` 1.7.5 → 1.7.6, `nub` 0.9.7 → 0.10.0, `oasis` 0.22.1 → 0.22.2, `overturemaps` 1.0.2_1 → 1.0.3, `oxlint` 1.91.0 → 1.92.0, `parca` 0.29.1 → 0.30.0 …

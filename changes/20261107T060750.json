@@ -1,0 +1,814 @@
+{
+ "synced_at": "2026-11-07T06:07:50Z",
+ "casks": {
+  "added": [
+   "read-ai",
+   "tinycast@beta",
+   "wallpapermachine"
+  ],
+  "removed": [
+   "nzbvortex"
+  ],
+  "updated": [
+   {
+    "from": "0.4.473",
+    "name": "alma",
+    "to": "0.4.480"
+   },
+   {
+    "from": "1.0,1140",
+    "name": "amp-app",
+    "to": "1.0,1150"
+   },
+   {
+    "from": "1.8.1",
+    "name": "aphera",
+    "to": "1.9.0"
+   },
+   {
+    "from": "0.41.0",
+    "name": "artcraft",
+    "to": "0.41.1"
+   },
+   {
+    "from": "0.14.1",
+    "name": "artcraft-launcher",
+    "to": "0.15.0"
+   },
+   {
+    "from": "2.10.5,146",
+    "name": "backdrop",
+    "to": "2.10.6,147"
+   },
+   {
+    "from": "0.48.1",
+    "name": "bb",
+    "to": "0.49.0"
+   },
+   {
+    "from": "6.2.1",
+    "name": "beekeeper-studio",
+    "to": "6.2.2"
+   },
+   {
+    "from": "6.1105,2026110406",
+    "name": "bettertouchtool@alpha",
+    "to": "6.1107,2026110702"
+   },
+   {
+    "from": "2026.4.5,2026-11-06-09-31-42",
+    "name": "busycal",
+    "to": "2026.4.5,2026-11-07-02-54-51"
+   },
+   {
+    "from": "3.2.30",
+    "name": "butterkit",
+    "to": "3.3.01"
+   },
+   {
+    "from": "0.17.1",
+    "name": "cadcraft",
+    "to": "0.18.0"
+   },
+   {
+    "from": "3877,0fb3d97d6",
+    "name": "cog-app",
+    "to": "3880,af67a918a"
+   },
+   {
+    "from": "2.7.9",
+    "name": "colamd",
+    "to": "2.7.11"
+   },
+   {
+    "from": "1.0.106",
+    "name": "copilot-cli",
+    "to": "1.0.107"
+   },
+   {
+    "from": "1.0.106-11",
+    "name": "copilot-cli@prerelease",
+    "to": "1.0.108-1"
+   },
+   {
+    "from": "0.40.2",
+    "name": "cuadriver",
+    "to": "0.41.2"
+   },
+   {
+    "from": "0.15.1",
+    "name": "deckcraft",
+    "to": "0.16.0"
+   },
+   {
+    "from": "0.17.2",
+    "name": "designcraft",
+    "to": "0.18.0"
+   },
+   {
+    "from": "3000.11.234",
+    "name": "devin-cli",
+    "to": "3000.12.17"
+   },
+   {
+    "from": "3.11.238,9e593c73d4ca24802eb3b302035f33cedad59802",
+    "name": "devin-desktop",
+    "to": "3.12.17,d23bb600ed8f90d7d985cef5ceca9b9235e88911"
+   },
+   {
+    "from": "3.11.1238+next.9e593c73d4,9e593c73d4ca24802eb3b302035f33cedad59802",
+    "name": "devin-desktop@next",
+    "to": "3.12.1017+next.d23bb600ed,d23bb600ed8f90d7d985cef5ceca9b9235e88911"
+   },
+   {
+    "from": "0.0.1513",
+    "name": "discord@canary",
+    "to": "0.0.1525"
+   },
+   {
+    "from": "0.0.269",
+    "name": "discord@ptb",
+    "to": "0.0.270"
+   },
+   {
+    "from": "3.7.5",
+    "name": "djv",
+    "to": "3.7.6"
+   },
+   {
+    "from": "0.0.60",
+    "name": "drawpen",
+    "to": "0.0.61"
+   },
+   {
+    "from": "1.660.965",
+    "name": "earnapp",
+    "to": "1.760.676"
+   },
+   {
+    "from": "0.21.1",
+    "name": "effectcraft",
+    "to": "0.22.0"
+   },
+   {
+    "from": "5.8.0",
+    "name": "electerm",
+    "to": "5.9.0"
+   },
+   {
+    "from": "2026.11.05.914",
+    "name": "expandrive",
+    "to": "2026.11.06.916"
+   },
+   {
+    "from": "0.15.1",
+    "name": "figcraft",
+    "to": "0.16.0"
+   },
+   {
+    "from": "126.11.7",
+    "name": "figma",
+    "to": "126.11.8"
+   },
+   {
+    "from": "126.11.7",
+    "name": "figma-agent",
+    "to": "126.11.8"
+   },
+   {
+    "from": "0.17.1",
+    "name": "filmcraft",
+    "to": "0.18.0"
+   },
+   {
+    "from": "162.0a1,2026-11-06-04-41-22",
+    "name": "firefox@nightly",
+    "to": "162.0a1,2026-11-06-17-16-55"
+   },
+   {
+    "from": "1.10.1",
+    "name": "fore-studio-vitals",
+    "to": "1.10.2"
+   },
+   {
+    "from": "1.39.2",
+    "name": "gather",
+    "to": "1.41.3"
+   },
+   {
+    "from": "18675,66af4c7458db7e19ae7adb44aa7054879be58b6b",
+    "name": "ghostty@tip",
+    "to": "18725,5acdbf154369928eb228d2263cbe612d165f7569"
+   },
+   {
+    "from": "159.0.8146.0",
+    "name": "google-chrome@canary",
+    "to": "159.0.8147.0"
+   },
+   {
+    "from": "0.16.1",
+    "name": "gridcraft",
+    "to": "0.17.0"
+   },
+   {
+    "from": "0.79.2",
+    "name": "grok-bot",
+    "to": "0.79.3"
+   },
+   {
+    "from": "3.0.0",
+    "name": "harper-desktop",
+    "to": "3.1.0"
+   },
+   {
+    "from": "3.14.0,434",
+    "name": "hedy",
+    "to": "3.15.0,436"
+   },
+   {
+    "from": "1.1.1",
+    "name": "langdock",
+    "to": "1.1.2"
+   },
+   {
+    "from": "0.18.1",
+    "name": "lightcraft",
+    "to": "0.19.0"
+   },
+   {
+    "from": "0.110.0",
+    "name": "lody",
+    "to": "0.110.1"
+   },
+   {
+    "from": "2.22.1",
+    "name": "macskk",
+    "to": "2.22.2"
+   },
+   {
+    "from": "0.59.2",
+    "name": "maestri",
+    "to": "0.59.4"
+   },
+   {
+    "from": "0.1.3175",
+    "name": "magpie",
+    "to": "0.1.3200"
+   },
+   {
+    "from": "1.47.0",
+    "name": "microsoft-azure-storage-explorer",
+    "to": "1.47.1"
+   },
+   {
+    "from": "158.0.4370.1,125e6876-209c-41e9-bc35-d464970a5bab",
+    "name": "microsoft-edge@beta",
+    "to": "158.0.4370.7,2511d1cb-4121-41db-8aca-66ee7f067751"
+   },
+   {
+    "from": "0.9.53",
+    "name": "monarch",
+    "to": "0.9.64"
+   },
+   {
+    "from": "2.1.6",
+    "name": "neon-vision-editor",
+    "to": "2.1.7"
+   },
+   {
+    "from": "9.3.4",
+    "name": "netron",
+    "to": "9.3.5"
+   },
+   {
+    "from": "0.5.0",
+    "name": "nodeterm",
+    "to": "0.5.1"
+   },
+   {
+    "from": "3.0.29,158",
+    "name": "nvalt",
+    "to": "3.0.31,160"
+   },
+   {
+    "from": "0.56.0",
+    "name": "octarine",
+    "to": "0.56.1"
+   },
+   {
+    "from": "3.4.0",
+    "name": "only-switch",
+    "to": "3.5.0"
+   },
+   {
+    "from": "1.0.8",
+    "name": "open-science",
+    "to": "1.1.0"
+   },
+   {
+    "from": "2.2.5",
+    "name": "opencode-desktop",
+    "to": "2.2.6"
+   },
+   {
+    "from": "2.97.0",
+    "name": "opencodex",
+    "to": "2.98.0"
+   },
+   {
+    "from": "1.0.210",
+    "name": "openframe-console",
+    "to": "1.0.212"
+   },
+   {
+    "from": "4.1.1,18616-528ebb15-e0aa3886",
+    "name": "openshot-video-editor@daily",
+    "to": "4.1.1,18619-528ebb15-e0aa3886"
+   },
+   {
+    "from": "7.24.0",
+    "name": "owlocr",
+    "to": "7.24.1"
+   },
+   {
+    "from": "0.18.2",
+    "name": "pdfcraft",
+    "to": "0.19.0"
+   },
+   {
+    "from": "0.20.2",
+    "name": "photocraft",
+    "to": "0.21.0"
+   },
+   {
+    "from": "3.0.0-alpha13",
+    "name": "prusaslicer@preview",
+    "to": "3.0.0-alpha14"
+   },
+   {
+    "from": "1.13.3",
+    "name": "purge",
+    "to": "1.13.4"
+   },
+   {
+    "from": "3.32.3.141490",
+    "name": "readdle-spark",
+    "to": "3.32.3.141510"
+   },
+   {
+    "from": "0.1.3446",
+    "name": "reader",
+    "to": "0.1.3449"
+   },
+   {
+    "from": "4.5.5,eyJfcmFpbHMiOnsiZGF0YSI6MjMxLCJwdXIiOiJibG9iX2lkIn19--80411ac4f16cec4ad72f7d8472c2259f383d6fae",
+    "name": "recut",
+    "to": "4.5.6,eyJfcmFpbHMiOnsiZGF0YSI6MjM5LCJwdXIiOiJibG9iX2lkIn19--3f6c19d3f2b25ee11e2f71cdcd58c995ca94ad6b"
+   },
+   {
+    "from": "0.8.7",
+    "name": "retrace",
+    "to": "0.9.0"
+   },
+   {
+    "from": "1.3.3",
+    "name": "riverscript",
+    "to": "1.3.5"
+   },
+   {
+    "from": "2026.11.0-202",
+    "name": "rstudio@daily",
+    "to": "2026.11.0-203"
+   },
+   {
+    "from": "2.3.2,737",
+    "name": "screenkite",
+    "to": "3.0.0,738"
+   },
+   {
+    "from": "0.17.1",
+    "name": "soundcraft",
+    "to": "0.18.0"
+   },
+   {
+    "from": "19.3.1",
+    "name": "super-productivity",
+    "to": "20.0.0"
+   },
+   {
+    "from": "1044.0.3",
+    "name": "superhuman",
+    "to": "1044.0.4"
+   },
+   {
+    "from": "1.58.4",
+    "name": "superlist",
+    "to": "1.58.5"
+   },
+   {
+    "from": "0.1.8-nightly.20261106.4275",
+    "name": "t3-code@nightly",
+    "to": "0.1.8-nightly.20261107.4301"
+   },
+   {
+    "from": "18.11.8",
+    "name": "teleport-connect",
+    "to": "18.11.9"
+   },
+   {
+    "from": "18.11.8",
+    "name": "teleport-suite",
+    "to": "18.11.9"
+   },
+   {
+    "from": "1.3.8",
+    "name": "textus",
+    "to": "1.3.9"
+   },
+   {
+    "from": "3.4.4",
+    "name": "thelowtechguys-cling",
+    "to": "3.5.0"
+   },
+   {
+    "from": "0.21.1",
+    "name": "vectorcraft",
+    "to": "0.22.0"
+   },
+   {
+    "from": "65.11.0",
+    "name": "vercel",
+    "to": "65.12.1"
+   },
+   {
+    "from": "1.146.0-insider,1793938119476,d9cccddf6b34357c58b5bbfb60ea03d4c4d1df65",
+    "name": "visual-studio-code@insiders",
+    "to": "1.146.0-insider,1794013275187,6605820e9d1e17ed7589afb643570723a749a104"
+   },
+   {
+    "from": "0.14.0",
+    "name": "wailbrew",
+    "to": "0.14.1"
+   },
+   {
+    "from": "0.15.2",
+    "name": "wordcraft",
+    "to": "0.16.0"
+   },
+   {
+    "from": "8.0.512,8.98.0.107",
+    "name": "zulu@8",
+    "to": "8.0.512,8.98.0.111"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [
+   "goda",
+   "safe-chain"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.32.0",
+    "name": "ascelerate",
+    "to": "0.32.1"
+   },
+   {
+    "from": "20260426",
+    "name": "awk",
+    "to": "20261106"
+   },
+   {
+    "from": "5.12.0",
+    "name": "aws-lc",
+    "to": "5.13.0"
+   },
+   {
+    "from": "2.39.5",
+    "name": "awscli",
+    "to": "2.39.6"
+   },
+   {
+    "from": "1.46.2",
+    "name": "awscli@1",
+    "to": "1.46.3"
+   },
+   {
+    "from": "3.14.0",
+    "name": "botan",
+    "to": "3.14.1"
+   },
+   {
+    "from": "0.28.4",
+    "name": "c2patool",
+    "to": "0.28.6"
+   },
+   {
+    "from": "3.28.0_1",
+    "name": "cfengine",
+    "to": "3.29.0"
+   },
+   {
+    "from": "1.59.0",
+    "name": "cfn-lint",
+    "to": "1.60.0"
+   },
+   {
+    "from": "8.0.57",
+    "name": "cliproxyapi",
+    "to": "8.0.58"
+   },
+   {
+    "from": "1.6.1",
+    "name": "container",
+    "to": "1.7.1"
+   },
+   {
+    "from": "1.30.0",
+    "name": "cpp-peglib",
+    "to": "1.31.0"
+   },
+   {
+    "from": "0.17.2",
+    "name": "designcraft-cli",
+    "to": "0.18.0"
+   },
+   {
+    "from": "0.3.6",
+    "name": "diffle",
+    "to": "0.4.0"
+   },
+   {
+    "from": "336",
+    "name": "diffoscope",
+    "to": "337"
+   },
+   {
+    "from": "27.4.1",
+    "name": "eas-cli",
+    "to": "27.5.0"
+   },
+   {
+    "from": "0.0.306",
+    "name": "enzyme",
+    "to": "0.0.307"
+   },
+   {
+    "from": "5.197.0",
+    "name": "fern-api",
+    "to": "5.199.0"
+   },
+   {
+    "from": "0.17.1",
+    "name": "filmcraft-cli",
+    "to": "0.18.0"
+   },
+   {
+    "from": "1.26.0",
+    "name": "gabo",
+    "to": "1.27.0"
+   },
+   {
+    "from": "5.38.0",
+    "name": "gdu",
+    "to": "5.39.0"
+   },
+   {
+    "from": "0.16.1",
+    "name": "gridcraft-cli",
+    "to": "0.17.0"
+   },
+   {
+    "from": "3.0.0",
+    "name": "harper",
+    "to": "3.1.0"
+   },
+   {
+    "from": "2.4.69_1",
+    "name": "httpd",
+    "to": "2.4.70"
+   },
+   {
+    "from": "1.20.2",
+    "name": "hubble",
+    "to": "1.20.4"
+   },
+   {
+    "from": "0.3.0.2",
+    "name": "imagesnap",
+    "to": "0.3.1"
+   },
+   {
+    "from": "0.45.2",
+    "name": "infisical",
+    "to": "0.45.4"
+   },
+   {
+    "from": "1.31.3",
+    "name": "istioctl",
+    "to": "1.31.4"
+   },
+   {
+    "from": "4.0.674",
+    "name": "joern",
+    "to": "4.0.675"
+   },
+   {
+    "from": "1.23.0",
+    "name": "juliaup",
+    "to": "1.24.0"
+   },
+   {
+    "from": "3.6.218",
+    "name": "keploy",
+    "to": "3.6.222"
+   },
+   {
+    "from": "0.6.0",
+    "name": "ktop",
+    "to": "0.6.1"
+   },
+   {
+    "from": "1.19.0",
+    "name": "kubectl-radar",
+    "to": "1.20.0"
+   },
+   {
+    "from": "0.4.10_1",
+    "name": "libspelling",
+    "to": "0.4.11"
+   },
+   {
+    "from": "22.2.0",
+    "name": "libupnp",
+    "to": "22.2.1"
+   },
+   {
+    "from": "0.18.1",
+    "name": "lightcraft-cli",
+    "to": "0.19.0"
+   },
+   {
+    "from": "5.15.224",
+    "name": "linux-headers@5.15",
+    "to": "5.15.225"
+   },
+   {
+    "from": "0.4.4",
+    "name": "lovable-oj",
+    "to": "0.4.5"
+   },
+   {
+    "from": "0.10.0",
+    "name": "macmon",
+    "to": "0.11.0"
+   },
+   {
+    "from": "0.7.0",
+    "name": "maki",
+    "to": "0.7.1"
+   },
+   {
+    "from": "0.16.0",
+    "name": "mcp-remote",
+    "to": "0.16.1"
+   },
+   {
+    "from": "2.1.0",
+    "name": "morphe",
+    "to": "2.1.1"
+   },
+   {
+    "from": "8.23.1",
+    "name": "neonctl",
+    "to": "8.23.3"
+   },
+   {
+    "from": "1.107.1",
+    "name": "node-sass",
+    "to": "1.108.0"
+   },
+   {
+    "from": "2.2.5",
+    "name": "opencode",
+    "to": "2.2.6"
+   },
+   {
+    "from": "0.18.2",
+    "name": "pdfcraft-cli",
+    "to": "0.19.0"
+   },
+   {
+    "from": "0.20.2",
+    "name": "photocraft-cli",
+    "to": "0.21.0"
+   },
+   {
+    "from": "1.18.13",
+    "name": "pipx",
+    "to": "1.18.14"
+   },
+   {
+    "from": "0.8.0",
+    "name": "pkl-lsp",
+    "to": "0.9.0"
+   },
+   {
+    "from": "0.78.0",
+    "name": "ponyc",
+    "to": "0.78.1"
+   },
+   {
+    "from": "7.0.4",
+    "name": "psalm",
+    "to": "7.0.5"
+   },
+   {
+    "from": "2.4.1",
+    "name": "pup",
+    "to": "2.4.2"
+   },
+   {
+    "from": "2.14.2",
+    "name": "pydantic",
+    "to": "2.14.3"
+   },
+   {
+    "from": "3.11.2",
+    "name": "python-markdown",
+    "to": "3.11.3"
+   },
+   {
+    "from": "2.35.0",
+    "name": "render",
+    "to": "2.36.0"
+   },
+   {
+    "from": "0.9.72",
+    "name": "schema-evolution-manager",
+    "to": "0.9.73"
+   },
+   {
+    "from": "1.183.0",
+    "name": "semgrep",
+    "to": "1.184.0"
+   },
+   {
+    "from": "2.0.5_1",
+    "name": "signalwire-client-c",
+    "to": "2.0.6"
+   },
+   {
+    "from": "0.25.3",
+    "name": "summarize",
+    "to": "0.26.0"
+   },
+   {
+    "from": "0.4-20261106-git-345c3ad",
+    "name": "supermodel",
+    "to": "0.4-20261107-git-b9cc0d6"
+   },
+   {
+    "from": "0.15.0",
+    "name": "swctl",
+    "to": "0.16.0"
+   },
+   {
+    "from": "2.1.1",
+    "name": "tele",
+    "to": "2.1.2"
+   },
+   {
+    "from": "0.10.0",
+    "name": "termaid",
+    "to": "0.11.0"
+   },
+   {
+    "from": "5.10.0",
+    "name": "todoist-cli",
+    "to": "5.10.1"
+   },
+   {
+    "from": "4.67.11",
+    "name": "tox",
+    "to": "4.67.12"
+   },
+   {
+    "from": "0.21.1",
+    "name": "vectorcraft-cli",
+    "to": "0.22.0"
+   },
+   {
+    "from": "1.10.0",
+    "name": "versitygw",
+    "to": "1.11.0"
+   },
+   {
+    "from": "0.15.2",
+    "name": "wordcraft-cli",
+    "to": "0.16.0"
+   }
+  ]
+ }
+}
