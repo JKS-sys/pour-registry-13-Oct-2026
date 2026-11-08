@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-08T15:19:12Z
+
+- Updated 42 formulae: `asccli` 0.18.8 → 0.18.9, `bashunit` 0.52.0 → 0.53.0, `behaviortree.cpp` 4.10.0 → 4.11.0, `corsixth` 0.70.1_1 → 0.70.2, `cryptominisat` 5.17.0_1 → 5.18.0, `dbx-cli` 0.4.140 → 0.4.141, `deepline` 0.3.475 → 0.3.484, `dunamai` 1.26.3 → 1.26.4, `evnx` 0.12.0 → 0.13.0, `fabric-ai` 1.4.564 → 1.4.565, `glances` 4.5.8_1 → 4.5.9, `ipatool` 2.7.0 → 2.8.0, `jackett` 0.24.3025 → 0.24.3030, `jscpd` 5.4.2 → 5.4.3, `keploy` 3.6.223 → 3.6.224, `libhdhomerun` 20260313 → 20261107, `lizard-analyzer` 1.25.0 → 1.25.1, `mac` 13.45 → 13.46, `mail-deduplicate` 9.5.0 → 9.6.0, `mcp-remote` 0.16.4 → 0.16.5, `mole` 1.69.0 → 1.70.0, `n8n-mcp` 2.101.1 → 2.101.2, `pay` 0.29.0 → 0.30.0, `pipx` 1.18.15 → 1.18.16, `psalm` 7.0.5 → 7.1.0 …
+- Updated 42 casks: `amp-app` 1.0,1180 → 1.0,1190, `appgridmac` 1.2.15 → 1.2.16, `bettermouse` 1.7,9059 → 1.7,9092, `bramble` 0.15.0 → 0.16.0, `chatbox` 1.24.1 → 1.24.2, `cocoapacketanalyzer` 4.1.0 → 4.2.0, `codebuddy-cn` 4.12.3.42658816,8e9c06cb → 4.12.4.43368774,62ef1801, `dda` 0.40.0 → 0.40.1, `diversion` 1.6.1023 → 1.6.1048, `dolphin` 2609a → 2609b, `fluxer` 2026.1107.235046 → 2026.1108.50402, `font-sketchybar-app-font` 3.0.20 → 3.0.21, `fore-studio-vitals` 1.10.2 → 1.10.3, `freellmapi` 0.16.21 → 0.16.22, `geolibre` 3.6.1 → 3.7.0, `ghostex` 11.0.0 → 11.1.0, `ghostty@tip` 18725,5acdbf154369928eb228d2263cbe612d165f7569 → 18743,e035beb9437118b803830a5864ea2f4dd7094354, `google-chrome@canary` 159.0.8149.0 → 159.0.8150.0, `google-gemini` 1.138.0.1315 → 1.141.3.1394, `headroom` 0.9.56 → 0.9.57, `iterm2@nightly` 3_7_20261107 → 3_7_20261108, `koodo-reader` 2.4.6 → 2.4.7, `luanti` 5.17.0,12.3 → 5.18.0,12.3, `magpie` 0.1.3300 → 0.1.3325, `mindroom` 2026.11.190 → 2026.11.210 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-08T06:12:34Z
 
 - Updated 27 formulae: `agent-manager` 0.48.0 → 0.48.1, `checkbashisms` 2.26.14 → 2.26.15, `chiko` 0.2.0 → 0.3.0, `claude-code-templates` 1.32.1 → 1.32.2, `cliproxyapi` 8.0.58 → 8.0.60, `croc` 11.6.4 → 11.6.5, `fern-api` 5.199.0 → 5.200.0, `git-pkgs-forge` 0.10.1 → 0.11.0, `gixy` 0.2.60 → 0.2.61, `joern` 4.0.675 → 4.0.676, `just-lsp` 0.11.0 → 0.11.1, `lazygit` 0.66.2 → 0.66.3, `letta-code` 0.34.42 → 0.34.44, `linecast` 2.11.0 → 2.12.0, `mailpit` 1.33.0 → 1.33.1, `mcp-remote` 0.16.1 → 0.16.4, `mq` 0.10.0 → 0.10.1, `neonctl` 9.1.0 → 9.2.0, `node-sass` 1.108.0 → 1.108.1, `nx` 24.0.4 → 24.0.5, `openspec` 1.16.0 → 1.16.1, `overturemaps` 2.0.0 → 2.1.0, `podman` 6.1.4 → 6.1.4_1, `sanity` 8.27.0 → 8.28.0, `schema-evolution-manager` 0.9.73 → 0.9.74 …
