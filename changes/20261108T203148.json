@@ -1,0 +1,293 @@
+{
+ "synced_at": "2026-11-08T20:31:48Z",
+ "casks": {
+  "added": [
+   "anomaly-hex"
+  ],
+  "removed": [
+   "kitlangton-hex",
+   "stravu-crystal"
+  ],
+  "updated": [
+   {
+    "from": "2.13.5",
+    "name": "almighty",
+    "to": "2.13.6"
+   },
+   {
+    "from": "4.0.27",
+    "name": "cc-switch",
+    "to": "4.0.28"
+   },
+   {
+    "from": "0.43.2",
+    "name": "cuadriver",
+    "to": "0.44.0"
+   },
+   {
+    "from": "4.8.3",
+    "name": "electrum",
+    "to": "4.8.4"
+   },
+   {
+    "from": "31.1-rc1",
+    "name": "emacs-app@pretest",
+    "to": "31.1.90"
+   },
+   {
+    "from": "162.0a1,2026-11-07-16-23-51",
+    "name": "firefox@nightly",
+    "to": "162.0a1,2026-11-08-09-13-45"
+   },
+   {
+    "from": "3.3.3316",
+    "name": "ganttproject",
+    "to": "3.3.3323"
+   },
+   {
+    "from": "11.1.0",
+    "name": "ghostex",
+    "to": "11.2.0"
+   },
+   {
+    "from": "0.20.5",
+    "name": "gloom",
+    "to": "0.20.6"
+   },
+   {
+    "from": "10.0.2.1",
+    "name": "grandtotal",
+    "to": "10.0.2.3"
+   },
+   {
+    "from": "0.1.13",
+    "name": "herdr-app",
+    "to": "0.1.14"
+   },
+   {
+    "from": "0.24.0",
+    "name": "iptvnator",
+    "to": "0.25.0"
+   },
+   {
+    "from": "1.21.2",
+    "name": "lagrange",
+    "to": "2.0.1"
+   },
+   {
+    "from": "2.6.0.306",
+    "name": "mac-performance-monitor",
+    "to": "2.7.0.312"
+   },
+   {
+    "from": "4.3.1",
+    "name": "microblog",
+    "to": "4.3.2"
+   },
+   {
+    "from": "2.3.0",
+    "name": "motrix",
+    "to": "2.4.0"
+   },
+   {
+    "from": "0.8.5",
+    "name": "muesli",
+    "to": "0.8.6"
+   },
+   {
+    "from": "2.15.2,terCtte6JFvMxe70aABmMy0RxFcNVEnp",
+    "name": "multiviewer",
+    "to": "2.16.0,GQvCwIgHt48OeEceEgUX3Gt5B8dkF05t"
+   },
+   {
+    "from": "17.3.12",
+    "name": "navicat-for-sql-server",
+    "to": "17.3.13"
+   },
+   {
+    "from": "1.2.5.5,211",
+    "name": "nostalgiapp",
+    "to": "1.2.5.6,212"
+   },
+   {
+    "from": "3.0.32,161",
+    "name": "nvalt",
+    "to": "3.0.33,162"
+   },
+   {
+    "from": "1.0.212",
+    "name": "openframe-console",
+    "to": "1.0.213"
+   },
+   {
+    "from": "2.35,766",
+    "name": "pastenow",
+    "to": "2.37,768"
+   },
+   {
+    "from": "1.29.7",
+    "name": "remnote",
+    "to": "1.29.8"
+   },
+   {
+    "from": "7.0.3",
+    "name": "simplex",
+    "to": "7.1.2"
+   },
+   {
+    "from": "162.0a1,2026-11-07-10-20-03",
+    "name": "thunderbird@daily",
+    "to": "162.0a1,2026-11-08-10-37-13"
+   },
+   {
+    "from": "0.87.0",
+    "name": "token-monitor",
+    "to": "0.88.0"
+   },
+   {
+    "from": "1.82.0",
+    "name": "wizcli",
+    "to": "1.83.0"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [
+   "csound-plugins",
+   "gam",
+   "llamastash",
+   "otel-tui",
+   "sping",
+   "sqlmux",
+   "tennis"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "8.2.0",
+    "name": "bkmr",
+    "to": "8.3.0"
+   },
+   {
+    "from": "1.7.2",
+    "name": "cherrytree",
+    "to": "1.7.3"
+   },
+   {
+    "from": "7.0.0",
+    "name": "csound",
+    "to": "7.0.0_1"
+   },
+   {
+    "from": "0.17.0",
+    "name": "cymbal",
+    "to": "0.18.0"
+   },
+   {
+    "from": "3.2.4",
+    "name": "dalfox",
+    "to": "3.3.0"
+   },
+   {
+    "from": "0.162.0",
+    "name": "fastapi",
+    "to": "0.162.2"
+   },
+   {
+    "from": "4.0.4",
+    "name": "kepubify",
+    "to": "5.0.0"
+   },
+   {
+    "from": "0.4.5",
+    "name": "lovable-oj",
+    "to": "0.4.6"
+   },
+   {
+    "from": "1.28.0",
+    "name": "malcontent",
+    "to": "1.28.1"
+   },
+   {
+    "from": "9.8.0",
+    "name": "mkdocs-material",
+    "to": "9.8.1"
+   },
+   {
+    "from": "2.101.2",
+    "name": "n8n-mcp",
+    "to": "2.101.3"
+   },
+   {
+    "from": "1.5.0_1",
+    "name": "ncspot",
+    "to": "1.5.1"
+   },
+   {
+    "from": "20.36.5",
+    "name": "oh-my-agent",
+    "to": "20.37.1"
+   },
+   {
+    "from": "31.9.1",
+    "name": "oh-my-posh",
+    "to": "32.0.0"
+   },
+   {
+    "from": "2026.11.05",
+    "name": "openrtsp",
+    "to": "2026.11.08"
+   },
+   {
+    "from": "9.2.0",
+    "name": "robot-framework-robocop",
+    "to": "9.3.0"
+   },
+   {
+    "from": "0.18.1",
+    "name": "rustypaste",
+    "to": "0.18.2"
+   },
+   {
+    "from": "1.37.0",
+    "name": "sandvault",
+    "to": "1.38.0"
+   },
+   {
+    "from": "0.14.2",
+    "name": "srgn",
+    "to": "0.14.3"
+   },
+   {
+    "from": "1.166.1",
+    "name": "storj-uplink",
+    "to": "1.166.2"
+   },
+   {
+    "from": "0.32.2",
+    "name": "tarlz",
+    "to": "0.33"
+   },
+   {
+    "from": "1.10.0",
+    "name": "tombi",
+    "to": "1.11.0"
+   },
+   {
+    "from": "0.181.5",
+    "name": "vtcode",
+    "to": "0.181.6"
+   },
+   {
+    "from": "0.1.280",
+    "name": "workmux",
+    "to": "0.1.281"
+   },
+   {
+    "from": "2.10.7",
+    "name": "youtubedr",
+    "to": "2.10.8"
+   }
+  ]
+ }
+}

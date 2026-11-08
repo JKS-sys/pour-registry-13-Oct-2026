@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-08T20:31:48Z
+
+- **Registered 7 formulae**: `csound-plugins`, `gam`, `llamastash`, `otel-tui`, `sping`, `sqlmux`, `tennis`
+- Updated 25 formulae: `bkmr` 8.2.0 → 8.3.0, `cherrytree` 1.7.2 → 1.7.3, `csound` 7.0.0 → 7.0.0_1, `cymbal` 0.17.0 → 0.18.0, `dalfox` 3.2.4 → 3.3.0, `fastapi` 0.162.0 → 0.162.2, `kepubify` 4.0.4 → 5.0.0, `lovable-oj` 0.4.5 → 0.4.6, `malcontent` 1.28.0 → 1.28.1, `mkdocs-material` 9.8.0 → 9.8.1, `n8n-mcp` 2.101.2 → 2.101.3, `ncspot` 1.5.0_1 → 1.5.1, `oh-my-agent` 20.36.5 → 20.37.1, `oh-my-posh` 31.9.1 → 32.0.0, `openrtsp` 2026.11.05 → 2026.11.08, `robot-framework-robocop` 9.2.0 → 9.3.0, `rustypaste` 0.18.1 → 0.18.2, `sandvault` 1.37.0 → 1.38.0, `srgn` 0.14.2 → 0.14.3, `storj-uplink` 1.166.1 → 1.166.2, `tarlz` 0.32.2 → 0.33, `tombi` 1.10.0 → 1.11.0, `vtcode` 0.181.5 → 0.181.6, `workmux` 0.1.280 → 0.1.281, `youtubedr` 2.10.7 → 2.10.8
+- **Registered 1 casks**: `anomaly-hex`
+- **De-registered 2 casks**: `kitlangton-hex`, `stravu-crystal`
+- Updated 28 casks: `almighty` 2.13.5 → 2.13.6, `cc-switch` 4.0.27 → 4.0.28, `cuadriver` 0.43.2 → 0.44.0, `electrum` 4.8.3 → 4.8.4, `emacs-app@pretest` 31.1-rc1 → 31.1.90, `firefox@nightly` 162.0a1,2026-11-07-16-23-51 → 162.0a1,2026-11-08-09-13-45, `ganttproject` 3.3.3316 → 3.3.3323, `ghostex` 11.1.0 → 11.2.0, `gloom` 0.20.5 → 0.20.6, `grandtotal` 10.0.2.1 → 10.0.2.3, `herdr-app` 0.1.13 → 0.1.14, `iptvnator` 0.24.0 → 0.25.0, `lagrange` 1.21.2 → 2.0.1, `mac-performance-monitor` 2.6.0.306 → 2.7.0.312, `microblog` 4.3.1 → 4.3.2, `motrix` 2.3.0 → 2.4.0, `muesli` 0.8.5 → 0.8.6, `multiviewer` 2.15.2,terCtte6JFvMxe70aABmMy0RxFcNVEnp → 2.16.0,GQvCwIgHt48OeEceEgUX3Gt5B8dkF05t, `navicat-for-sql-server` 17.3.12 → 17.3.13, `nostalgiapp` 1.2.5.5,211 → 1.2.5.6,212, `nvalt` 3.0.32,161 → 3.0.33,162, `openframe-console` 1.0.212 → 1.0.213, `pastenow` 2.35,766 → 2.37,768, `remnote` 1.29.7 → 1.29.8, `simplex` 7.0.3 → 7.1.2 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-08T15:19:12Z
 
 - Updated 42 formulae: `asccli` 0.18.8 → 0.18.9, `bashunit` 0.52.0 → 0.53.0, `behaviortree.cpp` 4.10.0 → 4.11.0, `corsixth` 0.70.1_1 → 0.70.2, `cryptominisat` 5.17.0_1 → 5.18.0, `dbx-cli` 0.4.140 → 0.4.141, `deepline` 0.3.475 → 0.3.484, `dunamai` 1.26.3 → 1.26.4, `evnx` 0.12.0 → 0.13.0, `fabric-ai` 1.4.564 → 1.4.565, `glances` 4.5.8_1 → 4.5.9, `ipatool` 2.7.0 → 2.8.0, `jackett` 0.24.3025 → 0.24.3030, `jscpd` 5.4.2 → 5.4.3, `keploy` 3.6.223 → 3.6.224, `libhdhomerun` 20260313 → 20261107, `lizard-analyzer` 1.25.0 → 1.25.1, `mac` 13.45 → 13.46, `mail-deduplicate` 9.5.0 → 9.6.0, `mcp-remote` 0.16.4 → 0.16.5, `mole` 1.69.0 → 1.70.0, `n8n-mcp` 2.101.1 → 2.101.2, `pay` 0.29.0 → 0.30.0, `pipx` 1.18.15 → 1.18.16, `psalm` 7.0.5 → 7.1.0 …
