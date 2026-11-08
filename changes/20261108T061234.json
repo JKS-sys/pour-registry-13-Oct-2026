@@ -1,0 +1,300 @@
+{
+ "synced_at": "2026-11-08T06:12:34Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.4.480",
+    "name": "alma",
+    "to": "0.4.498"
+   },
+   {
+    "from": "1.12.5",
+    "name": "amical",
+    "to": "1.13.0"
+   },
+   {
+    "from": "0.16.0",
+    "name": "artcraft-launcher",
+    "to": "0.16.1"
+   },
+   {
+    "from": "1.5.181",
+    "name": "audius",
+    "to": "1.5.182"
+   },
+   {
+    "from": "1.5.0",
+    "name": "clawd-on-desk",
+    "to": "1.6.0"
+   },
+   {
+    "from": "0.9.27",
+    "name": "codeburn-app",
+    "to": "0.9.28"
+   },
+   {
+    "from": "0.41.3",
+    "name": "cuadriver",
+    "to": "0.43.2"
+   },
+   {
+    "from": "0.6.67",
+    "name": "dbx",
+    "to": "0.6.68"
+   },
+   {
+    "from": "0.0.1526",
+    "name": "discord@canary",
+    "to": "0.0.1527"
+   },
+   {
+    "from": "2609-191,81,36",
+    "name": "dolphin@dev",
+    "to": "2609-193,3c,77"
+   },
+   {
+    "from": "162.0a1,2026-11-07-09-25-11",
+    "name": "firefox@nightly",
+    "to": "162.0a1,2026-11-07-16-23-51"
+   },
+   {
+    "from": "2026.1106.11400",
+    "name": "fluxer",
+    "to": "2026.1107.235046"
+   },
+   {
+    "from": "0.20.4",
+    "name": "gloom",
+    "to": "0.20.5"
+   },
+   {
+    "from": "1.6.3",
+    "name": "gyroflow",
+    "to": "1.7.0"
+   },
+   {
+    "from": "0.59.5",
+    "name": "maestri",
+    "to": "0.59.6"
+   },
+   {
+    "from": "0.1.3275",
+    "name": "magpie",
+    "to": "0.1.3300"
+   },
+   {
+    "from": "1.0.463",
+    "name": "mathcha-notebook",
+    "to": "1.0.464"
+   },
+   {
+    "from": "4.11.6",
+    "name": "meetingbar",
+    "to": "5.0.0"
+   },
+   {
+    "from": "2026.11.180",
+    "name": "mindroom",
+    "to": "2026.11.190"
+   },
+   {
+    "from": "7.3b4",
+    "name": "netnewswire@beta",
+    "to": "7.3b5"
+   },
+   {
+    "from": "0.4.10",
+    "name": "oleafly",
+    "to": "0.4.11"
+   },
+   {
+    "from": "5.1.1",
+    "name": "onyx",
+    "to": "5.1.2"
+   },
+   {
+    "from": "2.6.1",
+    "name": "openchamber",
+    "to": "2.7.0"
+   },
+   {
+    "from": "7.0.02,7002",
+    "name": "praat",
+    "to": "7.0.03,7003"
+   },
+   {
+    "from": "1.14.0",
+    "name": "purge",
+    "to": "1.14.1"
+   },
+   {
+    "from": "0.1.3453",
+    "name": "reader",
+    "to": "0.1.3454"
+   },
+   {
+    "from": "1.6.5",
+    "name": "robbietilton-compositor",
+    "to": "1.6.6"
+   },
+   {
+    "from": "0.1.8-nightly.20261107.4327",
+    "name": "t3-code@nightly",
+    "to": "0.1.8-nightly.20261107.4340"
+   },
+   {
+    "from": "0.26.0",
+    "name": "tangleguard-cli",
+    "to": "0.26.1"
+   },
+   {
+    "from": "1.25t,20261106124811",
+    "name": "zen@twilight",
+    "to": "1.25t,20261107100330"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.48.0",
+    "name": "agent-manager",
+    "to": "0.48.1"
+   },
+   {
+    "from": "2.26.14",
+    "name": "checkbashisms",
+    "to": "2.26.15"
+   },
+   {
+    "from": "0.2.0",
+    "name": "chiko",
+    "to": "0.3.0"
+   },
+   {
+    "from": "1.32.1",
+    "name": "claude-code-templates",
+    "to": "1.32.2"
+   },
+   {
+    "from": "8.0.58",
+    "name": "cliproxyapi",
+    "to": "8.0.60"
+   },
+   {
+    "from": "11.6.4",
+    "name": "croc",
+    "to": "11.6.5"
+   },
+   {
+    "from": "5.199.0",
+    "name": "fern-api",
+    "to": "5.200.0"
+   },
+   {
+    "from": "0.10.1",
+    "name": "git-pkgs-forge",
+    "to": "0.11.0"
+   },
+   {
+    "from": "0.2.60",
+    "name": "gixy",
+    "to": "0.2.61"
+   },
+   {
+    "from": "4.0.675",
+    "name": "joern",
+    "to": "4.0.676"
+   },
+   {
+    "from": "0.11.0",
+    "name": "just-lsp",
+    "to": "0.11.1"
+   },
+   {
+    "from": "0.66.2",
+    "name": "lazygit",
+    "to": "0.66.3"
+   },
+   {
+    "from": "0.34.42",
+    "name": "letta-code",
+    "to": "0.34.44"
+   },
+   {
+    "from": "2.11.0",
+    "name": "linecast",
+    "to": "2.12.0"
+   },
+   {
+    "from": "1.33.0",
+    "name": "mailpit",
+    "to": "1.33.1"
+   },
+   {
+    "from": "0.16.1",
+    "name": "mcp-remote",
+    "to": "0.16.4"
+   },
+   {
+    "from": "0.10.0",
+    "name": "mq",
+    "to": "0.10.1"
+   },
+   {
+    "from": "9.1.0",
+    "name": "neonctl",
+    "to": "9.2.0"
+   },
+   {
+    "from": "1.108.0",
+    "name": "node-sass",
+    "to": "1.108.1"
+   },
+   {
+    "from": "24.0.4",
+    "name": "nx",
+    "to": "24.0.5"
+   },
+   {
+    "from": "1.16.0",
+    "name": "openspec",
+    "to": "1.16.1"
+   },
+   {
+    "from": "2.0.0",
+    "name": "overturemaps",
+    "to": "2.1.0"
+   },
+   {
+    "from": "6.1.4",
+    "name": "podman",
+    "to": "6.1.4_1"
+   },
+   {
+    "from": "8.27.0",
+    "name": "sanity",
+    "to": "8.28.0"
+   },
+   {
+    "from": "0.9.73",
+    "name": "schema-evolution-manager",
+    "to": "0.9.74"
+   },
+   {
+    "from": "4.3.4",
+    "name": "tailwindcss",
+    "to": "4.3.5"
+   },
+   {
+    "from": "6.2.3",
+    "name": "ttdl",
+    "to": "6.2.5"
+   }
+  ]
+ }
+}

@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-08T06:12:34Z
+
+- Updated 27 formulae: `agent-manager` 0.48.0 → 0.48.1, `checkbashisms` 2.26.14 → 2.26.15, `chiko` 0.2.0 → 0.3.0, `claude-code-templates` 1.32.1 → 1.32.2, `cliproxyapi` 8.0.58 → 8.0.60, `croc` 11.6.4 → 11.6.5, `fern-api` 5.199.0 → 5.200.0, `git-pkgs-forge` 0.10.1 → 0.11.0, `gixy` 0.2.60 → 0.2.61, `joern` 4.0.675 → 4.0.676, `just-lsp` 0.11.0 → 0.11.1, `lazygit` 0.66.2 → 0.66.3, `letta-code` 0.34.42 → 0.34.44, `linecast` 2.11.0 → 2.12.0, `mailpit` 1.33.0 → 1.33.1, `mcp-remote` 0.16.1 → 0.16.4, `mq` 0.10.0 → 0.10.1, `neonctl` 9.1.0 → 9.2.0, `node-sass` 1.108.0 → 1.108.1, `nx` 24.0.4 → 24.0.5, `openspec` 1.16.0 → 1.16.1, `overturemaps` 2.0.0 → 2.1.0, `podman` 6.1.4 → 6.1.4_1, `sanity` 8.27.0 → 8.28.0, `schema-evolution-manager` 0.9.73 → 0.9.74 …
+- Updated 30 casks: `alma` 0.4.480 → 0.4.498, `amical` 1.12.5 → 1.13.0, `artcraft-launcher` 0.16.0 → 0.16.1, `audius` 1.5.181 → 1.5.182, `clawd-on-desk` 1.5.0 → 1.6.0, `codeburn-app` 0.9.27 → 0.9.28, `cuadriver` 0.41.3 → 0.43.2, `dbx` 0.6.67 → 0.6.68, `discord@canary` 0.0.1526 → 0.0.1527, `dolphin@dev` 2609-191,81,36 → 2609-193,3c,77, `firefox@nightly` 162.0a1,2026-11-07-09-25-11 → 162.0a1,2026-11-07-16-23-51, `fluxer` 2026.1106.11400 → 2026.1107.235046, `gloom` 0.20.4 → 0.20.5, `gyroflow` 1.6.3 → 1.7.0, `maestri` 0.59.5 → 0.59.6, `magpie` 0.1.3275 → 0.1.3300, `mathcha-notebook` 1.0.463 → 1.0.464, `meetingbar` 4.11.6 → 5.0.0, `mindroom` 2026.11.180 → 2026.11.190, `netnewswire@beta` 7.3b4 → 7.3b5, `oleafly` 0.4.10 → 0.4.11, `onyx` 5.1.1 → 5.1.2, `openchamber` 2.6.1 → 2.7.0, `praat` 7.0.02,7002 → 7.0.03,7003, `purge` 1.14.0 → 1.14.1 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-07T23:42:28Z
 
 - Updated 17 formulae: `agent-manager` 0.47.1 → 0.48.0, `ascelerate` 0.33.0 → 0.33.1, `autocannon` 8.0.0 → 9.0.0, `bkmr` 8.0.0 → 8.2.0, `checkbashisms` 2.26.13 → 2.26.14, `cspell` 10.4.0 → 10.4.1, `groff` 1.24.2 → 1.25.0, `kubectl-radar` 1.20.0 → 1.20.1, `minijinja-cli` 3.0.5 → 3.1.0, `n8n-mcp` 2.101.0 → 2.101.1, `nak` 0.22.2 → 0.22.3, `neonctl` 8.23.4 → 9.1.0, `plink-ng` 2.0.0-b.1.3 → 2.0.0-b.1.4, `primecount` 8.8 → 9.0, `resterm` 1.17.2 → 1.18.0, `shimmy` 2.6.5 → 2.6.6, `virtualenv` 21.15.5 → 21.15.6
