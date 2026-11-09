@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-09T18:52:51Z
+
+- **Registered 1 formulae**: `abtop`
+- Updated 85 formulae: `arf` 0.6.0 → 0.7.0, `ascelerate` 0.33.1 → 0.34.0, `bitbucket-cli` 0.37.0 → 0.38.1, `buildkite` 3.67.0 → 3.68.0, `c-blosc2` 3.5.0 → 3.6.0, `ccache` 4.14.2 → 4.14.3, `chainloop-cli` 1.133.0 → 1.134.0, `codex-acp` 2.5.0 → 2.6.0, `container` 1.7.1 → 1.7.1_1, `dbmate` 2.37.0 → 2.38.0, `ddns-go` 6.17.7 → 6.17.8, `deepline` 0.3.484 → 0.3.489, `designcraft-cli` 0.18.0 → 0.19.0, `desktop-file-utils` 0.28 → 0.29, `dnscontrol` 5.7.2 → 5.8.0, `docker-agent` 1.157.2 → 1.158.0, `enzyme` 0.0.308 → 0.0.309, `faircamp` 2.0.1 → 2.0.2, `filmcraft-cli` 0.18.0 → 0.19.0, `fluent-bit` 5.1.5 → 5.2.0, `gauge` 1.6.42 → 1.6.43, `ggc` 8.7.6 → 8.7.7, `git-codereview` 1.21.0 → 1.22.0, `go-feature-flag-relay-proxy` 1.58.0 → 1.58.1, `gradle` 9.8.2 → 9.9.0 …
+- **Registered 2 casks**: `bytemail`, `xcasca`
+- Updated 106 casks: `8x8-work` 8.38.4-1 → 8.38.5-1, `airbuild` 1.6.5 → 1.6.22, `akuity` 0.34.0-rl.1.0.20261104063903-9912fb864628 → 0.34.0-rl.1.0.20261109102054-804b200da0c8, `alma` 0.4.498 → 0.4.534, `amp-app` 1.0,1200 → 1.0,1210, `artcraft-launcher` 0.16.1 → 0.17.0, `bettermacwidgets` 2.13.2 → 2.13.3, `bettertouchtool` 6.1112,2026110708 → 6.1116,2026110902, `bettertouchtool@alpha` 6.1113,2026110709 → 6.1114,2026110910, `boltai` 2.18.5 → 3.0.0, `cadcraft` 0.18.0 → 0.19.0, `capso` 1.2.7 → 1.2.8, `cavalry` 2.8 → 2.8.1, `clamshell` 1.4.24,228 → 2.0.0,240, `clash-mi` 1.0.31.1703 → 1.0.32.1803, `clementine` 1.4.4 → 1.4.5, `copilot-language-server` 1.566.0 → 1.568.0, `cuadriver` 0.44.0 → 0.45.2, `cursor` 3.29.9,306d153d51d714882ab7b1bc49649cab624e8a31 → 3.29.15,86776fcb52ca505783155631089b65d646f9b03f, `deckcraft` 0.16.0 → 0.17.0, `designcraft` 0.18.0 → 0.19.0, `diversion` 1.6.1048 → 1.6.1092, `djstudio@next` 5.0.10-beta.1 → 5.0.10-beta.2, `docker-desktop` 4.98.0,245422 → 4.99.0,245822, `dockflow` 1.91 → 1.94 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-09T06:46:01Z
 
 - **Registered 5 formulae**: `drydock`, `emeraldian`, `knife`, `lsoff`, `upmd`
