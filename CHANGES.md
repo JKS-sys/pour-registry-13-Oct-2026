@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-09T06:46:01Z
+
+- **Registered 5 formulae**: `drydock`, `emeraldian`, `knife`, `lsoff`, `upmd`
+- Updated 41 formulae: `aoe` 1.22.1 → 1.22.3, `apko` 1.4.17 → 1.4.18, `apprise` 2.1.0_1 → 2.2.0, `astyle` 3.6.22 → 3.6.23, `atmos` 1.233.2 → 1.234.0, `bkmr` 8.3.0 → 8.4.0, `cdxgen` 13.6.0 → 13.7.0, `chawan` 0.5.1 → 0.5.2, `cliproxyapi` 8.0.60 → 8.0.61, `codeburn` 0.9.27 → 0.9.28, `dep-scan` 6.3.0 → 6.3.1, `depot` 2.103.9 → 2.103.10, `djlint` 1.49.9 → 1.49.10, `doltlite` 0.51.9 → 0.51.10, `enzyme` 0.0.307 → 0.0.308, `fabric-ai` 1.4.565 → 1.4.567, `fheroes2` 1.1.17 → 1.1.18, `fobis` 3.16.0 → 3.16.1, `go-hass-agent` 14.18.0 → 14.19.0, `iccdev` 2.3.2.4 → 2.4.2.5, `inotify-tools` 4.26.272 → 4.26.275, `joern` 4.0.676 → 4.0.677, `luajit` 2.1.1793383622 → 2.1.1794160931, `luvit` 2.18.1_38 → 2.18.1_39, `melange` 0.64.0 → 0.64.1 …
+- **Registered 1 casks**: `agent-orchestrator`
+- Updated 66 casks: `amp-app` 1.0,1190 → 1.0,1200, `bramble` 0.16.0 → 0.17.0, `butterkit` 3.3.01 → 3.3.02, `capsomnia` 4.3.2 → 4.3.3, `chatgpt` 26.1103.41825 → 26.1103.60933, `db-browser-for-sqlcipher@nightly` 20261102 → 20261109, `db-browser-for-sqlite@nightly` 20261102 → 20261109, `deutschlandgpt` 0.16.5 → 0.16.6, `devin-cli` 3000.12.28 → 3000.12.32, `devin-desktop` 3.12.28,91c3aec41579d2c1795b64f82fa6a8a202ea4c69 → 3.12.32,1126aba4a596c3bb4c3a3b10f472e10448be1fd8, `devin-desktop@next` 3.12.1028+next.91c3aec415,91c3aec41579d2c1795b64f82fa6a8a202ea4c69 → 3.12.1032+next.1126aba4a5,1126aba4a596c3bb4c3a3b10f472e10448be1fd8, `discord@canary` 0.0.1527 → 0.0.1529, `dockdoor` 1.42.2 → 1.42.4, `dolphin@dev` 2609-193,3c,77 → 2609-197,93,92, `doubao` 2.34.6 → 2.35.8, `dropshare` 6.15,6261 → 6.16,6286, `easydict` 2.25.0 → 2.26.0, `es-de` 3.5.0,357717468 → 3.5.0, `firefox@nightly` 162.0a1,2026-11-08-09-13-45 → 162.0a1,2026-11-08-21-38-38, `gloom` 0.20.6 → 0.20.7, `google-chrome@canary` 159.0.8150.0 → 159.0.8151.0, `hdfview` 3.4.1 → 3.5.0, `hotovo-aider-desk` 0.90.0 → 0.91.0, `insta360-studio` 6.0.7,release_insta360,RC_build2,_20261013_095137_signed,2b2d07f350334886b99cbad6ae13faac → 6.0.8,release_insta360,RC_build100,_20261106_165633_signed,9d18170f216349579082218151203cdd, `luxury-yacht` 2.8.5 → 2.8.6 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-08T20:31:48Z
 
 - **Registered 7 formulae**: `csound-plugins`, `gam`, `llamastash`, `otel-tui`, `sping`, `sqlmux`, `tennis`
