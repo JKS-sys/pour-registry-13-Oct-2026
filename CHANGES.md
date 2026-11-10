@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-10T12:43:55Z
+
+- **Registered 2 formulae**: `strobealign`, `uutils-sed`
+- Updated 128 formulae: `agent-browser` 0.41.2 → 0.42.0, `ai-cli` 0.9.0 → 0.9.1, `algol68g` 3.13.4 → 3.14.0, `asc` 6.5.3 → 6.6.0, `assimp` 6.0.5 → 6.0.6, `astgen` 3.53.0 → 3.54.0, `atasm` 1.30 → 1.32, `atuin` 18.24.5 → 18.24.6, `atuin-server` 18.24.5 → 18.24.6, `aube` 2.9.0 → 2.10.0, `aws-sdk-cpp` 1.11.924 → 1.11.925, `aws-sso-cli` 2.3.4 → 2.4.0, `awscli` 2.39.6 → 2.39.7, `balena-cli` 25.2.9 → 25.2.11, `bazel-diff` 75.0.0 → 76.0.0, `bismark` 3.1.0 → 3.2.0, `block-goose-cli` 1.57.0 → 1.58.1, `blocky` 0.35.0 → 0.36.0, `breezy` 3.3.24 → 3.3.25, `cadence` 1.10.7 → 1.10.8, `claude-code-templates` 1.32.2 → 1.33.0, `cliproxyapi` 8.0.61 → 8.0.63, `closure-compiler` 20261104 → 20261108, `cni-plugins` 1.9.1 → 1.10.0, `composer` 2.11.1 → 2.11.2 …
+- **Registered 3 casks**: `ftop`, `kugelblitz`, `time-messenger`
+- **De-registered 2 casks**: `cheatsheet`, `waterfox-classic`
+- Updated 207 casks: `activitywatch` 0.14.1 → 0.14.2, `activitywatch@beta` 0.14.1 → 0.14.2, `activitywatch@experimental` 0.14.1 → 0.14.2, `adobe-dng-converter` 18.7 → 19.0, `agentiloop-agent` 1.1.97.297 → 1.1.98.298, `agentsview` 0.46.1 → 0.47.0, `airi` 0.15.1 → 0.15.2, `airsync` 4.1.0 → 4.2.0, `akuity` 0.34.0-rl.1.0.20261109102054-804b200da0c8 → 0.34.0-rl.1.0.20261110072755-92d1a77ec2d1, `alma` 0.4.534 → 0.4.563, `altar-ai` 2.2.1 → 3.0.0, `altserver` 1.8.3 → 1.8.4, `amp-app` 1.0,1210 → 1.0,1230, `antigravity` 2.29.0,5723181030440960 → 2.30.0,6386428939206656, `antigravity-cli` 1.5.3,6604829099950080 → 1.5.4,5037094733742080, `apidog` 2.8.52 → 2.8.54, `apidog-europe` 2.8.52 → 2.8.54, `apifox` 2.8.53 → 2.8.54, `appgate-sdp-client` 6.7.3 → 6.7.4, `audio-modeling-software-center` 3.1.0-1141 → 3.1.2-1154, `bettertouchtool` 6.1116,2026110902 → 6.1119,2026110906, `bettertouchtool@alpha` 6.1114,2026110910 → 6.1120,2026111001, `billy` 1.2.1,44 → 1.3.0,50, `bing-wallpaper` 2.0.26.0,7d83205d-0650-4f11-aa35-9b216123c5d9 → 2.0.28.0,898a6d47-f1d5-4d22-b3c6-2caff641eb5a, `blender` 5.2.3 → 5.3.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-09T18:52:51Z
 
 - **Registered 1 formulae**: `abtop`
