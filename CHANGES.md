@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-10T21:49:41Z
+
+- Updated 83 formulae: `allure` 2.46.1 → 2.46.2, `apache-geode` 2.0.3 → 2.0.4, `arduino-cli` 1.5.1 → 1.6.0, `aws-elasticbeanstalk` 3.27.5 → 3.27.6, `aws-lc` 5.13.0 → 5.14.0, `block-goose-cli` 1.58.1 → 1.59.0, `calm-cli` 1.68.0 → 1.69.0, `cargo-audit` 0.22.2 → 0.23.0, `cloudflare-quiche` 0.30.0 → 0.30.1, `cloudflare-wrangler` 4.158.0 → 4.159.0, `cminpack` 1.3.14 → 1.3.15, `coder` 2.38.6 → 2.38.7, `context7-mcp` 4.5.1 → 4.6.0, `coturn` 4.18.0_2 → 4.19.0, `ctx7` 0.10.0 → 0.11.0, `cyclonedx-npm` 6.0.1 → 7.0.0, `doctl` 2.3.0 → 2.4.0, `faiss` 1.15.1 → 1.16.0, `fern-api` 5.200.0 → 5.201.0, `flyctl` 0.5.6 → 0.5.7, `gam` 7.50.00 → 7.51.00, `garble` 0.18.0_2 → 0.18.0_3, `gimmecert` 1.0.0 → 2.0.0, `glab` 1.128.0 → 1.130.0, `go` 1.27.3 → 1.27.4 …
+- Updated 163 casks: `adguard-vpn@nightly` 2.11.0.1146 → 2.12.0.1160, `aerial` 4.1.10 → 4.1.11, `aerial@beta` 4.1.10 → 4.1.11, `airbuild` 1.6.22 → 1.6.27, `amp-app` 1.0,1230 → 1.0,1240, `android-platform-tools` 37.0.2 → 37.0.3, `antigravity` 2.30.0,6386428939206656 → 2.31.0,6379060755038208, `antigravity-cli` 1.5.4,5037094733742080 → 1.5.5,6740358537805824, `anytype@alpha` 0.57.7 → 0.57.8-alpha, `appgate-sdp-client` 6.7.4 → 7.0.0, `arc` 1.172.1,90370 → 1.172.2,90755, `artcraft-launcher` 0.17.0 → 0.18.0, `audioroute` 1.2.12 → 1.2.13, `batteries` 3.1.2 → 3.1.3, `bettermacwidgets` 2.13.3 → 2.14.0, `bettertouchtool` 6.1119,2026110906 → 6.1121,2026111002, `bitwig-studio` 6.1.4 → 6.1.7, `block-goose` 1.58.1 → 1.59.0, `boltai` 3.0.0 → 3.1.0, `brave-browser` 1.99.55.0 → 1.99.56.0, `brave-browser@beta` 1.100.49.0,200.49 → 1.100.52.0,200.52, `brave-browser@nightly` 1.101.38.0,201.38 → 1.101.40.0,201.40, `brave-origin` 1.99.55.0 → 1.99.56.0, `brave-origin@beta` 1.100.49.0,200.49 → 1.100.52.0,200.52, `brave-origin@nightly` 1.101.38.0,201.38 → 1.101.40.0,201.40 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-10T12:43:55Z
 
 - **Registered 2 formulae**: `strobealign`, `uutils-sed`
