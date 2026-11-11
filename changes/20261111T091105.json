@@ -1,0 +1,305 @@
+{
+ "synced_at": "2026-11-11T09:11:05Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "3.3.0",
+    "name": "anomaly-hex",
+    "to": "3.4.0"
+   },
+   {
+    "from": "8.9.7",
+    "name": "baidunetdisk",
+    "to": "8.10.3"
+   },
+   {
+    "from": "1.161.0,304",
+    "name": "cc-pocket",
+    "to": "1.162.0,305"
+   },
+   {
+    "from": "0.9.4",
+    "name": "coderabbit",
+    "to": "0.9.5"
+   },
+   {
+    "from": "3882,1b150f7e5",
+    "name": "cog-app",
+    "to": "3884,e8a03114c"
+   },
+   {
+    "from": "6.7.0",
+    "name": "crest",
+    "to": "6.8.0"
+   },
+   {
+    "from": "0.9.0",
+    "name": "crest-browser",
+    "to": "0.9.1"
+   },
+   {
+    "from": "0.47.5",
+    "name": "cuadriver",
+    "to": "0.47.8"
+   },
+   {
+    "from": "1.7.1",
+    "name": "droid",
+    "to": "1.8.0"
+   },
+   {
+    "from": "1.7.1",
+    "name": "factory",
+    "to": "1.8.0"
+   },
+   {
+    "from": "6.35.2",
+    "name": "free-download-manager",
+    "to": "6.36.0"
+   },
+   {
+    "from": "11.3.0",
+    "name": "ghostex",
+    "to": "11.4.0"
+   },
+   {
+    "from": "0.5.2",
+    "name": "hop",
+    "to": "0.5.3"
+   },
+   {
+    "from": "1.2.26.2926",
+    "name": "karing",
+    "to": "1.2.26.2927"
+   },
+   {
+    "from": "8.3",
+    "name": "keyboardcleantool",
+    "to": "9.0"
+   },
+   {
+    "from": "0.59.7",
+    "name": "maestri",
+    "to": "0.59.8"
+   },
+   {
+    "from": "0.1.3675",
+    "name": "magpie",
+    "to": "0.1.3700"
+   },
+   {
+    "from": "1.2.0",
+    "name": "open-science",
+    "to": "1.2.1"
+   },
+   {
+    "from": "1.0.0",
+    "name": "osaurus",
+    "to": "1.0.1"
+   },
+   {
+    "from": "0.9.37",
+    "name": "petal",
+    "to": "0.9.38"
+   },
+   {
+    "from": "26.2.5",
+    "name": "plasticity",
+    "to": "26.2.6"
+   },
+   {
+    "from": "0.1.3475",
+    "name": "reader",
+    "to": "0.1.3476"
+   },
+   {
+    "from": "0.9.517",
+    "name": "rive",
+    "to": "0.9.639"
+   },
+   {
+    "from": "26.203.0.12356",
+    "name": "shapr3d",
+    "to": "26.210.0.12414"
+   },
+   {
+    "from": "2026.2.0",
+    "name": "silo",
+    "to": "2027.0.0"
+   },
+   {
+    "from": "4.4.0,585",
+    "name": "stash",
+    "to": "5.1.0,606"
+   },
+   {
+    "from": "0.1.9-nightly.20261110.4491",
+    "name": "t3-code@nightly",
+    "to": "0.1.9-nightly.20261111.4501"
+   },
+   {
+    "from": "7.4.1",
+    "name": "telegram-desktop@beta",
+    "to": "7.4.2"
+   },
+   {
+    "from": "13.2.0,283479",
+    "name": "telegram@beta",
+    "to": "13.2.0,283482"
+   },
+   {
+    "from": "5.55.0",
+    "name": "tencent-ugit",
+    "to": "5.55.1"
+   },
+   {
+    "from": "2026,9729,B11799B7",
+    "name": "virtualdj",
+    "to": "2026,9746,C02395E7"
+   },
+   {
+    "from": "1.2.25,20261011",
+    "name": "xkey",
+    "to": "1.2.26,20261111"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "21.0_9",
+    "name": "alive2",
+    "to": "21.0_10"
+   },
+   {
+    "from": "6.6.0",
+    "name": "asc",
+    "to": "6.6.1"
+   },
+   {
+    "from": "1.22-5854",
+    "name": "civl",
+    "to": "1.22-5854_1"
+   },
+   {
+    "from": "3.6.0",
+    "name": "cryptol",
+    "to": "3.6.0_1"
+   },
+   {
+    "from": "0.4.141",
+    "name": "dbx-cli",
+    "to": "0.4.142"
+   },
+   {
+    "from": "2.7.2",
+    "name": "dolt",
+    "to": "2.7.3"
+   },
+   {
+    "from": "8.6_1",
+    "name": "esbmc",
+    "to": "8.6_2"
+   },
+   {
+    "from": "7.51.00",
+    "name": "gam",
+    "to": "7.52.00"
+   },
+   {
+    "from": "3.3_1",
+    "name": "klee",
+    "to": "3.3_2"
+   },
+   {
+    "from": "2.14.0",
+    "name": "libint",
+    "to": "2.14.1"
+   },
+   {
+    "from": "1.1.0",
+    "name": "libtatsu",
+    "to": "1.1.1"
+   },
+   {
+    "from": "23.1.5",
+    "name": "lldb",
+    "to": "23.1.5_1"
+   },
+   {
+    "from": "23.1.5",
+    "name": "llvm",
+    "to": "23.1.5_1"
+   },
+   {
+    "from": "4.14.4",
+    "name": "ocaml@4",
+    "to": "4.14.5"
+   },
+   {
+    "from": "20.40.1",
+    "name": "oh-my-agent",
+    "to": "20.40.2"
+   },
+   {
+    "from": "11.1.516",
+    "name": "openkermit",
+    "to": "11.1.517"
+   },
+   {
+    "from": "0.1.8",
+    "name": "openshell",
+    "to": "0.1.8_1"
+   },
+   {
+    "from": "1.18.1",
+    "name": "parquet-cli",
+    "to": "1.18.2"
+   },
+   {
+    "from": "0.41.1",
+    "name": "pocketbase",
+    "to": "0.42.0"
+   },
+   {
+    "from": "2.4.3",
+    "name": "pup",
+    "to": "2.4.4"
+   },
+   {
+    "from": "0.8.38",
+    "name": "solidity",
+    "to": "0.8.38_1"
+   },
+   {
+    "from": "3.1.0",
+    "name": "storm",
+    "to": "3.2.0"
+   },
+   {
+    "from": "0.13.3.3",
+    "name": "texmath",
+    "to": "0.13.3.5"
+   },
+   {
+    "from": "1.5.1",
+    "name": "vite-plus",
+    "to": "1.6.0"
+   },
+   {
+    "from": "1.8.1",
+    "name": "wuppiefuzz",
+    "to": "1.8.1_1"
+   },
+   {
+    "from": "5.3.3",
+    "name": "z3",
+    "to": "5.4.0"
+   }
+  ]
+ }
+}

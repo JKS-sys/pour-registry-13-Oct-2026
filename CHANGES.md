@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-11T09:11:05Z
+
+- Updated 26 formulae: `alive2` 21.0_9 → 21.0_10, `asc` 6.6.0 → 6.6.1, `civl` 1.22-5854 → 1.22-5854_1, `cryptol` 3.6.0 → 3.6.0_1, `dbx-cli` 0.4.141 → 0.4.142, `dolt` 2.7.2 → 2.7.3, `esbmc` 8.6_1 → 8.6_2, `gam` 7.51.00 → 7.52.00, `klee` 3.3_1 → 3.3_2, `libint` 2.14.0 → 2.14.1, `libtatsu` 1.1.0 → 1.1.1, `lldb` 23.1.5 → 23.1.5_1, `llvm` 23.1.5 → 23.1.5_1, `ocaml@4` 4.14.4 → 4.14.5, `oh-my-agent` 20.40.1 → 20.40.2, `openkermit` 11.1.516 → 11.1.517, `openshell` 0.1.8 → 0.1.8_1, `parquet-cli` 1.18.1 → 1.18.2, `pocketbase` 0.41.1 → 0.42.0, `pup` 2.4.3 → 2.4.4, `solidity` 0.8.38 → 0.8.38_1, `storm` 3.1.0 → 3.2.0, `texmath` 0.13.3.3 → 0.13.3.5, `vite-plus` 1.5.1 → 1.6.0, `wuppiefuzz` 1.8.1 → 1.8.1_1 …
+- Updated 32 casks: `anomaly-hex` 3.3.0 → 3.4.0, `baidunetdisk` 8.9.7 → 8.10.3, `cc-pocket` 1.161.0,304 → 1.162.0,305, `coderabbit` 0.9.4 → 0.9.5, `cog-app` 3882,1b150f7e5 → 3884,e8a03114c, `crest` 6.7.0 → 6.8.0, `crest-browser` 0.9.0 → 0.9.1, `cuadriver` 0.47.5 → 0.47.8, `droid` 1.7.1 → 1.8.0, `factory` 1.7.1 → 1.8.0, `free-download-manager` 6.35.2 → 6.36.0, `ghostex` 11.3.0 → 11.4.0, `hop` 0.5.2 → 0.5.3, `karing` 1.2.26.2926 → 1.2.26.2927, `keyboardcleantool` 8.3 → 9.0, `maestri` 0.59.7 → 0.59.8, `magpie` 0.1.3675 → 0.1.3700, `open-science` 1.2.0 → 1.2.1, `osaurus` 1.0.0 → 1.0.1, `petal` 0.9.37 → 0.9.38, `plasticity` 26.2.5 → 26.2.6, `reader` 0.1.3475 → 0.1.3476, `rive` 0.9.517 → 0.9.639, `shapr3d` 26.203.0.12356 → 26.210.0.12414, `silo` 2026.2.0 → 2027.0.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-11T06:36:52Z
 
 - **Registered 2 formulae**: `dotnet@10`, `uutils-grep`
