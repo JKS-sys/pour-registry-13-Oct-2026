@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-11T16:16:00Z
+
+- **Registered 2 formulae**: `engram`, `tidemail`
+- Updated 78 formulae: `apfel` 1.16.0 → 1.17.0, `arrayfire` 3.10.0_3 → 3.10.1, `ast-grep` 0.51.1 → 0.51.2, `azqr` 4.3.1 → 4.3.2, `bpmnlint` 12.0.0 → 12.1.0, `c-blosc2` 3.6.0 → 3.6.1, `cargo-binstall` 1.26.2 → 1.27.0, `cdk8s` 2.207.78 → 2.207.79, `chainloop-cli` 1.134.0 → 1.135.0, `claude-code-templates` 1.33.0 → 1.33.1, `cloudflare-wrangler` 4.159.0 → 4.160.0, `code-cli` 1.145.3 → 1.146.0, `ctrld` 1.5.9 → 1.5.10, `deepline` 0.3.491 → 0.3.495, `docker-agent` 1.159.0 → 1.160.0, `docker-compose` 5.7.0 → 5.7.1, `dvr-scan` 1.8.2.1_2 → 2.0, `dxpy` 0.418.0_1 → 0.419.0, `eas-cli` 27.6.0 → 27.7.1, `edgevpn` 0.35.5 → 0.36.0, `ettercap` 0.8.4.1_1 → 0.8.5.1, `fetch` 0.4.8 → 0.4.9, `flex` 2.6.5 → 2.6.6, `fobis` 3.16.1 → 3.16.3, `git` 2.56.0_2 → 2.56.1 …
+- **Registered 1 casks**: `nod`
+- Updated 79 casks: `adlock` 2.2.0.8 → 2.2.0.9, `akuity` 0.34.0-rl.1.0.20261110072755-92d1a77ec2d1 → 0.34.0-rl.1.0.20261111072628-6f23f4c954dd, `alma` 0.4.563 → 0.4.571, `amical` 1.13.0 → 1.13.1, `amp-app` 1.0,1250 → 1.0,1260, `bartender` 7.1.0 → 7.2.0, `bettertouchtool` 6.1124,2026111005 → 6.1128,2026111008, `bettertouchtool@alpha` 6.1120,2026111001 → 6.1128,2026111008, `bitmuse` 1.6.2 → 1.6.3, `chatwork` 2.25.8 → 2.25.9, `chitubox` 1.4.0 → 1.4.1, `clop` 3.7.0 → 3.7.1, `cuadriver` 0.47.8 → 0.47.10, `cursor-cli` 2026.11.10-731fb78 → 2026.11.11-043ef28, `deepseek-harness` 0.2.2-rc.1 → 0.2.2-rc.2, `distill-web-monitor` 4.3.1-beta → 4.3.2-beta, `diversion` 1.6.1118 → 1.6.1129, `djstudio@next` 5.0.10-beta.3 → 5.0.10-beta.4, `dotnet-sdk` 10.0.404 → 11.0.100, `drovio` 3.7.0 → 3.7.1, `dyalog` 20.0.53963 → 21.0.55109, `element` 1.12.33 → 1.12.34, `element@nightly` 2026111001 → 2026111101, `emacs-app@nightly` 2026-11-10_00-09-27,382fea94037881f3f6bef15e63c7aeeddab06e79 → 2026-11-11_00-09-20,bc3b33c8bc6f7a07e919c273e467512253ace56f, `firefox@nightly` 162.0a1,2026-11-10-21-48-32 → 162.0a1,2026-11-11-09-11-17 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-11T09:11:05Z
 
 - Updated 26 formulae: `alive2` 21.0_9 → 21.0_10, `asc` 6.6.0 → 6.6.1, `civl` 1.22-5854 → 1.22-5854_1, `cryptol` 3.6.0 → 3.6.0_1, `dbx-cli` 0.4.141 → 0.4.142, `dolt` 2.7.2 → 2.7.3, `esbmc` 8.6_1 → 8.6_2, `gam` 7.51.00 → 7.52.00, `klee` 3.3_1 → 3.3_2, `libint` 2.14.0 → 2.14.1, `libtatsu` 1.1.0 → 1.1.1, `lldb` 23.1.5 → 23.1.5_1, `llvm` 23.1.5 → 23.1.5_1, `ocaml@4` 4.14.4 → 4.14.5, `oh-my-agent` 20.40.1 → 20.40.2, `openkermit` 11.1.516 → 11.1.517, `openshell` 0.1.8 → 0.1.8_1, `parquet-cli` 1.18.1 → 1.18.2, `pocketbase` 0.41.1 → 0.42.0, `pup` 2.4.3 → 2.4.4, `solidity` 0.8.38 → 0.8.38_1, `storm` 3.1.0 → 3.2.0, `texmath` 0.13.3.3 → 0.13.3.5, `vite-plus` 1.5.1 → 1.6.0, `wuppiefuzz` 1.8.1 → 1.8.1_1 …
