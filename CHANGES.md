@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-11T22:53:54Z
+
+- Updated 8 formulae: `abcmidi` 2026.10.23 → 2026.11.11, `apfel` 1.17.0 → 1.17.1, `arxiv_latex_cleaner` 1.0.11 → 1.0.12, `astgen` 3.54.0 → 3.55.0, `atmos` 1.234.0 → 1.234.1, `autoconf-archive` 2024.10.16 → 2026.11.11, `aws-amplify` 14.5.1 → 14.6.0, `lovable-oj` 0.4.9 → 0.4.12
+- **Registered 1 casks**: `teamwork-graph-cli`
+- Updated 76 casks: `4k-video-downloader+` 26.3.5 → 26.4.0, `4k-youtube-to-mp3` 26.3.5 → 26.4.0, `adguard-vpn` 2.10.1.1142 → 2.10.2.1164, `adguard-vpn@nightly` 2.12.0.1160 → 2.12.0.1162, `antigravity` 2.31.0,6379060755038208 → 2.31.1,6044591015723008, `antigravity-cli` 1.5.5,6740358537805824 → 1.5.6,6212266538958848, `anydrag` 26.11.125 → 26.11.126, `autogram` 2.8.3 → 2.9.0, `banking-4` 9.3.8,9802 → 9.4.0,9811, `bettertouchtool` 6.1128,2026111008 → 6.1132,2026111104, `bettertouchtool@alpha` 6.1128,2026111008 → 6.1130,2026111102, `brainfm` 0.0.334 → 0.0.339, `cadcraft` 0.19.0 → 0.20.0, `cc-pocket` 1.162.0,305 → 1.163.0,306, `clamshell` 2.0.0,240 → 2.0.1,241, `crest` 6.8.0 → 6.8.1, `cuadriver` 0.47.10 → 0.47.13, `deckcraft` 0.17.0 → 0.18.0, `designcraft` 0.19.0 → 0.20.0, `dialpad` 2609.5.0 → 2610.1.0, `discord@canary` 0.0.1545 → 0.0.1546, `dolphin@dev` 2609-199,af,6e → 2609-206,1d,91, `ea` 13.827.0.6340 → 13.827.1.6341, `effectcraft` 0.23.1 → 0.24.0, `elgato-wave-link` 3.4.0,3281 → 3.5.0,3633 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-11T16:16:00Z
 
 - **Registered 2 formulae**: `engram`, `tidemail`
