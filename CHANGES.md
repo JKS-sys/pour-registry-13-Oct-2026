@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-11T06:36:52Z
+
+- **Registered 2 formulae**: `dotnet@10`, `uutils-grep`
+- Updated 95 formulae: `appstream` 1.2.2 → 1.2.3, `aws-sdk-cpp` 1.11.925 → 1.11.926, `aws-sso-cli` 2.4.0 → 2.4.1, `awscli` 2.39.7 → 2.40.0, `ccusage` 20.0.48 → 20.0.49, `cf-terraforming` 0.30.0 → 0.31.0, `chezmoi` 2.74.0 → 2.74.1, `circleci` 1.14.0 → 1.15.0, `cliproxyapi` 8.0.63 → 8.0.64, `closure-compiler` 20261108 → 20261109, `code-cli` 1.145.2 → 1.145.3, `codebook-lsp` 0.3.42 → 0.4.0, `conda-lock` 4.0.5 → 4.1.0, `cpp-httplib` 0.65.0 → 0.66.0, `cubejs-cli` 1.8.20 → 1.8.21, `dart-sass` 1.108.1 → 1.108.2, `dblab` 0.55.1 → 0.55.2, `diffle` 0.4.0 → 0.5.0, `diffoscope` 337 → 338, `dockcheck` 0.8.3 → 0.8.4, `docker-agent` 1.158.0 → 1.159.0, `docker-credential-helper` 0.9.12 → 0.9.13, `dotnet@9` 9.0.123 → 9.0.124, `eas-cli` 27.5.0 → 27.6.0, `entire-cli` 0.13.1 → 0.13.2 …
+- **Registered 3 casks**: `blick`, `rustgis`, `wiso-steuer-2027`
+- **De-registered 4 casks**: `ao`, `bowtie`, `hugin`, `jmc`
+- Updated 98 casks: `airbuild` 1.6.27 → 1.6.32, `amp-app` 1.0,1240 → 1.0,1250, `android-platform-tools` 37.0.3 → 37.0.1, `artcraft-launcher` 0.18.0 → 0.19.0, `bettertouchtool` 6.1121,2026111002 → 6.1124,2026111005, `beyond-compare` 5.2.7.32913 → 5.2.8.33052, `blitz-gg` 3.0.22 → 3.0.23, `captains-deck` 1.5.7 → 1.5.8, `chatgpt` 26.1103.60933 → 26.1106.51428, `cisdem-data-recovery` 20.6.0 → 20.9.0, `claude` 5.1231.0,4948659bec3fefa3bbcc6a838aaba8823c8cc485 → 5.1231.2,26912242b6649f3e503e012d9b7b9367d09c68e4, `codex` 0.167.0 → 0.167.1, `conductor` 0.94.0,01M711WZMNGZFHH32CE64F6XBD → 0.94.1,01M73G9TKP59MJ300X9XMR9D60, `connect-fonts` 28.1.10 → 29.0.0, `copilot-cli@prerelease` 1.0.109-1 → 1.0.110-1, `copilot-language-server` 1.568.0 → 1.569.0, `crest-browser` 0.8.50 → 0.9.0, `cuadriver` 0.46.1 → 0.47.5, `cursor-cli` 2026.11.05-86047df → 2026.11.10-731fb78, `datadog-agent` 7.85.3-1 → 7.85.4-1, `db-browser-for-sqlcipher@nightly` 20261109 → 20261111, `db-browser-for-sqlite@nightly` 20261109 → 20261111, `dbx` 0.6.68 → 0.6.69, `discord@canary` 0.0.1537 → 0.0.1545, `djstudio@next` 5.0.10-beta.2 → 5.0.10-beta.3 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-10T21:49:41Z
 
 - Updated 83 formulae: `allure` 2.46.1 → 2.46.2, `apache-geode` 2.0.3 → 2.0.4, `arduino-cli` 1.5.1 → 1.6.0, `aws-elasticbeanstalk` 3.27.5 → 3.27.6, `aws-lc` 5.13.0 → 5.14.0, `block-goose-cli` 1.58.1 → 1.59.0, `calm-cli` 1.68.0 → 1.69.0, `cargo-audit` 0.22.2 → 0.23.0, `cloudflare-quiche` 0.30.0 → 0.30.1, `cloudflare-wrangler` 4.158.0 → 4.159.0, `cminpack` 1.3.14 → 1.3.15, `coder` 2.38.6 → 2.38.7, `context7-mcp` 4.5.1 → 4.6.0, `coturn` 4.18.0_2 → 4.19.0, `ctx7` 0.10.0 → 0.11.0, `cyclonedx-npm` 6.0.1 → 7.0.0, `doctl` 2.3.0 → 2.4.0, `faiss` 1.15.1 → 1.16.0, `fern-api` 5.200.0 → 5.201.0, `flyctl` 0.5.6 → 0.5.7, `gam` 7.50.00 → 7.51.00, `garble` 0.18.0_2 → 0.18.0_3, `gimmecert` 1.0.0 → 2.0.0, `glab` 1.128.0 → 1.130.0, `go` 1.27.3 → 1.27.4 …
