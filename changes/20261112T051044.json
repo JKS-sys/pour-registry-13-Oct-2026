@@ -1,0 +1,968 @@
+{
+ "synced_at": "2026-11-12T05:10:44Z",
+ "casks": {
+  "added": [
+   "kiwidesk",
+   "parallels@26"
+  ],
+  "removed": [
+   "scout"
+  ],
+  "updated": [
+   {
+    "from": "2.44.0-beta.01",
+    "name": "1password-cli@beta",
+    "to": "2.44.0-beta.02"
+   },
+   {
+    "from": "1.0,1260",
+    "name": "amp-app",
+    "to": "1.0,1270"
+   },
+   {
+    "from": "2.31.1,6044591015723008",
+    "name": "antigravity",
+    "to": "2.31.2,6470801290035200"
+   },
+   {
+    "from": "0.19.0",
+    "name": "artcraft-launcher",
+    "to": "0.19.2"
+   },
+   {
+    "from": "6.1132,2026111104",
+    "name": "bettertouchtool",
+    "to": "6.1133,2026111105"
+   },
+   {
+    "from": "3.0.23",
+    "name": "blitz-gg",
+    "to": "3.0.24"
+   },
+   {
+    "from": "0.20.0",
+    "name": "cadcraft",
+    "to": "0.20.1"
+   },
+   {
+    "from": "4.0.29",
+    "name": "cc-switch",
+    "to": "4.0.30"
+   },
+   {
+    "from": "0.167.1",
+    "name": "codex",
+    "to": "0.167.2"
+   },
+   {
+    "from": "4.82.0",
+    "name": "confluent-cli",
+    "to": "4.82.1"
+   },
+   {
+    "from": "1.0.110-1",
+    "name": "copilot-cli@prerelease",
+    "to": "1.0.110-3"
+   },
+   {
+    "from": "6.8.1",
+    "name": "crest",
+    "to": "6.9.0"
+   },
+   {
+    "from": "0.18.0",
+    "name": "deckcraft",
+    "to": "0.18.1"
+   },
+   {
+    "from": "0.20.0",
+    "name": "designcraft",
+    "to": "0.20.1"
+   },
+   {
+    "from": "1.8.0",
+    "name": "droid",
+    "to": "1.9.0"
+   },
+   {
+    "from": "279.3.5701",
+    "name": "dropbox@beta",
+    "to": "280.3.5012"
+   },
+   {
+    "from": "0.24.0",
+    "name": "effectcraft",
+    "to": "0.24.1"
+   },
+   {
+    "from": "1.8.0",
+    "name": "factory",
+    "to": "1.9.0"
+   },
+   {
+    "from": "0.20.0",
+    "name": "filmcraft",
+    "to": "0.20.1"
+   },
+   {
+    "from": "162.0a1,2026-11-11-09-11-17",
+    "name": "firefox@nightly",
+    "to": "162.0a1,2026-11-11-21-32-51"
+   },
+   {
+    "from": "2026.1109.42917",
+    "name": "fluxer",
+    "to": "2026.1111.222719"
+   },
+   {
+    "from": "1.11",
+    "name": "fore-studio-vitals",
+    "to": "1.11.2"
+   },
+   {
+    "from": "0.2.10",
+    "name": "ftop",
+    "to": "0.2.11"
+   },
+   {
+    "from": "0.23.3,3347",
+    "name": "gitbutler",
+    "to": "0.23.4,3353"
+   },
+   {
+    "from": "157.0.8103.51",
+    "name": "google-chrome",
+    "to": "157.0.8103.79"
+   },
+   {
+    "from": "7.786.1",
+    "name": "granola",
+    "to": "7.786.3"
+   },
+   {
+    "from": "0.19.0",
+    "name": "gridcraft",
+    "to": "0.19.1"
+   },
+   {
+    "from": "4.0d",
+    "name": "ibkr",
+    "to": "4.1c"
+   },
+   {
+    "from": "4.0.0.98,110426",
+    "name": "idrive",
+    "to": "4.0.0.99,111126"
+   },
+   {
+    "from": "3.2.0",
+    "name": "kiro-cli",
+    "to": "3.2.1"
+   },
+   {
+    "from": "1.2.1",
+    "name": "kugelblitz",
+    "to": "1.2.2"
+   },
+   {
+    "from": "2026.45.3",
+    "name": "lemonade-server",
+    "to": "2026.46.2"
+   },
+   {
+    "from": "0.20.0",
+    "name": "lightcraft",
+    "to": "0.21.0"
+   },
+   {
+    "from": "0.87.20",
+    "name": "littlebird",
+    "to": "0.87.60"
+   },
+   {
+    "from": "3.7.34",
+    "name": "lunar-client",
+    "to": "3.7.35"
+   },
+   {
+    "from": "1.28.0",
+    "name": "mac-sai",
+    "to": "1.32.0"
+   },
+   {
+    "from": "0.59.9",
+    "name": "maestri",
+    "to": "0.59.11"
+   },
+   {
+    "from": "4.3.15,4962",
+    "name": "mailplane",
+    "to": "4.3.16,4967"
+   },
+   {
+    "from": "5.0.1849,D8D49553-BEEE-4CF7-8A52-97797FB71F33",
+    "name": "melodics",
+    "to": "5.0.1871,008F4028-D6B1-4E44-8D19-81C3EA9DFC39"
+   },
+   {
+    "from": "159.0.4395.0,44efce01-cd23-40e2-9821-ee44472b6abd",
+    "name": "microsoft-edge@canary",
+    "to": "159.0.4397.0,286516f1-25ca-40de-8a61-4d46c2acfcae"
+   },
+   {
+    "from": "1.4.5851",
+    "name": "nessie-app",
+    "to": "1.4.6068"
+   },
+   {
+    "from": "7.3b7",
+    "name": "netnewswire@beta",
+    "to": "7.3b8"
+   },
+   {
+    "from": "6.2.1",
+    "name": "novabench",
+    "to": "6.2.2"
+   },
+   {
+    "from": "0.22.0",
+    "name": "photocraft",
+    "to": "0.23.0"
+   },
+   {
+    "from": "1.14.1",
+    "name": "purge",
+    "to": "1.15.0"
+   },
+   {
+    "from": "0.1.3483",
+    "name": "reader",
+    "to": "0.1.3486"
+   },
+   {
+    "from": "2.1.1",
+    "name": "sc-menu",
+    "to": "2.2"
+   },
+   {
+    "from": "26.4.0.37384746592",
+    "name": "second-life-viewer",
+    "to": "26.5.0.42122621216"
+   },
+   {
+    "from": "8.34.0",
+    "name": "signal",
+    "to": "8.35.0"
+   },
+   {
+    "from": "8.35.0-beta.1",
+    "name": "signal@beta",
+    "to": "8.36.0-beta.1"
+   },
+   {
+    "from": "1.11.0",
+    "name": "simple-comic",
+    "to": "1.12.0"
+   },
+   {
+    "from": "0.19.0",
+    "name": "soundcraft",
+    "to": "0.20.1"
+   },
+   {
+    "from": "6.1.6",
+    "name": "soundsource",
+    "to": "6.2.0"
+   },
+   {
+    "from": "1792617903",
+    "name": "steamcmd",
+    "to": "1794425457"
+   },
+   {
+    "from": "1.0.0rc1",
+    "name": "stratoshark",
+    "to": "1.0.0rc2"
+   },
+   {
+    "from": "0.11.7",
+    "name": "supacode",
+    "to": "0.11.8"
+   },
+   {
+    "from": "0.1.10-nightly.20261111.4529",
+    "name": "t3-code@nightly",
+    "to": "0.1.10-nightly.20261111.4544"
+   },
+   {
+    "from": "0.99.5",
+    "name": "tamery",
+    "to": "0.99.6"
+   },
+   {
+    "from": "0.12.11-beta.137",
+    "name": "tinycast@beta",
+    "to": "0.12.12-beta.139"
+   },
+   {
+    "from": "1.8.0",
+    "name": "topaz-photo",
+    "to": "1.8.1"
+   },
+   {
+    "from": "2.3.102035",
+    "name": "trae-cn",
+    "to": "2.3.102387"
+   },
+   {
+    "from": "4.216.1",
+    "name": "tuist",
+    "to": "4.216.2"
+   },
+   {
+    "from": "0.23.0",
+    "name": "vectorcraft",
+    "to": "0.24.0"
+   },
+   {
+    "from": "1.147.0-insider,1794383854674,07282098047bad970657000c946edf604f4602fe",
+    "name": "visual-studio-code@insiders",
+    "to": "1.147.0-insider,1794431807706,5618b3eb24e32b51b220bea95137541221f7fad0"
+   },
+   {
+    "from": "3.12.0",
+    "name": "wealthfolio",
+    "to": "3.13.0"
+   },
+   {
+    "from": "2.6.16",
+    "name": "willow-voice",
+    "to": "2.6.17"
+   },
+   {
+    "from": "0.24.2",
+    "name": "zed-delta",
+    "to": "0.25.0"
+   },
+   {
+    "from": "1.28.0",
+    "name": "zed@preview",
+    "to": "1.29.1"
+   },
+   {
+    "from": "0.6.0",
+    "name": "zentty",
+    "to": "0.6.1"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [
+   "muvm",
+   "ziggy"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.0.3_1",
+    "name": "aws-c-auth",
+    "to": "1.0.4"
+   },
+   {
+    "from": "1.11.926",
+    "name": "aws-sdk-cpp",
+    "to": "1.11.927"
+   },
+   {
+    "from": "2.40.0",
+    "name": "awscli",
+    "to": "2.40.1"
+   },
+   {
+    "from": "4.24.0",
+    "name": "azion",
+    "to": "4.25.0"
+   },
+   {
+    "from": "76.0.0",
+    "name": "bazel-diff",
+    "to": "77.0.0"
+   },
+   {
+    "from": "4.1.6",
+    "name": "bfs",
+    "to": "4.1.7"
+   },
+   {
+    "from": "0.34.2",
+    "name": "buildkit",
+    "to": "0.35.0"
+   },
+   {
+    "from": "0.34.2",
+    "name": "buildkitd",
+    "to": "0.35.0"
+   },
+   {
+    "from": "0.2.64",
+    "name": "cargo-show-asm",
+    "to": "0.2.65"
+   },
+   {
+    "from": "20.0.49",
+    "name": "ccusage",
+    "to": "20.0.50"
+   },
+   {
+    "from": "5.9.0",
+    "name": "certbot",
+    "to": "5.10.0"
+   },
+   {
+    "from": "1.18.3",
+    "name": "chafa",
+    "to": "1.18.3_1"
+   },
+   {
+    "from": "1.135.0",
+    "name": "chainloop-cli",
+    "to": "1.135.1"
+   },
+   {
+    "from": "1.9.1",
+    "name": "clippy",
+    "to": "1.10.0"
+   },
+   {
+    "from": "2.27.0",
+    "name": "cloud-sql-proxy",
+    "to": "2.28.0"
+   },
+   {
+    "from": "3.7.4",
+    "name": "dbxcli",
+    "to": "3.8.0"
+   },
+   {
+    "from": "0.19.0",
+    "name": "designcraft-cli",
+    "to": "0.20.1"
+   },
+   {
+    "from": "5.8.0",
+    "name": "dnscontrol",
+    "to": "5.8.1"
+   },
+   {
+    "from": "0.38.2",
+    "name": "docker-buildx",
+    "to": "0.39.0"
+   },
+   {
+    "from": "1.5.0",
+    "name": "doltgres",
+    "to": "1.5.1"
+   },
+   {
+    "from": "0.51.10",
+    "name": "doltlite",
+    "to": "0.51.11"
+   },
+   {
+    "from": "0.11.1",
+    "name": "dtop",
+    "to": "0.11.2"
+   },
+   {
+    "from": "27.7.1",
+    "name": "eas-cli",
+    "to": "27.7.2"
+   },
+   {
+    "from": "3.7.0",
+    "name": "engram",
+    "to": "3.7.1"
+   },
+   {
+    "from": "0.2.2",
+    "name": "expert",
+    "to": "0.2.3"
+   },
+   {
+    "from": "2026-10-27",
+    "name": "exploitdb",
+    "to": "2026-11-12"
+   },
+   {
+    "from": "0.162.2",
+    "name": "fastapi",
+    "to": "0.162.4"
+   },
+   {
+    "from": "4.1.7",
+    "name": "fastmcp",
+    "to": "4.1.8"
+   },
+   {
+    "from": "5.201.0",
+    "name": "fern-api",
+    "to": "5.203.0"
+   },
+   {
+    "from": "9.0.2_1",
+    "name": "ffmpeg-full",
+    "to": "9.0.2_2"
+   },
+   {
+    "from": "6.1.6_3",
+    "name": "ffmpeg@6",
+    "to": "6.1.6_4"
+   },
+   {
+    "from": "7.1.5_3",
+    "name": "ffmpeg@7",
+    "to": "7.1.5_4"
+   },
+   {
+    "from": "0.19.0",
+    "name": "filmcraft-cli",
+    "to": "0.20.1"
+   },
+   {
+    "from": "2.6.6",
+    "name": "flex",
+    "to": "2.6.9"
+   },
+   {
+    "from": "0.5.7",
+    "name": "flyctl",
+    "to": "0.5.8"
+   },
+   {
+    "from": "1.16.0",
+    "name": "forcecli",
+    "to": "1.17.0"
+   },
+   {
+    "from": "7.52.00",
+    "name": "gam",
+    "to": "7.52.01"
+   },
+   {
+    "from": "2.2.10",
+    "name": "garnet",
+    "to": "2.2.11"
+   },
+   {
+    "from": "3.13.3_6",
+    "name": "gdal",
+    "to": "3.13.3_7"
+   },
+   {
+    "from": "3.4",
+    "name": "geeqie",
+    "to": "3.4_1"
+   },
+   {
+    "from": "0.67.0",
+    "name": "gemini-cli",
+    "to": "0.68.0"
+   },
+   {
+    "from": "2.6.1",
+    "name": "gocryptfs",
+    "to": "2.7.0"
+   },
+   {
+    "from": "1.3.49",
+    "name": "graphicsmagick",
+    "to": "1.3.49_1"
+   },
+   {
+    "from": "0.18.0",
+    "name": "gridcraft-cli",
+    "to": "0.19.1"
+   },
+   {
+    "from": "3.6.2",
+    "name": "helix-db",
+    "to": "3.7.0"
+   },
+   {
+    "from": "11.12.1",
+    "name": "heroku",
+    "to": "11.13.0"
+   },
+   {
+    "from": "7.1.2-35",
+    "name": "imagemagick-full",
+    "to": "7.1.2-35_1"
+   },
+   {
+    "from": "3.3.6",
+    "name": "immich-cli",
+    "to": "3.4.0"
+   },
+   {
+    "from": "0.0.4",
+    "name": "inshellisense",
+    "to": "0.1.0"
+   },
+   {
+    "from": "2.8.0",
+    "name": "ipatool",
+    "to": "2.8.1"
+   },
+   {
+    "from": "2.131.0",
+    "name": "jfrog-cli",
+    "to": "2.132.0"
+   },
+   {
+    "from": "0.12.0_1",
+    "name": "jpeg-xl",
+    "to": "0.13.0"
+   },
+   {
+    "from": "1.0.0",
+    "name": "kagent",
+    "to": "1.0.1"
+   },
+   {
+    "from": "2.55.4",
+    "name": "kosli-cli",
+    "to": "2.55.5"
+   },
+   {
+    "from": "0.42.0",
+    "name": "kubecfg",
+    "to": "0.43.0"
+   },
+   {
+    "from": "1.4.4",
+    "name": "libansilove",
+    "to": "1.4.5"
+   },
+   {
+    "from": "1.3.1",
+    "name": "libsail",
+    "to": "1.3.1_1"
+   },
+   {
+    "from": "0.20.0",
+    "name": "lightcraft-cli",
+    "to": "0.21.0"
+   },
+   {
+    "from": "1.25.1",
+    "name": "lizard-analyzer",
+    "to": "1.26.0"
+   },
+   {
+    "from": "2.5.0",
+    "name": "massdriver",
+    "to": "2.5.1"
+   },
+   {
+    "from": "4.2.1",
+    "name": "mcp-server-kubernetes",
+    "to": "4.2.2"
+   },
+   {
+    "from": "5.2.5",
+    "name": "micronaut",
+    "to": "5.2.6"
+   },
+   {
+    "from": "2026.11.6",
+    "name": "mise",
+    "to": "2026.11.7"
+   },
+   {
+    "from": "0.24.18",
+    "name": "mpd",
+    "to": "0.24.19"
+   },
+   {
+    "from": "1.13",
+    "name": "msdfgen",
+    "to": "1.13.1"
+   },
+   {
+    "from": "2.48.0",
+    "name": "nfpm",
+    "to": "2.49.0"
+   },
+   {
+    "from": "1.108.1",
+    "name": "node-sass",
+    "to": "1.108.2"
+   },
+   {
+    "from": "22.23.4_2",
+    "name": "node@22",
+    "to": "22.23.5"
+   },
+   {
+    "from": "24.22.2_2",
+    "name": "node@24",
+    "to": "24.22.3"
+   },
+   {
+    "from": "24.0.5",
+    "name": "nx",
+    "to": "24.0.6"
+   },
+   {
+    "from": "3.96.0",
+    "name": "oci-cli",
+    "to": "3.96.2"
+   },
+   {
+    "from": "2026.11.2",
+    "name": "openclaw-cli",
+    "to": "2026.11.3"
+   },
+   {
+    "from": "3.2.2.0",
+    "name": "openimageio",
+    "to": "3.2.2.0_1"
+   },
+   {
+    "from": "2.1.0",
+    "name": "overturemaps",
+    "to": "2.1.1"
+   },
+   {
+    "from": "3.17.2",
+    "name": "panache",
+    "to": "3.18.0"
+   },
+   {
+    "from": "11.2.2",
+    "name": "parsedmarc",
+    "to": "11.3.0"
+   },
+   {
+    "from": "0.20.0",
+    "name": "pdfcraft-cli",
+    "to": "0.21.1"
+   },
+   {
+    "from": "9.7.2-2",
+    "name": "percona-server",
+    "to": "9.7.2-3"
+   },
+   {
+    "from": "8.4.11-11_4",
+    "name": "percona-server@8.4",
+    "to": "8.4.11-12"
+   },
+   {
+    "from": "0.22.0",
+    "name": "photocraft-cli",
+    "to": "0.23.0"
+   },
+   {
+    "from": "0.89.4",
+    "name": "pint",
+    "to": "0.90.0"
+   },
+   {
+    "from": "0.42.0",
+    "name": "pocketbase",
+    "to": "0.42.2"
+   },
+   {
+    "from": "0.34.0",
+    "name": "pomerium",
+    "to": "0.34.1"
+   },
+   {
+    "from": "7.3.0",
+    "name": "psalm",
+    "to": "7.3.1"
+   },
+   {
+    "from": "0.350.0",
+    "name": "pscale",
+    "to": "0.351.0"
+   },
+   {
+    "from": "2.4.4",
+    "name": "pup",
+    "to": "2.4.5"
+   },
+   {
+    "from": "0.27.1",
+    "name": "qwen-code",
+    "to": "0.27.2"
+   },
+   {
+    "from": "0.4.6",
+    "name": "rainfrog",
+    "to": "0.4.7"
+   },
+   {
+    "from": "1.2.100",
+    "name": "redress",
+    "to": "1.2.101"
+   },
+   {
+    "from": "1.6.0",
+    "name": "rekor-cli",
+    "to": "1.6.1"
+   },
+   {
+    "from": "0.49.0",
+    "name": "resvg",
+    "to": "0.50.0"
+   },
+   {
+    "from": "3.0.2",
+    "name": "sabiql",
+    "to": "3.0.3"
+   },
+   {
+    "from": "8.28.0",
+    "name": "sanity",
+    "to": "8.28.2"
+   },
+   {
+    "from": "0.9.74",
+    "name": "schema-evolution-manager",
+    "to": "0.9.75"
+   },
+   {
+    "from": "4.33.1",
+    "name": "schemathesis",
+    "to": "4.33.2"
+   },
+   {
+    "from": "2.8.12_1",
+    "name": "sdl2_image",
+    "to": "2.8.12_2"
+   },
+   {
+    "from": "3.4.8",
+    "name": "sdl3_image",
+    "to": "3.4.8_1"
+   },
+   {
+    "from": "2.157.8",
+    "name": "sf",
+    "to": "2.158.7"
+   },
+   {
+    "from": "1.4.5_1",
+    "name": "siril",
+    "to": "1.4.5_2"
+   },
+   {
+    "from": "1.7.6",
+    "name": "skills",
+    "to": "1.8.0"
+   },
+   {
+    "from": "0.30.5",
+    "name": "skillshare",
+    "to": "0.30.6"
+   },
+   {
+    "from": "2.44.1",
+    "name": "static-web-server",
+    "to": "2.44.2"
+   },
+   {
+    "from": "1.55.10",
+    "name": "stripe-cli",
+    "to": "1.55.11"
+   },
+   {
+    "from": "1.39.0",
+    "name": "swift-protobuf",
+    "to": "1.40.0"
+   },
+   {
+    "from": "1.14.5",
+    "name": "talosctl",
+    "to": "1.14.6"
+   },
+   {
+    "from": "1.2.1",
+    "name": "terragrunt",
+    "to": "1.2.2"
+   },
+   {
+    "from": "1.0.1",
+    "name": "upki",
+    "to": "1.0.2"
+   },
+   {
+    "from": "0.39.3",
+    "name": "vacuum",
+    "to": "0.40.0"
+   },
+   {
+    "from": "2_5",
+    "name": "vapoursynth-imwri",
+    "to": "2_6"
+   },
+   {
+    "from": "0.23.0",
+    "name": "vectorcraft-cli",
+    "to": "0.24.0"
+   },
+   {
+    "from": "9.2.1320",
+    "name": "vim",
+    "to": "9.2.1332"
+   },
+   {
+    "from": "8.18.7",
+    "name": "vips",
+    "to": "8.18.7_1"
+   },
+   {
+    "from": "0.181.10",
+    "name": "vtcode",
+    "to": "0.182.0"
+   },
+   {
+    "from": "2.54.2_1",
+    "name": "webkitgtk",
+    "to": "2.54.2_2"
+   },
+   {
+    "from": "0.17.0",
+    "name": "wordcraft-cli",
+    "to": "0.18.1"
+   },
+   {
+    "from": "1.7.4",
+    "name": "xcsift",
+    "to": "1.7.5"
+   },
+   {
+    "from": "0.14.1",
+    "name": "xfr",
+    "to": "0.15.0"
+   },
+   {
+    "from": "0.8.7",
+    "name": "zeroclaw",
+    "to": "0.9.0"
+   },
+   {
+    "from": "0.4.72",
+    "name": "zot",
+    "to": "0.4.73"
+   },
+   {
+    "from": "65.19",
+    "name": "zpaqfranz",
+    "to": "65.20"
+   }
+  ]
+ }
+}

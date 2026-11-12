@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-12T05:10:44Z
+
+- **Registered 2 formulae**: `muvm`, `ziggy`
+- Updated 120 formulae: `aws-c-auth` 1.0.3_1 → 1.0.4, `aws-sdk-cpp` 1.11.926 → 1.11.927, `awscli` 2.40.0 → 2.40.1, `azion` 4.24.0 → 4.25.0, `bazel-diff` 76.0.0 → 77.0.0, `bfs` 4.1.6 → 4.1.7, `buildkit` 0.34.2 → 0.35.0, `buildkitd` 0.34.2 → 0.35.0, `cargo-show-asm` 0.2.64 → 0.2.65, `ccusage` 20.0.49 → 20.0.50, `certbot` 5.9.0 → 5.10.0, `chafa` 1.18.3 → 1.18.3_1, `chainloop-cli` 1.135.0 → 1.135.1, `clippy` 1.9.1 → 1.10.0, `cloud-sql-proxy` 2.27.0 → 2.28.0, `dbxcli` 3.7.4 → 3.8.0, `designcraft-cli` 0.19.0 → 0.20.1, `dnscontrol` 5.8.0 → 5.8.1, `docker-buildx` 0.38.2 → 0.39.0, `doltgres` 1.5.0 → 1.5.1, `doltlite` 0.51.10 → 0.51.11, `dtop` 0.11.1 → 0.11.2, `eas-cli` 27.7.1 → 27.7.2, `engram` 3.7.0 → 3.7.1, `expert` 0.2.2 → 0.2.3 …
+- **Registered 2 casks**: `kiwidesk`, `parallels@26`
+- **De-registered 1 casks**: `scout`
+- Updated 69 casks: `1password-cli@beta` 2.44.0-beta.01 → 2.44.0-beta.02, `amp-app` 1.0,1260 → 1.0,1270, `antigravity` 2.31.1,6044591015723008 → 2.31.2,6470801290035200, `artcraft-launcher` 0.19.0 → 0.19.2, `bettertouchtool` 6.1132,2026111104 → 6.1133,2026111105, `blitz-gg` 3.0.23 → 3.0.24, `cadcraft` 0.20.0 → 0.20.1, `cc-switch` 4.0.29 → 4.0.30, `codex` 0.167.1 → 0.167.2, `confluent-cli` 4.82.0 → 4.82.1, `copilot-cli@prerelease` 1.0.110-1 → 1.0.110-3, `crest` 6.8.1 → 6.9.0, `deckcraft` 0.18.0 → 0.18.1, `designcraft` 0.20.0 → 0.20.1, `droid` 1.8.0 → 1.9.0, `dropbox@beta` 279.3.5701 → 280.3.5012, `effectcraft` 0.24.0 → 0.24.1, `factory` 1.8.0 → 1.9.0, `filmcraft` 0.20.0 → 0.20.1, `firefox@nightly` 162.0a1,2026-11-11-09-11-17 → 162.0a1,2026-11-11-21-32-51, `fluxer` 2026.1109.42917 → 2026.1111.222719, `fore-studio-vitals` 1.11 → 1.11.2, `ftop` 0.2.10 → 0.2.11, `gitbutler` 0.23.3,3347 → 0.23.4,3353, `google-chrome` 157.0.8103.51 → 157.0.8103.79 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-11T22:53:54Z
 
 - Updated 8 formulae: `abcmidi` 2026.10.23 → 2026.11.11, `apfel` 1.17.0 → 1.17.1, `arxiv_latex_cleaner` 1.0.11 → 1.0.12, `astgen` 3.54.0 → 3.55.0, `atmos` 1.234.0 → 1.234.1, `autoconf-archive` 2024.10.16 → 2026.11.11, `aws-amplify` 14.5.1 → 14.6.0, `lovable-oj` 0.4.9 → 0.4.12
