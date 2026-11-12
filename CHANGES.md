@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-12T07:19:53Z
+
+- **Registered 1 formulae**: `mdspan`
+- Updated 14 formulae: `cliproxyapi` 8.0.64 → 8.0.67, `dtop` 0.11.2 → 0.11.3, `dune` 3.24.2 → 3.25.0, `go-parquet-tools` 1.57.3 → 1.57.4, `highs` 1.15.1 → 1.16.0, `kokkos` 5.2.2 → 5.3.0, `kyverno` 1.19.2 → 1.20.0, `mackup` 0.11.2 → 0.11.3, `memtier_benchmark` 2.5.2_1 → 2.6.0, `mesheryctl` 1.0.75 → 1.0.76, `node` 26.13.0_2 → 26.13.1, `or-tools` 9.15_15 → 9.15_16, `precice` 3.5.0 → 3.5.0_1, `sqlpage` 0.47.0 → 0.48.0
+- Updated 21 casks: `figcraft` 0.17.0 → 0.18.1, `get-iplayer-automator` 1.29.9,202610221514 → 1.29.10,202611111741, `github-copilot-app` 1.2.0 → 1.3.0, `gogs` 0.14.3 → 0.14.4, `ipvanish-vpn` 5.4.0,173395 → 5.5.1,174850, `maestro` 1.0.2 → 1.0.3, `magpie` 0.1.3800 → 0.1.3825, `mindroom` 2026.11.290 → 2026.11.300, `mtmr` 0.27 → 0.28, `nani` 1.1.16 → 1.1.17, `notion-cli` 0.23.28 → 0.23.29, `pdfcraft` 0.21.0 → 0.21.1, `privacynotes` 0.735.0 → 0.757.0, `reader` 0.1.3486 → 0.1.3487, `solidcraft` 0.30.1 → 0.40.1, `t3-code@nightly` 0.1.10-nightly.20261111.4544 → 0.1.10-nightly.20261112.4564, `telegram@beta` 13.2.0,283486 → 13.2.0,283488, `tencent-meeting` 3.47.2.407,8f792a0af699fd29e5a7f6b461a4c2ee → 3.48.1.401,3243fe53565109349a347594d6ad42e9, `viable` 1b12,2023.11 → 11a,2026.11, `wolai` 1.2.12 → 1.3.5, `xmind` 27.01.05087-202611032216 → 27.01.05088-202611110706
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-12T05:10:44Z
 
 - **Registered 2 formulae**: `muvm`, `ziggy`

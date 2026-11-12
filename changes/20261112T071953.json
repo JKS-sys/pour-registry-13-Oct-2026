@@ -1,0 +1,192 @@
+{
+ "synced_at": "2026-11-12T07:19:53Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.17.0",
+    "name": "figcraft",
+    "to": "0.18.1"
+   },
+   {
+    "from": "1.29.9,202610221514",
+    "name": "get-iplayer-automator",
+    "to": "1.29.10,202611111741"
+   },
+   {
+    "from": "1.2.0",
+    "name": "github-copilot-app",
+    "to": "1.3.0"
+   },
+   {
+    "from": "0.14.3",
+    "name": "gogs",
+    "to": "0.14.4"
+   },
+   {
+    "from": "5.4.0,173395",
+    "name": "ipvanish-vpn",
+    "to": "5.5.1,174850"
+   },
+   {
+    "from": "1.0.2",
+    "name": "maestro",
+    "to": "1.0.3"
+   },
+   {
+    "from": "0.1.3800",
+    "name": "magpie",
+    "to": "0.1.3825"
+   },
+   {
+    "from": "2026.11.290",
+    "name": "mindroom",
+    "to": "2026.11.300"
+   },
+   {
+    "from": "0.27",
+    "name": "mtmr",
+    "to": "0.28"
+   },
+   {
+    "from": "1.1.16",
+    "name": "nani",
+    "to": "1.1.17"
+   },
+   {
+    "from": "0.23.28",
+    "name": "notion-cli",
+    "to": "0.23.29"
+   },
+   {
+    "from": "0.21.0",
+    "name": "pdfcraft",
+    "to": "0.21.1"
+   },
+   {
+    "from": "0.735.0",
+    "name": "privacynotes",
+    "to": "0.757.0"
+   },
+   {
+    "from": "0.1.3486",
+    "name": "reader",
+    "to": "0.1.3487"
+   },
+   {
+    "from": "0.30.1",
+    "name": "solidcraft",
+    "to": "0.40.1"
+   },
+   {
+    "from": "0.1.10-nightly.20261111.4544",
+    "name": "t3-code@nightly",
+    "to": "0.1.10-nightly.20261112.4564"
+   },
+   {
+    "from": "13.2.0,283486",
+    "name": "telegram@beta",
+    "to": "13.2.0,283488"
+   },
+   {
+    "from": "3.47.2.407,8f792a0af699fd29e5a7f6b461a4c2ee",
+    "name": "tencent-meeting",
+    "to": "3.48.1.401,3243fe53565109349a347594d6ad42e9"
+   },
+   {
+    "from": "1b12,2023.11",
+    "name": "viable",
+    "to": "11a,2026.11"
+   },
+   {
+    "from": "1.2.12",
+    "name": "wolai",
+    "to": "1.3.5"
+   },
+   {
+    "from": "27.01.05087-202611032216",
+    "name": "xmind",
+    "to": "27.01.05088-202611110706"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [
+   "mdspan"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "8.0.64",
+    "name": "cliproxyapi",
+    "to": "8.0.67"
+   },
+   {
+    "from": "0.11.2",
+    "name": "dtop",
+    "to": "0.11.3"
+   },
+   {
+    "from": "3.24.2",
+    "name": "dune",
+    "to": "3.25.0"
+   },
+   {
+    "from": "1.57.3",
+    "name": "go-parquet-tools",
+    "to": "1.57.4"
+   },
+   {
+    "from": "1.15.1",
+    "name": "highs",
+    "to": "1.16.0"
+   },
+   {
+    "from": "5.2.2",
+    "name": "kokkos",
+    "to": "5.3.0"
+   },
+   {
+    "from": "1.19.2",
+    "name": "kyverno",
+    "to": "1.20.0"
+   },
+   {
+    "from": "0.11.2",
+    "name": "mackup",
+    "to": "0.11.3"
+   },
+   {
+    "from": "2.5.2_1",
+    "name": "memtier_benchmark",
+    "to": "2.6.0"
+   },
+   {
+    "from": "1.0.75",
+    "name": "mesheryctl",
+    "to": "1.0.76"
+   },
+   {
+    "from": "26.13.0_2",
+    "name": "node",
+    "to": "26.13.1"
+   },
+   {
+    "from": "9.15_15",
+    "name": "or-tools",
+    "to": "9.15_16"
+   },
+   {
+    "from": "3.5.0",
+    "name": "precice",
+    "to": "3.5.0_1"
+   },
+   {
+    "from": "0.47.0",
+    "name": "sqlpage",
+    "to": "0.48.0"
+   }
+  ]
+ }
+}
