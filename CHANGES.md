@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-12T16:51:22Z
+
+- Updated 43 formulae: `apify-cli` 1.11.0 → 1.12.0, `appwrite` 28.11.0 → 28.12.0, `ascelerate` 0.34.0 → 0.35.0, `aws-cdk` 2.1148.0 → 2.1148.1, `aws-sam-cli` 1.171.0_1 → 1.172.1, `azion` 4.25.0 → 4.26.0, `bnd` 7.4.0 → 7.5.0, `bqlog` 2.7.3 → 2.8.0, `c-blosc2` 3.6.1 → 3.6.2, `calcurse` 4.8.2 → 4.9.0, `chrome-devtools-mcp` 1.12.0 → 1.13.0, `cloudflared` 2026.10.7 → 2026.11.0, `deepline` 0.3.495 → 0.3.500, `deja-vu` 0.24.1 → 0.24.2, `depot` 2.103.10 → 2.103.12, `diffle` 0.5.0 → 0.5.1, `dua-cli` 3.0.1 → 3.0.3, `goose` 3.30.0 → 3.30.1, `goreleaser` 2.20.1 → 2.20.2, `infracost` 2.19.0 → 2.19.1, `k6` 2.3.0 → 2.4.0, `kapp` 0.66.1 → 0.66.2, `lavinmq` 2.10.6 → 2.11.0, `libkrunfw` 5.6.3 → 5.6.4, `libpq@16` 16.15_1 → 16.16 …
+- Updated 54 casks: `alma` 0.4.571 → 0.4.575, `antigravity-cli` 1.5.6,6212266538958848 → 1.5.7,6190022064472064, `arduino-ide` 2.3.10 → 2.3.11, `asana` 2.10.6 → 2.11.0, `astro-editor` 1.0.20 → 1.1.0, `bettertouchtool` 6.1135,2026111205 → 6.1139,2026111209, `bettertouchtool@alpha` 6.1135,2026111205 → 6.1140,2026111210, `bitfocus-buttons` 1.8.10,7301,16376c94 → 1.8.11,7386,c55075d1, `blood-on-the-clocktower-online` 3.58.0 → 3.58.1, `brave-browser@beta` 1.100.52.0,200.52 → 1.101.47.0,201.47, `brave-origin@beta` 1.100.52.0,200.52 → 1.101.47.0,201.47, `busycal` 2026.4.5,2026-11-07-02-54-51 → 2026.4.6,2026-11-12-12-39-07, `busycontacts` 2026.4.3 → 2026.4.4, `cc-pocket` 1.163.0,306 → 1.163.1,307, `chatbox` 1.24.3 → 1.24.4, `cinderella` 3.0.2136 → 3.0.2137, `claude` 5.1231.2,26912242b6649f3e503e012d9b7b9367d09c68e4 → 5.11492.0,ce4f8dd2e25346b37909530556abd6e2e7b00206, `colamd` 2.7.11 → 2.7.12, `cuadriver` 0.47.18 → 0.47.19, `cursor` 3.29.15,86776fcb52ca505783155631089b65d646f9b03f → 3.30.8,4a44c846d0b817fab060823f93c63ea2861ac192, `dbgate` 7.3.4 → 7.3.6, `deepchat` 1.1.3 → 1.1.4, `distill-web-monitor` 4.3.2-beta → 4.3.3-beta, `dockview` 1.7.5 → 2.6.1, `element@nightly` 2026111201 → 2026111203 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-12T13:16:20Z
 
 - **Registered 1 formulae**: `rea`

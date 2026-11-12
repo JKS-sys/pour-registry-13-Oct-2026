@@ -1,0 +1,500 @@
+{
+ "synced_at": "2026-11-12T16:51:22Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.4.571",
+    "name": "alma",
+    "to": "0.4.575"
+   },
+   {
+    "from": "1.5.6,6212266538958848",
+    "name": "antigravity-cli",
+    "to": "1.5.7,6190022064472064"
+   },
+   {
+    "from": "2.3.10",
+    "name": "arduino-ide",
+    "to": "2.3.11"
+   },
+   {
+    "from": "2.10.6",
+    "name": "asana",
+    "to": "2.11.0"
+   },
+   {
+    "from": "1.0.20",
+    "name": "astro-editor",
+    "to": "1.1.0"
+   },
+   {
+    "from": "6.1135,2026111205",
+    "name": "bettertouchtool",
+    "to": "6.1139,2026111209"
+   },
+   {
+    "from": "6.1135,2026111205",
+    "name": "bettertouchtool@alpha",
+    "to": "6.1140,2026111210"
+   },
+   {
+    "from": "1.8.10,7301,16376c94",
+    "name": "bitfocus-buttons",
+    "to": "1.8.11,7386,c55075d1"
+   },
+   {
+    "from": "3.58.0",
+    "name": "blood-on-the-clocktower-online",
+    "to": "3.58.1"
+   },
+   {
+    "from": "1.100.52.0,200.52",
+    "name": "brave-browser@beta",
+    "to": "1.101.47.0,201.47"
+   },
+   {
+    "from": "1.100.52.0,200.52",
+    "name": "brave-origin@beta",
+    "to": "1.101.47.0,201.47"
+   },
+   {
+    "from": "2026.4.5,2026-11-07-02-54-51",
+    "name": "busycal",
+    "to": "2026.4.6,2026-11-12-12-39-07"
+   },
+   {
+    "from": "2026.4.3",
+    "name": "busycontacts",
+    "to": "2026.4.4"
+   },
+   {
+    "from": "1.163.0,306",
+    "name": "cc-pocket",
+    "to": "1.163.1,307"
+   },
+   {
+    "from": "1.24.3",
+    "name": "chatbox",
+    "to": "1.24.4"
+   },
+   {
+    "from": "3.0.2136",
+    "name": "cinderella",
+    "to": "3.0.2137"
+   },
+   {
+    "from": "5.1231.2,26912242b6649f3e503e012d9b7b9367d09c68e4",
+    "name": "claude",
+    "to": "5.11492.0,ce4f8dd2e25346b37909530556abd6e2e7b00206"
+   },
+   {
+    "from": "2.7.11",
+    "name": "colamd",
+    "to": "2.7.12"
+   },
+   {
+    "from": "0.47.18",
+    "name": "cuadriver",
+    "to": "0.47.19"
+   },
+   {
+    "from": "3.29.15,86776fcb52ca505783155631089b65d646f9b03f",
+    "name": "cursor",
+    "to": "3.30.8,4a44c846d0b817fab060823f93c63ea2861ac192"
+   },
+   {
+    "from": "7.3.4",
+    "name": "dbgate",
+    "to": "7.3.6"
+   },
+   {
+    "from": "1.1.3",
+    "name": "deepchat",
+    "to": "1.1.4"
+   },
+   {
+    "from": "4.3.2-beta",
+    "name": "distill-web-monitor",
+    "to": "4.3.3-beta"
+   },
+   {
+    "from": "1.7.5",
+    "name": "dockview",
+    "to": "2.6.1"
+   },
+   {
+    "from": "2026111201",
+    "name": "element@nightly",
+    "to": "2026111203"
+   },
+   {
+    "from": "2.8.1",
+    "name": "expo-orbit",
+    "to": "2.9.0"
+   },
+   {
+    "from": "2.4.7",
+    "name": "filo",
+    "to": "2.4.8"
+   },
+   {
+    "from": "1.2.0",
+    "name": "flick",
+    "to": "1.3.0"
+   },
+   {
+    "from": "16.38.27408",
+    "name": "futubull",
+    "to": "16.39.27508"
+   },
+   {
+    "from": "18803,a622196c930138f312884382ab784e45b9ab653b",
+    "name": "ghostty@tip",
+    "to": "18820,72ac7dced84e96a5d5214d005d59eadd10da27bb"
+   },
+   {
+    "from": "0.20.8",
+    "name": "gloom",
+    "to": "0.20.9"
+   },
+   {
+    "from": "2.1.2",
+    "name": "k6-studio",
+    "to": "2.1.3"
+   },
+   {
+    "from": "4.26.1",
+    "name": "ledger-wallet",
+    "to": "4.28.0"
+   },
+   {
+    "from": "26.8.2",
+    "name": "libreoffice",
+    "to": "26.8.3"
+   },
+   {
+    "from": "26.8.2",
+    "name": "libreoffice-language-pack",
+    "to": "26.8.3"
+   },
+   {
+    "from": "0.111.1",
+    "name": "lody",
+    "to": "0.112.0"
+   },
+   {
+    "from": "0.1.3875",
+    "name": "magpie",
+    "to": "0.1.3900"
+   },
+   {
+    "from": "2.5.3",
+    "name": "moneymoney",
+    "to": "2.5.4"
+   },
+   {
+    "from": "3.0.4,13.0",
+    "name": "musicbrainz-picard",
+    "to": "3.0.5,13.0"
+   },
+   {
+    "from": "4.13",
+    "name": "mutedeck",
+    "to": "4.14"
+   },
+   {
+    "from": "4.8.4",
+    "name": "mweb-pro",
+    "to": "4.8.5"
+   },
+   {
+    "from": "0.7.0",
+    "name": "nod",
+    "to": "0.7.1"
+   },
+   {
+    "from": "1.0.1",
+    "name": "osaurus",
+    "to": "1.0.2"
+   },
+   {
+    "from": "157.19.5.51,c79fc876",
+    "name": "prisma-access-browser",
+    "to": "157.19.6.79,3df06572"
+   },
+   {
+    "from": "3.3.11",
+    "name": "reqable",
+    "to": "3.3.12"
+   },
+   {
+    "from": "1.18.24",
+    "name": "seam-app",
+    "to": "1.18.25"
+   },
+   {
+    "from": "1.3.12",
+    "name": "textus",
+    "to": "1.4.0"
+   },
+   {
+    "from": "2.0-beta66",
+    "name": "threema-work@beta",
+    "to": "2.0-beta67"
+   },
+   {
+    "from": "2.0-beta66",
+    "name": "threema@beta",
+    "to": "2.0-beta67"
+   },
+   {
+    "from": "162.0a1,2026-11-11-09-40-06",
+    "name": "thunderbird@daily",
+    "to": "162.0a1,2026-11-12-10-00-08"
+   },
+   {
+    "from": "0.110,2302",
+    "name": "tuna",
+    "to": "0.111,2312"
+   },
+   {
+    "from": "2.52.2",
+    "name": "ulaa",
+    "to": "2.52.3"
+   },
+   {
+    "from": "26.45.13",
+    "name": "whatsapp",
+    "to": "26.45.21"
+   },
+   {
+    "from": "4.3.2611101136",
+    "name": "workflowy",
+    "to": "4.3.2611120800"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.11.0",
+    "name": "apify-cli",
+    "to": "1.12.0"
+   },
+   {
+    "from": "28.11.0",
+    "name": "appwrite",
+    "to": "28.12.0"
+   },
+   {
+    "from": "0.34.0",
+    "name": "ascelerate",
+    "to": "0.35.0"
+   },
+   {
+    "from": "2.1148.0",
+    "name": "aws-cdk",
+    "to": "2.1148.1"
+   },
+   {
+    "from": "1.171.0_1",
+    "name": "aws-sam-cli",
+    "to": "1.172.1"
+   },
+   {
+    "from": "4.25.0",
+    "name": "azion",
+    "to": "4.26.0"
+   },
+   {
+    "from": "7.4.0",
+    "name": "bnd",
+    "to": "7.5.0"
+   },
+   {
+    "from": "2.7.3",
+    "name": "bqlog",
+    "to": "2.8.0"
+   },
+   {
+    "from": "3.6.1",
+    "name": "c-blosc2",
+    "to": "3.6.2"
+   },
+   {
+    "from": "4.8.2",
+    "name": "calcurse",
+    "to": "4.9.0"
+   },
+   {
+    "from": "1.12.0",
+    "name": "chrome-devtools-mcp",
+    "to": "1.13.0"
+   },
+   {
+    "from": "2026.10.7",
+    "name": "cloudflared",
+    "to": "2026.11.0"
+   },
+   {
+    "from": "0.3.495",
+    "name": "deepline",
+    "to": "0.3.500"
+   },
+   {
+    "from": "0.24.1",
+    "name": "deja-vu",
+    "to": "0.24.2"
+   },
+   {
+    "from": "2.103.10",
+    "name": "depot",
+    "to": "2.103.12"
+   },
+   {
+    "from": "0.5.0",
+    "name": "diffle",
+    "to": "0.5.1"
+   },
+   {
+    "from": "3.0.1",
+    "name": "dua-cli",
+    "to": "3.0.3"
+   },
+   {
+    "from": "3.30.0",
+    "name": "goose",
+    "to": "3.30.1"
+   },
+   {
+    "from": "2.20.1",
+    "name": "goreleaser",
+    "to": "2.20.2"
+   },
+   {
+    "from": "2.19.0",
+    "name": "infracost",
+    "to": "2.19.1"
+   },
+   {
+    "from": "2.3.0",
+    "name": "k6",
+    "to": "2.4.0"
+   },
+   {
+    "from": "0.66.1",
+    "name": "kapp",
+    "to": "0.66.2"
+   },
+   {
+    "from": "2.10.6",
+    "name": "lavinmq",
+    "to": "2.11.0"
+   },
+   {
+    "from": "5.6.3",
+    "name": "libkrunfw",
+    "to": "5.6.4"
+   },
+   {
+    "from": "16.15_1",
+    "name": "libpq@16",
+    "to": "16.16"
+   },
+   {
+    "from": "17.11_1",
+    "name": "libpq@17",
+    "to": "17.12"
+   },
+   {
+    "from": "3.1.0",
+    "name": "mistral-vibe",
+    "to": "3.1.2"
+   },
+   {
+    "from": "1.59.4",
+    "name": "mongodb-atlas-cli",
+    "to": "1.60.0"
+   },
+   {
+    "from": "0.4.9.2_1",
+    "name": "nanopb",
+    "to": "0.4.9.3"
+   },
+   {
+    "from": "0.11.0",
+    "name": "oarfish",
+    "to": "0.12.0"
+   },
+   {
+    "from": "0.0.35",
+    "name": "octl",
+    "to": "0.0.36"
+   },
+   {
+    "from": "1.0.160",
+    "name": "officecli",
+    "to": "1.0.161"
+   },
+   {
+    "from": "14.24_1",
+    "name": "postgresql@14",
+    "to": "14.25"
+   },
+   {
+    "from": "15.19_1",
+    "name": "postgresql@15",
+    "to": "15.20"
+   },
+   {
+    "from": "16.15_1",
+    "name": "postgresql@16",
+    "to": "16.16"
+   },
+   {
+    "from": "17.11_1",
+    "name": "postgresql@17",
+    "to": "17.12"
+   },
+   {
+    "from": "3.9.10",
+    "name": "prettier",
+    "to": "3.10.0"
+   },
+   {
+    "from": "0.34.7",
+    "name": "rattler-index",
+    "to": "0.34.8"
+   },
+   {
+    "from": "6.17.2",
+    "name": "sip",
+    "to": "6.17.3"
+   },
+   {
+    "from": "0.24.0",
+    "name": "terraform-docs",
+    "to": "0.25.1"
+   },
+   {
+    "from": "2.15.0",
+    "name": "tgpt",
+    "to": "2.16.0"
+   },
+   {
+    "from": "0.0.100",
+    "name": "ty",
+    "to": "0.0.101"
+   },
+   {
+    "from": "1.5.0",
+    "name": "xk6",
+    "to": "1.5.1"
+   }
+  ]
+ }
+}
