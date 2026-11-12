@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-12T13:16:20Z
+
+- **Registered 1 formulae**: `rea`
+- Updated 55 formulae: `aiven-client` 4.18.0_1 → 4.19.0, `aoe` 1.22.3 → 1.23.0, `arkade` 0.12.0 → 0.12.1, `autocycler` 0.8.0 → 0.8.1, `biome` 2.6.6 → 2.6.7, `c3c` 0.8.5 → 0.8.6, `cabextract` 1.11 → 1.12, `calm-cli` 1.69.0 → 1.70.0, `cdk8s` 2.207.79 → 2.207.80, `checkov` 3.4.3 → 3.4.4, `clickhouse-sql-parser` 0.5.6 → 0.5.7, `crun` 1.30.1 → 1.31, `cx` 0.1.31 → 0.1.33, `descope` 0.8.16 → 0.8.17, `djlint` 1.49.10 → 1.50.0, `flow` 0.339.0 → 0.340.0, `frei0r` 3.7.0 → 3.7.1, `goenv@2` 2.2.48 → 2.2.49, `grpc` 1.85.1 → 1.85.2, `hermit` 0.55.1 → 0.56.0, `homebank` 5.10.3 → 5.10.4, `joern` 4.0.680 → 4.0.681, `kontext` 1.22.1 → 1.23.0, `lfk` 0.19.16 → 0.19.17, `libodfgen` 0.1.8_1 → 0.1.9 …
+- **Registered 2 casks**: `devtools`, `plezy`
+- Updated 67 casks: `adrafinil` 1.14.1 → 1.14.2, `amp-app` 1.0,1270 → 1.0,1280, `android-studio-preview@beta` 2026.2.2.7,rabbit2-rc2 → 2026.2.3.4,rabbit3-rc1, `bambu-connect` 2.5.0-beta.15 → 2.6.0-beta.0, `bettertouchtool` 6.1133,2026111105 → 6.1135,2026111205, `bettertouchtool@alpha` 6.1130,2026111102 → 6.1135,2026111205, `biscuit` 2.2.10 → 2.2.11, `brave-browser@nightly` 1.101.40.0,201.40 → 1.102.1.0,202.1, `brave-origin@nightly` 1.101.40.0,201.40 → 1.102.1.0,202.1, `bytemail` 1.9.33 → 1.9.36, `chronoagent` 12.0.4 → 12.0.3, `crest` 6.9.0 → 6.9.1, `cuadriver` 0.47.13 → 0.47.18, `diversion` 1.6.1129 → 1.6.1149, `doubao` 2.35.8 → 2.35.12, `element@nightly` 2026111101 → 2026111201, `feishu` 8.5.6,5aa9e28b → 8.6.10,1231a769, `firefox@nightly` 162.0a1,2026-11-11-21-32-51 → 162.0a1,2026-11-12-01-04-10, `fluxer` 2026.1111.222719 → 2026.1112.24929, `fore-studio-vitals` 1.11.2 → 1.11.3, `freelens@nightly` 2.0.1-0-nightly-2026-11-11 → 2.0.1-0-nightly-2026-11-12, `genoffice` 0.12.852 → 0.13.18, `ghostex` 11.4.0 → 11.5.0, `gloom` 0.20.7 → 0.20.8, `google-chrome@canary` 159.0.8154.2 → 160.0.8157.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-12T07:19:53Z
 
 - **Registered 1 formulae**: `mdspan`
