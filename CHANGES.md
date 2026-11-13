@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-13T12:18:27Z
+
+- **De-registered 2 formulae**: `dotnet@6`, `rethinkdb`
+- Updated 139 formulae: `adr-viewer` 1.4.0_7 → 1.4.0_8, `agent-desktop` 1.2.0 → 1.3.0, `apko` 1.4.18 → 1.5.0, `apm` 0.35.0 → 0.35.1, `appwrite` 28.12.0 → 28.12.1, `aqtinstall` 3.3.0_11 → 3.3.0_12, `astyle` 3.6.23 → 3.6.24, `atuin` 18.24.6 → 18.24.8, `atuin-server` 18.24.6 → 18.24.8, `aws-crt-cpp` 0.44.3_1 → 0.44.4, `aws-google-auth` 0.0.38_25 → 0.0.38_26, `aws-sdk-cpp` 1.11.927 → 1.11.928, `awscli` 2.40.1 → 2.40.2, `balena-cli` 25.2.12 → 25.2.13, `bandcamp-dl` 0.0.17_9 → 0.0.17_10, `bbot` 3.0.2_3 → 3.0.2_4, `behaviortree.cpp` 4.11.0 → 4.11.1, `bilix` 0.18.9_10 → 0.18.9_11, `budget-tracker` 1.7.0 → 1.8.0, `buku` 5.1_8 → 5.1_9, `caire` 1.5.0 → 1.6.0, `cake` 6.3.0 → 7.0.0, `cargo-shear` 1.14.0 → 1.14.1, `cdk8s` 2.207.80 → 2.207.81, `ckan` 1.36.4 → 1.36.4_1 …
+- **Registered 1 casks**: `sable`
+- Updated 104 casks: `acorn` 8.7.2 → 8.7.3, `aegisub` 3.4.2 → 3.5.1, `android-cli` 1.1.16717390 → 1.1.16919734, `antigravity-cli` 1.5.7,6190022064472064 → 1.5.8,4602374149505024, `batteries` 3.1.3 → 3.1.4, `bramble` 0.17.0 → 0.18.0, `busycal` 2026.4.6,2026-11-12-12-39-07 → 2026.4.6,2026-11-13-06-48-47, `bytemail` 1.9.36 → 1.9.40, `canva` 1.126.2 → 1.129.0, `charles` 5.2.2 → 5.2.3, `chatgpt` 26.1106.51428 → 26.1111.21308, `claude` 5.11492.0,ce4f8dd2e25346b37909530556abd6e2e7b00206 → 5.11492.2,b1edc63367ca6fb5fa8d5a72604951a71b37dd58, `claude-code@latest` 2.1.322 → 2.1.323, `codex` 0.167.2 → 0.169.0, `copilot-cli` 1.0.109 → 1.0.110, `copilot-cli@prerelease` 1.0.110-3 → 1.0.111-0, `copilot-language-server` 1.569.0 → 1.570.0, `cuadriver` 0.47.24 → 0.49.1, `dbx` 0.6.69 → 0.6.70, `deepseek-harness` 0.2.2-rc.2 → 0.2.2-rc.3, `devin-desktop` 3.12.43,517d03d73926d6d71330b47ec14ceb6e56469159 → 3.12.59,0122b42e158c7ca62960222fb9725f087cd9544f, `devin-desktop@next` 3.12.1057+next.96542e9307,96542e9307526cd734ad9cc1efa3d9bfb5d741da → 3.12.1059+next.0122b42e15,0122b42e158c7ca62960222fb9725f087cd9544f, `discord@canary` 0.0.1551 → 0.0.1562, `dolphin@dev` 2609-206,1d,91 → 2609-221,e8,27, `douyin` 8.7.0,7044145585217083655,495279540 → 8.8.0,7044145585217083655,540056698 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-13T01:09:38Z
 
 - Updated 55 formulae: `azion` 4.26.0 → 4.26.1, `balena-cli` 25.2.11 → 25.2.12, `beast` 10.5.0 → 10.6.0, `beszel-agent` 0.21.1 → 0.21.2, `betterleaks` 1.10.0 → 1.10.1, `c2patool` 0.28.6 → 0.29.0, `cilium-cli` 0.20.2 → 0.20.3, `cloudflare-wrangler` 4.160.0 → 4.160.1, `cubejs-cli` 1.8.21 → 1.8.22, `dnscontrol` 5.8.1 → 5.8.2, `docker-squash` 1.2.2_8 → 1.3.0, `dotnet@8` 8.0.133 → 8.0.134, `entire-cli` 0.13.2 → 0.13.3, `fastly` 17.0.0 → 17.1.0, `fern-api` 5.203.0 → 5.205.2, `flex` 2.6.9 → 2.6.10, `flyctl` 0.5.8 → 0.5.9, `flyway` 13.12.1 → 13.12.2, `fobis` 3.16.3 → 3.16.6, `gh` 2.103.3 → 2.104.0, `greenmask` 0.2.26 → 0.2.27, `hf-mount` 0.13.4 → 0.13.6, `imgproxy` 4.0.23 → 4.0.24, `immich-cli` 3.4.0 → 3.4.1, `keploy` 3.7.0 → 3.7.1 …
