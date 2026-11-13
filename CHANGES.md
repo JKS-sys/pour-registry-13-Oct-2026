@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-13T22:00:05Z
+
+- Updated 61 formulae: `angular-cli` 22.2.6 → 22.2.7, `auto-editor` 31.8.0 → 31.8.0_1, `bazel-diff` 77.0.0 → 78.0.0, `bpmnlint` 12.1.0 → 12.1.1, `chainloop-cli` 1.135.1 → 1.135.2, `checkov` 3.4.4 → 3.4.5, `cloudflare-wrangler` 4.160.1 → 4.161.0, `cloudquery` 6.50.0 → 6.51.0, `context7-mcp` 4.6.0 → 4.7.0, `cozypkg` 1.7.0 → 1.7.1, `csprecon` 0.4.7 → 0.5.0, `ctx7` 0.11.0 → 0.11.1, `depot` 2.103.12 → 2.103.13, `diesel` 2.3.14 → 2.4.0, `dpkg` 1.23.11 → 1.23.12, `dstack` 0.22.7 → 0.22.8, `eas-cli` 27.7.2 → 27.9.0, `ffmpeg-full` 9.0.2_2 → 9.0.2_3, `flowpipe` 1.2.3 → 1.2.4, `ggml` 0.29.0 → 1.0.0, `git-sizer` 1.5.0 → 1.6.0, `humanbound` 2.14.0 → 2.15.0, `infisical` 0.45.7 → 0.45.8, `kahip` 3.25 → 3.27, `ketch` 0.21.0 → 0.21.1 …
+- **Registered 3 casks**: `lattice`, `sidebarfavorites-manager`, `yandex-document`
+- Updated 21 casks: `alcom` 1.1.9 → 1.1.10, `amical` 1.13.1 → 1.13.2, `amp-app` 1.0,1290 → 1.0,1300, `burp-suite@early-adopter` 2026.10.1 → 2026.11, `canario` 2026.09.18.35 → 2026.11.13.37, `cleanmymac-zh` 4.15.14 → 4.15.15, `clop` 3.7.1 → 3.7.2, `copyclip` 3.994.3 → 3.994.4, `dayflow` 2.9.0 → 2.9.3, `discord@canary` 0.0.1562 → 0.0.1563, `djstudio@next` 5.0.11-beta.0 → 5.0.11-beta.1, `dockview` 2.6.3 → 2.6.4, `firefox@nightly` 162.0a1,2026-11-12-21-52-26 → 162.0a1,2026-11-13-08-51-16, `fluidvoice` 1.6.12 → 1.6.13, `grandtotal` 10.0.2.13 → 10.0.2.15, `jprofiler` 16.3 → 16.3.1, `karing` 1.2.26.2930 → 1.2.26.2931, `keyecho` 1.1.1 → 1.2.0, `lexicon-dj` 1.12.0 → 1.12.1, `psychopy` 2026.2.5 → 2026.2.5,2026.2.5post1, `vnc-server` 7.18.1 → 7.19.0
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-13T12:18:27Z
 
 - **De-registered 2 formulae**: `dotnet@6`, `rethinkdb`
