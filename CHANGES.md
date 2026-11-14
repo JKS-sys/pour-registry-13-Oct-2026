@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-14T15:09:24Z
+
+- **Registered 1 formulae**: `goose-lang`
+- Updated 69 formulae: `agent-browser` 0.42.0 → 0.43.0, `anyzig` 2026.11.03 → 2026.11.12, `aws-c-auth` 1.0.4 → 1.0.4_1, `aws-c-http` 1.2.0 → 1.3.0, `aws-c-mqtt` 1.1.3 → 1.1.3_1, `aws-c-s3` 1.5.2_1 → 1.5.2_2, `aws-crt-cpp` 0.44.4 → 0.44.4_1, `aws-sam-cli` 1.172.1 → 1.172.1_1, `aws-sdk-cpp` 1.11.929 → 1.11.929_1, `awscli` 2.40.3 → 2.40.3_1, `awscurl` 0.45_1 → 0.45_2, `b4` 0.16.0_1 → 0.16.0_2, `bitwuzla` 0.9.1 → 0.10.0, `bkmr` 8.4.0 → 8.5.0, `budget-tracker` 1.8.0 → 1.8.1, `cdk8s` 2.207.81 → 2.207.82, `certsync` 0.1.6_12 → 0.1.6_13, `checkdmarc` 6.0.4 → 6.0.4_1, `chkrootkit` 0.59 → 0.60, `cliproxyapi` 8.0.69 → 8.0.70, `cobo-cli` 0.1.10_1 → 0.1.10_2, `codanna` 0.17.1_2 → 0.17.1_3, `colmap` 4.2.1_4 → 4.2.1_5, `cyclonedx-npm` 7.0.0 → 7.0.1, `depot` 2.103.16 → 2.103.17 …
+- **Registered 2 casks**: `ardia`, `dotnet-sdk@10`
+- Updated 55 casks: `agent-orchestrator` 0.15.0 → 0.15.1, `airbuild` 1.7.7 → 1.7.15, `amp-app` 1.0,1310 → 1.0,1320, `antigravity-cli` 1.5.8,4602374149505024 → 1.5.9,4515810895593472, `atomcode` 5.2.6 → 5.2.7, `brewy` 0.26.5 → 0.26.6, `calhash` 1.5.8 → 1.6.1, `coconutbattery` 4.4.0,265 → 4.4.1,275, `cuadriver` 0.49.8 → 0.49.10, `dnclient` 1.0.0,837870e1 → 1.0.0, `drawpen` 0.0.61 → 0.0.62, `droid` 1.11.0 → 1.12.1, `element@nightly` 2026111301 → 2026111401, `factory` 1.11.0 → 1.12.1, `fliqlo` 1.9.5 → 2.0, `flowdown` 5.2.4 → 5.2.10, `fluxer` 2026.1113.195311 → 2026.1114.60222, `freelens@nightly` 2.0.1-0-nightly-2026-11-13 → 2.0.1-0-nightly-2026-11-14, `ghost-downloader` 4.5.2 → 4.5.3, `ghostex` 11.6.1 → 11.7.0, `github-copilot-app` 1.4.0 → 1.4.1, `google-chrome@canary` 160.0.8160.0 → 160.0.8161.0, `gram` 3.5.0 → 3.5.1, `handy` 0.10.0 → 0.10.1, `hoptodesk` 1.46.82 → 1.46.85 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-14T06:35:43Z
 
 - **Registered 1 formulae**: `curl-impersonate`
