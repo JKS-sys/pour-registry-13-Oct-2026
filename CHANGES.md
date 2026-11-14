@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-14T06:35:43Z
+
+- **Registered 1 formulae**: `curl-impersonate`
+- Updated 109 formulae: `abcmidi` 2026.11.11 → 2026.11.13, `agent-desktop` 1.3.0 → 1.3.1, `anycable-go` 1.6.20 → 1.6.21, `arturo` 0.10.0_1 → 0.10.0_2, `asymptote` 3.15 → 3.16, `auto-editor` 31.8.0_1 → 31.9.0, `autotrace` 0.31.10_2 → 0.31.11, `aws-c-mqtt` 1.1.2_1 → 1.1.3, `aws-elasticbeanstalk` 3.27.6 → 3.27.7, `aws-sdk-cpp` 1.11.928 → 1.11.929, `aws-vault` 7.17.7 → 7.18.0, `awscli` 2.40.2 → 2.40.3, `azcopy` 10.34.1 → 10.34.2, `azion` 4.26.1 → 4.26.2, `balena-cli` 25.2.13 → 25.2.15, `bbot` 3.0.2_4 → 3.1.0, `block-goose-cli` 1.59.0 → 1.59.1, `cargo-nextest` 0.9.151 → 0.9.152, `cfn-lint` 1.60.0 → 1.60.1, `crit` 0.23.2 → 0.23.3, `crystal` 1.22.2 → 1.22.3, `deepline` 0.3.500 → 0.3.505, `dep-scan` 6.3.1 → 6.3.2, `depot` 2.103.13 → 2.103.16, `diffle` 0.5.1 → 0.5.3 …
+- **Registered 1 casks**: `fleet-desktop`
+- Updated 151 casks: `agent-orchestrator` 0.14.10 → 0.15.0, `airbuild` 1.6.32 → 1.7.7, `alma` 0.4.575 → 0.4.585, `amp-app` 1.0,1300 → 1.0,1310, `antconc` 4.3.1 → 4.4.2, `antigravity` 2.31.2,6470801290035200 → 2.32.1,6001966350991360, `basecamp` 5.2.3 → 5.2.4, `bettertouchtool` 6.1142,2026111212 → 6.1145,2026111302, `bettertouchtool@alpha` 6.1140,2026111210 → 6.1145,2026111302, `bitfocus-buttons` 1.8.11,7386,c55075d1 → 1.8.12,7390,21fd8ac2, `block-buzz` 0.5.28 → 0.5.30, `brave-browser@nightly` 1.102.2.0,202.2 → 1.102.6.0,202.6, `brave-origin@nightly` 1.102.2.0,202.2 → 1.102.6.0,202.6, `busycal` 2026.4.6,2026-11-13-06-48-47 → 2026.4.6,2026-11-14-00-51-54, `caido` 0.59.0 → 0.59.1, `canario` 2026.11.13.37 → 2026.11.13.38, `cc-pocket` 1.163.1,307 → 1.163.2,308, `cherry-studio` 2.2.1 → 2.2.2, `chronoid` 1.0.106 → 1.0.107, `clarify` 1.7.23 → 1.7.24, `claude` 5.11492.2,b1edc63367ca6fb5fa8d5a72604951a71b37dd58 → 5.11492.5,1403e2cf44abfb23809c8ae11238d5e9704a41c2, `claude-code@latest` 2.1.323 → 2.1.325, `claudebar` 0.5.26 → 0.5.27, `clickhouse` 26.10.2.103-stable → 26.10.4.207-stable, `clone-hero` 1.1.0.6142,-final → 1.1.0.6161,-final …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-13T22:00:05Z
 
 - Updated 61 formulae: `angular-cli` 22.2.6 → 22.2.7, `auto-editor` 31.8.0 → 31.8.0_1, `bazel-diff` 77.0.0 → 78.0.0, `bpmnlint` 12.1.0 → 12.1.1, `chainloop-cli` 1.135.1 → 1.135.2, `checkov` 3.4.4 → 3.4.5, `cloudflare-wrangler` 4.160.1 → 4.161.0, `cloudquery` 6.50.0 → 6.51.0, `context7-mcp` 4.6.0 → 4.7.0, `cozypkg` 1.7.0 → 1.7.1, `csprecon` 0.4.7 → 0.5.0, `ctx7` 0.11.0 → 0.11.1, `depot` 2.103.12 → 2.103.13, `diesel` 2.3.14 → 2.4.0, `dpkg` 1.23.11 → 1.23.12, `dstack` 0.22.7 → 0.22.8, `eas-cli` 27.7.2 → 27.9.0, `ffmpeg-full` 9.0.2_2 → 9.0.2_3, `flowpipe` 1.2.3 → 1.2.4, `ggml` 0.29.0 → 1.0.0, `git-sizer` 1.5.0 → 1.6.0, `humanbound` 2.14.0 → 2.15.0, `infisical` 0.45.7 → 0.45.8, `kahip` 3.25 → 3.27, `ketch` 0.21.0 → 0.21.1 …
