@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-14T20:45:57Z
+
+- **Registered 1 formulae**: `globus-cli`
+- Updated 37 formulae: `arf` 0.7.0 → 0.7.1, `baml` 0.3.1 → 0.4.0, `calm-cli` 1.70.0 → 1.71.0, `cspell` 10.4.1 → 10.5.0, `dita-ot` 4.4.1 → 4.4.2, `dosbox-staging` 0.83.0 → 0.83.1, `enpass-cli` 1.14.0 → 1.14.1, `fastapi` 0.162.5 → 0.162.6, `flex` 2.6.11 → 2.6.12, `flowrs` 0.16.3 → 0.16.4, `freesasa` 2.1.3 → 2.1.4, `gamdl` 4.0.0 → 4.0.1, `garnet` 2.2.11 → 2.2.12, `gittype` 0.10.4 → 0.10.5, `imlib2` 1.12.7 → 1.13.0, `julia` 1.13.3 → 1.13.4, `libffi` 3.8.0 → 3.8.1, `libical` 4.0.7 → 4.0.8, `limine` 12.9.6 → 12.10.0, `mcp-atlassian` 0.24.3 → 0.24.4, `moor` 2.19.6 → 2.19.7, `netlify-cli` 27.17.0 → 27.18.0, `nickle` 2.108 → 2.111, `oasdiff` 1.37.0 → 1.38.0, `portable-libffi` 3.8.0 → 3.8.1 …
+- Updated 32 casks: `alma` 0.4.585 → 0.4.624, `apidog` 2.8.54 → 2.8.55, `apidog-europe` 2.8.54 → 2.8.55, `apifox` 2.8.54 → 2.8.55, `cc-switch` 4.0.31 → 4.0.32, `clamshell` 2.0.1,241 → 2.0.2,242, `clop` 3.7.2 → 3.7.3, `crest` 6.9.3 → 6.9.4, `cuadriver` 0.49.10 → 0.49.11, `dolphin@dev` 2609-227,ee,01 → 2609-229,22,fc, `dosbox-staging-app` 0.83.0 → 0.83.1, `equibop` 3.3.2 → 3.3.3, `firefox@nightly` 162.0a1,2026-11-13-21-17-35 → 162.0a1,2026-11-14-10-06-03, `font-sketchybar-app-font` 3.0.24 → 3.0.25, `freellmapi` 0.16.26 → 0.16.28, `ghost-downloader` 4.5.3 → 4.5.4, `github-copilot-app` 1.4.1 → 1.4.2, `hedy` 3.15.1,437 → 3.16.0,439, `hol-guard` 3.0.148 → 3.0.149, `lunar` 7.0.0b26 → 7.0.0b27, `macloggerdx@beta` 6.64b3 → 6.64b4, `magpie` 0.1.4175 → 0.1.4200, `mdrp` 14.2.1 → 15.0.0, `meetily` 0.4.1 → 0.5.0, `mongrel` 5.75.3,45e03f0a-5faf-43d3-b4b0-d3d9b843ddf2 → 5.75.4,b18531c7-4382-4447-af7c-674b63dea03e …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-14T15:09:24Z
 
 - **Registered 1 formulae**: `goose-lang`
