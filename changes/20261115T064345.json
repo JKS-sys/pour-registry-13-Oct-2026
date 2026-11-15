@@ -1,0 +1,607 @@
+{
+ "synced_at": "2026-11-15T06:43:45Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.0,1320",
+    "name": "amp-app",
+    "to": "1.0,1340"
+   },
+   {
+    "from": "26.11.126",
+    "name": "anydrag",
+    "to": "26.11.127"
+   },
+   {
+    "from": "0.18.0",
+    "name": "bramble",
+    "to": "0.19.0"
+   },
+   {
+    "from": "2026.11.13.38",
+    "name": "canario",
+    "to": "2026.11.14.39"
+   },
+   {
+    "from": "1.163.2,308",
+    "name": "cc-pocket",
+    "to": "1.163.3,311"
+   },
+   {
+    "from": "0.49.11",
+    "name": "cuadriver",
+    "to": "0.51.0"
+   },
+   {
+    "from": "20261111",
+    "name": "db-browser-for-sqlcipher@nightly",
+    "to": "20261115"
+   },
+   {
+    "from": "20261111",
+    "name": "db-browser-for-sqlite@nightly",
+    "to": "20261115"
+   },
+   {
+    "from": "2609-229,22,fc",
+    "name": "dolphin@dev",
+    "to": "2609-238,80,67"
+   },
+   {
+    "from": "3.3.3",
+    "name": "equibop",
+    "to": "3.3.4"
+   },
+   {
+    "from": "162.0a1,2026-11-14-10-06-03",
+    "name": "firefox@nightly",
+    "to": "162.0a1,2026-11-14-21-41-00"
+   },
+   {
+    "from": "2026.1114.60222",
+    "name": "fluxer",
+    "to": "2026.1114.183423"
+   },
+   {
+    "from": "1.11.3",
+    "name": "fore-studio-vitals",
+    "to": "1.12"
+   },
+   {
+    "from": "0.16.28",
+    "name": "freellmapi",
+    "to": "0.16.29"
+   },
+   {
+    "from": "3.7.0",
+    "name": "geolibre",
+    "to": "3.8.0"
+   },
+   {
+    "from": "11.7.0",
+    "name": "ghostex",
+    "to": "11.7.1"
+   },
+   {
+    "from": "18831,46f1cea1a10a19bef97a8a0f5948e660d0b74fe2",
+    "name": "ghostty@tip",
+    "to": "18838,6d9577708a211b0e6c5e6c6886f3cfb7efc47555"
+   },
+   {
+    "from": "0.20.13",
+    "name": "gloom",
+    "to": "0.20.14"
+   },
+   {
+    "from": "2.8.0",
+    "name": "go2tv",
+    "to": "2.9.0"
+   },
+   {
+    "from": "160.0.8161.0",
+    "name": "google-chrome@canary",
+    "to": "160.0.8162.0"
+   },
+   {
+    "from": "3.5.1",
+    "name": "gram",
+    "to": "3.5.2"
+   },
+   {
+    "from": "10.0.3",
+    "name": "grandtotal",
+    "to": "10.0.3.1"
+   },
+   {
+    "from": "6.8.5,afcbcf67-8e51-47a6-8b9d-a2cea4be06f6",
+    "name": "houdahspot",
+    "to": "6.9,afbdedcb-4fea-4237-a82f-d7a61db820e4"
+   },
+   {
+    "from": "0.28.0",
+    "name": "itsycal",
+    "to": "0.29.0"
+   },
+   {
+    "from": "2025.12,6017",
+    "name": "linguax",
+    "to": "2025.12,6020"
+   },
+   {
+    "from": "7.0.0b27",
+    "name": "lunar",
+    "to": "7.0.0b28"
+   },
+   {
+    "from": "0.1.4200",
+    "name": "magpie",
+    "to": "0.1.4225"
+   },
+   {
+    "from": "1.0.465",
+    "name": "mathcha-notebook",
+    "to": "1.0.466"
+   },
+   {
+    "from": "2.7-alpha-441-g2a97ac974f",
+    "name": "mixxx@snapshot",
+    "to": "2.7-alpha-442-gdc4bf99322"
+   },
+   {
+    "from": "2.7.1",
+    "name": "openchamber",
+    "to": "2.7.2"
+   },
+   {
+    "from": "1.30.2",
+    "name": "opendisplay",
+    "to": "1.30.3"
+   },
+   {
+    "from": "1.30.2",
+    "name": "opendisplay-receiver",
+    "to": "1.30.3"
+   },
+   {
+    "from": "0.5.4",
+    "name": "pluralplay-flclashx",
+    "to": "0.5.6"
+   },
+   {
+    "from": "26.4.0,260400",
+    "name": "proxyman",
+    "to": "26.5.0,260500"
+   },
+   {
+    "from": "7.4.5.824,3004627",
+    "name": "quarkclouddrive",
+    "to": "7.5.0.827,3004627"
+   },
+   {
+    "from": "0.1.3512",
+    "name": "reader",
+    "to": "0.1.3513"
+   },
+   {
+    "from": "2.7.3",
+    "name": "remote-buddy",
+    "to": "2.8"
+   },
+   {
+    "from": "0.5.31",
+    "name": "rio",
+    "to": "0.5.32"
+   },
+   {
+    "from": "2.4.3",
+    "name": "sdrmm-app",
+    "to": "2.4.4"
+   },
+   {
+    "from": "69.1.0",
+    "name": "singlebox",
+    "to": "69.3.3"
+   },
+   {
+    "from": "4.13",
+    "name": "slideshower",
+    "to": "4.14"
+   },
+   {
+    "from": "0.41.0",
+    "name": "solidcraft",
+    "to": "0.42.0"
+   },
+   {
+    "from": "0.20.51",
+    "name": "spline",
+    "to": "0.20.52"
+   },
+   {
+    "from": "5.1.0,606",
+    "name": "stash",
+    "to": "5.1.0,608"
+   },
+   {
+    "from": "34.1.0",
+    "name": "switchbar",
+    "to": "34.2.1"
+   },
+   {
+    "from": "1.24.0,124",
+    "name": "tcp-viewer",
+    "to": "1.25.0,125"
+   },
+   {
+    "from": "2026.6",
+    "name": "timing",
+    "to": "2026.6.1"
+   },
+   {
+    "from": "4.216.6",
+    "name": "tuist",
+    "to": "4.216.7"
+   },
+   {
+    "from": "65.15.0",
+    "name": "vercel",
+    "to": "65.16.0"
+   },
+   {
+    "from": "82.1.0",
+    "name": "webcatalog",
+    "to": "82.2.1"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [
+   "postgresql@12"
+  ],
+  "updated": [
+   {
+    "from": "0.48.1",
+    "name": "agent-manager",
+    "to": "0.49.0"
+   },
+   {
+    "from": "1.23.0",
+    "name": "aoe",
+    "to": "1.24.0"
+   },
+   {
+    "from": "5.0.2",
+    "name": "b2-tools",
+    "to": "5.0.3"
+   },
+   {
+    "from": "0.38.1",
+    "name": "bitbucket-cli",
+    "to": "0.39.0"
+   },
+   {
+    "from": "8.5.0",
+    "name": "bkmr",
+    "to": "8.6.0"
+   },
+   {
+    "from": "1.71.0",
+    "name": "calm-cli",
+    "to": "1.72.0"
+   },
+   {
+    "from": "20.0.50",
+    "name": "ccusage",
+    "to": "20.0.51"
+   },
+   {
+    "from": "4.161.0",
+    "name": "cloudflare-wrangler",
+    "to": "4.162.0"
+   },
+   {
+    "from": "1.8.22",
+    "name": "cubejs-cli",
+    "to": "1.8.23"
+   },
+   {
+    "from": "0.3.505",
+    "name": "deepline",
+    "to": "0.3.522"
+   },
+   {
+    "from": "2.8.1",
+    "name": "delly",
+    "to": "2.8.2"
+   },
+   {
+    "from": "2.103.17",
+    "name": "depot",
+    "to": "2.103.18"
+   },
+   {
+    "from": "338",
+    "name": "diffoscope",
+    "to": "339"
+   },
+   {
+    "from": "20.0.1",
+    "name": "dlib",
+    "to": "20.1"
+   },
+   {
+    "from": "0.9.9",
+    "name": "docmd",
+    "to": "0.10.0"
+   },
+   {
+    "from": "0.15.8",
+    "name": "dwarfs",
+    "to": "0.15.10"
+   },
+   {
+    "from": "2.23.0",
+    "name": "e2b",
+    "to": "2.24.0"
+   },
+   {
+    "from": "27.9.0",
+    "name": "eas-cli",
+    "to": "27.10.0"
+   },
+   {
+    "from": "10.14.0",
+    "name": "eslint",
+    "to": "10.15.0"
+   },
+   {
+    "from": "3.43.0",
+    "name": "fallow",
+    "to": "3.43.1"
+   },
+   {
+    "from": "0.162.6",
+    "name": "fastapi",
+    "to": "0.162.7"
+   },
+   {
+    "from": "4.1.8",
+    "name": "fastmcp",
+    "to": "4.2.0"
+   },
+   {
+    "from": "5.210.3",
+    "name": "fern-api",
+    "to": "5.216.0"
+   },
+   {
+    "from": "2.6.12",
+    "name": "flex",
+    "to": "2.6.13"
+   },
+   {
+    "from": "3.16.9",
+    "name": "fobis",
+    "to": "3.17.0"
+   },
+   {
+    "from": "0.0.16",
+    "name": "fx-agent",
+    "to": "0.0.17"
+   },
+   {
+    "from": "1.29.0",
+    "name": "getparty",
+    "to": "1.29.1"
+   },
+   {
+    "from": "0.2.61",
+    "name": "gixy",
+    "to": "0.2.62"
+   },
+   {
+    "from": "1.57.4",
+    "name": "go-parquet-tools",
+    "to": "1.58.0"
+   },
+   {
+    "from": "7.0.3",
+    "name": "graphql-inspector",
+    "to": "7.0.4"
+   },
+   {
+    "from": "2.13.0",
+    "name": "hysteria",
+    "to": "2.14.0"
+   },
+   {
+    "from": "4.26.275",
+    "name": "inotify-tools",
+    "to": "4.26.277"
+   },
+   {
+    "from": "3.1.745",
+    "name": "ipsw",
+    "to": "3.1.746"
+   },
+   {
+    "from": "3.7.3",
+    "name": "keploy",
+    "to": "3.7.5"
+   },
+   {
+    "from": "2.6.1",
+    "name": "kimi-code",
+    "to": "2.6.2"
+   },
+   {
+    "from": "0.34.59",
+    "name": "letta-code",
+    "to": "0.34.61"
+   },
+   {
+    "from": "0.14.0",
+    "name": "libcbor",
+    "to": "0.14.1"
+   },
+   {
+    "from": "2.63.4",
+    "name": "librsvg",
+    "to": "2.63.4_1"
+   },
+   {
+    "from": "1.59.0",
+    "name": "mago",
+    "to": "1.60.1"
+   },
+   {
+    "from": "2026.09",
+    "name": "moarvm",
+    "to": "2026.11"
+   },
+   {
+    "from": "9.4.0",
+    "name": "neonctl",
+    "to": "9.5.0"
+   },
+   {
+    "from": "27.18.0",
+    "name": "netlify-cli",
+    "to": "27.19.0"
+   },
+   {
+    "from": "0.40.0",
+    "name": "netwatch",
+    "to": "0.40.1"
+   },
+   {
+    "from": "2.111",
+    "name": "nickle",
+    "to": "2.113"
+   },
+   {
+    "from": "0.81.0",
+    "name": "nono",
+    "to": "0.82.0"
+   },
+   {
+    "from": "0.10.4",
+    "name": "noodle",
+    "to": "0.11.0"
+   },
+   {
+    "from": "2026.09",
+    "name": "nqp",
+    "to": "2026.11"
+   },
+   {
+    "from": "1.13.9",
+    "name": "open-code-review",
+    "to": "1.13.10"
+   },
+   {
+    "from": "11.28.9",
+    "name": "pnpm@11",
+    "to": "11.28.12"
+   },
+   {
+    "from": "1.6.1",
+    "name": "porter",
+    "to": "1.7.0"
+   },
+   {
+    "from": "7.5.0",
+    "name": "psalm",
+    "to": "7.6.0"
+   },
+   {
+    "from": "2026.09",
+    "name": "rakudo",
+    "to": "2026.11"
+   },
+   {
+    "from": "0.5.31",
+    "name": "rio-terminal",
+    "to": "0.5.32"
+   },
+   {
+    "from": "8.28.2",
+    "name": "sanity",
+    "to": "8.29.0"
+   },
+   {
+    "from": "2.4.3",
+    "name": "sdrmm",
+    "to": "2.4.4"
+   },
+   {
+    "from": "1.9.20",
+    "name": "skip",
+    "to": "1.9.21"
+   },
+   {
+    "from": "0.14.0",
+    "name": "soar",
+    "to": "0.14.1"
+   },
+   {
+    "from": "3.1.0",
+    "name": "streamvbyte",
+    "to": "3.2.1"
+   },
+   {
+    "from": "0.6.13",
+    "name": "threatcl",
+    "to": "0.6.14"
+   },
+   {
+    "from": "2.12.3",
+    "name": "tinyice",
+    "to": "2.13.0"
+   },
+   {
+    "from": "1.6.0",
+    "name": "tldx",
+    "to": "1.6.1"
+   },
+   {
+    "from": "0.25.0",
+    "name": "ttl",
+    "to": "0.26.0"
+   },
+   {
+    "from": "0.28.0",
+    "name": "tuicr",
+    "to": "0.29.0"
+   },
+   {
+    "from": "0.13.0",
+    "name": "tuios",
+    "to": "0.13.1"
+   },
+   {
+    "from": "0.0.103",
+    "name": "ty",
+    "to": "0.0.104"
+   },
+   {
+    "from": "4.2.1",
+    "name": "utf8cpp",
+    "to": "5.0.0"
+   },
+   {
+    "from": "0.182.1",
+    "name": "vtcode",
+    "to": "0.182.3"
+   },
+   {
+    "from": "0.81.0",
+    "name": "worktrunk",
+    "to": "0.82.0"
+   }
+  ]
+ }
+}

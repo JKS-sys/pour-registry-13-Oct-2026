@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-15T06:43:45Z
+
+- **De-registered 1 formulae**: `postgresql@12`
+- Updated 68 formulae: `agent-manager` 0.48.1 → 0.49.0, `aoe` 1.23.0 → 1.24.0, `b2-tools` 5.0.2 → 5.0.3, `bitbucket-cli` 0.38.1 → 0.39.0, `bkmr` 8.5.0 → 8.6.0, `calm-cli` 1.71.0 → 1.72.0, `ccusage` 20.0.50 → 20.0.51, `cloudflare-wrangler` 4.161.0 → 4.162.0, `cubejs-cli` 1.8.22 → 1.8.23, `deepline` 0.3.505 → 0.3.522, `delly` 2.8.1 → 2.8.2, `depot` 2.103.17 → 2.103.18, `diffoscope` 338 → 339, `dlib` 20.0.1 → 20.1, `docmd` 0.9.9 → 0.10.0, `dwarfs` 0.15.8 → 0.15.10, `e2b` 2.23.0 → 2.24.0, `eas-cli` 27.9.0 → 27.10.0, `eslint` 10.14.0 → 10.15.0, `fallow` 3.43.0 → 3.43.1, `fastapi` 0.162.6 → 0.162.7, `fastmcp` 4.1.8 → 4.2.0, `fern-api` 5.210.3 → 5.216.0, `flex` 2.6.12 → 2.6.13, `fobis` 3.16.9 → 3.17.0 …
+- Updated 50 casks: `amp-app` 1.0,1320 → 1.0,1340, `anydrag` 26.11.126 → 26.11.127, `bramble` 0.18.0 → 0.19.0, `canario` 2026.11.13.38 → 2026.11.14.39, `cc-pocket` 1.163.2,308 → 1.163.3,311, `cuadriver` 0.49.11 → 0.51.0, `db-browser-for-sqlcipher@nightly` 20261111 → 20261115, `db-browser-for-sqlite@nightly` 20261111 → 20261115, `dolphin@dev` 2609-229,22,fc → 2609-238,80,67, `equibop` 3.3.3 → 3.3.4, `firefox@nightly` 162.0a1,2026-11-14-10-06-03 → 162.0a1,2026-11-14-21-41-00, `fluxer` 2026.1114.60222 → 2026.1114.183423, `fore-studio-vitals` 1.11.3 → 1.12, `freellmapi` 0.16.28 → 0.16.29, `geolibre` 3.7.0 → 3.8.0, `ghostex` 11.7.0 → 11.7.1, `ghostty@tip` 18831,46f1cea1a10a19bef97a8a0f5948e660d0b74fe2 → 18838,6d9577708a211b0e6c5e6c6886f3cfb7efc47555, `gloom` 0.20.13 → 0.20.14, `go2tv` 2.8.0 → 2.9.0, `google-chrome@canary` 160.0.8161.0 → 160.0.8162.0, `gram` 3.5.1 → 3.5.2, `grandtotal` 10.0.3 → 10.0.3.1, `houdahspot` 6.8.5,afcbcf67-8e51-47a6-8b9d-a2cea4be06f6 → 6.9,afbdedcb-4fea-4237-a82f-d7a61db820e4, `itsycal` 0.28.0 → 0.29.0, `linguax` 2025.12,6017 → 2025.12,6020 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-14T20:45:57Z
 
 - **Registered 1 formulae**: `globus-cli`
