@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-15T15:41:36Z
+
+- Updated 39 formulae: `ada-url` 4.0.0_1 → 4.0.0_2, `apache-polaris` 1.8.0 → 1.9.0, `apfel` 1.17.1 → 1.18.0, `arcane-cli` 2.17.3 → 3.0.0, `bkmr` 8.6.0 → 8.7.2, `boring` 0.17.0 → 0.18.0, `cdk8s` 2.207.82 → 2.207.83, `cliproxyapi` 8.0.70 → 8.0.72, `container` 1.7.1_1 → 1.7.1_2, `cubejs-cli` 1.8.23 → 1.8.25, `dart-sass` 1.108.2 → 1.108.2_1, `dart-sdk` 3.13.7 → 3.14.0, `dartaotruntime` 3.13.7 → 3.14.0, `djlint` 1.50.0 → 1.50.1, `dopewars` 1.6.2 → 1.7.0, `faketty` 1.0.20 → 1.0.21, `ffmpegthumbnailer` 2.4.1 → 2.4.2, `flex` 2.6.13 → 2.6.14, `flix` 0.79.0 → 0.80.0, `fvm` 4.3.2 → 4.3.2_1, `ipsw` 3.1.746 → 3.1.748, `lfk` 0.19.17 → 0.19.18, `libmodplug` 0.8.9.0 → 0.8.9.2, `libsail` 1.3.1_1 → 1.4.0, `merve` 1.2.2_4 → 1.2.2_5 …
+- Updated 53 casks: `airbuild` 1.7.15 → 1.7.22, `airi` 0.15.4 → 0.15.5, `appflowy` 0.15.0 → 0.15.1, `cuadriver` 0.51.0 → 0.51.5, `customshortcuts` 1.3 → 2.0, `diversion` 1.6.1149 → 1.6.1175, `dolphin@dev` 2609-238,80,67 → 2609-242,c8,6d, `element@nightly` 2026111401 → 2026111501, `emacs-app@nightly` 2026-11-11_00-09-20,bc3b33c8bc6f7a07e919c273e467512253ace56f → 2026-11-15_00-09-17,0e3979858f4b76a7cba43bda42db4e960f160049, `firefox@nightly` 162.0a1,2026-11-14-21-41-00 → 162.0a1,2026-11-15-09-26-57, `fliqlo` 2.0 → 2.1, `fmail3` 3.1.0 → 3.1.1, `folo` 1.17.0 → 1.18.0, `font-inconsolata-lgc` 3.420 → 4.000, `freelens@nightly` 2.0.1-0-nightly-2026-11-14 → 2.0.1-0-nightly-2026-11-15, `freellmapi` 0.16.29 → 0.16.30, `fresh` 4.0.7 → 5.0.2, `fruit-screensaver` 1.3.3 → 1.3.4, `gearboy` 3.8.20 → 3.8.21, `gearsystem` 3.9.24 → 3.9.25, `golly` 5.0 → 5.1, `google-chrome@canary` 160.0.8162.0 → 160.0.8163.0, `grandtotal` 10.0.3.1 → 10.0.3.2, `hiddenbar` 1.11.1 → 1.11.2, `lagrange` 2.0.2 → 2.0.3 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-15T06:43:45Z
 
 - **De-registered 1 formulae**: `postgresql@12`

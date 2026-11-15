@@ -1,0 +1,475 @@
+{
+ "synced_at": "2026-11-15T15:41:36Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.7.15",
+    "name": "airbuild",
+    "to": "1.7.22"
+   },
+   {
+    "from": "0.15.4",
+    "name": "airi",
+    "to": "0.15.5"
+   },
+   {
+    "from": "0.15.0",
+    "name": "appflowy",
+    "to": "0.15.1"
+   },
+   {
+    "from": "0.51.0",
+    "name": "cuadriver",
+    "to": "0.51.5"
+   },
+   {
+    "from": "1.3",
+    "name": "customshortcuts",
+    "to": "2.0"
+   },
+   {
+    "from": "1.6.1149",
+    "name": "diversion",
+    "to": "1.6.1175"
+   },
+   {
+    "from": "2609-238,80,67",
+    "name": "dolphin@dev",
+    "to": "2609-242,c8,6d"
+   },
+   {
+    "from": "2026111401",
+    "name": "element@nightly",
+    "to": "2026111501"
+   },
+   {
+    "from": "2026-11-11_00-09-20,bc3b33c8bc6f7a07e919c273e467512253ace56f",
+    "name": "emacs-app@nightly",
+    "to": "2026-11-15_00-09-17,0e3979858f4b76a7cba43bda42db4e960f160049"
+   },
+   {
+    "from": "162.0a1,2026-11-14-21-41-00",
+    "name": "firefox@nightly",
+    "to": "162.0a1,2026-11-15-09-26-57"
+   },
+   {
+    "from": "2.0",
+    "name": "fliqlo",
+    "to": "2.1"
+   },
+   {
+    "from": "3.1.0",
+    "name": "fmail3",
+    "to": "3.1.1"
+   },
+   {
+    "from": "1.17.0",
+    "name": "folo",
+    "to": "1.18.0"
+   },
+   {
+    "from": "3.420",
+    "name": "font-inconsolata-lgc",
+    "to": "4.000"
+   },
+   {
+    "from": "2.0.1-0-nightly-2026-11-14",
+    "name": "freelens@nightly",
+    "to": "2.0.1-0-nightly-2026-11-15"
+   },
+   {
+    "from": "0.16.29",
+    "name": "freellmapi",
+    "to": "0.16.30"
+   },
+   {
+    "from": "4.0.7",
+    "name": "fresh",
+    "to": "5.0.2"
+   },
+   {
+    "from": "1.3.3",
+    "name": "fruit-screensaver",
+    "to": "1.3.4"
+   },
+   {
+    "from": "3.8.20",
+    "name": "gearboy",
+    "to": "3.8.21"
+   },
+   {
+    "from": "3.9.24",
+    "name": "gearsystem",
+    "to": "3.9.25"
+   },
+   {
+    "from": "5.0",
+    "name": "golly",
+    "to": "5.1"
+   },
+   {
+    "from": "160.0.8162.0",
+    "name": "google-chrome@canary",
+    "to": "160.0.8163.0"
+   },
+   {
+    "from": "10.0.3.1",
+    "name": "grandtotal",
+    "to": "10.0.3.2"
+   },
+   {
+    "from": "1.11.1",
+    "name": "hiddenbar",
+    "to": "1.11.2"
+   },
+   {
+    "from": "2.0.2",
+    "name": "lagrange",
+    "to": "2.0.3"
+   },
+   {
+    "from": "0.12.0",
+    "name": "linearmouse",
+    "to": "0.13.0"
+   },
+   {
+    "from": "0.13.0-beta.7",
+    "name": "linearmouse@beta",
+    "to": "0.13.0"
+   },
+   {
+    "from": "7.0.0b28",
+    "name": "lunar",
+    "to": "7.0.0b29"
+   },
+   {
+    "from": "2.22.2",
+    "name": "macskk",
+    "to": "2.23.0"
+   },
+   {
+    "from": "0.59.13",
+    "name": "maestri",
+    "to": "0.59.14"
+   },
+   {
+    "from": "0.1.4225",
+    "name": "magpie",
+    "to": "0.1.4250"
+   },
+   {
+    "from": "3.2.3",
+    "name": "mixing-station",
+    "to": "3.2.4"
+   },
+   {
+    "from": "6.3",
+    "name": "mochi-diffusion",
+    "to": "7.0"
+   },
+   {
+    "from": "1.14.0",
+    "name": "openwebstart",
+    "to": "1.14.1"
+   },
+   {
+    "from": "1.0.4",
+    "name": "osaurus",
+    "to": "1.0.5"
+   },
+   {
+    "from": "2026.1005.0-lazer",
+    "name": "osu",
+    "to": "2026.1115.0-lazer"
+   },
+   {
+    "from": "2026.1110.0-tachyon",
+    "name": "osu@tachyon",
+    "to": "2026.1115.0-lazer"
+   },
+   {
+    "from": "3.12.5",
+    "name": "passepartout",
+    "to": "3.12.7"
+   },
+   {
+    "from": "2.0.2",
+    "name": "pika",
+    "to": "2.0.3"
+   },
+   {
+    "from": "2.0.3-beta1",
+    "name": "pika@beta",
+    "to": "2.0.3"
+   },
+   {
+    "from": "0.5.11",
+    "name": "qoder",
+    "to": "0.5.12"
+   },
+   {
+    "from": "3.8.5",
+    "name": "rcmd",
+    "to": "3.8.6"
+   },
+   {
+    "from": "1.6.6",
+    "name": "robbietilton-compositor",
+    "to": "1.6.7"
+   },
+   {
+    "from": "1.5.2",
+    "name": "saega",
+    "to": "1.6.0"
+   },
+   {
+    "from": "7.5.22",
+    "name": "sessionwatcher",
+    "to": "7.5.23"
+   },
+   {
+    "from": "1.3.1",
+    "name": "sidebarfavorites-manager",
+    "to": "1.3.2"
+   },
+   {
+    "from": "3.0.26",
+    "name": "stats",
+    "to": "3.1.0"
+   },
+   {
+    "from": "0.32.1-5,20261114-5725dad",
+    "name": "tabularis@nightly",
+    "to": "0.32.1-6,20261115-7a6824d"
+   },
+   {
+    "from": "13.2.0,283506",
+    "name": "telegram@beta",
+    "to": "13.2.0,283510"
+   },
+   {
+    "from": "1.11.1",
+    "name": "thecommander",
+    "to": "1.12.0"
+   },
+   {
+    "from": "0.92.0",
+    "name": "token-monitor",
+    "to": "0.93.0"
+   },
+   {
+    "from": "1.83.0",
+    "name": "wizcli",
+    "to": "1.84.0"
+   },
+   {
+    "from": "5.9.3.42398134-d4692421",
+    "name": "workbuddy-cn",
+    "to": "5.11.3.43806934-ecace0f7"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "4.0.0_1",
+    "name": "ada-url",
+    "to": "4.0.0_2"
+   },
+   {
+    "from": "1.8.0",
+    "name": "apache-polaris",
+    "to": "1.9.0"
+   },
+   {
+    "from": "1.17.1",
+    "name": "apfel",
+    "to": "1.18.0"
+   },
+   {
+    "from": "2.17.3",
+    "name": "arcane-cli",
+    "to": "3.0.0"
+   },
+   {
+    "from": "8.6.0",
+    "name": "bkmr",
+    "to": "8.7.2"
+   },
+   {
+    "from": "0.17.0",
+    "name": "boring",
+    "to": "0.18.0"
+   },
+   {
+    "from": "2.207.82",
+    "name": "cdk8s",
+    "to": "2.207.83"
+   },
+   {
+    "from": "8.0.70",
+    "name": "cliproxyapi",
+    "to": "8.0.72"
+   },
+   {
+    "from": "1.7.1_1",
+    "name": "container",
+    "to": "1.7.1_2"
+   },
+   {
+    "from": "1.8.23",
+    "name": "cubejs-cli",
+    "to": "1.8.25"
+   },
+   {
+    "from": "1.108.2",
+    "name": "dart-sass",
+    "to": "1.108.2_1"
+   },
+   {
+    "from": "3.13.7",
+    "name": "dart-sdk",
+    "to": "3.14.0"
+   },
+   {
+    "from": "3.13.7",
+    "name": "dartaotruntime",
+    "to": "3.14.0"
+   },
+   {
+    "from": "1.50.0",
+    "name": "djlint",
+    "to": "1.50.1"
+   },
+   {
+    "from": "1.6.2",
+    "name": "dopewars",
+    "to": "1.7.0"
+   },
+   {
+    "from": "1.0.20",
+    "name": "faketty",
+    "to": "1.0.21"
+   },
+   {
+    "from": "2.4.1",
+    "name": "ffmpegthumbnailer",
+    "to": "2.4.2"
+   },
+   {
+    "from": "2.6.13",
+    "name": "flex",
+    "to": "2.6.14"
+   },
+   {
+    "from": "0.79.0",
+    "name": "flix",
+    "to": "0.80.0"
+   },
+   {
+    "from": "4.3.2",
+    "name": "fvm",
+    "to": "4.3.2_1"
+   },
+   {
+    "from": "3.1.746",
+    "name": "ipsw",
+    "to": "3.1.748"
+   },
+   {
+    "from": "0.19.17",
+    "name": "lfk",
+    "to": "0.19.18"
+   },
+   {
+    "from": "0.8.9.0",
+    "name": "libmodplug",
+    "to": "0.8.9.2"
+   },
+   {
+    "from": "1.3.1_1",
+    "name": "libsail",
+    "to": "1.4.0"
+   },
+   {
+    "from": "1.2.2_4",
+    "name": "merve",
+    "to": "1.2.2_5"
+   },
+   {
+    "from": "0.24.0",
+    "name": "msgvault",
+    "to": "0.25.0"
+   },
+   {
+    "from": "2.0.1",
+    "name": "nanoflann",
+    "to": "2.0.2"
+   },
+   {
+    "from": "26.13.1",
+    "name": "node",
+    "to": "26.13.1_1"
+   },
+   {
+    "from": "3.3.2",
+    "name": "nvtop",
+    "to": "3.4.0"
+   },
+   {
+    "from": "0.12.1",
+    "name": "oarfish",
+    "to": "0.13.0"
+   },
+   {
+    "from": "20.42.3",
+    "name": "oh-my-agent",
+    "to": "20.43.3"
+   },
+   {
+    "from": "3.18.0",
+    "name": "pake",
+    "to": "3.19.0"
+   },
+   {
+    "from": "2.19.0",
+    "name": "pari",
+    "to": "2.19.1"
+   },
+   {
+    "from": "12.18.0",
+    "name": "pnpm",
+    "to": "12.21.0"
+   },
+   {
+    "from": "9.3.3",
+    "name": "simdutf",
+    "to": "9.4.0"
+   },
+   {
+    "from": "0.14.1",
+    "name": "soar",
+    "to": "0.14.2"
+   },
+   {
+    "from": "12.8.0",
+    "name": "sysstat",
+    "to": "12.8.1"
+   },
+   {
+    "from": "9.2.1345",
+    "name": "vim",
+    "to": "9.2.1351"
+   },
+   {
+    "from": "0.84.1_4",
+    "name": "vte3",
+    "to": "0.84.1_5"
+   }
+  ]
+ }
+}
