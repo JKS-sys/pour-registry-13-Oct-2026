@@ -1,0 +1,360 @@
+{
+ "synced_at": "2026-11-15T21:05:18Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.7.22",
+    "name": "airbuild",
+    "to": "1.7.23"
+   },
+   {
+    "from": "2.14.0",
+    "name": "bettermacwidgets",
+    "to": "2.15.0"
+   },
+   {
+    "from": "1.0.0-beta.114",
+    "name": "brilliant",
+    "to": "1.0.0-beta.115"
+   },
+   {
+    "from": "2.0.2,242",
+    "name": "clamshell",
+    "to": "2.0.3,243"
+   },
+   {
+    "from": "6.9.4",
+    "name": "crest",
+    "to": "6.9.5"
+   },
+   {
+    "from": "0.51.5",
+    "name": "cuadriver",
+    "to": "0.52.0"
+   },
+   {
+    "from": "26.2.4",
+    "name": "dbeaver-community",
+    "to": "26.2.5"
+   },
+   {
+    "from": "3.9.6",
+    "name": "displaybuddy",
+    "to": "3.9.9"
+   },
+   {
+    "from": "5.3.0",
+    "name": "dockfix",
+    "to": "5.4.0-beta"
+   },
+   {
+    "from": "2609-242,c8,6d",
+    "name": "dolphin@dev",
+    "to": "2609-244,d1,31"
+   },
+   {
+    "from": "7.5.1",
+    "name": "fsnotes",
+    "to": "7.6.0"
+   },
+   {
+    "from": "5.59.0",
+    "name": "gcs",
+    "to": "5.60.0"
+   },
+   {
+    "from": "1.5.0,1782704518562,release1",
+    "name": "glkvm",
+    "to": "1.6.0,1789007253290,release,release1"
+   },
+   {
+    "from": "1.7.9",
+    "name": "hagimimonitordirect",
+    "to": "1.8.0"
+   },
+   {
+    "from": "0.1.15",
+    "name": "herdr-app",
+    "to": "0.1.16"
+   },
+   {
+    "from": "1.8.0",
+    "name": "itsytv",
+    "to": "1.9.0"
+   },
+   {
+    "from": "0.16.17",
+    "name": "lattice",
+    "to": "0.16.18"
+   },
+   {
+    "from": "2.7.0.312",
+    "name": "mac-performance-monitor",
+    "to": "2.8.1.316"
+   },
+   {
+    "from": "6.64b4",
+    "name": "macloggerdx@beta",
+    "to": "6.64b5"
+   },
+   {
+    "from": "4.9.0",
+    "name": "miaoyan",
+    "to": "4.10.0"
+   },
+   {
+    "from": "2026.11.310",
+    "name": "mindroom",
+    "to": "2026.11.330"
+   },
+   {
+    "from": "2.4.1",
+    "name": "motrix",
+    "to": "2.4.2"
+   },
+   {
+    "from": "6.5",
+    "name": "mountmate",
+    "to": "6.6"
+   },
+   {
+    "from": "1.9.2",
+    "name": "openclip",
+    "to": "1.10.0"
+   },
+   {
+    "from": "6.1.1b1,9623",
+    "name": "shimo",
+    "to": "6.1.1b2,9628"
+   },
+   {
+    "from": "2026.23",
+    "name": "sourcegit",
+    "to": "2026.24"
+   },
+   {
+    "from": "4.0.3",
+    "name": "tal-drum",
+    "to": "4.0.4"
+   },
+   {
+    "from": "1.25.0,125",
+    "name": "tcp-viewer",
+    "to": "1.26.0,126"
+   },
+   {
+    "from": "13.2.0,283510",
+    "name": "telegram@beta",
+    "to": "13.2.0,283513"
+   },
+   {
+    "from": "162.0a1,2026-11-14-09-48-50",
+    "name": "thunderbird@daily",
+    "to": "162.0a1,2026-11-15-06-49-33"
+   },
+   {
+    "from": "0.12.1",
+    "name": "vorta",
+    "to": "0.12.2"
+   },
+   {
+    "from": "4.3.2611120800",
+    "name": "workflowy",
+    "to": "4.3.2611151539"
+   },
+   {
+    "from": "0.16.0",
+    "name": "zedis",
+    "to": "0.17.0"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.3.0",
+    "name": "b4n",
+    "to": "1.4.0"
+   },
+   {
+    "from": "2.17.1",
+    "name": "chainsaw",
+    "to": "2.18.0"
+   },
+   {
+    "from": "2.103.18",
+    "name": "depot",
+    "to": "2.103.19"
+   },
+   {
+    "from": "2.2.8",
+    "name": "diamond",
+    "to": "2.2.9"
+   },
+   {
+    "from": "0.0.309",
+    "name": "enzyme",
+    "to": "0.0.310"
+   },
+   {
+    "from": "0.162.7",
+    "name": "fastapi",
+    "to": "0.163.0"
+   },
+   {
+    "from": "2.6.14",
+    "name": "flex",
+    "to": "2.6.15"
+   },
+   {
+    "from": "1.32.19",
+    "name": "gallery-dl",
+    "to": "1.32.20"
+   },
+   {
+    "from": "0.9.0",
+    "name": "iodine",
+    "to": "0.9.1"
+   },
+   {
+    "from": "2.12.0",
+    "name": "kubevpn",
+    "to": "2.12.1"
+   },
+   {
+    "from": "0.15.0",
+    "name": "lakekeeper",
+    "to": "0.15.1"
+   },
+   {
+    "from": "1.4.0_2",
+    "name": "libimobiledevice",
+    "to": "1.4.0_3"
+   },
+   {
+    "from": "2.59.1",
+    "name": "librealsense",
+    "to": "2.59.2"
+   },
+   {
+    "from": "1.60.0",
+    "name": "likec4",
+    "to": "1.61.0"
+   },
+   {
+    "from": "0.13.0",
+    "name": "lisette",
+    "to": "0.13.1"
+   },
+   {
+    "from": "3.10.0",
+    "name": "maven",
+    "to": "3.10.1"
+   },
+   {
+    "from": "1.21.3",
+    "name": "mediamtx",
+    "to": "1.21.4"
+   },
+   {
+    "from": "2.1.1",
+    "name": "morphe",
+    "to": "2.2.0"
+   },
+   {
+    "from": "2.30.4",
+    "name": "mycli",
+    "to": "2.31.0"
+   },
+   {
+    "from": "20.43.3",
+    "name": "oh-my-agent",
+    "to": "20.43.4"
+   },
+   {
+    "from": "32.0.0",
+    "name": "oh-my-posh",
+    "to": "32.1.0"
+   },
+   {
+    "from": "11.1.517",
+    "name": "openkermit",
+    "to": "11.1.518"
+   },
+   {
+    "from": "12.17",
+    "name": "primesieve",
+    "to": "12.18"
+   },
+   {
+    "from": "2026-11-03-1",
+    "name": "qobine-tui",
+    "to": "2026-11-13"
+   },
+   {
+    "from": "2026-11-03-1",
+    "name": "qobine-web",
+    "to": "2026-11-13"
+   },
+   {
+    "from": "44.238.2",
+    "name": "renovate",
+    "to": "44.239.1"
+   },
+   {
+    "from": "3.3.1",
+    "name": "scs",
+    "to": "3.3.2"
+   },
+   {
+    "from": "0.35.1",
+    "name": "sofka",
+    "to": "0.36.0"
+   },
+   {
+    "from": "2.16.2",
+    "name": "spot",
+    "to": "2.16.3"
+   },
+   {
+    "from": "0.29.0",
+    "name": "swiftdraw",
+    "to": "0.30.0"
+   },
+   {
+    "from": "3.15.15",
+    "name": "trealla-prolog",
+    "to": "3.15.20"
+   },
+   {
+    "from": "26.11.9",
+    "name": "vnu",
+    "to": "26.11.14"
+   },
+   {
+    "from": "0.25.5",
+    "name": "yek",
+    "to": "0.26.0"
+   },
+   {
+    "from": "0.11.0",
+    "name": "yutu",
+    "to": "0.11.1"
+   },
+   {
+    "from": "0.4.78",
+    "name": "zot",
+    "to": "0.4.79"
+   },
+   {
+    "from": "1.11.0",
+    "name": "zsh-patina",
+    "to": "1.12.0"
+   }
+  ]
+ }
+}

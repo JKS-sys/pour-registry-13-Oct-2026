@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-15T21:05:18Z
+
+- Updated 36 formulae: `b4n` 1.3.0 → 1.4.0, `chainsaw` 2.17.1 → 2.18.0, `depot` 2.103.18 → 2.103.19, `diamond` 2.2.8 → 2.2.9, `enzyme` 0.0.309 → 0.0.310, `fastapi` 0.162.7 → 0.163.0, `flex` 2.6.14 → 2.6.15, `gallery-dl` 1.32.19 → 1.32.20, `iodine` 0.9.0 → 0.9.1, `kubevpn` 2.12.0 → 2.12.1, `lakekeeper` 0.15.0 → 0.15.1, `libimobiledevice` 1.4.0_2 → 1.4.0_3, `librealsense` 2.59.1 → 2.59.2, `likec4` 1.60.0 → 1.61.0, `lisette` 0.13.0 → 0.13.1, `maven` 3.10.0 → 3.10.1, `mediamtx` 1.21.3 → 1.21.4, `morphe` 2.1.1 → 2.2.0, `mycli` 2.30.4 → 2.31.0, `oh-my-agent` 20.43.3 → 20.43.4, `oh-my-posh` 32.0.0 → 32.1.0, `openkermit` 11.1.517 → 11.1.518, `primesieve` 12.17 → 12.18, `qobine-tui` 2026-11-03-1 → 2026-11-13, `qobine-web` 2026-11-03-1 → 2026-11-13 …
+- Updated 33 casks: `airbuild` 1.7.22 → 1.7.23, `bettermacwidgets` 2.14.0 → 2.15.0, `brilliant` 1.0.0-beta.114 → 1.0.0-beta.115, `clamshell` 2.0.2,242 → 2.0.3,243, `crest` 6.9.4 → 6.9.5, `cuadriver` 0.51.5 → 0.52.0, `dbeaver-community` 26.2.4 → 26.2.5, `displaybuddy` 3.9.6 → 3.9.9, `dockfix` 5.3.0 → 5.4.0-beta, `dolphin@dev` 2609-242,c8,6d → 2609-244,d1,31, `fsnotes` 7.5.1 → 7.6.0, `gcs` 5.59.0 → 5.60.0, `glkvm` 1.5.0,1782704518562,release1 → 1.6.0,1789007253290,release,release1, `hagimimonitordirect` 1.7.9 → 1.8.0, `herdr-app` 0.1.15 → 0.1.16, `itsytv` 1.8.0 → 1.9.0, `lattice` 0.16.17 → 0.16.18, `mac-performance-monitor` 2.7.0.312 → 2.8.1.316, `macloggerdx@beta` 6.64b4 → 6.64b5, `miaoyan` 4.9.0 → 4.10.0, `mindroom` 2026.11.310 → 2026.11.330, `motrix` 2.4.1 → 2.4.2, `mountmate` 6.5 → 6.6, `openclip` 1.9.2 → 1.10.0, `shimo` 6.1.1b1,9623 → 6.1.1b2,9628 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-15T15:41:36Z
 
 - Updated 39 formulae: `ada-url` 4.0.0_1 → 4.0.0_2, `apache-polaris` 1.8.0 → 1.9.0, `apfel` 1.17.1 → 1.18.0, `arcane-cli` 2.17.3 → 3.0.0, `bkmr` 8.6.0 → 8.7.2, `boring` 0.17.0 → 0.18.0, `cdk8s` 2.207.82 → 2.207.83, `cliproxyapi` 8.0.70 → 8.0.72, `container` 1.7.1_1 → 1.7.1_2, `cubejs-cli` 1.8.23 → 1.8.25, `dart-sass` 1.108.2 → 1.108.2_1, `dart-sdk` 3.13.7 → 3.14.0, `dartaotruntime` 3.13.7 → 3.14.0, `djlint` 1.50.0 → 1.50.1, `dopewars` 1.6.2 → 1.7.0, `faketty` 1.0.20 → 1.0.21, `ffmpegthumbnailer` 2.4.1 → 2.4.2, `flex` 2.6.13 → 2.6.14, `flix` 0.79.0 → 0.80.0, `fvm` 4.3.2 → 4.3.2_1, `ipsw` 3.1.746 → 3.1.748, `lfk` 0.19.17 → 0.19.18, `libmodplug` 0.8.9.0 → 0.8.9.2, `libsail` 1.3.1_1 → 1.4.0, `merve` 1.2.2_4 → 1.2.2_5 …
