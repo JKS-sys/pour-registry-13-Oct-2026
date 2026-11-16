@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-16T06:41:57Z
+
+- Updated 56 formulae: `apache-arrow` 26.0.1 → 26.0.1_1, `apko` 1.5.0 → 1.5.1, `arcane-cli` 3.0.0 → 3.0.1, `ascelerate` 0.35.0 → 0.35.1, `astyle` 3.6.24 → 3.6.25, `biome` 2.6.7 → 2.6.8, `cpm` 1.1.6 → 1.1.7, `cspell` 10.5.0 → 10.5.1, `deepline` 0.3.522 → 0.3.529, `fabric-ai` 1.4.575 → 1.4.576, `freerdp` 3.33.1 → 3.33.1_1, `git-pages` 0.10.1 → 0.10.2, `gitea` 28.3.0 → 28.4.0, `groonga` 16.1.5_2 → 16.1.5_3, `hidapi` 0.15.0 → 0.16.0, `imagineer` 0.24.0 → 0.25.1, `imapfilter` 2.8.6 → 2.8.7, `inotify-tools` 4.26.277 → 4.26.282, `jql` 9.0.4 → 9.0.5, `keploy` 3.7.5 → 3.7.7, `ktop` 0.6.2 → 0.7.0, `letta-code` 0.34.61 → 0.34.62, `libcbor` 0.14.1 → 0.15.0, `libfido2` 1.17.0_1 → 1.17.0_2, `librcsc` 2026_3 → 2026_4 …
+- **Registered 2 casks**: `hora-calendar`, `hyperframes`
+- **De-registered 8 casks**: `aexol-remote-mouse`, `interact-scratchpad`, `osirix-quicklook`, `postman@canary`, `quicklook-pat`, `scriptql`, `stringsfile`, `virtualbox@6`
+- Updated 62 casks: `activitywatch` 0.14.2 → 0.14.3, `activitywatch@beta` 0.14.2 → 0.14.3, `activitywatch@experimental` 0.14.2 → 0.14.3, `agent-orchestrator` 0.15.1 → 0.15.2, `agentiloop-agent` 1.1.98.298 → 1.1.99.299, `alma` 0.4.624 → 0.4.694, `amp-app` 1.0,1340 → 1.0,1350, `anarlog` 1.4.34 → 1.4.35, `azure-cli` 2.92.0 → 2.93.0, `bettertouchtool` 6.1145,2026111302 → 6.1150,2026111307, `bettertouchtool@alpha` 6.1145,2026111302 → 6.1150,2026111307, `brilliant` 1.0.0-beta.115 → 1.0.0-beta.116, `bzflag` 2.4.30 → 2.4.32, `cc-switch` 4.0.32 → 4.0.33, `clipy` 1.4.1 → 1.4.2, `cuadriver` 0.52.0 → 0.52.1, `djv` 3.7.6 → 3.7.7, `dolphin@dev` 2609-244,d1,31 → 2609-256,7f,d3, `doubao` 2.35.12 → 2.36.8, `electerm` 5.10.0 → 5.11.8, `firealpaca` 2.16.3 → 2.16.4, `firefox@nightly` 162.0a1,2026-11-15-09-26-57 → 162.0a1,2026-11-15-21-35-19, `fluxer` 2026.1114.183423 → 2026.1115.225010, `franz` 6.11.2 → 6.11.3, `ghostex` 11.7.1 → 11.8.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-15T21:05:18Z
 
 - Updated 36 formulae: `b4n` 1.3.0 → 1.4.0, `chainsaw` 2.17.1 → 2.18.0, `depot` 2.103.18 → 2.103.19, `diamond` 2.2.8 → 2.2.9, `enzyme` 0.0.309 → 0.0.310, `fastapi` 0.162.7 → 0.163.0, `flex` 2.6.14 → 2.6.15, `gallery-dl` 1.32.19 → 1.32.20, `iodine` 0.9.0 → 0.9.1, `kubevpn` 2.12.0 → 2.12.1, `lakekeeper` 0.15.0 → 0.15.1, `libimobiledevice` 1.4.0_2 → 1.4.0_3, `librealsense` 2.59.1 → 2.59.2, `likec4` 1.60.0 → 1.61.0, `lisette` 0.13.0 → 0.13.1, `maven` 3.10.0 → 3.10.1, `mediamtx` 1.21.3 → 1.21.4, `morphe` 2.1.1 → 2.2.0, `mycli` 2.30.4 → 2.31.0, `oh-my-agent` 20.43.3 → 20.43.4, `oh-my-posh` 32.0.0 → 32.1.0, `openkermit` 11.1.517 → 11.1.518, `primesieve` 12.17 → 12.18, `qobine-tui` 2026-11-03-1 → 2026-11-13, `qobine-web` 2026-11-03-1 → 2026-11-13 …

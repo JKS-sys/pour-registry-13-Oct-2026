@@ -1,0 +1,617 @@
+{
+ "synced_at": "2026-11-16T06:41:57Z",
+ "casks": {
+  "added": [
+   "hora-calendar",
+   "hyperframes"
+  ],
+  "removed": [
+   "aexol-remote-mouse",
+   "interact-scratchpad",
+   "osirix-quicklook",
+   "postman@canary",
+   "quicklook-pat",
+   "scriptql",
+   "stringsfile",
+   "virtualbox@6"
+  ],
+  "updated": [
+   {
+    "from": "0.14.2",
+    "name": "activitywatch",
+    "to": "0.14.3"
+   },
+   {
+    "from": "0.14.2",
+    "name": "activitywatch@beta",
+    "to": "0.14.3"
+   },
+   {
+    "from": "0.14.2",
+    "name": "activitywatch@experimental",
+    "to": "0.14.3"
+   },
+   {
+    "from": "0.15.1",
+    "name": "agent-orchestrator",
+    "to": "0.15.2"
+   },
+   {
+    "from": "1.1.98.298",
+    "name": "agentiloop-agent",
+    "to": "1.1.99.299"
+   },
+   {
+    "from": "0.4.624",
+    "name": "alma",
+    "to": "0.4.694"
+   },
+   {
+    "from": "1.0,1340",
+    "name": "amp-app",
+    "to": "1.0,1350"
+   },
+   {
+    "from": "1.4.34",
+    "name": "anarlog",
+    "to": "1.4.35"
+   },
+   {
+    "from": "2.92.0",
+    "name": "azure-cli",
+    "to": "2.93.0"
+   },
+   {
+    "from": "6.1145,2026111302",
+    "name": "bettertouchtool",
+    "to": "6.1150,2026111307"
+   },
+   {
+    "from": "6.1145,2026111302",
+    "name": "bettertouchtool@alpha",
+    "to": "6.1150,2026111307"
+   },
+   {
+    "from": "1.0.0-beta.115",
+    "name": "brilliant",
+    "to": "1.0.0-beta.116"
+   },
+   {
+    "from": "2.4.30",
+    "name": "bzflag",
+    "to": "2.4.32"
+   },
+   {
+    "from": "4.0.32",
+    "name": "cc-switch",
+    "to": "4.0.33"
+   },
+   {
+    "from": "1.4.1",
+    "name": "clipy",
+    "to": "1.4.2"
+   },
+   {
+    "from": "0.52.0",
+    "name": "cuadriver",
+    "to": "0.52.1"
+   },
+   {
+    "from": "3.7.6",
+    "name": "djv",
+    "to": "3.7.7"
+   },
+   {
+    "from": "2609-244,d1,31",
+    "name": "dolphin@dev",
+    "to": "2609-256,7f,d3"
+   },
+   {
+    "from": "2.35.12",
+    "name": "doubao",
+    "to": "2.36.8"
+   },
+   {
+    "from": "5.10.0",
+    "name": "electerm",
+    "to": "5.11.8"
+   },
+   {
+    "from": "2.16.3",
+    "name": "firealpaca",
+    "to": "2.16.4"
+   },
+   {
+    "from": "162.0a1,2026-11-15-09-26-57",
+    "name": "firefox@nightly",
+    "to": "162.0a1,2026-11-15-21-35-19"
+   },
+   {
+    "from": "2026.1114.183423",
+    "name": "fluxer",
+    "to": "2026.1115.225010"
+   },
+   {
+    "from": "6.11.2",
+    "name": "franz",
+    "to": "6.11.3"
+   },
+   {
+    "from": "11.7.1",
+    "name": "ghostex",
+    "to": "11.8.0"
+   },
+   {
+    "from": "18838,6d9577708a211b0e6c5e6c6886f3cfb7efc47555",
+    "name": "ghostty@tip",
+    "to": "18848,7fa26e8b675f3248975479d88274c937d7e63905"
+   },
+   {
+    "from": "0.20.14",
+    "name": "gloom",
+    "to": "0.20.16"
+   },
+   {
+    "from": "12.11.12",
+    "name": "goodsync",
+    "to": "12.11.14"
+   },
+   {
+    "from": "160.0.8163.0",
+    "name": "google-chrome@canary",
+    "to": "160.0.8164.0"
+   },
+   {
+    "from": "10.0.3.2",
+    "name": "grandtotal",
+    "to": "10.0.3.3"
+   },
+   {
+    "from": "0.91.0",
+    "name": "hotovo-aider-desk",
+    "to": "0.92.0"
+   },
+   {
+    "from": "3.11.0",
+    "name": "jamulus",
+    "to": "3.12.6"
+   },
+   {
+    "from": "0.29.0",
+    "name": "kaku",
+    "to": "0.30.0"
+   },
+   {
+    "from": "1.2.26.2931",
+    "name": "karing",
+    "to": "1.2.26.2932"
+   },
+   {
+    "from": "1.2.3",
+    "name": "kugelblitz",
+    "to": "1.3"
+   },
+   {
+    "from": "7.0.0b29",
+    "name": "lunar",
+    "to": "7.0.0b30"
+   },
+   {
+    "from": "2.9.0",
+    "name": "luxury-yacht",
+    "to": "2.10.0"
+   },
+   {
+    "from": "0.1.4250",
+    "name": "magpie",
+    "to": "0.1.4275"
+   },
+   {
+    "from": "7.43.2",
+    "name": "notion",
+    "to": "7.44.0"
+   },
+   {
+    "from": "0.6.2",
+    "name": "obelisk",
+    "to": "0.6.3"
+   },
+   {
+    "from": "0.5.6",
+    "name": "pluralplay-flclashx",
+    "to": "0.5.7"
+   },
+   {
+    "from": "1.15.0",
+    "name": "purge",
+    "to": "1.16.0"
+   },
+   {
+    "from": "0.1.3513",
+    "name": "reader",
+    "to": "0.1.3514"
+   },
+   {
+    "from": "1.1.24,1794618035198274",
+    "name": "replit",
+    "to": "1.1.25,1794732695336328"
+   },
+   {
+    "from": "0.6.0",
+    "name": "rustgis",
+    "to": "0.7.0"
+   },
+   {
+    "from": "2.3.9",
+    "name": "sable",
+    "to": "26.11.0"
+   },
+   {
+    "from": "2026.11.9.131",
+    "name": "seamly2d",
+    "to": "2026.11.16.133"
+   },
+   {
+    "from": "0.42.0",
+    "name": "solidcraft",
+    "to": "0.43.0"
+   },
+   {
+    "from": "1.13.0",
+    "name": "subtitle-studio",
+    "to": "1.13.1"
+   },
+   {
+    "from": "2.0.8",
+    "name": "superset",
+    "to": "2.0.9"
+   },
+   {
+    "from": "0.1.10-nightly.20261113.4643",
+    "name": "t3-code@nightly",
+    "to": "0.1.10-nightly.20261116.4761"
+   },
+   {
+    "from": "4.0.4",
+    "name": "tal-drum",
+    "to": "4.1.0"
+   },
+   {
+    "from": "0.27.0",
+    "name": "tangleguard-cli",
+    "to": "0.29.0"
+   },
+   {
+    "from": "1.26.0,126",
+    "name": "tcp-viewer",
+    "to": "1.27.0,127"
+   },
+   {
+    "from": "2.0.0",
+    "name": "texpile",
+    "to": "2.0.1"
+   },
+   {
+    "from": "1.24.0",
+    "name": "tldraw",
+    "to": "1.24.1"
+   },
+   {
+    "from": "0.93.0",
+    "name": "token-monitor",
+    "to": "0.93.1"
+   },
+   {
+    "from": "2.8.21",
+    "name": "uu-booster",
+    "to": "2.8.22"
+   },
+   {
+    "from": "0.30.0",
+    "name": "vicinae",
+    "to": "0.30.1"
+   },
+   {
+    "from": "4.9.0",
+    "name": "vrew",
+    "to": "4.9.1"
+   },
+   {
+    "from": "0.14.2",
+    "name": "wailbrew",
+    "to": "0.14.3"
+   },
+   {
+    "from": "1.25t,20261113100328",
+    "name": "zen@twilight",
+    "to": "1.25t,20261115114312"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "26.0.1",
+    "name": "apache-arrow",
+    "to": "26.0.1_1"
+   },
+   {
+    "from": "1.5.0",
+    "name": "apko",
+    "to": "1.5.1"
+   },
+   {
+    "from": "3.0.0",
+    "name": "arcane-cli",
+    "to": "3.0.1"
+   },
+   {
+    "from": "0.35.0",
+    "name": "ascelerate",
+    "to": "0.35.1"
+   },
+   {
+    "from": "3.6.24",
+    "name": "astyle",
+    "to": "3.6.25"
+   },
+   {
+    "from": "2.6.7",
+    "name": "biome",
+    "to": "2.6.8"
+   },
+   {
+    "from": "1.1.6",
+    "name": "cpm",
+    "to": "1.1.7"
+   },
+   {
+    "from": "10.5.0",
+    "name": "cspell",
+    "to": "10.5.1"
+   },
+   {
+    "from": "0.3.522",
+    "name": "deepline",
+    "to": "0.3.529"
+   },
+   {
+    "from": "1.4.575",
+    "name": "fabric-ai",
+    "to": "1.4.576"
+   },
+   {
+    "from": "3.33.1",
+    "name": "freerdp",
+    "to": "3.33.1_1"
+   },
+   {
+    "from": "0.10.1",
+    "name": "git-pages",
+    "to": "0.10.2"
+   },
+   {
+    "from": "28.3.0",
+    "name": "gitea",
+    "to": "28.4.0"
+   },
+   {
+    "from": "16.1.5_2",
+    "name": "groonga",
+    "to": "16.1.5_3"
+   },
+   {
+    "from": "0.15.0",
+    "name": "hidapi",
+    "to": "0.16.0"
+   },
+   {
+    "from": "0.24.0",
+    "name": "imagineer",
+    "to": "0.25.1"
+   },
+   {
+    "from": "2.8.6",
+    "name": "imapfilter",
+    "to": "2.8.7"
+   },
+   {
+    "from": "4.26.277",
+    "name": "inotify-tools",
+    "to": "4.26.282"
+   },
+   {
+    "from": "9.0.4",
+    "name": "jql",
+    "to": "9.0.5"
+   },
+   {
+    "from": "3.7.5",
+    "name": "keploy",
+    "to": "3.7.7"
+   },
+   {
+    "from": "0.6.2",
+    "name": "ktop",
+    "to": "0.7.0"
+   },
+   {
+    "from": "0.34.61",
+    "name": "letta-code",
+    "to": "0.34.62"
+   },
+   {
+    "from": "0.14.1",
+    "name": "libcbor",
+    "to": "0.15.0"
+   },
+   {
+    "from": "1.17.0_1",
+    "name": "libfido2",
+    "to": "1.17.0_2"
+   },
+   {
+    "from": "2026_3",
+    "name": "librcsc",
+    "to": "2026_4"
+   },
+   {
+    "from": "0.1.11",
+    "name": "libvisio",
+    "to": "0.1.12"
+   },
+   {
+    "from": "1.6.0",
+    "name": "mac-cleanup-go",
+    "to": "1.8.0"
+   },
+   {
+    "from": "0.11.0",
+    "name": "macmon",
+    "to": "0.12.0"
+   },
+   {
+    "from": "2.13.1",
+    "name": "man-db",
+    "to": "2.13.2"
+   },
+   {
+    "from": "1.2.52",
+    "name": "mbt",
+    "to": "1.2.53"
+   },
+   {
+    "from": "0.64.1",
+    "name": "melange",
+    "to": "0.65.0"
+   },
+   {
+    "from": "2.10.0_2",
+    "name": "micromamba",
+    "to": "2.10.0_3"
+   },
+   {
+    "from": "9.2.0",
+    "name": "mockserver",
+    "to": "9.3.0"
+   },
+   {
+    "from": "1.49.0",
+    "name": "nextdns",
+    "to": "1.50.2"
+   },
+   {
+    "from": "26.13.1_1",
+    "name": "node",
+    "to": "26.13.1_2"
+   },
+   {
+    "from": "22.23.5",
+    "name": "node@22",
+    "to": "22.23.5_1"
+   },
+   {
+    "from": "24.22.3",
+    "name": "node@24",
+    "to": "24.22.3_1"
+   },
+   {
+    "from": "0.11.0",
+    "name": "nub",
+    "to": "0.11.1"
+   },
+   {
+    "from": "1.26.3",
+    "name": "openapi",
+    "to": "1.26.4"
+   },
+   {
+    "from": "0.5.1_29",
+    "name": "pdfly",
+    "to": "0.6.0"
+   },
+   {
+    "from": "2.3.5",
+    "name": "phpstan",
+    "to": "2.3.6"
+   },
+   {
+    "from": "2.19.2",
+    "name": "pocket-id",
+    "to": "2.19.3"
+   },
+   {
+    "from": "7.6.0",
+    "name": "psalm",
+    "to": "7.7.0"
+   },
+   {
+    "from": "3.7.0",
+    "name": "pv-migrate",
+    "to": "3.8.0"
+   },
+   {
+    "from": "4.1.3",
+    "name": "pylint",
+    "to": "4.1.4"
+   },
+   {
+    "from": "28.0.0",
+    "name": "qsv",
+    "to": "29.0.0"
+   },
+   {
+    "from": "5.1.1",
+    "name": "simdjson",
+    "to": "5.2.0"
+   },
+   {
+    "from": "0.14.3",
+    "name": "srgn",
+    "to": "0.14.4"
+   },
+   {
+    "from": "2.44.2",
+    "name": "static-web-server",
+    "to": "2.44.3"
+   },
+   {
+    "from": "1.166.3",
+    "name": "storj-uplink",
+    "to": "1.166.4"
+   },
+   {
+    "from": "0.4-20261113-git-2806f14",
+    "name": "supermodel",
+    "to": "0.4-20261115-git-70451cb"
+   },
+   {
+    "from": "0.2.24",
+    "name": "toxcore",
+    "to": "0.2.25"
+   },
+   {
+    "from": "0.13.1",
+    "name": "tuios",
+    "to": "0.13.2"
+   },
+   {
+    "from": "0.15.2",
+    "name": "typstyle",
+    "to": "0.15.3"
+   },
+   {
+    "from": "0.19.9",
+    "name": "umockdev",
+    "to": "0.20.0"
+   },
+   {
+    "from": "1.13",
+    "name": "xroar",
+    "to": "1.13.1"
+   }
+  ]
+ }
+}
