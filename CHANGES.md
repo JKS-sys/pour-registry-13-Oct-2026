@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-16T18:38:14Z
+
+- **Registered 1 formulae**: `ssh-tpm-agent`
+- Updated 106 formulae: `act` 0.2.97 → 0.2.98, `appium` 3.9.0 → 3.9.1, `appwrite` 28.12.1 → 28.13.0, `ast-grep` 0.51.2 → 0.51.3, `balena-cli` 25.2.15 → 25.2.17, `bento` 1.22.0 → 1.23.0, `bitbucket-cli` 0.39.0 → 0.40.0, `block-goose-cli` 1.59.1 → 1.59.2, `bqlog` 2.8.0 → 2.8.1, `calicoctl` 3.33.0 → 3.33.1, `cargo-deny` 0.20.2 → 0.21.0, `cc-connect` 1.5.0 → 1.5.2, `cdk8s` 2.207.83 → 2.207.84, `cdxgen` 13.7.0 → 13.8.0, `chdig` 26.10.1 → 26.11.1, `cliproxyapi` 8.0.72 → 8.0.75, `cloudquery` 6.51.0 → 6.51.1, `coder` 2.38.7 → 2.38.8, `concord` 2.7.0 → 2.7.1, `corkscrew` 2.0 → 3.1, `coturn` 4.19.0 → 4.19.2, `cubejs-cli` 1.8.25 → 1.8.26, `cx` 0.1.33 → 0.1.34, `dagu` 2.26.0 → 2.27.0, `dbx-cli` 0.4.143 → 0.4.144 …
+- **Registered 4 casks**: `open-screen-sharing`, `pake-app`, `realtek-rtl815x-ethernet`, `tab-finder`
+- Updated 138 casks: `airbuddy` 3.0.3,1034 → 3.1,1055, `airtable` 1.7.1 → 1.7.4, `almighty` 2.13.6 → 2.13.7, `alt-tab` 11.10.1 → 11.10.2, `android-studio-preview@canary` 2026.2.3.3,rabbit3-canary3 → 2026.3.1.1,stingray1-canary1, `anka-virtualization` 3.10.0.223 → 3.10.1.224, `anydrag` 26.11.127 → 26.11.128, `backuploupe` 3.15.2 → 3.15.3, `banking-4` 9.4.0,9811 → 9.4.0,9816, `blender@lts` 5.2.3 → 5.2.4, `block-goose` 1.59.0 → 1.59.2, `bytemail` 1.9.40 → 1.9.42, `camtasia` 2027.0.0 → 2027.0.1, `capcut` 9.7.1.4778 → 9.8.0.4799, `cc-pocket` 1.163.3,311 → 1.165.0,314, `cinderella` 3.0.2137 → 3.0.2138, `clementine` 1.4.5 → 1.4.6, `clipbook` 2.5.2 → 2.6.0, `cocktail` 20.2.3 → 20.2.4, `codeexpander` 7.1.6 → 7.1.7, `cog-app` 3884,e8a03114c → 3890,61472a86a, `cuadriver` 0.52.1 → 0.52.6, `dayflow` 2.9.3 → 2.9.4, `dbx` 0.6.70 → 0.6.71, `devin-desktop@next` 3.12.1059+next.0122b42e15,0122b42e158c7ca62960222fb9725f087cd9544f → 3.13.1003+next.632d56d3ab,632d56d3abf9004b17cb106a276b1fcd23f329a0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-16T06:41:57Z
 
 - Updated 56 formulae: `apache-arrow` 26.0.1 → 26.0.1_1, `apko` 1.5.0 → 1.5.1, `arcane-cli` 3.0.0 → 3.0.1, `ascelerate` 0.35.0 → 0.35.1, `astyle` 3.6.24 → 3.6.25, `biome` 2.6.7 → 2.6.8, `cpm` 1.1.6 → 1.1.7, `cspell` 10.5.0 → 10.5.1, `deepline` 0.3.522 → 0.3.529, `fabric-ai` 1.4.575 → 1.4.576, `freerdp` 3.33.1 → 3.33.1_1, `git-pages` 0.10.1 → 0.10.2, `gitea` 28.3.0 → 28.4.0, `groonga` 16.1.5_2 → 16.1.5_3, `hidapi` 0.15.0 → 0.16.0, `imagineer` 0.24.0 → 0.25.1, `imapfilter` 2.8.6 → 2.8.7, `inotify-tools` 4.26.277 → 4.26.282, `jql` 9.0.4 → 9.0.5, `keploy` 3.7.5 → 3.7.7, `ktop` 0.6.2 → 0.7.0, `letta-code` 0.34.61 → 0.34.62, `libcbor` 0.14.1 → 0.15.0, `libfido2` 1.17.0_1 → 1.17.0_2, `librcsc` 2026_3 → 2026_4 …
