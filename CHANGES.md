@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-17T02:58:11Z
+
+- **Registered 1 formulae**: `libpkl`
+- Updated 83 formulae: `abcmidi` 2026.11.13 → 2026.11.16, `apache-opennlp` 2.5.12 → 2.5.13, `aube` 2.10.0 → 2.10.1, `aws-lc` 5.14.0 → 5.15.0, `azure-dev` 1.37.3 → 1.38.0, `balena-cli` 25.2.17 → 25.2.19, `bazel-diff` 78.0.0 → 79.0.0, `bee` 1.119 → 1.120, `bitbucket-cli` 0.40.0 → 0.40.1, `bkmr` 8.7.2 → 8.8.0, `buildkite` 3.68.0 → 3.69.0, `bup` 0.34 → 0.34.1, `camlp5` 8.05.03_1 → 8.05.04, `chainloop-cli` 1.135.2 → 1.135.3, `closure-compiler` 20261109 → 20261112, `cloudformation-guard` 3.2.1 → 3.2.2, `cnats` 3.14.0_1 → 3.15.0, `cogapp` 3.6.0 → 3.6.1, `deepline` 0.3.529 → 0.3.535, `djlint` 1.50.3 → 1.50.4, `dnscontrol` 5.8.2 → 5.9.0, `docker-credential-helper-ecr` 0.12.0 → 0.13.0, `doctl` 2.5.0 → 2.5.2, `dolt` 2.7.3 → 2.7.4, `dprint` 0.64.3 → 0.65.0 …
+- **Registered 2 casks**: `byos`, `clipboard-remote`
+- Updated 106 casks: `agent-orchestrator` 0.15.2 → 0.15.3, `airbuild` 1.7.23 → 1.7.33, `alma` 0.4.694 → 0.4.713, `aside` 1.0.1022.1 → 1.0.1116.2, `aws-vpn-client` 6.2.2 → 6.3.0, `backdrop` 2.10.7,148 → 3.0,9700, `beekeeper-studio` 6.2.2 → 6.3.0, `bezel` 5.4.1 → 5.5.0, `blitz-gg` 3.0.24 → 3.0.25, `brave-browser@nightly` 1.102.6.0,202.6 → 1.102.12.0,202.12, `brave-origin@nightly` 1.102.6.0,202.6 → 1.102.12.0,202.12, `brilliant` 1.0.0-beta.116 → 1.0.0-beta.117, `camerabag-photo` 2026.2.0 → 2027.0.0, `capsomnia` 4.3.4 → 4.3.6, `caskhub` 0.9.3 → 0.10.0, `clarify` 1.7.24 → 1.7.25, `claude-code@latest` 2.1.325 → 2.1.326, `copilot-cli@prerelease` 1.0.112-0 → 1.0.113-0, `copilot-language-server` 1.570.0 → 1.571.0, `crest-browser` 0.9.1 → 0.10.8, `cuadriver` 0.52.6 → 0.52.9, `deltachat` 2.65.0 → 2.69.0, `discord` 0.0.422 → 0.0.423, `discord@canary` 0.0.1566 → 0.0.1567, `djstudio` 5.0.10 → 5.0.11 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-16T18:38:14Z
 
 - **Registered 1 formulae**: `ssh-tpm-agent`
