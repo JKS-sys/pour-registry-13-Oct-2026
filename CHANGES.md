@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-17T13:33:25Z
+
+- Updated 96 formulae: `apache-opennlp` 2.5.13 → 3.0.0, `apt` 3.3.7 → 3.3.8, `asyncapi` 6.3.0 → 6.3.1, `aws-c-auth` 1.0.4_1 → 1.1.0, `aws-c-s3` 1.5.2_2 → 1.5.2_3, `aws-crt-cpp` 0.44.4_1 → 0.44.4_2, `aws-sam-cli` 1.172.1_1 → 1.172.1_2, `aws-sdk-cpp` 1.11.929_1 → 1.11.929_2, `awscli` 2.40.3_1 → 2.40.3_2, `awscurl` 0.45_2 → 0.45_3, `balena-cli` 25.2.19 → 25.2.20, `ballerina` 2201.14.1 → 2201.14.2, `berglas` 2.0.18 → 2.0.19, `calm-cli` 1.72.0 → 1.73.0, `cc-switch-cli` 5.11.3 → 5.11.4, `cdk8s` 2.207.84 → 2.207.85, `claude-code-router` 3.1.3 → 3.1.5, `comrak` 0.59.0 → 1.0.0, `datasette` 0.65.5_1 → 0.65.6, `depot` 2.103.21 → 2.103.22, `docker-compose` 5.7.1 → 5.7.2, `doltlite` 0.51.12 → 0.51.13, `dxpy` 0.419.0_1 → 0.419.0_2, `flex` 2.6.15 → 2.6.16, `fluid-synth` 2.6.2 → 2.6.2_1 …
+- **Registered 3 casks**: `multidock`, `screenshot-remote`, `upload-remote`
+- **De-registered 6 casks**: `battlescribe`, `denemo`, `maelstrom`, `shiba`, `soundflower`, `splitshow`
+- Updated 80 casks: `advanced-renamer` 4.28 → 4.29, `aigcpanel` 2.6.0 → 2.7.0, `airbuild` 1.7.33 → 1.7.38, `akuity` 0.34.0-rl.1.0.20261111072628-6f23f4c954dd → 0.34.0-rl.1.0.20261117044128-70cb7eb64a3a, `amp-app` 1.0,1350 → 1.0,1360, `antigravity-cli` 1.5.9,4515810895593472 → 1.5.10,5253791805734912, `bettermacwidgets` 2.15.0 → 2.15.1, `cc-switch` 4.0.33 → 4.0.34, `channel-works` 12.2.4 → 12.2.6, `clop` 3.7.3 → 3.7.4, `copilot-cli@prerelease` 1.0.113-0 → 1.0.113-1, `copilot-language-server` 1.571.0 → 1.572.0, `crest` 6.9.5 → 6.9.6, `curseforge` 1.326.0-42377 → 1.327.0-43047, `devin-cli` 3000.12.57 → 3000.13.4, `devin-desktop` 3.12.59,0122b42e158c7ca62960222fb9725f087cd9544f → 3.13.4,d9a56503ce885bceb6aca2891ea1b1e4532d3507, `devin-desktop@next` 3.13.1003+next.632d56d3ab,632d56d3abf9004b17cb106a276b1fcd23f329a0 → 3.13.1004+next.d9a56503ce,d9a56503ce885bceb6aca2891ea1b1e4532d3507, `diversion` 1.6.1222 → 1.6.1228, `downie` 4.13.5,5289 → 4.13.5,5290, `droid` 1.12.1 → 1.13.0, `element@nightly` 2026111601 → 2026111701, `emacs-app@nightly` 2026-11-15_00-09-17,0e3979858f4b76a7cba43bda42db4e960f160049 → 2026-11-17_00-09-48,abc45ea6427404e4b0583ad58068067031878809, `fliqlo` 2.1 → 2.2, `fluxer` 2026.1116.172250 → 2026.1117.40548, `font-simple-icons` 16.37.0 → 16.38.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-17T02:58:11Z
 
 - **Registered 1 formulae**: `libpkl`
