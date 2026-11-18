@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-18T17:18:48Z
+
+- Updated 80 formulae: `apfel` 1.18.0 → 1.19.0, `apify-cli` 1.12.0 → 1.13.0, `appwrite` 28.13.3 → 28.14.0, `aws-sdk-cpp` 1.11.930 → 1.11.931, `baguette` 0.2.14 → 0.2.15, `balena-cli` 25.2.22 → 25.2.24, `benthos` 4.84.0 → 4.85.0, `block-goose-cli` 1.60.0 → 1.60.1, `ccmux` 1.4.6 → 1.4.7, `cdk8s` 2.207.85 → 2.207.86, `cloudflare-wrangler` 4.162.0 → 4.164.0, `code-cli` 1.146.0 → 1.147.0, `context7-mcp` 4.7.1 → 4.7.3, `ctx7` 0.12.1 → 0.12.2, `cubejs-cli` 1.8.26 → 1.8.27, `cycode` 3.27.1 → 3.28.0, `dbml-cli` 12.0.0 → 12.1.0, `dbxcli` 3.8.0 → 3.8.2, `deck` 1.24.4 → 1.24.5, `deepline` 0.3.535 → 0.3.537, `depot` 2.103.26 → 2.103.28, `djlint` 1.52.0 → 1.53.0, `docker-agent` 1.161.0 → 1.162.0, `doltgres` 1.5.1 → 1.5.2, `easyengine` 4.13.3 → 4.14.0 …
+- **Registered 3 casks**: `blave`, `search-browser`, `setshot`
+- Updated 151 casks: `a-better-finder-attributes` 7.55 → 7.56, `aldente` 1.40.1 → 1.40.2, `altersend` 2.0.0 → 2.1.0, `amp-app` 1.0,1380 → 1.0,1390, `antigravity-cli` 1.5.10,5253791805734912 → 1.5.11,6132547114106880, `aptakube` 1.22.3 → 1.23.0, `arq` 7.51 → 7.51.1, `asana` 2.11.0 → 2.11.1, `ausweisapp` 2.6.2 → 2.6.3, `beeper` 4.3.308 → 4.3.326, `bettertouchtool@alpha` 6.1150,2026111307 → 6.1158,2026111806, `bezel` 5.5.0 → 5.5.1, `blitz-gg` 3.0.25 → 3.0.26, `box-tools` 4.32 → 4.33, `brave-browser@nightly` 1.102.12.0,202.12 → 1.102.17.0,202.17, `brave-origin@nightly` 1.102.12.0,202.12 → 1.102.17.0,202.17, `cardo-update` 4.7.0 → 4.8.0, `cc-switch` 4.0.34 → 4.0.35, `chatbox` 1.24.5 → 1.24.6, `claudoscope` 1.4.1 → 1.5.0, `clickhouse` 26.10.5.57-stable → 26.10.6.18-stable, `cog-app` 3890,61472a86a → 3902,1d75c10ab, `copilot-cli` 1.0.113 → 1.0.114, `cuadriver` 0.53.0 → 0.53.2, `cursr` 1.7.4 → 1.7.5 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-18T07:38:33Z
 
 - Updated 65 formulae: `ai-cli` 0.9.1 → 0.9.2, `awscli` 2.40.4 → 2.41.0, `balena-cli` 25.2.20 → 25.2.22, `block-goose-cli` 1.59.2 → 1.60.0, `clang-format` 23.1.5 → 23.1.6, `codex-acp` 2.6.0 → 2.7.0, `ctrld` 1.5.10 → 1.5.11, `datafusion` 55.2.0 → 55.3.0, `diffle` 0.5.3 → 0.5.4, `djlint` 1.51.0 → 1.52.0, `dolt` 2.7.4 → 2.7.5, `elan-init` 4.2.4 → 4.3.0, `ettercap` 0.8.5.1 → 0.8.5.2, `fastly` 17.1.0 → 17.2.0, `flang` 23.1.5 → 23.1.6, `getmail6` 6.21.01 → 6.21.02, `gh` 2.104.0 → 2.105.0, `gitversion` 6.8.2_2 → 7.0.0, `glibc` 2.39_1 → 2.39_2, `go-feature-flag-relay-proxy` 1.58.1 → 1.59.0, `govulncheck` 1.9.0 → 1.10.0, `infisical` 0.45.10 → 0.45.11, `influxdb@2` 2.10.0 → 2.10.1, `inotify-tools` 4.26.285 → 4.26.287, `jiratui` 1.19.0 → 1.20.0 …
