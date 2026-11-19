@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-19T01:53:49Z
+
+- Updated 102 formulae: `aoe` 1.24.0 → 1.25.0, `apm` 0.35.1 → 0.36.0, `appium` 3.9.1 → 4.0.0, `arcane-cli` 3.0.1 → 3.1.0, `argocd` 3.6.1 → 3.6.2, `awscli` 2.41.0 → 2.41.1, `azure-dev` 1.38.0 → 1.39.1, `balena-cli` 25.2.24 → 25.2.27, `bazel-diff` 79.0.0 → 79.0.1, `beszel` 0.21.1 → 0.21.2, `bind` 9.20.30 → 9.20.31, `bkmr` 8.8.0 → 8.9.0, `byobu` 7.23_1 → 7.24, `bzt` 1.17.2 → 1.17.3, `c-blosc2` 3.6.2 → 3.7.0, `circleci` 1.15.0 → 1.17.0, `clamav` 1.5.4_2 → 1.5.5, `cliproxyapi` 8.0.76 → 8.0.77, `closure-compiler` 20261116 → 20261117, `cloudformation-guard` 3.2.2 → 3.3.0, `coursier` 2.1.26 → 2.1.27, `cpp-httplib` 0.66.0 → 0.67.0, `depot` 2.103.28 → 2.103.29, `djlint` 1.53.0 → 1.53.1, `dnscontrol` 5.9.0 → 5.10.0 …
+- **Registered 4 casks**: `alfred@5`, `font-dinish`, `mistral-vibe-app`, `speedcrunch`
+- **De-registered 3 casks**: `archi`, `puzzles-app`, `tsh`
+- Updated 106 casks: `1password@beta` 8.12.46-26.BETA → 8.12.48-24.BETA, `airbuild` 1.7.48 → 1.7.54, `airstats` 1.6 → 1.7, `alfred` 5.8.1,2349 → 6.0,3219, `alfred@prerelease` 5.8.1,2349 → 6.0,3219, `antigravity` 2.32.2,4665802025205760 → 2.33.0,4731201358004224, `antigravity-cli` 1.5.11,6132547114106880 → 1.5.12,5281398513336320, `arctic` 26.1.2,73,20261007195555 → 26.2.0,76,20261118164300, `arm-performix` 2026.4.1 → 2026.4.2, `audio-hijack` 4.6.0 → 4.6.1, `aws-vpn-client` 6.3.0 → 6.3.1, `bb` 0.49.0 → 0.50.1, `bettermacwidgets` 2.16.0 → 2.17.0, `blitz-gg` 3.0.26 → 3.0.27, `brave-browser@nightly` 1.102.17.0,202.17 → 1.102.18.0,202.18, `brave-origin@nightly` 1.102.17.0,202.17 → 1.102.18.0,202.18, `bricklink-partdesigner` 2.26.3_1 → 2.26.11_1, `brilliant` 1.0.0-beta.117 → 1.0.0-beta.118, `burp-suite` 2026.11.1 → 2026.11.2, `chatgpt` 26.1111.71025 → 26.1111.71704, `clamshell` 2.0.3,243 → 2.0.4,244, `claude` 6.6395.0,d71a20056be3b25708751e98bef60759ea1f441b → 6.6395.1,8fc566f7b97e371bae421fc79c260de86c6a4106, `clop` 3.7.4 → 3.7.5, `comfy` 1.1.9,2611063zxyb71c9 → 1.1.10,261118efu5bs6tj, `conductor` 0.95.1,01M7NHQTWWKF04T9Y50VS4758E → 0.96.0,01M7R10VYFE5XGNJ7YMST56JCG …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-18T17:18:48Z
 
 - Updated 80 formulae: `apfel` 1.18.0 → 1.19.0, `apify-cli` 1.12.0 → 1.13.0, `appwrite` 28.13.3 → 28.14.0, `aws-sdk-cpp` 1.11.930 → 1.11.931, `baguette` 0.2.14 → 0.2.15, `balena-cli` 25.2.22 → 25.2.24, `benthos` 4.84.0 → 4.85.0, `block-goose-cli` 1.60.0 → 1.60.1, `ccmux` 1.4.6 → 1.4.7, `cdk8s` 2.207.85 → 2.207.86, `cloudflare-wrangler` 4.162.0 → 4.164.0, `code-cli` 1.146.0 → 1.147.0, `context7-mcp` 4.7.1 → 4.7.3, `ctx7` 0.12.1 → 0.12.2, `cubejs-cli` 1.8.26 → 1.8.27, `cycode` 3.27.1 → 3.28.0, `dbml-cli` 12.0.0 → 12.1.0, `dbxcli` 3.8.0 → 3.8.2, `deck` 1.24.4 → 1.24.5, `deepline` 0.3.535 → 0.3.537, `depot` 2.103.26 → 2.103.28, `djlint` 1.52.0 → 1.53.0, `docker-agent` 1.161.0 → 1.162.0, `doltgres` 1.5.1 → 1.5.2, `easyengine` 4.13.3 → 4.14.0 …
