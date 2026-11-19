@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-19T23:05:23Z
+
+- **Registered 2 formulae**: `nogon`, `postgresql@19`
+- **De-registered 1 formulae**: `hister`
+- Updated 117 formulae: `ada-url` 4.0.0_2 → 4.1.0, `asccli` 0.18.9 → 0.19.0, `auth0` 1.39.0 → 1.40.0, `aws-sdk-cpp` 1.11.931 → 1.11.932, `azurite` 3.37.0 → 3.38.0, `balena-cli` 25.2.28 → 25.2.30, `bazel` 9.3.2 → 9.3.3, `bazel@7` 7.7.2 → 7.7.3, `bazel@8` 8.8.2 → 8.9.0, `bgpq4` 1.16 → 1.17, `bismark` 3.2.0 → 3.3.0, `bitwarden-cli` 2026.10.1 → 2026.11.0, `calm-cli` 1.73.0 → 1.74.0, `cargo-deny` 0.21.0 → 0.22.0, `celero` 2.10.0 → 2.11.0, `cfssl` 1.7.1 → 1.7.2, `chaoskube` 0.39.1 → 0.39.2, `cimg` 4.0.7 → 4.0.8, `closure-compiler` 20261117 → 20261118, `confluence-markdown-exporter` 5.6.0_1 → 5.7.0, `cycode` 3.28.0 → 3.28.1, `dbmate` 2.38.1 → 2.38.2, `defuddle` 0.19.6 → 0.19.7, `deja-vu` 0.24.2 → 0.24.3, `docker-buildx` 0.39.0 → 0.39.1 …
+- **Registered 3 casks**: `lap`, `lumo`, `swi-prolog-app`
+- Updated 176 casks: `adguard-vpn@nightly` 2.12.0.1162 → 2.12.0.1165, `adrafinil` 1.14.2 → 1.14.4, `aerial` 4.1.11 → 4.1.12, `aerial@beta` 4.1.11 → 4.1.12, `airbuild` 1.7.54 → 1.7.63, `akiflow` 2.85.5,833b3cae → 2.86.9,779a9203, `akuity` 0.34.0-rl.1.0.20261119082224-659e8351a001 → 0.34.0-rl.1.0.20261119121144-22cbe7e671ce, `alfred` 6.0,3219 → 6.0.2,3222, `alfred@5` 5.8.1,2349 → 5.8.2,2353, `alfred@prerelease` 6.0,3219 → 6.0.2,3222, `alma` 0.4.761 → 0.4.866, `amore` 0.1,51 → 0.1,54, `amp-app` 1.0,1390 → 1.0,1400, `antigravity-ide` 2.7.0,4507555968450560 → 2.8.0,6733682917113856, `ape` 3.1.10.1 → 3.1.11, `arc` 1.173.1,90936 → 1.174.0,91305, `atomic-wallet` 2.104.8 → 2.106.12, `audioroute` 1.2.13 → 1.3.0, `backuploupe` 3.15.3 → 3.15.4, `beekeeper-studio` 6.3.2 → 6.3.3, `beeper` 4.3.326 → 4.3.334, `bing-wallpaper` 2.0.29.0,7c15330f-9ff1-4eb1-8bb1-a9b85f94646b → 2.0.30.0,f0b50590-a340-456e-acc8-628291b903da, `bitbox` 4.52.0 → 4.53.0, `bitfocus-buttons` 1.8.13,7397,64e48ce1 → 1.8.14,7414,76c562e6, `bloom` 1.5.49 → 1.5.50 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-19T13:22:04Z
 
 - Updated 92 formulae: `acme.sh` 3.1.6 → 3.1.7, `aliyun-cli` 3.5.3 → 3.5.4, `apm` 0.36.0 → 0.36.1, `balena-cli` 25.2.27 → 25.2.28, `barman` 3.20.1_1 → 3.21.0, `bosh-cli` 7.11.2 → 7.11.3, `cdk8s` 2.207.86 → 2.207.87, `chainloop-cli` 1.135.4 → 1.136.0, `clojure` 1.12.6.1673 → 1.12.7.1681, `codebook-lsp` 0.4.0 → 0.4.1, `cspell` 10.5.1 → 10.5.2, `deepline` 0.3.537 → 0.3.544, `djlint` 1.53.1 → 1.54.0, `draw-things-cli` 26.1023.0 → 26.1118.0, `druid` 38.0.0 → 39.0.0, `dumbpipe` 0.40.1 → 0.40.2, `dumpling` 26.3.23 → 26.3.24, `easyengine` 4.14.0 → 4.14.1, `edgevpn` 0.37.0 → 0.37.2, `etcd` 3.7.3 → 3.7.4, `evnx` 0.14.1 → 0.15.0, `fallow` 3.43.2 → 3.44.0, `flyway` 13.12.2 → 13.13.0, `freeswitch` 1.11.3_1 → 1.11.4, `freetds` 1.5.21 → 1.5.22 …
