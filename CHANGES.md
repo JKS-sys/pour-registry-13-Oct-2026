@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-20T07:25:23Z
+
+- Updated 69 formulae: `ada-url` 4.1.0 → 4.1.1, `angular-cli` 22.2.7 → 22.2.8, `arcane-cli` 3.1.0 → 3.1.1, `atuin` 18.24.8 → 18.25.0, `atuin-server` 18.24.8 → 18.25.0, `autobrr` 1.90.0 → 1.91.0, `aws-cdk` 2.1148.1 → 2.1149.0, `aws-sam-cli` 1.172.1_2 → 1.173.0, `awscli` 2.41.1 → 2.41.2, `baguette` 0.2.15 → 0.3.0, `balena-cli` 25.2.30 → 25.2.32, `bbtools` 40.05 → 40.06, `blink1` 2.5.0 → 2.6.0, `buildkit` 0.35.0 → 0.35.1, `buildkitd` 0.35.0 → 0.35.1, `bun` 1.4.4_1 → 1.4.5, `cargo-sort` 2.1.4 → 2.1.5, `chainloop-cli` 1.136.0 → 1.136.1, `circleci` 1.17.0 → 1.18.0, `cliproxyapi` 8.0.77 → 8.0.79, `cloudflare-wrangler` 4.164.0 → 4.165.0, `cmake` 4.5.0 → 4.5.1, `cmake-docs` 4.5.0 → 4.5.1, `comrak` 1.0.0 → 1.1.0, `cubejs-cli` 1.8.27 → 1.8.28 …
+- **Registered 1 casks**: `font-chunkfive`
+- Updated 69 casks: `antigravity-cli` 1.5.12,5281398513336320 → 1.5.13,5999302598852608, `bramble` 0.19.0 → 0.20.0, `brave-browser@nightly` 1.102.22.0,202.22 → 1.102.24.0,202.24, `brave-origin@nightly` 1.102.22.0,202.22 → 1.102.24.0,202.24, `cc-pocket` 1.168.0,318 → 1.169.0,319, `chatgpt` 26.1111.71704 → 26.1117.31558, `claude` 6.6395.1,8fc566f7b97e371bae421fc79c260de86c6a4106 → 6.28899.2,155ca43c0ad5a4bd5734795688543b65b464cf47, `claude-code@latest` 2.1.328 → 2.1.329, `codex` 0.170.0 → 0.171.0, `conductor` 0.96.0,01M7R10VYFE5XGNJ7YMST56JCG → 0.97.0,01M7VAFDHKP1Q5TY01PGDT8GQS, `confluent-cli` 4.82.1 → 4.83.0, `cuadriver` 0.54.0 → 0.55.0, `dbx` 0.6.71 → 0.6.72, `discord@canary` 0.0.1584 → 0.0.1587, `discord@ptb` 0.0.272 → 0.0.273, `droid` 1.15.0 → 1.16.0, `factory` 1.15.0 → 1.16.0, `fiji` 20261112-1517 → 20261119-2117, `firefox@nightly` 162.0a1,2026-11-19-09-16-29 → 163.0a1,2026-11-19-21-19-19, `flutter` 3.50.0 → 3.50.1, `flutterflow` 7.2.43 → 7.2.44, `font-wenjin-mincho` 2.100 → 2.101, `ghostty@tip` 18858,f3e1f65bb602ac3d441ffdd5f9645bef66a39648 → 18867,d69f9ed83ca7275fa5afbba0fa968d0d9ada9f5a, `github` 3.6.11-0102f49a → 3.7.0-f13859b6, `iloader` 2.4.1 → 2.4.2 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-19T23:05:23Z
 
 - **Registered 2 formulae**: `nogon`, `postgresql@19`
