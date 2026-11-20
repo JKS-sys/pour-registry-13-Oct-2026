@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-20T16:59:50Z
+
+- **Registered 1 formulae**: `php@8.5`
+- Updated 45 formulae: `block-goose-cli` 1.60.1 → 1.60.2, `cc-connect` 1.5.2 → 1.5.3, `checkov` 3.4.5 → 3.4.6, `codex-acp` 2.7.0 → 2.8.0, `commitizen` 4.19.3 → 4.19.4, `crit` 0.23.3 → 0.24.0, `cubejs-cli` 1.8.28 → 1.8.29, `deepline` 0.3.544 → 0.3.551, `dnscontrol` 5.10.0 → 5.10.1, `duckdb` 2.0.0_1 → 2.0.1, `esbmc` 8.6_3 → 8.7, `fallow` 3.44.0 → 3.45.0, `fluxcd` 2.10.0 → 2.10.1, `fpm` 0.13.0 → 0.14.0, `gemini-cli` 0.69.0 → 0.70.0, `gitea-runner` 6.0.0 → 6.0.1, `gitversion` 7.0.0 → 7.0.1, `gpgme` 2.2.0 → 2.3.1, `graphql-inspector` 7.0.5 → 7.0.6, `infracost` 2.19.1 → 2.20.0, `ioctl` 2.5.1 → 2.5.2, `kimi-code` 2.6.3 → 2.7.0, `kosli-cli` 2.58.0 → 2.58.1, `kyua` 0.15.1 → 0.15.2, `libmicrohttpd` 1.0.10 → 1.0.11 …
+- **Registered 2 casks**: `hyprmac`, `supertab`
+- Updated 122 casks: `airbuild` 1.7.63 → 1.7.69, `amneziavpn` 5.1.0.6 → 5.1.1.10, `android-studio-preview@canary` 2026.3.1.1,stingray1-canary1 → 2026.3.1.2,stingray1-canary2, `atomcode` 5.2.7 → 5.2.8, `backdrop` 3.0,9700 → 3.0,9801, `baidunetdisk` 8.10.3 → 8.10.5, `bettertouchtool` 6.1152,2026111309 → 6.1161,2026112001, `bettertouchtool@alpha` 6.1158,2026111806 → 6.1161,2026112001, `bitwarden` 2026.10.4 → 2026.11.0, `block-goose` 1.60.1 → 1.60.2, `blood-on-the-clocktower-online` 3.58.1 → 3.58.2, `bloom` 1.5.50 → 1.5.51, `brave-browser` 1.99.57.0 → 1.100.58.0,200.58, `brave-origin` 1.99.57.0 → 1.100.58.0,200.58, `bytemail` 1.9.44 → 1.9.48, `cate` 2.0.5 → 2.1.1, `cc-pocket` 1.169.0,319 → 1.172.0,323, `cc-switch` 4.0.36 → 4.0.37, `chronoid` 1.0.107 → 1.0.108, `clash-party` 2.0.4 → 2.0.5, `claudebar` 0.5.28 → 0.5.29, `clickhouse` 26.10.7.24-stable → 26.10.8.34-stable, `copilot-cli@prerelease` 1.0.115-1 → 1.0.115-2, `cpu-info` 1.11.0 → 1.12.0, `daedalus-mainnet` 11.6.2,88427,8d961fa48 → 11.6.3,88729,18e0288d9 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-20T07:25:23Z
 
 - Updated 69 formulae: `ada-url` 4.1.0 → 4.1.1, `angular-cli` 22.2.7 → 22.2.8, `arcane-cli` 3.1.0 → 3.1.1, `atuin` 18.24.8 → 18.25.0, `atuin-server` 18.24.8 → 18.25.0, `autobrr` 1.90.0 → 1.91.0, `aws-cdk` 2.1148.1 → 2.1149.0, `aws-sam-cli` 1.172.1_2 → 1.173.0, `awscli` 2.41.1 → 2.41.2, `baguette` 0.2.15 → 0.3.0, `balena-cli` 25.2.30 → 25.2.32, `bbtools` 40.05 → 40.06, `blink1` 2.5.0 → 2.6.0, `buildkit` 0.35.0 → 0.35.1, `buildkitd` 0.35.0 → 0.35.1, `bun` 1.4.4_1 → 1.4.5, `cargo-sort` 2.1.4 → 2.1.5, `chainloop-cli` 1.136.0 → 1.136.1, `circleci` 1.17.0 → 1.18.0, `cliproxyapi` 8.0.77 → 8.0.79, `cloudflare-wrangler` 4.164.0 → 4.165.0, `cmake` 4.5.0 → 4.5.1, `cmake-docs` 4.5.0 → 4.5.1, `comrak` 1.0.0 → 1.1.0, `cubejs-cli` 1.8.27 → 1.8.28 …
