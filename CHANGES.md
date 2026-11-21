@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-21T21:41:24Z
+
+- Updated 75 formulae: `apprise` 2.2.0 → 2.3.0, `argc` 1.24.0 → 1.25.0, `astyle` 3.6.26 → 3.6.27, `aws-sam-cli` 1.173.0 → 1.174.0, `aws-sdk-cpp` 1.11.933 → 1.11.935, `backlog-md` 1.55.3 → 1.57.1, `biosig` 4.0.0 → 4.0.1, `bpmnlint` 12.1.1 → 12.2.0, `cargo-binstall` 1.27.0 → 1.28.0, `cargo-llvm-cov` 0.9.1 → 0.9.2, `chawan` 0.5.2 → 0.5.3, `cjdns` 22.3 → 22.4, `cloudflare-wrangler` 4.165.0 → 4.166.0, `concord` 2.7.1 → 2.7.2, `cubejs-cli` 1.8.30 → 1.8.31, `deepline` 0.3.551 → 0.3.552, `defuddle` 0.19.11 → 0.19.13, `dissent` 0.0.41 → 0.0.50, `doltlite` 0.51.14 → 0.51.15, `ec` 0.4.3 → 0.4.4, `ejdb` 2.101 → 2.102, `fabric-ai` 1.4.579 → 1.4.580, `faker` 40.59.0 → 40.63.0, `fceux` 2.7.0 → 2.8.0, `graphql-inspector` 7.0.7 → 7.0.8 …
+- **Registered 2 casks**: `font-lucide`, `shellrs`
+- Updated 63 casks: `airbuild` 1.7.78 → 1.7.82, `alfred` 6.0.2,3222 → 6.0.3,3225, `alfred@prerelease` 6.0.2,3222 → 6.0.3,3225, `atlas-app` 0.5.0 → 0.5.1, `backdrop` 3.0,9802 → 3.0,9803, `bettertouchtool` 6.1161,2026112001 → 6.1164,2026112102, `bettertouchtool@alpha` 6.1161,2026112001 → 6.1163,2026112101, `blave` 0.1.57 → 0.1.58, `boltai` 3.1.0 → 3.1.1, `bramble` 0.20.0 → 0.21.0, `bytemail` 1.9.50 → 1.9.54, `canario` 2026.11.21.42 → 2026.11.21.43, `cc-pocket` 1.173.1,325 → 1.174.1,328, `cc-switch` 4.0.37 → 4.0.38, `clawd-on-desk` 1.6.0 → 1.7.0, `clickhouse` 26.10.8.34-stable → 26.10.9.12-stable, `codexbar` 0.84.0 → 0.85.0, `cog-app` 3931,00f9ec83d → 3932,8c4cc7737, `cuadriver` 0.55.0 → 0.56.6, `devin-desktop@next` 3.14.31825+next.7954ab9c3b,7954ab9c3b5442a88c3fbb3734f00609d126382a → 3.14.31833+next.a165b2eb0a,a165b2eb0a68542b92a3c89cc68b4700e819a409, `droid` 1.17.0 → 1.17.1, `element@nightly` 2026112001 → 2026112101, `factory` 1.17.0 → 1.17.1, `firefox@nightly` 163.0a1,2026-11-20-21-34-02 → 163.0a1,2026-11-21-09-35-49, `font-mengshen-handwritten` 2.0.0,20261119-165248 → 2.0.0,20261121-173203 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-21T12:44:46Z
 
 - Updated 83 formulae: `angular-cli` 22.2.8 → 22.3.0, `apko` 1.5.1 → 1.5.2, `autobrr` 1.91.0 → 1.91.1, `aws-c-common` 1.0.5 → 1.0.6, `aws-c-http` 1.3.0 → 1.3.1, `awscli` 2.41.2 → 2.42.1, `baguette` 0.3.0 → 0.3.1, `balena-cli` 25.2.34 → 25.2.35, `bitwuzla` 0.10.0 → 0.11.0, `bzt` 1.17.3 → 1.17.4, `calcurse` 4.9.0 → 4.9.1, `cfn-lint` 1.60.1 → 1.61.0, `cliproxyapi` 8.0.79 → 8.0.80, `cmark-gfm` 0.29.0.gfm.13 → 0.29.0.gfm.14, `ddns-go` 6.17.9 → 6.18.0, `decker` 1.72 → 1.73, `defuddle` 0.19.8 → 0.19.11, `depot` 2.103.30 → 2.103.33, `djl-serving` 0.36.0 → 0.40.0, `docker-machine` 0.16.2-gitlab.65 → 0.16.2-gitlab.66, `dolt` 2.7.5 → 2.7.6, `esphome` 2026.10.2 → 2026.11.0, `fastmcp` 4.2.2 → 4.2.3, `fern-api` 5.223.1 → 5.224.0, `fobis` 3.19.0 → 3.19.1 …
