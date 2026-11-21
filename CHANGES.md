@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-21T12:44:46Z
+
+- Updated 83 formulae: `angular-cli` 22.2.8 → 22.3.0, `apko` 1.5.1 → 1.5.2, `autobrr` 1.91.0 → 1.91.1, `aws-c-common` 1.0.5 → 1.0.6, `aws-c-http` 1.3.0 → 1.3.1, `awscli` 2.41.2 → 2.42.1, `baguette` 0.3.0 → 0.3.1, `balena-cli` 25.2.34 → 25.2.35, `bitwuzla` 0.10.0 → 0.11.0, `bzt` 1.17.3 → 1.17.4, `calcurse` 4.9.0 → 4.9.1, `cfn-lint` 1.60.1 → 1.61.0, `cliproxyapi` 8.0.79 → 8.0.80, `cmark-gfm` 0.29.0.gfm.13 → 0.29.0.gfm.14, `ddns-go` 6.17.9 → 6.18.0, `decker` 1.72 → 1.73, `defuddle` 0.19.8 → 0.19.11, `depot` 2.103.30 → 2.103.33, `djl-serving` 0.36.0 → 0.40.0, `docker-machine` 0.16.2-gitlab.65 → 0.16.2-gitlab.66, `dolt` 2.7.5 → 2.7.6, `esphome` 2026.10.2 → 2026.11.0, `fastmcp` 4.2.2 → 4.2.3, `fern-api` 5.223.1 → 5.224.0, `fobis` 3.19.0 → 3.19.1 …
+- **Registered 1 casks**: `smartgit@preview`
+- **De-registered 1 casks**: `firefox@cn`
+- Updated 67 casks: `airbuild` 1.7.69 → 1.7.78, `amp-app` 1.0,1400 → 1.0,1410, `antigravity-cli` 1.5.13,5999302598852608 → 1.5.14,5302690847260672, `anytype@alpha` 0.57.8-alpha → 0.57.9-alpha, `aphera` 1.9.0 → 1.10.0, `arc` 1.174.0,91305 → 1.174.1,91404, `ardia` 0.2.46 → 0.2.47, `argo-books` 2.0.23 → 2.0.24, `atlas-app` 0.3.4 → 0.5.0, `bytemail` 1.9.48 → 1.9.50, `calibre` 9.18.0 → 9.19.0, `canario` 2026.11.14.39 → 2026.11.21.42, `cc-pocket` 1.172.0,323 → 1.173.1,325, `chatgpt` 26.1117.31558 → 26.1117.41037, `claude` 6.28899.2,155ca43c0ad5a4bd5734795688543b65b464cf47 → 6.28899.6,2f5fc59b2d1c672dd9dced86720c50f48cca0cf9, `claude-code` 2.1.311 → 2.1.323, `claude-code@latest` 2.1.329 → 2.1.330, `cline-app` 0.0.49 → 0.0.50, `codeexpander` 7.1.7 → 7.1.8, `cog-app` 3915,dac15aba9 → 3931,00f9ec83d, `conductor` 0.97.0,01M7VAFDHKP1Q5TY01PGDT8GQS → 0.98.0,01M7XY1QN8R2187XC5Y28SFF17, `copilot-cli@prerelease` 1.0.115-3 → 1.0.115-5, `cursor` 3.31.11,52fdf018932f1335bc6dd36acc5e33d30759192e → 3.31.15,3eb8c13390837371c7c2f2013dc57fdbc802c753, `dolphin@dev` 2609-293,18,c9 → 2609-303,60,c4, `doubao` 2.36.10 → 2.36.14 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-21T01:34:22Z
 
 - Updated 73 formulae: `ab-av1` 0.11.7 → 0.12.0, `abcmidi` 2026.11.16 → 2026.11.20, `addons-linter` 10.15.0 → 10.16.0, `arf` 0.7.1 → 0.7.2, `atuin` 18.25.0 → 18.25.1, `atuin-server` 18.25.0 → 18.25.1, `aws-sdk-cpp` 1.11.932 → 1.11.933, `balena-cli` 25.2.32 → 25.2.34, `bazel-diff` 79.0.1 → 79.1.0, `boring` 0.18.0 → 0.18.1, `cortex` 1.21.1 → 1.22.0, `croc` 11.6.5 → 11.6.6, `cubejs-cli` 1.8.29 → 1.8.30, `cyclonedx-python` 8.0.1 → 9.0.0, `defuddle` 0.19.7 → 0.19.8, `eas-cli` 27.10.0 → 27.11.0, `ejdb` 2.100 → 2.101, `fabric-ai` 1.4.578 → 1.4.579, `faker` 40.54.0 → 40.59.0, `fleet-cli` 0.16.3 → 0.17.0, `flex` 2.7.2 → 2.7.3, `forcecli` 1.17.0 → 1.18.0, `fx` 40.0.1 → 40.0.2, `gamdl` 4.0.2 → 4.1.1, `gomi` 1.10.1 → 1.11.0 …
