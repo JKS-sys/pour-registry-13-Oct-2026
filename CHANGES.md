@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-21T01:34:22Z
+
+- Updated 73 formulae: `ab-av1` 0.11.7 → 0.12.0, `abcmidi` 2026.11.16 → 2026.11.20, `addons-linter` 10.15.0 → 10.16.0, `arf` 0.7.1 → 0.7.2, `atuin` 18.25.0 → 18.25.1, `atuin-server` 18.25.0 → 18.25.1, `aws-sdk-cpp` 1.11.932 → 1.11.933, `balena-cli` 25.2.32 → 25.2.34, `bazel-diff` 79.0.1 → 79.1.0, `boring` 0.18.0 → 0.18.1, `cortex` 1.21.1 → 1.22.0, `croc` 11.6.5 → 11.6.6, `cubejs-cli` 1.8.29 → 1.8.30, `cyclonedx-python` 8.0.1 → 9.0.0, `defuddle` 0.19.7 → 0.19.8, `eas-cli` 27.10.0 → 27.11.0, `ejdb` 2.100 → 2.101, `fabric-ai` 1.4.578 → 1.4.579, `faker` 40.54.0 → 40.59.0, `fleet-cli` 0.16.3 → 0.17.0, `flex` 2.7.2 → 2.7.3, `forcecli` 1.17.0 → 1.18.0, `fx` 40.0.1 → 40.0.2, `gamdl` 4.0.2 → 4.1.1, `gomi` 1.10.1 → 1.11.0 …
+- **Registered 1 casks**: `jellybox`
+- Updated 87 casks: `almighty` 2.13.8 → 2.13.9, `android-studio` 2026.2.2.9,rabbit2-patch1 → 2026.2.2.10,rabbit2-patch2, `antigravity` 2.33.0,4731201358004224 → 2.34.0,5887025308631040, `backdrop` 3.0,9801 → 3.0,9802, `beeper` 4.3.334 → 4.3.340, `blitz-gg` 3.0.27 → 3.0.29, `brave-browser@nightly` 1.102.24.0,202.24 → 1.102.26.0,202.26, `brave-origin@nightly` 1.102.24.0,202.24 → 1.102.26.0,202.26, `choice-financial-terminal` 9.17.0.1 → 9.17.0.2, `cinderella` 3.0.2138 → 3.0.2140, `clop` 3.7.5 → 3.7.6, `copilot-cli@prerelease` 1.0.115-2 → 1.0.115-3, `devin-desktop` 3.14.30825,7954ab9c3b5442a88c3fbb3734f00609d126382a → 3.14.30833,a165b2eb0a68542b92a3c89cc68b4700e819a409, `dropbox@beta` 281.3.5375 → 281.3.5397, `easymac-cleaner` 1.7.1 → 1.7.2, `ecamm-live` 4.6.2 → 4.6.3, `fluxer` 2026.1120.30521 → 2026.1120.163638, `fork@dev` 2.71.1 → 2.72.0, `google-chrome@dev` 160.0.8157.0 → 160.0.8171.0, `grok-build` 1.0.89 → 1.0.92, `hackolade` 9.0.0 → 9.0.1, `heptabase` 1.117.1 → 1.118.0, `hopper-disassembler` 6.6.2 → 6.6.3, `hyperframes` 1140,b6fc1a0cc → 1154,14676717c, `junie` 4100.10 → 4100.11 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-20T16:59:50Z
 
 - **Registered 1 formulae**: `php@8.5`
