@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-22T16:20:37Z
+
+- **Registered 2 formulae**: `gtk4-layer-shell`, `nextpnr-himbaechel`
+- Updated 36 formulae: `apm` 0.36.1 → 0.37.0, `asc` 7.0.0 → 7.1.0, `backlog-md` 1.57.2 → 1.57.4, `claude-code-router` 3.1.5 → 3.1.6, `corsixth` 0.70.2 → 0.70.3, `dnscrypt-proxy` 2.1.20 → 2.1.21, `dub` 1.42.0 → 1.43.0, `emscripten` 7.0.0 → 7.0.1, `fastmcp` 4.2.3 → 4.2.4, `fluid-synth` 2.6.2_1 → 2.6.3, `fobis` 3.19.1 → 3.19.2, `gallery-dl` 1.32.20 → 1.32.21, `ipsw` 3.1.749 → 3.1.750, `joern` 4.0.688 → 4.0.689, `kekkai` 0.2.13 → 0.2.14, `kubecolor` 0.8.0 → 0.9.0, `maigret` 0.6.6_1 → 0.6.7, `maven` 3.10.1 → 3.10.2, `mcp-publisher` 1.8.11 → 1.8.12, `meta-package-manager` 8.3.0 → 8.3.1, `mkbrr` 1.27.0 → 1.28.0, `network-doctor` 2.2.1 → 2.2.2, `open-code-review` 1.14.0 → 1.14.1, `openkermit` 11.1.519 → 11.1.520, `pake` 3.19.0 → 3.20.0 …
+- Updated 52 casks: `airbuild` 1.7.82 → 1.7.98, `amp-app` 1.0,1410 → 1.0,1420, `appgridmac` 1.2.16 → 1.2.17, `bentobox` 1.1.11 → 1.1.12, `bettertouchtool` 6.1165,2026112103 → 6.1166,2026112201, `bettertouchtool@alpha` 6.1163,2026112101 → 6.1166,2026112201, `cc-pocket` 1.177.0,331 → 1.178.0,332, `clash-mi` 1.0.32.1803 → 1.0.33.1905, `cog-app` 3932,8c4cc7737 → 3933,bfd8741ae, `copilot-cli@prerelease` 1.0.115-6 → 1.0.115-7, `cuadriver` 0.57.0 → 0.58.1, `diversion` 1.6.1326 → 1.6.1347, `element@nightly` 2026112101 → 2026112201, `emacs-app@nightly` 2026-11-19_00-09-17,dcdd799a863fc8c261e0628dede6da6dc64429d2 → 2026-11-22_00-09-18,11ab14fdae8e73764e9a58cc1770404b0a6892fe, `factory` 1.17.1 → 1.17.2, `firefox@nightly` 163.0a1,2026-11-21-20-02-50 → 163.0a1,2026-11-22-09-32-27, `fliqlo` 2.3 → 2.4, `font-ibm-plex-sans` 1.1.0 → 1.3.6, `font-ibm-plex-sans-condensed` 2.0.0 → 2.3.1, `fore-studio-vitals` 1.13.5 → 1.13.6, `freelens@nightly` 2.1.0-0-nightly-2026-11-21 → 2.1.1-0-nightly-2026-11-22, `ghostex` 11.13.0 → 11.14.0, `goldenpassport` 0.1.7 → 0.3.0, `google-chrome@canary` 160.0.8176.2 → 160.0.8177.0, `google-gemini` 1.147.5.1526 → 1.147.6.1557 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-22T06:59:26Z
 
 - **Registered 1 formulae**: `apicula`
