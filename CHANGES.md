@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-22T06:59:26Z
+
+- **Registered 1 formulae**: `apicula`
+- Updated 41 formulae: `ansible` 14.6.0 → 15.0.0, `ansible-lint` 26.10.1_1 → 26.11.0, `atlantis` 0.49.0 → 0.50.0, `autotrace` 0.31.11 → 0.31.12, `backlog-md` 1.57.1 → 1.57.2, `beads_viewer` 0.26.0 → 0.27.0, `bettercap` 2.41.7 → 2.42.0, `bismark` 3.3.0 → 3.4.0, `bittensor` 11.3.0 → 11.3.5, `blocky` 0.36.0 → 0.37.0, `certifi` 2026.10.23 → 2026.11.20, `cliproxyapi` 8.0.80 → 8.1.0, `deja-vu` 0.24.3 → 0.25.0, `devcontainer` 0.90.0 → 0.91.0, `fallow` 3.45.0 → 3.46.0, `fast_float` 8.3.3 → 8.4.0, `fern-api` 5.224.0 → 5.227.0, `jcode` 1.0.2 → 1.0.3, `keploy` 3.7.13 → 3.7.15, `kingfisher` 2.19.1 → 2.20.0, `lego` 5.6.0 → 5.7.0, `letta-code` 0.34.67 → 0.34.68, `linecast` 2.12.0 → 2.13.0, `m1ddc` 1.3.2 → 1.3.3, `mac` 13.47 → 13.50 …
+- **Registered 1 casks**: `octo-browser`
+- Updated 60 casks: `alma` 0.4.866 → 0.4.977, `amethyst` 0.25.0 → 0.25.1, `bentobox` 1.1.10 → 1.1.11, `bettertouchtool` 6.1164,2026112102 → 6.1165,2026112103, `bytemail` 1.9.54 → 1.9.55, `cc-pocket` 1.174.1,328 → 1.177.0,331, `copilot-cli@prerelease` 1.0.115-5 → 1.0.115-6, `core-tunnel` 5.2.1,4957 → 5.2.2,5011, `cuadriver` 0.56.6 → 0.57.0, `cursor-cli` 2026.11.19-f005e9d → 2026.11.22-e9042b2, `dolphin@dev` 2609-303,60,c4 → 2609-308,32,be, `droid` 1.17.1 → 1.17.2, `electerm` 5.11.8 → 5.12.6, `esphome-device-builder` 1.1.3 → 1.2.0, `firefox@nightly` 163.0a1,2026-11-21-09-35-49 → 163.0a1,2026-11-21-20-02-50, `font-mengshen-handwritten` 2.0.0,20261121-173203 → 2.0.0,20261122-035412, `font-mengshen-regular` 2.0.0,20261121-173203 → 2.0.0,20261122-035412, `freellmapi` 0.16.37 → 0.16.38, `fresh` 5.0.2 → 5.0.3, `gcs` 5.60.0 → 5.61.0, `ghostty@tip` 18867,d69f9ed83ca7275fa5afbba0fa968d0d9ada9f5a → 18872,6d244209978e599277904ff3ced7b8a2ebcc528d, `google-chrome@canary` 160.0.8175.1 → 160.0.8176.2, `helium-browser` 0.22.1.1 → 0.22.2.1, `hyperframes` 1160,e264f4997 → 1179,81400aadb, `hyprmac` 0.25.1 → 0.26.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-21T21:41:24Z
 
 - Updated 75 formulae: `apprise` 2.2.0 → 2.3.0, `argc` 1.24.0 → 1.25.0, `astyle` 3.6.26 → 3.6.27, `aws-sam-cli` 1.173.0 → 1.174.0, `aws-sdk-cpp` 1.11.933 → 1.11.935, `backlog-md` 1.55.3 → 1.57.1, `biosig` 4.0.0 → 4.0.1, `bpmnlint` 12.1.1 → 12.2.0, `cargo-binstall` 1.27.0 → 1.28.0, `cargo-llvm-cov` 0.9.1 → 0.9.2, `chawan` 0.5.2 → 0.5.3, `cjdns` 22.3 → 22.4, `cloudflare-wrangler` 4.165.0 → 4.166.0, `concord` 2.7.1 → 2.7.2, `cubejs-cli` 1.8.30 → 1.8.31, `deepline` 0.3.551 → 0.3.552, `defuddle` 0.19.11 → 0.19.13, `dissent` 0.0.41 → 0.0.50, `doltlite` 0.51.14 → 0.51.15, `ec` 0.4.3 → 0.4.4, `ejdb` 2.101 → 2.102, `fabric-ai` 1.4.579 → 1.4.580, `faker` 40.59.0 → 40.63.0, `fceux` 2.7.0 → 2.8.0, `graphql-inspector` 7.0.7 → 7.0.8 …
