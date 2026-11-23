@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-23T00:56:09Z
+
+- **Registered 4 formulae**: `ade`, `dezoomify-cli`, `oscar64`, `planoai`
+- **De-registered 1 formulae**: `archgw`
+- Updated 35 formulae: `algernon` 1.17.13 → 1.18.0, `armadillo` 15.6.2 → 15.8.0, `at-spi2-core` 2.62.1 → 2.62.2, `baguette` 0.3.1 → 0.3.2, `bitbucket-cli` 0.40.2 → 0.40.3, `carapace` 1.8.2 → 1.8.3, `chainloop-cli` 1.136.1 → 1.137.0, `codanna` 0.17.1_3 → 0.18.0, `codex-acp` 2.8.0 → 2.9.0, `cubejs-cli` 1.8.31 → 1.8.32, `cx` 0.1.34 → 0.1.35, `datafusion` 55.3.0 → 56.0.0, `drydock` 1.4.1 → 1.4.2, `fuseki` 6.2.0 → 6.3.0, `gnmic` 0.49.1 → 0.50.0, `gopass` 1.17.4 → 1.17.5, `gopass-jsonapi` 1.17.4 → 1.17.5, `jena` 6.2.0 → 6.3.0, `mcp-publisher` 1.8.12 → 1.8.13, `mkvtoolnix` 103.0 → 104.0, `mycli` 2.31.1 → 2.32.0, `oh-my-posh` 33.2.0 → 33.3.0, `openjdk@8` 1.8.0-512 → 1.8.0-514, `parallel-disk-usage` 0.24.0 → 0.24.1, `portop` 0.4.0 → 0.4.1 …
+- Updated 50 casks: `ardia` 0.2.47 → 0.2.48, `azookey` 0.1.4 → 0.1.5, `backdrop` 3.0,9803 → 3.0,9804, `bettertouchtool` 6.1166,2026112201 → 6.1167,2026112202, `bloom` 1.5.51 → 1.5.52, `canario` 2026.11.21.43 → 2026.11.22.44, `cc-switch` 4.0.38 → 4.0.39, `clickhouse` 26.10.9.12-stable → 26.10.10.3-stable, `cuadriver` 0.58.1 → 0.59.2, `dayflow` 2.9.5 → 2.9.6, `dolphin@dev` 2609-308,32,be → 2609-312,5d,f8, `font-fandol` 0.3 → 0.4, `font-sketchybar-app-font` 3.0.29 → 3.0.30, `fore-studio-vitals` 1.13.6 → 1.13.8, `freellmapi` 0.16.38 → 0.16.39, `gcloud-cli` 594.0.0 → 594.0.1, `ghostex` 11.14.0 → 11.15.0, `ghostty@tip` 18872,6d244209978e599277904ff3ced7b8a2ebcc528d → 18874,11ed660d99fd0dd8dadcaf456db31b71f0f21beb, `google-chrome@canary` 160.0.8177.0 → 160.0.8178.0, `grandtotal` 10.0.3.18 → 10.0.3.19, `gyroflow` 1.7.0 → 1.7.1, `hiddenbar` 1.13.2 → 1.13.3, `hol-guard` 3.0.152 → 3.0.153, `hotovo-aider-desk` 0.92.0 → 0.93.0, `hyperframes` 1191,2ae92992c → 1201,526a789c3 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-22T16:20:37Z
 
 - **Registered 2 formulae**: `gtk4-layer-shell`, `nextpnr-himbaechel`

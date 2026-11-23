@@ -1,0 +1,447 @@
+{
+ "synced_at": "2026-11-23T00:56:09Z",
+ "casks": {
+  "added": [],
+  "removed": [],
+  "updated": [
+   {
+    "from": "0.2.47",
+    "name": "ardia",
+    "to": "0.2.48"
+   },
+   {
+    "from": "0.1.4",
+    "name": "azookey",
+    "to": "0.1.5"
+   },
+   {
+    "from": "3.0,9803",
+    "name": "backdrop",
+    "to": "3.0,9804"
+   },
+   {
+    "from": "6.1166,2026112201",
+    "name": "bettertouchtool",
+    "to": "6.1167,2026112202"
+   },
+   {
+    "from": "1.5.51",
+    "name": "bloom",
+    "to": "1.5.52"
+   },
+   {
+    "from": "2026.11.21.43",
+    "name": "canario",
+    "to": "2026.11.22.44"
+   },
+   {
+    "from": "4.0.38",
+    "name": "cc-switch",
+    "to": "4.0.39"
+   },
+   {
+    "from": "26.10.9.12-stable",
+    "name": "clickhouse",
+    "to": "26.10.10.3-stable"
+   },
+   {
+    "from": "0.58.1",
+    "name": "cuadriver",
+    "to": "0.59.2"
+   },
+   {
+    "from": "2.9.5",
+    "name": "dayflow",
+    "to": "2.9.6"
+   },
+   {
+    "from": "2609-308,32,be",
+    "name": "dolphin@dev",
+    "to": "2609-312,5d,f8"
+   },
+   {
+    "from": "0.3",
+    "name": "font-fandol",
+    "to": "0.4"
+   },
+   {
+    "from": "3.0.29",
+    "name": "font-sketchybar-app-font",
+    "to": "3.0.30"
+   },
+   {
+    "from": "1.13.6",
+    "name": "fore-studio-vitals",
+    "to": "1.13.8"
+   },
+   {
+    "from": "0.16.38",
+    "name": "freellmapi",
+    "to": "0.16.39"
+   },
+   {
+    "from": "594.0.0",
+    "name": "gcloud-cli",
+    "to": "594.0.1"
+   },
+   {
+    "from": "11.14.0",
+    "name": "ghostex",
+    "to": "11.15.0"
+   },
+   {
+    "from": "18872,6d244209978e599277904ff3ced7b8a2ebcc528d",
+    "name": "ghostty@tip",
+    "to": "18874,11ed660d99fd0dd8dadcaf456db31b71f0f21beb"
+   },
+   {
+    "from": "160.0.8177.0",
+    "name": "google-chrome@canary",
+    "to": "160.0.8178.0"
+   },
+   {
+    "from": "10.0.3.18",
+    "name": "grandtotal",
+    "to": "10.0.3.19"
+   },
+   {
+    "from": "1.7.0",
+    "name": "gyroflow",
+    "to": "1.7.1"
+   },
+   {
+    "from": "1.13.2",
+    "name": "hiddenbar",
+    "to": "1.13.3"
+   },
+   {
+    "from": "3.0.152",
+    "name": "hol-guard",
+    "to": "3.0.153"
+   },
+   {
+    "from": "0.92.0",
+    "name": "hotovo-aider-desk",
+    "to": "0.93.0"
+   },
+   {
+    "from": "1191,2ae92992c",
+    "name": "hyperframes",
+    "to": "1201,526a789c3"
+   },
+   {
+    "from": "1.9.0",
+    "name": "itsytv",
+    "to": "1.9.1"
+   },
+   {
+    "from": "5.7.0",
+    "name": "keystore-explorer",
+    "to": "5.7.1"
+   },
+   {
+    "from": "3.2.35,1257",
+    "name": "marked-app",
+    "to": "3.2.36,1259"
+   },
+   {
+    "from": "2.6.5",
+    "name": "meta",
+    "to": "2.6.7"
+   },
+   {
+    "from": "2026.11.510",
+    "name": "mindroom",
+    "to": "2026.11.520"
+   },
+   {
+    "from": "3.0.45,174",
+    "name": "nvalt",
+    "to": "3.0.46,175"
+   },
+   {
+    "from": "1.3.2",
+    "name": "open-science",
+    "to": "1.3.3"
+   },
+   {
+    "from": "0.17.2",
+    "name": "paseo",
+    "to": "0.17.3"
+   },
+   {
+    "from": "2.40,772",
+    "name": "pastenow",
+    "to": "2.41,901"
+   },
+   {
+    "from": "0.1.3557",
+    "name": "reader",
+    "to": "0.1.3559"
+   },
+   {
+    "from": "5.0.0,eyJfcmFpbHMiOnsiZGF0YSI6MjczLCJwdXIiOiJibG9iX2lkIn19--f6959b2d681c27d14e3c0050534381dc36b2f3d0",
+    "name": "recut",
+    "to": "5.1.0,eyJfcmFpbHMiOnsiZGF0YSI6MjgxLCJwdXIiOiJibG9iX2lkIn19--aa3263ca19cfdf21235c14c898c44815a02a50dd"
+   },
+   {
+    "from": "0.7.0",
+    "name": "rustgis",
+    "to": "0.8.0"
+   },
+   {
+    "from": "1.0.17",
+    "name": "search-browser",
+    "to": "1.0.18"
+   },
+   {
+    "from": "4.9.1",
+    "name": "siliconscope",
+    "to": "4.9.2"
+   },
+   {
+    "from": "0.45.0",
+    "name": "solidcraft",
+    "to": "0.46.2"
+   },
+   {
+    "from": "1.10.3",
+    "name": "status-trio",
+    "to": "1.10.4"
+   },
+   {
+    "from": "6.0.5738",
+    "name": "subsurface",
+    "to": "6.0.5841"
+   },
+   {
+    "from": "0.1.12-nightly.20261122.5085",
+    "name": "t3-code@nightly",
+    "to": "0.1.12-nightly.20261122.5111"
+   },
+   {
+    "from": "1.14.5",
+    "name": "tapmap",
+    "to": "1.14.6"
+   },
+   {
+    "from": "163.0a1,2026-11-21-10-52-30",
+    "name": "thunderbird@daily",
+    "to": "163.0a1,2026-11-22-06-49-32"
+   },
+   {
+    "from": "0.13.0-beta.145",
+    "name": "tinycast@beta",
+    "to": "0.14.0-beta.146"
+   },
+   {
+    "from": "0.95.1",
+    "name": "token-monitor",
+    "to": "0.96.1"
+   },
+   {
+    "from": "3.3.1",
+    "name": "turbovnc-viewer",
+    "to": "3.3.2"
+   },
+   {
+    "from": "82.3.1",
+    "name": "webcatalog",
+    "to": "82.5.0"
+   },
+   {
+    "from": "3.2.1",
+    "name": "wljs-notebook",
+    "to": "3.2.2"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [
+   "ade",
+   "dezoomify-cli",
+   "oscar64",
+   "planoai"
+  ],
+  "removed": [
+   "archgw"
+  ],
+  "updated": [
+   {
+    "from": "1.17.13",
+    "name": "algernon",
+    "to": "1.18.0"
+   },
+   {
+    "from": "15.6.2",
+    "name": "armadillo",
+    "to": "15.8.0"
+   },
+   {
+    "from": "2.62.1",
+    "name": "at-spi2-core",
+    "to": "2.62.2"
+   },
+   {
+    "from": "0.3.1",
+    "name": "baguette",
+    "to": "0.3.2"
+   },
+   {
+    "from": "0.40.2",
+    "name": "bitbucket-cli",
+    "to": "0.40.3"
+   },
+   {
+    "from": "1.8.2",
+    "name": "carapace",
+    "to": "1.8.3"
+   },
+   {
+    "from": "1.136.1",
+    "name": "chainloop-cli",
+    "to": "1.137.0"
+   },
+   {
+    "from": "0.17.1_3",
+    "name": "codanna",
+    "to": "0.18.0"
+   },
+   {
+    "from": "2.8.0",
+    "name": "codex-acp",
+    "to": "2.9.0"
+   },
+   {
+    "from": "1.8.31",
+    "name": "cubejs-cli",
+    "to": "1.8.32"
+   },
+   {
+    "from": "0.1.34",
+    "name": "cx",
+    "to": "0.1.35"
+   },
+   {
+    "from": "55.3.0",
+    "name": "datafusion",
+    "to": "56.0.0"
+   },
+   {
+    "from": "1.4.1",
+    "name": "drydock",
+    "to": "1.4.2"
+   },
+   {
+    "from": "6.2.0",
+    "name": "fuseki",
+    "to": "6.3.0"
+   },
+   {
+    "from": "0.49.1",
+    "name": "gnmic",
+    "to": "0.50.0"
+   },
+   {
+    "from": "1.17.4",
+    "name": "gopass",
+    "to": "1.17.5"
+   },
+   {
+    "from": "1.17.4",
+    "name": "gopass-jsonapi",
+    "to": "1.17.5"
+   },
+   {
+    "from": "6.2.0",
+    "name": "jena",
+    "to": "6.3.0"
+   },
+   {
+    "from": "1.8.12",
+    "name": "mcp-publisher",
+    "to": "1.8.13"
+   },
+   {
+    "from": "103.0",
+    "name": "mkvtoolnix",
+    "to": "104.0"
+   },
+   {
+    "from": "2.31.1",
+    "name": "mycli",
+    "to": "2.32.0"
+   },
+   {
+    "from": "33.2.0",
+    "name": "oh-my-posh",
+    "to": "33.3.0"
+   },
+   {
+    "from": "1.8.0-512",
+    "name": "openjdk@8",
+    "to": "1.8.0-514"
+   },
+   {
+    "from": "0.24.0",
+    "name": "parallel-disk-usage",
+    "to": "0.24.1"
+   },
+   {
+    "from": "0.4.0",
+    "name": "portop",
+    "to": "0.4.1"
+   },
+   {
+    "from": "8.10.3",
+    "name": "redis",
+    "to": "8.12.0"
+   },
+   {
+    "from": "1.6.3",
+    "name": "rekor-cli",
+    "to": "1.6.5"
+   },
+   {
+    "from": "0.2.82",
+    "name": "ryelang",
+    "to": "0.2.83"
+   },
+   {
+    "from": "0.7.0.2",
+    "name": "supertux",
+    "to": "0.7.0.1"
+   },
+   {
+    "from": "1.80.0",
+    "name": "tmt",
+    "to": "1.81.0"
+   },
+   {
+    "from": "3.5.0",
+    "name": "tomlplusplus",
+    "to": "3.5.1"
+   },
+   {
+    "from": "9.2.1380",
+    "name": "vim",
+    "to": "9.2.1393"
+   },
+   {
+    "from": "0.184.0",
+    "name": "vtcode",
+    "to": "0.185.0"
+   },
+   {
+    "from": "0.16.3",
+    "name": "yaegi",
+    "to": "2.0.0"
+   },
+   {
+    "from": "1.32.0",
+    "name": "zizmor",
+    "to": "1.33.0"
+   }
+  ]
+ }
+}
