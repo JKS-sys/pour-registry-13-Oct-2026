@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-23T14:48:09Z
+
+- **Registered 1 formulae**: `jotter`
+- Updated 74 formulae: `asc` 7.1.0 → 7.2.0, `auto-editor` 31.9.0 → 31.10.0, `bttf` 0.1.4 → 0.2.0, `c-blosc2` 3.7.0 → 3.8.0, `carapace` 1.8.3 → 1.8.4, `chezmoi` 2.74.1 → 2.74.2, `cliproxyapi` 8.1.0 → 8.1.1, `comrak` 1.1.0 → 1.2.0, `dbxcli` 3.8.2 → 3.8.3, `distrobox` 1.8.2.5 → 1.8.2.6, `easyengine` 4.14.2 → 4.15.0, `erlang-language-platform` 2026-11-16 → 2026-11-20, `exploitdb` 2026-11-12 → 2026-11-23, `fabric-ai` 1.4.580 → 1.4.581, `fallow` 3.46.0 → 3.47.0, `flex` 2.7.3 → 2.7.4, `flow` 0.340.0 → 0.342.0, `flyctl` 0.5.14 → 0.5.15, `fwup` 1.17.1 → 1.17.2, `gedit` 51.0 → 51.1, `getparty` 1.29.1 → 1.29.2, `ghorg` 1.11.17 → 1.11.18, `git-delta` 0.21.2 → 0.22.0, `gitoxide` 0.61.0 → 0.62.0, `go-bindata` 4.0.2 → 4.0.3 …
+- **Registered 2 casks**: `codeql-bundle`, `velaterm`
+- Updated 131 casks: `agent-orchestrator` 0.15.3 → 0.15.4, `agentsview` 0.47.0 → 0.48.0, `akuity` 0.34.0-rl.1.0.20261119121144-22cbe7e671ce → 0.34.0-rl.1.0.20261119135941-ff8b41baff04, `alma` 0.4.977 → 0.4.1034, `antigravity-cli` 1.5.14,5302690847260672 → 1.5.15,5514532022517760, `awesun` 16.6.0.32198 → 16.8.0.34767, `bettermacwidgets` 2.17.0 → 2.18.0, `bettertouchtool` 6.1167,2026112202 → 6.1169,2026112302, `bettertouchtool@alpha` 6.1166,2026112201 → 6.1169,2026112302, `bibdesk` 1.9.13 → 1.9.14, `blave` 0.1.58 → 0.1.59, `bluestacks` 5.21.790.7505,426aabd288b04f58a8200b751e9bcbcf → 5.21.795.7549,af66de44892346fda48a77cf7df20d62, `brewy` 0.26.6 → 0.27.0, `bytemail` 1.9.55 → 1.9.58, `capso` 1.2.8 → 1.2.9, `cate` 2.1.1 → 2.1.2, `cc-pocket` 1.178.0,332 → 1.180.0,335, `cc-switch` 4.0.39 → 4.0.40, `clarify` 1.7.25 → 1.7.26, `cloudpouch` 2.0.0 → 2.1.0, `coin-wallet` 6.32.0 → 6.33.0, `colamd` 2.7.12 → 2.8.0, `colorwell` 8.1.5 → 8.2, `copilot-language-server` 1.573.0 → 1.574.0, `couchbase-server-enterprise` 8.0.3 → 8.0.4 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-23T00:56:09Z
 
 - **Registered 4 formulae**: `ade`, `dezoomify-cli`, `oscar64`, `planoai`
