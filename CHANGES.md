@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-24T14:56:44Z
+
+- Updated 113 formulae: `actions-up` 2.0.0 → 2.1.0, `ada-url` 4.1.1 → 4.1.1_1, `apfel` 1.19.0 → 1.20.0, `apm` 0.37.0 → 0.38.0, `aube` 2.10.1 → 2.11.0, `aws-c-mqtt` 1.1.3_1 → 1.1.4, `aws-sdk-cpp` 1.11.935 → 1.11.936, `awscli` 2.42.1 → 2.42.2, `balena-cli` 25.2.37 → 25.2.41, `calm-cli` 1.74.0 → 1.74.1, `cliproxyapi` 8.1.1 → 8.1.2, `closure-compiler` 20261118 → 20261122, `cloud-sql-proxy` 2.28.0 → 2.28.1, `codex-acp` 2.9.0 → 2.10.0, `commitizen` 4.19.4 → 4.20.0, `composer` 2.11.2 → 2.11.3, `connect` 1.106 → 1.107, `copyparty` 1.20.26 → 1.20.27, `cronboard` 1.2.1 → 1.3.0, `dbx-cli` 0.4.144 → 0.4.145, `doctl` 2.7.0 → 2.8.0, `dumpling` 26.3.24 → 26.3.25, `exploitdb` 2026-11-23 → 2026-11-24, `fallow` 3.47.0 → 3.48.0, `fastmcp` 4.2.4 → 4.2.5 …
+- **Registered 2 casks**: `microsoft-copilot`, `passenger-ide`
+- **De-registered 1 casks**: `microsoft-365-copilot`
+- Updated 148 casks: `aldente` 1.40.2 → 1.40.3, `alma` 0.4.1034 → 0.4.1092, `antigravity-cli` 1.5.15,5514532022517760 → 1.5.16,5250855658717184, `apidog` 2.8.55 → 2.8.56, `apidog-europe` 2.8.55 → 2.8.56, `atlas-app` 0.5.1 → 0.5.3, `aws-vpn-client` 6.3.2 → 6.3.3, `backdrop` 3.0,9808 → 3.0,9809, `bettermacwidgets` 2.18.0 → 2.19.0, `bitmuse` 1.6.4 → 1.6.6, `blave` 0.1.59 → 0.1.60, `bramble` 0.21.0 → 0.22.0, `brave-browser@beta` 1.101.52.0,201.52 → 1.101.55.0,201.55, `brave-origin@beta` 1.101.52.0,201.52 → 1.101.55.0,201.55, `buholaunchpad` 2.0.2 → 2.1.1, `bytemail` 1.9.59 → 1.9.62, `cc-pocket` 1.180.0,335 → 1.181.0,337, `chatbox` 1.24.6 → 1.24.7, `cleanshot` 5.0.3 → 5.0.4, `clearvpn` 3.5.0,202610.30.1622,1793377924 → 3.5.1,202611.23.1528,1795448375, `clickhouse` 26.10.11.12-stable → 26.10.12.13-stable, `clipbook` 2.6.0 → 2.7.0, `codeql` 2.27.5 → 2.27.6, `codeql-bundle` 2.27.5 → 2.27.6, `coderabbit` 0.9.6 → 0.9.7 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-24T02:56:20Z
 
 - Updated 110 formulae: `actions-languageserver` 0.3.61 → 0.3.62, `agent-browser` 0.43.0 → 0.44.0, `apache-arrow` 26.0.1_1 → 26.0.1_2, `apify-cli` 1.13.0 → 1.14.0, `apko` 1.5.2 → 1.5.3, `asc` 7.2.0 → 7.3.1, `auditbeat` 9.5.6 → 9.5.7, `balena-cli` 25.2.35 → 25.2.37, `bazel-diff` 79.1.0 → 80.0.0, `beads_viewer` 0.27.0 → 0.28.0, `biosig` 4.0.1 → 4.0.2, `bitbucket-cli` 0.40.3 → 0.40.4, `buildkite` 3.69.0 → 3.70.0, `carapace` 1.8.4 → 1.8.5, `cargo-outdated` 0.19.0_1 → 0.20.0, `ccusage` 20.0.51 → 20.1.1, `chainloop-cli` 1.137.0 → 1.138.0, `cloudflared` 2026.11.1 → 2026.11.2, `convox` 3.26.0 → 3.26.1, `crow` 1.3.4 → 1.3.5, `designcraft-cli` 0.20.1 → 0.21.1, `docker-agent` 1.163.0 → 1.164.0, `doltgres` 1.5.2 → 1.5.3, `dsvpn` 0.1.5 → 1.0.0, `eigenpy` 3.13.0_2 → 3.14.0 …
