@@ -2,6 +2,14 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-24T02:56:20Z
+
+- Updated 110 formulae: `actions-languageserver` 0.3.61 → 0.3.62, `agent-browser` 0.43.0 → 0.44.0, `apache-arrow` 26.0.1_1 → 26.0.1_2, `apify-cli` 1.13.0 → 1.14.0, `apko` 1.5.2 → 1.5.3, `asc` 7.2.0 → 7.3.1, `auditbeat` 9.5.6 → 9.5.7, `balena-cli` 25.2.35 → 25.2.37, `bazel-diff` 79.1.0 → 80.0.0, `beads_viewer` 0.27.0 → 0.28.0, `biosig` 4.0.1 → 4.0.2, `bitbucket-cli` 0.40.3 → 0.40.4, `buildkite` 3.69.0 → 3.70.0, `carapace` 1.8.4 → 1.8.5, `cargo-outdated` 0.19.0_1 → 0.20.0, `ccusage` 20.0.51 → 20.1.1, `chainloop-cli` 1.137.0 → 1.138.0, `cloudflared` 2026.11.1 → 2026.11.2, `convox` 3.26.0 → 3.26.1, `crow` 1.3.4 → 1.3.5, `designcraft-cli` 0.20.1 → 0.21.1, `docker-agent` 1.163.0 → 1.164.0, `doltgres` 1.5.2 → 1.5.3, `dsvpn` 0.1.5 → 1.0.0, `eigenpy` 3.13.0_2 → 3.14.0 …
+- **Registered 2 casks**: `dimble`, `ladybird`
+- Updated 137 casks: `010-editor` 17.0.1 → 17.0.2, `adguard-vpn@nightly` 2.12.0.1165 → 2.12.0.1166, `agent-orchestrator` 0.15.4 → 0.15.5, `arc` 1.174.1,91404 → 1.174.2,91442, `astro-editor` 1.1.0 → 1.2.0, `athas` 0.17.0 → 0.19.0, `backdrop` 3.0,9804 → 3.0,9808, `bitmuse` 1.6.3 → 1.6.4, `brave-browser@nightly` 1.102.26.0,202.26 → 1.102.30.0,202.30, `brave-origin@nightly` 1.102.26.0,202.26 → 1.102.32.0,202.32, `bytemail` 1.9.58 → 1.9.59, `capacities` 1.73.8 → 1.74.1, `chatgpt` 26.1117.41037 → 26.1120.41243, `clamshell` 2.0.5,247 → 2.0.6,248, `claude-code` 2.1.323 → 2.1.325, `claude-code@latest` 2.1.330 → 2.1.331, `cleanshot` 5.0.2 → 5.0.3, `clementine` 1.4.6 → 1.4.7, `clickhouse` 26.10.10.3-stable → 26.10.11.12-stable, `codex` 0.171.0 → 0.172.0, `connect-fonts` 29.0.0 → 29.0.1, `cookie` 8.7 → 8.8, `copilot-cli@prerelease` 1.0.115-7 → 1.0.115-8, `copilot-money` 6.8.2,340-69efc0f9 → 6.9.0,341-b0b756b6, `cuadriver` 0.59.4 → 0.61.0 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-23T14:48:09Z
 
 - **Registered 1 formulae**: `jotter`
