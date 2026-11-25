@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-25T14:30:44Z
+
+- Updated 96 formulae: `appwrite` 28.15.0 → 28.16.0, `asc` 7.4.0 → 7.5.0, `aws-crt-cpp` 0.44.5 → 0.44.6, `aws-sdk-cpp` 1.11.936 → 1.11.937, `blint` 4.1.0 → 4.1.1, `block-goose-cli` 1.60.2 → 1.61.0, `bqlog` 2.8.1 → 2.8.3, `ccusage` 20.1.1 → 20.1.2, `cliproxyapi` 8.1.2 → 8.1.3, `closure-compiler` 20261122 → 20261123, `coal` 3.0.4_2 → 3.0.4_3, `coder` 2.38.10 → 2.38.11, `copyparty` 1.20.27 → 1.20.28, `cpprestsdk` 2.10.19_5 → 2.10.19_6, `cubelib` 4.9.1 → 4.10, `dartsim` 6.20.3 → 6.20.3_1, `docker-completion` 29.10.0 → 29.10.1, `docker-engine` 29.10.0 → 29.10.1, `docker-machine` 0.16.2-gitlab.66 → 0.16.2-gitlab.67, `dolt` 2.7.6 → 2.7.7, `dps8m` 3.1.0 → 3.2.0, `dumpling` 26.3.25 → 26.3.26, `exploitdb` 2026-11-24 → 2026-11-25, `fcl` 0.7.0_2 → 0.7.0_3, `fern-api` 5.228.0 → 5.229.0 …
+- **Registered 1 casks**: `anomaly-spaceman`
+- **De-registered 3 casks**: `dfcf`, `font-lxgw-fasmartgothic`, `font-lxgw-heartserif`
+- Updated 154 casks: `adguard-vpn@nightly` 2.12.0.1166 → 2.12.0.1168, `airbuild` 1.7.98 → 1.7.138, `akuity` 0.34.0-rl.1.0.20261119135941-ff8b41baff04 → 0.34.0-rl.1.0.20261125064825-6df88d41e0ba, `alma` 0.4.1092 → 0.4.1144, `amp-app` 1.0,1430 → 1.0,1440, `antigravity-cli` 1.5.16,5250855658717184 → 1.5.17,4823843970351104, `antigravity-ide` 2.8.0,6733682917113856 → 2.9.0,4671306730438656, `arc` 1.174.2,91442 → 1.174.3,91540, `artcraft-launcher` 0.20.0 → 0.20.1, `aside` 1.0.1116.2 → 1.0.1125.1, `beeper` 4.3.340 → 4.3.352, `bettertouchtool@alpha` 6.1169,2026112302 → 6.1176,2026112502, `bitmuse` 1.6.6 → 1.6.7, `blave` 0.1.60 → 0.1.61, `block-goose` 1.60.2 → 1.61.0, `brave-browser@nightly` 1.102.34.0,202.34 → 1.102.36.0,202.36, `bytemail` 1.9.62 → 1.9.64, `capcut` 9.8.0.4799 → 9.9.0.4841, `capso` 1.2.9 → 1.2.10, `cc-pocket` 1.181.0,337 → 1.184.0,340, `cc-switch` 4.0.40 → 4.0.41, `chatglm` 2.0.7 → 2.0.9, `claude-code` 2.1.325 → 2.1.326, `claude-code@latest` 2.1.331 → 2.1.332, `cog-app` 3933,bfd8741ae → 3967,de1ffc921 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-25T00:49:34Z
 
 - **Registered 1 formulae**: `lan-orangutan`
