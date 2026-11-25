@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-25T00:49:34Z
+
+- **Registered 1 formulae**: `lan-orangutan`
+- **De-registered 3 formulae**: `botan@2`, `parrot`, `swfmill`
+- Updated 114 formulae: `agent-manager` 0.49.0 → 0.50.0, `apm` 0.38.0 → 0.38.1, `appium` 4.0.0 → 4.0.1, `appwrite` 28.14.0 → 28.15.0, `argocd` 3.6.2 → 3.6.3, `asc` 7.3.1 → 7.4.0, `asccli` 0.19.0 → 0.19.1, `astro` 1.47.0 → 1.48.0, `astyle` 3.6.27 → 3.6.28, `awscli` 2.42.2 → 2.42.3, `balena-cli` 25.2.41 → 25.2.44, `biome` 2.6.8 → 2.6.9, `bitbucket-cli` 0.40.4 → 0.41.0, `bitwarden-cli` 2026.11.0 → 2026.11.1, `blint` 4.0.1 → 4.1.0, `boring` 0.18.1 → 0.18.2, `caire` 1.6.0 → 1.6.1, `cargo-c` 0.10.26 → 0.10.28, `cargo-deny` 0.22.0 → 0.22.1, `checkov` 3.4.6 → 3.4.7, `claws-mail` 4.4.0_3 → 4.4.0_4, `cloudflare-wrangler` 4.166.0 → 4.167.0, `cloudformation-guard` 3.3.0 → 3.4.0, `cosign` 3.1.4 → 3.1.5, `cue` 0.17.1 → 0.18.0 …
+- **Registered 2 casks**: `layout-department`, `tactile`
+- Updated 151 casks: `agent-orchestrator` 0.15.5 → 0.15.6, `amp-app` 1.0,1420 → 1.0,1430, `android-studio-preview@canary` 2026.3.1.2,stingray1-canary2 → 2026.3.1.3,stingray1-canary3, `antigravity` 2.34.0,5887025308631040 → 2.35.1,4615540875067392, `artcraft-launcher` 0.19.2 → 0.20.0, `bambu-studio` 02.09.01.70,20261103183404 → 02.09.02.62,20261124164959, `bambu-studio@beta` 02.09.01.70,20261103183404 → 02.09.02.62,20261124164959, `banking-4` 9.4.0,9817 → 9.4.1,9824, `bbedit` 16.1 → 16.1.1, `betterdisplay` 5.2.1 → 5.3.3, `billy` 1.3.0,50 → 1.3.1,51, `bluos-controller` 4.18.0 → 4.18.1, `brave-browser` 1.100.58.0,200.58 → 1.100.59.0,200.59, `brave-browser@nightly` 1.102.30.0,202.30 → 1.102.34.0,202.34, `brave-origin` 1.100.58.0,200.58 → 1.100.59.0,200.59, `brave-origin@nightly` 1.102.32.0,202.32 → 1.102.34.0,202.34, `bruno` 4.3.0 → 4.4.0, `cardhop` 2.5.1 → 2.5.2, `chatgpt` 26.1120.41243 → 26.1120.50957, `claude` 6.28899.6,2f5fc59b2d1c672dd9dced86720c50f48cca0cf9 → 7.37095.0,bc368c812ec26d3a5740519cc4d5cb69bbe43025, `clickhouse` 26.10.12.13-stable → 26.11.1.2942-stable, `clion` 2026.3.0.1,263.7307.257 → 2026.3.0.2,263.7307.347, `clop` 3.7.6 → 3.7.7, `copilot-cli` 1.0.114 → 1.0.115, `copilot-cli@prerelease` 1.0.115-8 → 1.0.116-1 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-24T14:56:44Z
 
 - Updated 113 formulae: `actions-up` 2.0.0 → 2.1.0, `ada-url` 4.1.1 → 4.1.1_1, `apfel` 1.19.0 → 1.20.0, `apm` 0.37.0 → 0.38.0, `aube` 2.10.1 → 2.11.0, `aws-c-mqtt` 1.1.3_1 → 1.1.4, `aws-sdk-cpp` 1.11.935 → 1.11.936, `awscli` 2.42.1 → 2.42.2, `balena-cli` 25.2.37 → 25.2.41, `calm-cli` 1.74.0 → 1.74.1, `cliproxyapi` 8.1.1 → 8.1.2, `closure-compiler` 20261118 → 20261122, `cloud-sql-proxy` 2.28.0 → 2.28.1, `codex-acp` 2.9.0 → 2.10.0, `commitizen` 4.19.4 → 4.20.0, `composer` 2.11.2 → 2.11.3, `connect` 1.106 → 1.107, `copyparty` 1.20.26 → 1.20.27, `cronboard` 1.2.1 → 1.3.0, `dbx-cli` 0.4.144 → 0.4.145, `doctl` 2.7.0 → 2.8.0, `dumpling` 26.3.24 → 26.3.25, `exploitdb` 2026-11-23 → 2026-11-24, `fallow` 3.47.0 → 3.48.0, `fastmcp` 4.2.4 → 4.2.5 …
