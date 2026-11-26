@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-26T13:58:15Z
+
+- **Registered 2 formulae**: `libxml++@2`, `meow`
+- **De-registered 1 formulae**: `libxml++@5`
+- Updated 106 formulae: `agent-browser` 0.44.0 → 0.45.0, `all-smi` 0.28.1 → 0.29.1, `ansible-lint` 26.11.0 → 26.11.1, `aoe` 1.25.0 → 1.26.0, `aravis` 0.8.36 → 0.8.37, `asc` 7.5.0 → 7.6.1, `atmos` 1.234.1 → 1.235.0, `autotrace` 0.31.12 → 0.31.13, `aws-sam-cli` 1.174.0 → 1.174.1, `aws-sdk-cpp` 1.11.937 → 1.11.938, `aws-vault` 7.18.1 → 7.19.0, `azure-dev` 1.39.1 → 1.40.0, `baguette` 0.3.3 → 0.5.0, `basex` 13.0 → 13.1, `block-goose-cli` 1.61.0 → 1.61.1, `ccmux` 1.4.7 → 1.4.8, `cdk8s` 2.207.87 → 2.207.88, `checkov` 3.4.7 → 3.4.10, `cherrytree` 1.7.3 → 1.7.3_1, `chrome-devtools-mcp` 1.13.0 → 1.14.0, `cliproxyapi` 8.1.3 → 8.1.5, `conduit` 0.21.2 → 0.22.0, `container` 1.7.1_2 → 1.7.1_3, `cosign` 3.1.5 → 3.1.6, `cython` 3.3.1 → 3.3.2 …
+- **Registered 2 casks**: `chapar`, `insta360-wave-controller`
+- Updated 124 casks: `akuity` 0.34.0-rl.1.0.20261125064825-6df88d41e0ba → 0.34.0-rl.1.0.20261125172105-dbcc70a1ffef, `altserver` 1.8.4 → 1.8.5, `amp-app` 1.0,1440 → 1.0,1450, `anomaly-hex` 3.4.0 → 3.5.0, `antigravity` 2.35.1,4615540875067392 → 2.35.2,4585983447007232, `antigravity-cli` 1.5.17,4823843970351104 → 1.5.18,6386224290725888, `archivewebpage` 0.17.1 → 0.17.2, `artcraft-launcher` 0.20.1 → 0.20.3, `astro-editor` 1.2.0 → 1.2.1, `batfi` 4.1.0 → 4.2.0, `bilibili` 1.20.0 → 1.21.0, `block-goose` 1.61.0 → 1.61.1, `brave-origin@nightly` 1.102.38.0,202.38 → 1.102.40.0,202.40, `buholaunchpad` 2.1.1 → 2.1.2, `capso` 1.2.10 → 1.2.11, `cc-pocket` 1.184.1,341 → 1.185.0,342, `cleeen` 0.12.3 → 0.13.0, `clop` 3.7.7 → 3.7.8, `cocoapacketanalyzer` 4.2.0 → 4.3.0, `colamd` 2.8.1 → 2.8.2, `conductor` 0.100.0,01M883HBNFB4R6ZP7TGAZTX7J7 → 0.101.1,01M8B826Z200H8KT253PKPVFV4, `cookie` 8.8 → 8.8.1, `copilot-cli@prerelease` 1.0.116-5 → 1.0.117-2, `copilot-language-server` 1.574.2 → 1.574.3, `craft` 3.7.1 → 3.7.3 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-26T00:29:08Z
 
 - Updated 100 formulae: `apicula` 0.35 → 0.36, `argo` 4.1.6 → 4.1.7, `ascelerate` 0.35.1 → 0.36.0, `atf` 0.26 → 0.26.1, `awscli` 2.42.3 → 2.42.4, `azion` 4.26.2 → 4.27.0, `baguette` 0.3.2 → 0.3.3, `bareos-client` 25.1.2 → 25.1.3, `bazel-diff` 80.0.0 → 81.0.0, `beads_viewer` 0.28.0 → 0.29.0, `bruno-cli` 4.3.0 → 4.4.0, `c-blosc2` 3.8.0 → 3.9.0, `cargo-auditable` 0.7.7 → 0.7.8, `chaoskube` 0.39.2 → 0.40.0, `checkbashisms` 2.26.15 → 2.26.16, `clarinet` 4.0.0 → 4.1.0, `cloudflare-wrangler` 4.167.0 → 4.168.0, `code-cli` 1.147.0 → 1.148.0, `codex-acp` 2.10.0 → 2.12.0, `commitizen` 4.20.0 → 4.20.1, `container-compose` 1.2.0 → 1.3.0, `context7-mcp` 4.7.3 → 4.8.0, `ctx7` 0.12.2 → 0.13.0, `cycode` 3.28.1 → 3.28.2, `dbml-cli` 12.1.0 → 13.0.0 …
