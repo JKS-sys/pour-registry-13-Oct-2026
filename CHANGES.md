@@ -2,6 +2,16 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-27T00:38:44Z
+
+- **Registered 3 formulae**: `agent-deck`, `discordchatexporter`, `gemini-api-cli`
+- Updated 95 formulae: `ansible-creator` 26.11.0 → 26.11.1, `apm` 0.38.1 → 0.39.0, `appwrite` 28.16.0 → 28.17.0, `ascelerate` 0.36.0 → 0.37.0, `assh` 2.17.3 → 2.17.4, `astgen` 3.55.0 → 3.57.0, `aws-amplify` 14.6.0 → 14.6.1, `aws-vault` 7.19.0 → 7.19.1, `baguette` 0.5.0 → 0.5.1, `bazelisk` 1.30.0 → 1.31.0, `bismark` 3.4.0 → 3.5.0, `bitbucket-cli` 0.41.0 → 0.41.1, `bittensor` 11.3.5 → 11.3.6, `bnfc` 2.9.6.3 → 2.9.6.3_1, `brush` 0.4.0 → 0.5.0, `buildkite` 3.70.0 → 3.71.0, `calm-cli` 1.74.1 → 1.74.2, `circleci` 1.18.0 → 1.19.0, `concord` 2.7.2 → 2.7.3, `croc` 11.6.6 → 11.6.7, `descope` 0.8.17 → 0.8.18, `dicebear` 10.7.0 → 11.0.0, `docker-machine` 0.16.2-gitlab.67 → 0.16.2-gitlab.68, `dtop` 0.11.3 → 0.11.4, `erlang` 29.1.2 → 29.1.3 …
+- **Registered 1 casks**: `paradev`
+- **De-registered 1 casks**: `superset`
+- Updated 145 casks: `adguard@nightly` 2.21.0.2639 → 2.21.0.2640, `airbuild` 1.7.138 → 1.7.156, `akuity` 0.34.0-rl.1.0.20261125172105-dbcc70a1ffef → 0.34.0-rl.1.0.20261126113749-500537741cd7, `alma` 0.4.1144 → 0.4.1210, `anomaly-spaceman` 0.3.5,0184acc428b25c7826639800a5c8a4f5fa20117062c48ca309b6b35fae08046a → 0.3.7,3cc8f44a3ed93fbc8a0f08ff587e98bc9ffe253217f566090dad2fa5feab8f86, `aptakube` 1.23.0 → 1.23.1, `athas` 0.19.0 → 0.19.1, `bazecor` 1.11.0 → 1.13.0, `bettermacwidgets` 2.19.0 → 2.20.0, `blockstream` 3.6.1 → 3.7.0, `brave-browser@beta` 1.101.55.0,201.55 → 1.101.57.0,201.57, `brave-browser@nightly` 1.102.38.0,202.38 → 1.102.42.0,202.42, `brave-origin@beta` 1.101.55.0,201.55 → 1.101.57.0,201.57, `brave-origin@nightly` 1.102.40.0,202.40 → 1.102.42.0,202.42, `busycontacts` 2026.4.4 → 2026.4.5, `bytemail` 1.9.64 → 1.9.69, `camunda-modeler` 5.53.0 → 5.54.0, `capacities` 1.74.1 → 1.74.3, `cc-pocket` 1.185.0,342 → 1.187.0,345, `cc-switch` 4.0.42 → 4.0.43, `clickhouse` 26.11.2.4-stable → 26.11.3.10-stable, `cline-app` 0.0.50 → 0.0.51, `cloudmounter` 4.18 → 4.19, `conductor` 0.101.1,01M8B826Z200H8KT253PKPVFV4 → 0.101.2,01M8CB8WB848TETSBSB0ZWNKVY, `cuadriver` 0.62.1 → 0.63.2 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-26T13:58:15Z
 
 - **Registered 2 formulae**: `libxml++@2`, `meow`
