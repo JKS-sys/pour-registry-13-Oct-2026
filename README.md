@@ -13,11 +13,11 @@ Re-indexed every four hours · additions and removals logged · one 4.7 MB file<
 <!-- stats:start -->
 | | |
 |---|---|
-| Formulae registered | **8,744** |
-| Casks registered | **7,854** |
-| Last sync | `2026-11-27T00:38:44Z` |
+| Formulae registered | **8,745** |
+| Casks registered | **7,855** |
+| Last sync | `2026-11-27T13:56:58Z` |
 | Index size | 4.7 MB (gzip) |
-| SHA-256 | `7216f2988ba6255f…` |
+| SHA-256 | `1a11cc39258de472…` |
 <!-- stats:end -->
 
 

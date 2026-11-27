@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-27T13:56:58Z
+
+- **Registered 1 formulae**: `ikea-availability-checker`
+- Updated 76 formulae: `appwrite` 28.17.0 → 28.18.0, `arcane-cli` 3.1.1 → 3.2.0, `atomgit-cli` 0.7.4 → 0.7.5, `b3sum` 1.8.7 → 1.8.8, `berglas` 2.0.19 → 2.0.20, `blake3` 1.8.7 → 1.8.8, `cc-connect` 1.5.3 → 1.5.4, `cdk8s` 2.207.88 → 2.207.89, `checkov` 3.4.10 → 3.4.11, `circleci` 1.19.0 → 1.20.0, `codex-acp` 2.12.0 → 2.12.1, `cozypkg` 1.7.1 → 1.7.2, `crates-tui` 0.1.25 → 0.1.26, `cronboard` 1.3.0 → 1.4.0, `curl-impersonate` 2.3.2 → 2.3.3, `docker-agent` 1.166.0 → 1.167.0, `docker-gen` 0.17.2 → 0.18.0, `dumpling` 26.3.26 → 26.3.27, `eprover` 3.2 → 3.5, `evnx` 0.15.0 → 0.16.0, `flex` 2.7.8 → 2.7.11, `gat` 0.31.0 → 0.31.1, `gf` 2.10.5 → 2.10.6, `git-sync` 4.8.0 → 4.8.1, `gjs` 1.90.1_2 → 1.90.2 …
+- **Registered 1 casks**: `stablebar`
+- Updated 87 casks: `adguard-vpn@nightly` 2.12.0.1168 → 2.12.0.1170, `airbuild` 1.7.156 → 1.7.162, `akuity` 0.34.0-rl.1.0.20261126113749-500537741cd7 → 0.34.0-rl.1.0.20261127024056-6e258526c77c, `android-studio-preview@canary` 2026.3.1.3,stingray1-canary3 → 2026.3.1.4,stingray1-canary4, `anka-build-cloud-controller` 1.52.1-72c29153 → 1.52.2-4c2e03d0, `anka-build-cloud-registry` 1.52.1-72c29153 → 1.52.2-4c2e03d0, `anomaly-hex` 3.5.0 → 3.5.2, `ardia` 0.2.48 → 0.2.49, `blave` 0.1.61 → 0.1.63, `blink1control` 2.3.0 → 2.4.0, `blitz-gg` 3.0.29 → 3.0.30, `brave-browser@nightly` 1.102.42.0,202.42 → 1.102.44.0,202.44, `bytemail` 1.9.69 → 1.9.72, `cap` 0.6.2,01M625F2C69VMCTS7HHCSJBNSM → 0.6.3,01M767RX4AACM4AZEHX8XXG1E3, `cc-pocket` 1.187.0,345 → 1.189.0,348, `confectionery` 1.2.1 → 2.4,1, `copilot-cli@prerelease` 1.0.117-2 → 1.0.117-5, `copilot-language-server` 1.574.3 → 1.575.0, `crest` 6.9.6 → 7.0.0, `deviceshelf` 1.9.93 → 1.9.94, `dexed` 1.1.0 → 1.1.1, `doubaoime` 1.1.2,1010203 → 1.1.2,1010204, `electerm` 5.15.0 → 5.20.0, `element@nightly` 2026112601 → 2026112701, `emacs-app@nightly` 2026-11-26_00-11-05,1069f250c2faa21c8e93e230179ac35ab8332a4a → 2026-11-27_00-09-22,caf462d7415cdd1ba4bcf23df69be3455165accc …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-27T00:38:44Z
 
 - **Registered 3 formulae**: `agent-deck`, `discordchatexporter`, `gemini-api-cli`
