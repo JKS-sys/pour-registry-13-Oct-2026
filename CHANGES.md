@@ -2,6 +2,13 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-28T00:05:28Z
+
+- Updated 39 formulae: `apm` 0.39.0 → 0.39.1, `baguette` 0.5.1 → 0.5.2, `bittensor` 11.3.6 → 11.3.7, `bqlog` 2.8.3 → 2.8.4, `checkpwn` 0.6.3 → 0.6.4, `cliproxyapi` 8.1.5 → 8.1.7, `cminpack` 1.3.15 → 1.3.16, `context7-mcp` 4.8.0 → 4.9.0, `ctx7` 0.13.0 → 0.13.1, `d2` 0.9.0 → 0.10.0, `docker-compose` 5.8.0 → 5.8.1, `dstack` 0.22.8 → 0.22.9, `e2b` 2.24.0 → 2.26.0, `fern-api` 5.230.2 → 5.230.4, `gat` 0.31.1 → 0.31.2, `hydra` 9.7_1 → 9.9, `immudb` 1.11.2 → 1.12.1, `keploy` 3.7.24 → 3.7.27, `kimi-code` 2.8.0 → 2.8.1, `lego` 5.7.0 → 5.8.0, `maki` 0.7.3 → 0.7.4, `ntfy` 2.38.2 → 2.38.3, `openfasttrace` 4.12.0 → 4.12.1, `openrtsp` 2026.11.22 → 2026.11.27, `ortp` 5.5.44 → 5.5.45 …
+- Updated 115 casks: `4k-video-downloader+` 26.4.0 → 26.4.1, `4k-youtube-to-mp3` 26.4.0 → 26.4.1, `airbuild` 1.7.162 → 1.7.166, `amp-app` 1.0,1450 → 1.0,1460, `antigravity` 2.35.2,4585983447007232 → 2.36.0,5596661662220288, `archiver-app` 5.1.0 → 5.2.0, `asana` 2.11.1 → 2.12.0, `atomcode` 5.2.8 → 5.2.9, `beeper` 4.3.352 → 4.3.366, `blender@lts` 5.2.4 → 5.2.5, `brave-browser@nightly` 1.102.44.0,202.44 → 1.102.46.0,202.46, `brave-origin@nightly` 1.102.42.0,202.42 → 1.102.46.0,202.46, `busycal` 2026.4.6,2026-11-14-00-51-54 → 2026.4.7,2026-11-27-14-46-35, `caido` 0.59.1 → 0.60.0, `caskhub` 0.10.0 → 0.10.1, `cc-pocket` 1.189.0,348 → 1.190.1,351, `cc-switch` 4.0.43 → 4.0.44, `clickhouse` 26.11.3.10-stable → 26.11.4.11-stable, `codeexpander` 7.1.8 → 7.1.9, `copilot-cli` 1.0.116 → 1.0.117, `copilot-cli@prerelease` 1.0.117-5 → 1.0.118-0, `craft-agents` 0.15.8 → 0.16.2, `cuadriver` 0.63.2 → 0.64.2, `dbschema` 10.6.0 → 10.7.0, `deviceshelf` 1.9.94 → 1.9.95 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-27T13:56:58Z
 
 - **Registered 1 formulae**: `ikea-availability-checker`
