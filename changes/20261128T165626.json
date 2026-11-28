@@ -1,0 +1,619 @@
+{
+ "synced_at": "2026-11-28T16:56:26Z",
+ "casks": {
+  "added": [
+   "bloopemail"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.7.166",
+    "name": "airbuild",
+    "to": "1.7.175"
+   },
+   {
+    "from": "6.0.3,3225",
+    "name": "alfred@prerelease",
+    "to": "6.0.4,3234"
+   },
+   {
+    "from": "2.14.0",
+    "name": "almighty",
+    "to": "2.14.1"
+   },
+   {
+    "from": "1.5.18,6386224290725888",
+    "name": "antigravity-cli",
+    "to": "1.5.19,4821414830800896"
+   },
+   {
+    "from": "2.3.3",
+    "name": "atoll",
+    "to": "3.0.0"
+   },
+   {
+    "from": "4.4.0",
+    "name": "beaver-notes",
+    "to": "5.0.0"
+   },
+   {
+    "from": "1.191.0,352",
+    "name": "cc-pocket",
+    "to": "1.191.1,353"
+   },
+   {
+    "from": "0.5.29",
+    "name": "claudebar",
+    "to": "0.5.30"
+   },
+   {
+    "from": "3.7.8",
+    "name": "clop",
+    "to": "3.7.9"
+   },
+   {
+    "from": "0.64.3",
+    "name": "cuadriver",
+    "to": "0.66.0"
+   },
+   {
+    "from": "0.6.75",
+    "name": "dbx",
+    "to": "0.6.76"
+   },
+   {
+    "from": "9.1.0",
+    "name": "digikam",
+    "to": "9.2.0"
+   },
+   {
+    "from": "4.99.0,245822",
+    "name": "docker-desktop",
+    "to": "4.100.1,247138"
+   },
+   {
+    "from": "2026112701",
+    "name": "element@nightly",
+    "to": "2026112801"
+   },
+   {
+    "from": "2026-11-27_00-09-22,caf462d7415cdd1ba4bcf23df69be3455165accc",
+    "name": "emacs-app@nightly",
+    "to": "2026-11-28_00-09-15,60e7cf1dad654820968a33ae06bad45ba1118c85"
+   },
+   {
+    "from": "31.1.90",
+    "name": "emacs-app@pretest",
+    "to": "31.2-rc1"
+   },
+   {
+    "from": "2.11.1",
+    "name": "filefillet",
+    "to": "2.11.2"
+   },
+   {
+    "from": "163.0a1,2026-11-27-21-43-27",
+    "name": "firefox@nightly",
+    "to": "163.0a1,2026-11-28-08-32-09"
+   },
+   {
+    "from": "2.6.2",
+    "name": "fliqlo",
+    "to": "2.6.4"
+   },
+   {
+    "from": "1.82.0",
+    "name": "font-lucide",
+    "to": "1.83.0"
+   },
+   {
+    "from": "2.1.1-0-nightly-2026-11-27",
+    "name": "freelens@nightly",
+    "to": "2.1.1-0-nightly-2026-11-28"
+   },
+   {
+    "from": "0.16.51",
+    "name": "freellmapi",
+    "to": "0.16.53"
+   },
+   {
+    "from": "3.10.1",
+    "name": "geolibre",
+    "to": "3.11.0"
+   },
+   {
+    "from": "160.0.8188.0",
+    "name": "google-chrome@canary",
+    "to": "160.0.8189.0"
+   },
+   {
+    "from": "1.2.2",
+    "name": "gopher64",
+    "to": "1.2.4"
+   },
+   {
+    "from": "1319,04cd5e307",
+    "name": "hyperframes",
+    "to": "1343,e9768715f"
+   },
+   {
+    "from": "2.1.5,21029",
+    "name": "ia-presenter",
+    "to": "2.1.6,21031"
+   },
+   {
+    "from": "4.0.1.1,112726",
+    "name": "idrive",
+    "to": "4.0.1.1,112826"
+   },
+   {
+    "from": "3_7_20261127",
+    "name": "iterm2@nightly",
+    "to": "3_7_20261128"
+   },
+   {
+    "from": "14.1",
+    "name": "lunacy",
+    "to": "15.0"
+   },
+   {
+    "from": "0.1.4975",
+    "name": "magpie",
+    "to": "0.1.5025"
+   },
+   {
+    "from": "1.9.2",
+    "name": "mailbird",
+    "to": "4.38.2"
+   },
+   {
+    "from": "0.0.75",
+    "name": "markdown-preview",
+    "to": "0.0.76"
+   },
+   {
+    "from": "2.9.2",
+    "name": "markpad",
+    "to": "2.9.3"
+   },
+   {
+    "from": "2026.11.700",
+    "name": "mindroom",
+    "to": "2026.11.710"
+   },
+   {
+    "from": "0.9.6",
+    "name": "minmaxcal",
+    "to": "1.0.0"
+   },
+   {
+    "from": "0.17.4",
+    "name": "neovide-app",
+    "to": "0.17.5"
+   },
+   {
+    "from": "31",
+    "name": "netbeans",
+    "to": "32"
+   },
+   {
+    "from": "7.3.1",
+    "name": "netnewswire@beta",
+    "to": "7.4b1"
+   },
+   {
+    "from": "20261127-0504-45943246699-1",
+    "name": "omniwm@canary",
+    "to": "20261128-0412-46106223232-1"
+   },
+   {
+    "from": "2.100.10",
+    "name": "opencodex",
+    "to": "2.100.11"
+   },
+   {
+    "from": "4.3.0,19579-7faf26ee-b6be1323,release-candidate",
+    "name": "openshot-video-editor@daily",
+    "to": "4.3.0,19603-7faf26ee-b6be1323,release-candidate"
+   },
+   {
+    "from": "0.9.1",
+    "name": "plamo-translate",
+    "to": "0.10.0"
+   },
+   {
+    "from": "6.5",
+    "name": "proxygen-app",
+    "to": "6.5.1"
+   },
+   {
+    "from": "2.5.5",
+    "name": "replaywebpage",
+    "to": "2.5.6"
+   },
+   {
+    "from": "1.7.6",
+    "name": "robbietilton-compositor",
+    "to": "1.8.0"
+   },
+   {
+    "from": "2026.12.0-daily-233",
+    "name": "rstudio@daily",
+    "to": "2026.12.0-daily-236"
+   },
+   {
+    "from": "0.40.1",
+    "name": "screendrop",
+    "to": "0.40.2"
+   },
+   {
+    "from": "2.4.4",
+    "name": "sdrmm-app",
+    "to": "2.5.0"
+   },
+   {
+    "from": "0.1.20",
+    "name": "shellrs",
+    "to": "0.1.21"
+   },
+   {
+    "from": "2.36.3",
+    "name": "spokenly",
+    "to": "2.36.4"
+   },
+   {
+    "from": "0.1.77",
+    "name": "strawberry",
+    "to": "1.1.0"
+   },
+   {
+    "from": "0.1.14-nightly.20261128.5372",
+    "name": "t3-code@nightly",
+    "to": "0.1.14-nightly.20261128.5385"
+   },
+   {
+    "from": "2.4.0",
+    "name": "tauritavern",
+    "to": "2.5.0"
+   },
+   {
+    "from": "1.13.0",
+    "name": "thecommander",
+    "to": "1.13.1"
+   },
+   {
+    "from": "3.6.5",
+    "name": "thelowtechguys-cling",
+    "to": "3.6.6"
+   },
+   {
+    "from": "163.0a1,2026-11-27-10-06-11",
+    "name": "thunderbird@daily",
+    "to": "163.0a1,2026-11-28-09-34-31"
+   },
+   {
+    "from": "0.99.0",
+    "name": "token-monitor",
+    "to": "0.100.1"
+   },
+   {
+    "from": "2.2.2",
+    "name": "visualdiffer",
+    "to": "2.2.3"
+   },
+   {
+    "from": "5.0.7",
+    "name": "vysor",
+    "to": "6.0.23"
+   },
+   {
+    "from": "1.6.1631",
+    "name": "wispr-flow",
+    "to": "1.6.1655"
+   },
+   {
+    "from": "4.3.2611191205",
+    "name": "workflowy",
+    "to": "4.3.2611280845"
+   }
+  ]
+ },
+ "formulae": {
+  "added": [
+   "verdict"
+  ],
+  "removed": [],
+  "updated": [
+   {
+    "from": "1.16.40",
+    "name": "agent-deck",
+    "to": "1.16.41"
+   },
+   {
+    "from": "4.0.1",
+    "name": "appium",
+    "to": "4.0.2"
+   },
+   {
+    "from": "1.1.0",
+    "name": "arxiv_latex_cleaner",
+    "to": "1.1.1"
+   },
+   {
+    "from": "0.19.1",
+    "name": "asccli",
+    "to": "0.19.2"
+   },
+   {
+    "from": "0.26.1",
+    "name": "bat",
+    "to": "0.27.0"
+   },
+   {
+    "from": "1.28.0",
+    "name": "cargo-binstall",
+    "to": "1.29.0"
+   },
+   {
+    "from": "2.27.0",
+    "name": "chroma",
+    "to": "3.0.0"
+   },
+   {
+    "from": "1.11.7",
+    "name": "chronograf",
+    "to": "1.11.8"
+   },
+   {
+    "from": "4.9.0",
+    "name": "context7-mcp",
+    "to": "4.9.1"
+   },
+   {
+    "from": "1.7.2",
+    "name": "cozypkg",
+    "to": "1.7.3"
+   },
+   {
+    "from": "13.0.0",
+    "name": "dbml-cli",
+    "to": "13.1.0"
+   },
+   {
+    "from": "4.0.1",
+    "name": "f3d",
+    "to": "4.0.1_1"
+   },
+   {
+    "from": "0.6.0_7",
+    "name": "fancy-cat",
+    "to": "0.6.0_8"
+   },
+   {
+    "from": "2.71.0",
+    "name": "fastfetch",
+    "to": "2.72.0"
+   },
+   {
+    "from": "0.10.4",
+    "name": "fselect",
+    "to": "0.10.5"
+   },
+   {
+    "from": "1.19.2",
+    "name": "go-arch-lint",
+    "to": "1.19.3"
+   },
+   {
+    "from": "0.2.4_7",
+    "name": "gowall",
+    "to": "0.2.4_8"
+   },
+   {
+    "from": "9.9.2",
+    "name": "gradle",
+    "to": "9.9.3"
+   },
+   {
+    "from": "1.8.5",
+    "name": "helmfile",
+    "to": "1.8.6"
+   },
+   {
+    "from": "1.7.6",
+    "name": "iproute2mac",
+    "to": "1.7.7"
+   },
+   {
+    "from": "5.4.8",
+    "name": "itk",
+    "to": "5.4.8_1"
+   },
+   {
+    "from": "0.25.48",
+    "name": "jackett",
+    "to": "0.25.56"
+   },
+   {
+    "from": "1.1.2",
+    "name": "jcode",
+    "to": "1.1.7"
+   },
+   {
+    "from": "0.1.116",
+    "name": "labctl",
+    "to": "0.1.117"
+   },
+   {
+    "from": "5.8.0",
+    "name": "lego",
+    "to": "5.8.1"
+   },
+   {
+    "from": "0.4.24",
+    "name": "lovable-oj",
+    "to": "0.4.25"
+   },
+   {
+    "from": "2.1.1795119671",
+    "name": "luajit",
+    "to": "2.1.1795687819"
+   },
+   {
+    "from": "2.18.1_42",
+    "name": "luvit",
+    "to": "2.18.1_43"
+   },
+   {
+    "from": "2.16.0",
+    "name": "mcp-inspector",
+    "to": "2.17.0"
+   },
+   {
+    "from": "1.28.6",
+    "name": "mupdf",
+    "to": "1.28.7"
+   },
+   {
+    "from": "1.28.6",
+    "name": "mupdf-tools",
+    "to": "1.28.7"
+   },
+   {
+    "from": "3.27.5",
+    "name": "npq",
+    "to": "3.27.7"
+   },
+   {
+    "from": "5.1.0",
+    "name": "opencv",
+    "to": "5.1.0_1"
+   },
+   {
+    "from": "4.14.0_12",
+    "name": "opencv@4",
+    "to": "4.14.0_13"
+   },
+   {
+    "from": "1.15.1_8",
+    "name": "pcl",
+    "to": "1.15.1_9"
+   },
+   {
+    "from": "3.8.1",
+    "name": "portable-libffi",
+    "to": "3.8.2"
+   },
+   {
+    "from": "5.52.0",
+    "name": "prowler",
+    "to": "5.53.0"
+   },
+   {
+    "from": "2.2",
+    "name": "pymupdf",
+    "to": "2.2_1"
+   },
+   {
+    "from": "0.5.2",
+    "name": "qo",
+    "to": "0.5.3"
+   },
+   {
+    "from": "3.3.4",
+    "name": "rapidfuzz-cpp",
+    "to": "3.3.5"
+   },
+   {
+    "from": "44.263.5",
+    "name": "renovate",
+    "to": "45.1.1"
+   },
+   {
+    "from": "6.40.04_2",
+    "name": "root",
+    "to": "6.42.00"
+   },
+   {
+    "from": "0.24.2_2",
+    "name": "rtabmap",
+    "to": "0.24.2_3"
+   },
+   {
+    "from": "3.1.0",
+    "name": "sabiql",
+    "to": "3.2.0"
+   },
+   {
+    "from": "3.0.4",
+    "name": "sacad",
+    "to": "3.0.5"
+   },
+   {
+    "from": "1.42.0",
+    "name": "sandvault",
+    "to": "1.43.0"
+   },
+   {
+    "from": "4.34.3",
+    "name": "schemathesis",
+    "to": "4.34.4"
+   },
+   {
+    "from": "2.4.4",
+    "name": "sdrmm",
+    "to": "2.5.0"
+   },
+   {
+    "from": "0.33.0",
+    "name": "skillshare",
+    "to": "0.34.0"
+   },
+   {
+    "from": "14.9.0",
+    "name": "sox_ng",
+    "to": "14.9.0.1"
+   },
+   {
+    "from": "1.3.9",
+    "name": "ssh-vault",
+    "to": "1.3.11"
+   },
+   {
+    "from": "1.91",
+    "name": "surelog",
+    "to": "1.92"
+   },
+   {
+    "from": "7.5.5",
+    "name": "todoist-cli",
+    "to": "7.5.6"
+   },
+   {
+    "from": "1.91",
+    "name": "uhdm",
+    "to": "1.92"
+   },
+   {
+    "from": "9.2.1417",
+    "name": "vim",
+    "to": "9.2.1419"
+   },
+   {
+    "from": "3.7.0_11",
+    "name": "visp",
+    "to": "3.7.0_12"
+   },
+   {
+    "from": "9.7.2",
+    "name": "vtk",
+    "to": "9.7.2_1"
+   },
+   {
+    "from": "4.168.0",
+    "name": "wrangler",
+    "to": "4.169.0"
+   }
+  ]
+ }
+}

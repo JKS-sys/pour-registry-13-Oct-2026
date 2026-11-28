@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-28T16:56:26Z
+
+- **Registered 1 formulae**: `verdict`
+- Updated 58 formulae: `agent-deck` 1.16.40 → 1.16.41, `appium` 4.0.1 → 4.0.2, `arxiv_latex_cleaner` 1.1.0 → 1.1.1, `asccli` 0.19.1 → 0.19.2, `bat` 0.26.1 → 0.27.0, `cargo-binstall` 1.28.0 → 1.29.0, `chroma` 2.27.0 → 3.0.0, `chronograf` 1.11.7 → 1.11.8, `context7-mcp` 4.9.0 → 4.9.1, `cozypkg` 1.7.2 → 1.7.3, `dbml-cli` 13.0.0 → 13.1.0, `f3d` 4.0.1 → 4.0.1_1, `fancy-cat` 0.6.0_7 → 0.6.0_8, `fastfetch` 2.71.0 → 2.72.0, `fselect` 0.10.4 → 0.10.5, `go-arch-lint` 1.19.2 → 1.19.3, `gowall` 0.2.4_7 → 0.2.4_8, `gradle` 9.9.2 → 9.9.3, `helmfile` 1.8.5 → 1.8.6, `iproute2mac` 1.7.6 → 1.7.7, `itk` 5.4.8 → 5.4.8_1, `jackett` 0.25.48 → 0.25.56, `jcode` 1.1.2 → 1.1.7, `labctl` 0.1.116 → 0.1.117, `lego` 5.8.0 → 5.8.1 …
+- **Registered 1 casks**: `bloopemail`
+- Updated 62 casks: `airbuild` 1.7.166 → 1.7.175, `alfred@prerelease` 6.0.3,3225 → 6.0.4,3234, `almighty` 2.14.0 → 2.14.1, `antigravity-cli` 1.5.18,6386224290725888 → 1.5.19,4821414830800896, `atoll` 2.3.3 → 3.0.0, `beaver-notes` 4.4.0 → 5.0.0, `cc-pocket` 1.191.0,352 → 1.191.1,353, `claudebar` 0.5.29 → 0.5.30, `clop` 3.7.8 → 3.7.9, `cuadriver` 0.64.3 → 0.66.0, `dbx` 0.6.75 → 0.6.76, `digikam` 9.1.0 → 9.2.0, `docker-desktop` 4.99.0,245822 → 4.100.1,247138, `element@nightly` 2026112701 → 2026112801, `emacs-app@nightly` 2026-11-27_00-09-22,caf462d7415cdd1ba4bcf23df69be3455165accc → 2026-11-28_00-09-15,60e7cf1dad654820968a33ae06bad45ba1118c85, `emacs-app@pretest` 31.1.90 → 31.2-rc1, `filefillet` 2.11.1 → 2.11.2, `firefox@nightly` 163.0a1,2026-11-27-21-43-27 → 163.0a1,2026-11-28-08-32-09, `fliqlo` 2.6.2 → 2.6.4, `font-lucide` 1.82.0 → 1.83.0, `freelens@nightly` 2.1.1-0-nightly-2026-11-27 → 2.1.1-0-nightly-2026-11-28, `freellmapi` 0.16.51 → 0.16.53, `geolibre` 3.10.1 → 3.11.0, `google-chrome@canary` 160.0.8188.0 → 160.0.8189.0, `gopher64` 1.2.2 → 1.2.4 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-28T07:57:33Z
 
 - **Registered 2 formulae**: `agrum`, `wrangler`
