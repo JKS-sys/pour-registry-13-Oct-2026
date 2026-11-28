@@ -2,6 +2,15 @@
 
 Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
 
+## 2026-11-28T07:57:33Z
+
+- **Registered 2 formulae**: `agrum`, `wrangler`
+- **De-registered 1 formulae**: `cloudflare-wrangler`
+- Updated 77 formulae: `act` 0.2.98 → 0.2.99, `anycable-go` 1.6.21 → 1.6.22, `arxiv_latex_cleaner` 1.0.12 → 1.1.0, `asc` 7.6.1 → 7.7.0, `augustus` 3.5.0_13 → 3.6.0, `aws-sdk-cpp` 1.11.938 → 1.11.939, `aws-vault` 7.19.1 → 7.19.2, `awscli` 2.42.4 → 2.42.5, `balena-cli` 25.2.44 → 25.2.45, `bcpp` 20250914 → 20261127, `beads_viewer` 0.29.0 → 0.29.1, `bkmr` 8.9.0 → 8.10.0, `budget-tracker` 1.8.1 → 1.8.2, `bump-my-version` 1.8.1 → 1.8.4, `cargo-deny` 0.22.1 → 0.22.2, `checkbashisms` 2.26.16 → 2.26.17, `cubejs-cli` 1.8.32 → 1.8.34, `djlint` 1.54.0 → 1.54.2, `docmd` 0.10.1 → 0.10.2, `entire-cli` 0.13.4 → 0.13.5, `fabric-ai` 1.4.583 → 1.4.585, `fallow` 3.49.0 → 3.50.0, `gam` 7.52.05 → 7.53.00, `gamdl` 4.1.1 → 4.1.2, `gat` 0.31.2 → 0.32.0 …
+- Updated 33 casks: `akuity` 0.34.0-rl.1.0.20261127024056-6e258526c77c → 0.34.0-rl.1.0.20261127210233-c82bb12e053d, `alma` 0.4.1210 → 0.4.1240, `bentobox` 1.1.12 → 1.1.13, `bytemail` 1.9.72 → 1.9.73, `cc-pocket` 1.190.1,351 → 1.191.0,352, `copilot-cli@prerelease` 1.0.118-0 → 1.0.118-2, `coteditor` 7.1.3 → 7.2.0, `cuadriver` 0.64.2 → 0.64.3, `deviceshelf` 1.9.95 → 1.9.96, `droid` 1.21.1 → 1.23.0, `factory` 1.21.1 → 1.23.0, `fanny` 2.3.0 → 26.1.0, `firefox@nightly` 163.0a1,2026-11-27-09-51-22 → 163.0a1,2026-11-27-21-43-27, `freellmapi` 0.16.50 → 0.16.51, `ghostex` 12.4.0 → 12.5.0, `kiro-cli` 3.6.2 → 3.7.0, `koharu` 0.102.0 → 0.102.2, `koodo-reader` 2.4.7 → 2.4.9, `look` 0.7.5 → 0.7.6, `maestri` 0.61.2 → 0.63.0, `mindroom` 2026.11.670 → 2026.11.700, `mixxx@snapshot` 2.7-alpha-449-gf2cad3dca0 → 2.7-alpha-450-gf8d7c4e818, `nimbalyst` 0.83.0 → 0.84.5, `openshot-video-editor@daily` 4.3.0,19575-7faf26ee-b6be1323,release-candidate → 4.3.0,19579-7faf26ee-b6be1323,release-candidate, `osaurus` 1.0.13 → 1.0.14 …
+
+Every sync that registered, de-registered or updated something. Newest first; full JSON per run in `changes/`.
+
 ## 2026-11-28T00:05:28Z
 
 - Updated 39 formulae: `apm` 0.39.0 → 0.39.1, `baguette` 0.5.1 → 0.5.2, `bittensor` 11.3.6 → 11.3.7, `bqlog` 2.8.3 → 2.8.4, `checkpwn` 0.6.3 → 0.6.4, `cliproxyapi` 8.1.5 → 8.1.7, `cminpack` 1.3.15 → 1.3.16, `context7-mcp` 4.8.0 → 4.9.0, `ctx7` 0.13.0 → 0.13.1, `d2` 0.9.0 → 0.10.0, `docker-compose` 5.8.0 → 5.8.1, `dstack` 0.22.8 → 0.22.9, `e2b` 2.24.0 → 2.26.0, `fern-api` 5.230.2 → 5.230.4, `gat` 0.31.1 → 0.31.2, `hydra` 9.7_1 → 9.9, `immudb` 1.11.2 → 1.12.1, `keploy` 3.7.24 → 3.7.27, `kimi-code` 2.8.0 → 2.8.1, `lego` 5.7.0 → 5.8.0, `maki` 0.7.3 → 0.7.4, `ntfy` 2.38.2 → 2.38.3, `openfasttrace` 4.12.0 → 4.12.1, `openrtsp` 2026.11.22 → 2026.11.27, `ortp` 5.5.44 → 5.5.45 …
